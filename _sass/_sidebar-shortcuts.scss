@@ -1,0 +1,113 @@
+.sidebarShortcuts {
+  position: fixed;
+  top: 600px;
+  right: 0;
+  z-index: 16;
+  a {
+    background: #00e000;
+    height: 52px;
+    margin-bottom: 2px;
+    padding: 9px;
+    display: block;
+    position: relative;
+    width: 48px;
+    box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.18), 0px 6px 10px 0px rgba(0, 0, 0, 0.12), 0px 1px 18px 0px rgba(0,0,0,.10);
+    .details {
+      position: absolute;
+      right: 0px;
+      top: 0;
+      width: 270px;
+      height: 52px;
+      z-index: 10;
+      background: #00e000;
+      opacity: 0;
+      transform: translateX(150px);
+      backface-visibility: hidden;
+      -webkit-transition: all 0.2s ease-in-out;
+      -moz-transition: all 0.2s ease-in-out;
+      -ms-transition: all 0.2s ease-in-out;
+      -o-transition: all 0.2s ease-in-out;
+      transition: all 0.2s ease-in-out;
+      color: #000;
+      font-weight: 900;
+      letter-spacing: 2px;
+      padding: 20px;
+      span {
+        position: relative;
+        &.active:after, &:hover:after {
+          width: 100%;
+        }
+      }
+    }
+    &:hover .details {
+      transform: translateX(-50px);
+      opacity: 1;
+    }
+  }
+  .whatsapp {
+    display: none;
+  }
+}
+
+@media screen and (max-height: 750px) {
+  .sidebarShortcuts {
+    top: auto;
+    bottom: 60px;
+  }
+}
+
+@media (max-height: 500px) and (min-width: 600px) {
+  .sidebarShortcuts {
+    display: none;
+  }
+}
+
+@media screen and (min-height: 800px) {
+  .sidebarShortcuts {
+    top: auto;
+    bottom: 140px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .sidebarShortcuts {
+    bottom: 0px;
+    top: auto;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background: transparent;
+    padding: 9px;
+      a {
+        height: 44px;
+        width: 32%;
+        padding: 8px;
+        margin-bottom: 0;
+        text-align: center;
+        border-radius: 4px;
+        box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.33), 0px 6px 10px 0px rgba(0,0,0,0.27), 0px 1px 18px 0px rgba(0,0,0,0.25);
+      }
+      .details {
+        display: none;
+        span:after {
+          background: transparent;
+        }
+      }
+      .phone {
+        float: left;
+      }
+      .mail {
+        margin-left: 2%;
+        margin-right: 2%;
+        float: left;
+      }
+      .whatsapp {
+        display: block;
+        float: right;
+      }
+      svg {
+        width: 28px;
+        height: 28px;
+      }
+  }
+}

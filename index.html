@@ -1,0 +1,101 @@
+---
+layout: default
+title: "Potasiepe • Giardiniere a Udine e Gorizia"
+excerpt: "Giardiniere a Udine e Gorizia per progettazione giardini, potatura siepi, taglio prato, realizzazione giardini, irrigazione, prato a rotoli, manutenzione verde."
+image: /img/potasiepe4x3.jpg
+permalink: /
+---
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.potasiepe.it/","potentialAction":{"@type":"SearchAction","target":"https://www.potasiepe.it/cerca/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","url":"https://www.potasiepe.it","image":["https://www.potasiepe.it/img/potasiepe1x1.jpg","https://www.potasiepe.it/img/potasiepe4x3.jpg","https://www.potasiepe.it/img/potasiepe16x9.jpg"],"telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"},"openingHours":"Lu-Sa 8:00 - 20:00","priceRange":"€18-50/h","aggregateRating":{"@type":"AggregateRating","ratingValue":"5","bestRating":"5","ratingCount":"20"},"name":"Il Giardiniere POTASIEPE"}</script>
+<div id="logo">
+  <picture>
+    <source srcset="img/webp/potasiepe-logo-557x500.webp" type="image/webp">
+    <source srcset="img/potasiepe-logo-557x500.png" type="image/png">
+    <img src="img/potasiepe-logo-557x500.png" width="557" height="500" alt="Potasiepe TM Marchio Registrato" title="Potasiepe TM Marchio Registrato">
+  </picture>
+</div>
+<h1>Il Giardiniere Potasiepe</h1>
+
+<div class="carousel" >
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide1.jpg" alt="Potaura in altezza di piante da siepe" >
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide2.jpg" alt="Piante per siepi in fioriera" >
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide3.jpg" alt="Siepe sempreverde di ligustro" >
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide4.jpg" alt="Fotinia: piante da siepe a crescita veloce" >
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide5.jpg" alt="Giardinaggio: come piantare una siepe" >
+</div>
+
+  <p class="text-center"><strong>Opera in un raggio di 40 km da Cervignano del Friuli, UD </strong></p>
+  <div class="page-content">
+<br/>
+  <h2>Custode del tuo giardino</h2>
+    <i><span class="name">Piacere, Enrico</span></i>
+    <p>Di lavoro <strong>curo gli spazi verdi</strong>. Che si tratti di sfalciare l'erba in un giardino privato, manutenere
+      un parco, livellare e fresare un appezzamento di terra incolto ed abbandonato o abbattere un albero, <strong>mi avvalgo
+      di macchine moderne ed efficienti</strong>. Decespugliatore, tagliaerba, trattorino ecc. hanno un
+      <strong>motore a quattro tempi</strong> in regola con le nuove normative sull'inquinamento. Quando lavoro nei
+      centri urbani sono equipaggiato con <strong>attrezzature a batteria</strong>. <a href="/chi-sono/" aria-label="Chi sono"><strong>Scopri di più</strong> &gt;</a></p>
+<br/>
+    <h2>Giardiniere a Udine e Gorizia</h2>
+    <p>Il mio lavoro di giardiniere mi ha portato nei comuni di Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana,
+    Manzano, Palmanova, San Giovanni al Natisone, Gorizia , Gradisca d'Isonzo, Grado, Monfalcone , Ronchi dei Legionari ecc.
+    <br/>
+    Scopri tutti i comuni che ho servito nella provincia di
+    <a href="/giardinaggio-udine/" title="Giardinaggio in provincia di Udine, giardiniere a Udine"><strong>Udine</strong></a>
+    e in quella di
+    <a href="/giardiniere-a-gorizia/" title="Giardinaggio in provincia di Gorizia, giardiniere a Gorizia"><strong>Gorizia</strong></a>.
+    </p>
+  </div>
+<br/>
+
+<h2>La scelta giusta</h2>
+<p>Una vasta gamma di <strong><a href="/servizi/" aria-label="Scopri i servizi di giardinaggio di POTASIEPE">servizi di giardinaggio</a></strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi/" aria-label="Costo giardiniere"> prezzi onesti</a></strong>.
+Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande. <a class="text-center" href="/contatti/" aria-label="Contatti"><strong>Contattami</strong> &gt;</a></p>
+
+<div class="list-collection">
+<ul>
+  {% assign servizi = site.servizi | sort: 'order' %}
+  {% for servizi in servizi %}
+		<li>
+      <article>
+      <img src="{% include relative-src.html src=servizi.image_path %}" alt="{{ servizi.url }}" width="400" height="300">
+      <div>
+      <h2 class="h3">{{ servizi.name }}</h2>
+      <p>{{ servizi.subtitle }}</p>
+			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.name }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+      </div>
+      </article>
+    </li>
+	{% endfor %}
+</ul>
+</div>
+
+<div class="hero">
+  <picture>
+    <source srcset="img/webp/vivaio-potasiepe-alberi-piante.webp" type="image/webp">
+    <source srcset="img/vivaio-potasiepe-alberi-piante.jpg" type="image/jpeg">
+    <img src="img/vivaio-potasiepe-alberi-piante.jpg" width="800" height="450" alt="Vivaio Alberi Piante Fiori">
+  </picture>
+    <div class="centered">
+      <h2 class="h3">Vendita aceri, ulivi, e piante da siepe</h2>
+      <br/>
+      <p>
+      <a href="/vivaio/" aria-label="vendita piante da siepe e olivi secolari"><strong>VIVAIO</strong> &gt;</a>
+      </p>
+    </div>
+</div>
+<br/>
+<div>
+  <h2><a href="/news/" title="blog di giardinaggio, orto e giardino">Per l'orto e il giardino</a></h2>
+  Le ultimissime notizie dal blog:
+  <ul class="post-list">
+    {% for post in site.posts limit: 5 %}
+      <li>
+        <h3>
+          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> .. continua </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<br/>
+<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

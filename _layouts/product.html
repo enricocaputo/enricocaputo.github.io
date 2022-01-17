@@ -1,0 +1,74 @@
+---
+layout: page
+---
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "{{ page.name | escape }}",
+    "image": "{{ site.url }}{{ page.image }}",
+    "description": "{{ page.name }}: {{ page.excerpt }}",
+    "sku": "{{ page.sku }}",
+    "mpn": "{{ page.sku }}-mpn",
+    "brand": {
+      "@type": "Brand",
+      "name": "POTASIEPE"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Giuliano Trevisan"
+      }
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ page.ratingValue }}",
+      "reviewCount": "{{ page.reviewCount }}"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "{{ site.url }}{{ page.url }}",
+      "priceCurrency": "EUR",
+      "price": "{{ page.price }}",
+      "priceValidUntil": "2021-12-24",
+      "itemCondition": "https://schema.org/NewCondition",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "POTASIEPE"
+      }
+    }
+  }
+  </script>
+
+<h1>{{ page.name }}</h1>
+<div class="img-container">
+<img src="{{ page.image }}" alt="{{ page.name}}" title="{{ page.name }}" itemprop='image'/>
+</div>
+<br/>
+<div class="description">
+  <h2 class="h3">Dettagli prodotto </h2>
+  <p>Descrizione: <b>{{ page.name }}, {{ page.excerpt }}</b><p>
+  <p>Disponibilità: <b>Pronta consegna</b></p>
+  <p>Provenienza: <b>Vivai {{ page.brand }}</b></p>
+  <p>Codice: <b>{{ page.sku }}</b></p>
+  <p>Prezzo: <b>€ {{ page.price }}</b>
+  </p>
+</div>
+<br/>
+<div>
+  Recensioni
+  <span style="color: yellow; font-size:22px;">&#9733;&#9733;&#9733;&#9733;&#10025;</span>
+  <span>{{ page.review }}</span>
+</div>
+<br/>
+<p>
+<a title="Contatti" href="/contatti/" class="button">CONTATTACI</a>
+</p><br/>
+{{ content}}

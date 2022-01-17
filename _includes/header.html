@@ -1,0 +1,56 @@
+<header class="siteHeader">
+  <div>
+  <a href="/" title="Home page" aria-label="Home page">{% include logo.svg %}</a>
+  </div>
+  <div class="searchbox" role="search" tabindex="-1">
+    <form accept-charset="UTF-8" id="search" action="/cerca" method="get" class="search-form" target="_top">
+        <input type="search" name="q" class="search-text" placeholder="Cerca..." autocomplete="off" aria-label="Cerca..." title="Cerca..." data-tab="2">
+        <input type="submit" value="" class="search-submit" aria-label="Premi e inizia la ricerca">
+    </form>
+  </div>
+</header>
+
+<nav class="navBar" aria-label="Potasiepe">
+
+  <input type="checkbox" class="menu-icon" id="menuToggle">
+  <label for="menuToggle">
+    <svg aria-hidden="true" width="30" height="30" viewBox="0 0 16 16" version="1.1" data-view-component="true" class="octicon octicon-three-bars">
+      <path fill="white" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+    </svg>
+  </label>
+
+  <div class="menuWrap">
+  <ul class="menu" itemscope itemtype=http://www.schema.org/SiteNavigationElement role="menubar" aria-label="Potasiepe">
+    <li role="none"><a href="/">{% include home.svg %}</a></li>
+		{% for link in site.data.navigation.links %}
+			{% assign class = "" %}
+			{% if link.highlight %}
+				{% assign class = class | append: " highlight" %}
+			{% endif %}
+
+			{% if link.link == page.url %}
+				{% assign class = class | append: " active" %}
+			{% endif %}
+
+			{% if link.submenu %}
+			<li role="none">
+				<details open>
+					<summary>{{ link.name }} &#x23F7;</summary>
+					<div class="someDetails">
+						<ul role="menu">
+							{% for submenu-link in link.submenu %}
+							<li itemprop=name role="none">
+								<a itemprop=url role="menuitem" href="{{ submenu-link.link }}">{{submenu-link.name}}</a>
+							</li>
+							{% endfor %}
+						</ul>
+					</div>
+				</details>
+			</li>
+			{% else %}
+			<li itemprop=name role="none"><a itemprop=url role="menuitem" href="{{ site.baseurl }}{{ link.link }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a></li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+  </div>
+</nav>

@@ -1,0 +1,24 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }}</title>
+  {% seo title=false %}
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}/img/ico/favicon.png" sizes="192x192" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/img/ico/apple-touch-icon.png" />
+  <link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
+  <meta name="theme-color" content="#004900" />
+  {% feed_meta %}
+  <link type="application/opensearchdescription+xml" rel="search" href="/PotasiepeRicercaPersonalizzata.xml" title="Potasiepe Ricerca Personalizzata" />
+  <style>
+    {% capture include_to_scssify %}
+      {% include screen.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
+  <!--[if lt IE 9]>
+  <script src="/js/html5shiv.min.js"></script>
+  <script src="/js/respond.min.js"></script>
+  <![endif]-->
+</head>

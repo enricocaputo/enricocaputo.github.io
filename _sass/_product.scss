@@ -1,0 +1,29 @@
+#product-page {
+  width: 90%;
+  margin: 0 auto;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.img-container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 400px;
+  max-height: 400px;
+  height: 100%;
+  overflow: hidden;
+  img {
+    transition: transform 0.3s ease;
+    &:hover {
+      -webkit-transform: scale(1.2);
+      transform: scale(1.2);
+      transition: transform 0.3s ease;
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  #product-page {
+    text-align: left;
+  }
+}

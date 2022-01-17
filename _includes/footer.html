@@ -1,0 +1,53 @@
+<footer class="diagonal">
+  <div class="container">
+
+    <div class="footer-columns">
+      {% for column in site.data.footer %}
+        <ul class="footer-links">
+          <li>
+            <span class="h2">{{ column.title }}</span>
+          </li>
+          {% for link in column.links %}
+            <li>
+              <a {% if link.new_window %}target="_blank" rel="noopener"{% endif %} href="{% include relative-src.html src=link.link %}" aria-label="{{ link.name }}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+                {% if link.social_icon %}
+                  {% include social-icon.html icon=link.social_icon %}
+                {% endif %}
+
+                {{ link.name }}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+
+      <ul class="footer-links">
+        <li>
+          <span class="h2">{{ site.data.company.title }}</span>
+        </li>
+        <li>{{ site.data.company.description }}</li>
+        <li>
+          <span class="h3" id="newsletter">ISCRIVITI ALLA NEWSLETTER</span>
+        </li>
+        <li>
+          <div role="form">
+          <form class="tinyletter" action="https://tinyletter.com/potasiepe" method="post" target="popupwindow" rel="nofollow noreferrer" onsubmit="window.open('https://tinyletter.com/potasiepe', 'popupwindow', 'scrollbars=yes,width=630,height=568');return true">
+            <input title="email" type="text" name="email" id="tlemail" required autocomplete="email" placeholder="* mia@email.it" maxlength="55" />
+            <input type="hidden" value="1" name="embed" />
+            <input type="submit" value="OK" />
+          </form>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="legal-line">
+    <p class="container">
+      &copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }} &bull;
+      <a href="/brand/" title="Brand">Brand</a> &bull;
+      <a href="/sitemap/" title="Mappa del sito">Sitemap</a> &bull;
+      <a href="/privacy/" title="Privacy">Privacy</a>
+    </p>
+  </div>
+</footer>

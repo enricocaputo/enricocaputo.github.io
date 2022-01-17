@@ -1,0 +1,50 @@
+links:
+- name: Manutenzione del verde
+  submenu:
+  - name: Potatura siepi
+    link: /servizi/potatura-siepi/
+  - name: Giardiniere a domicilio
+    link: /servizi/giardiniere-a-domicilio/
+  - name: Manutenzione verde aziendale
+    link: /servizi/manutenzione-del-verde-aziendale/
+  - name: Potatura alberi
+    link: /servizi/abbattimento-e-potatura-alberi/
+  - name: Abbattimento alberi
+    link: /servizi/abbattimento-e-potatura-alberi/
+  - name: Lotta alla processionaria
+    link: /servizi/lotta-alla-processionaria/
+
+- name: Impianti irrigazione
+  link: /prodotti/impianti-di-irrigazione/
+
+- name: Tappeti erbosi
+  submenu:
+  - name: Formazione tappeti erbosi
+    link: /servizi/formazione-tappeto-erboso-e-rifacimento-prato/
+  - name: Rigenerazione prato
+    link: /servizi/rigenerazione-prato/
+  - name: Prato in rotoli
+    link: /prodotti/prato-a-rotoli/
+  - name: Prati carrabili
+    link: /prodotti/prato-carrabile/
+
+- name: Stop zanzare
+  link: /servizi/stop-zanzare/
+
+- name: Altri servizi
+  submenu:
+  - name: Progettazione giardini
+    link: /servizi/progettazione-giardini/
+  - name: Sfalcio erba altissima
+    link: /servizi/sfalcio-erba-altissima/
+  - name: Manutenzione tosaerba
+    link: /servizi/riparazione-tosaerba-udine-gorizia/
+  - name: Noleggio catenaria
+    link: /servizi/noleggio-catenaria-scavi-irrigazione/
+
+- name: Recinzioni
+  link: /prodotti/posa-recinzione-rete-metallica/
+- name: Prezzi
+  link: /prezzi/
+- name: News
+  link: /news/

@@ -1,0 +1,46 @@
+- title: Informazioni
+  links:
+    - name: Lavora con noi
+      link: /lavora-con-noi/
+    - name: Calendario
+      link: /calendario-di-giardinaggio/
+    - name: Chi sono
+      link: /chi-sono/
+    - name: Contatti
+      link: /contatti/
+    - name: Gallery
+      link: /gallery/
+    - name: Vivaio
+      link: /vivaio/
+
+- title: Seguici
+  links:
+    - name: Facebook
+      link: https://www.facebook.com/giardiniere.potasiepe/
+      social_icon: Facebook
+      new_window: true
+    - name: YouTube
+      link: https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ
+      social_icon: YouTube
+      new_window: true
+    - name: Twitter
+      link: https://twitter.com/potasiepe?lang=it
+      social_icon: Twitter
+      new_window: true
+    - name: Blog
+      link: /consigli-di-giardinaggio/
+      social_icon: Github
+      new_window: false
+    - name: RSS
+      link: /feed.xml
+      social_icon: RSS
+      new_window: false
+
+#   - name: WhatsApp
+#     link: https://wa.me/393889005888
+#     social_icon: WhatsApp
+#     new_window: true
+#   - name: LinkedIn
+#     link:
+#     social_icon: LinkedIn
+#     new_window: true

@@ -1,0 +1,45 @@
+items:
+
+- sku: acer-dis-gar
+  name: Acero Dissectum Garnet
+  link: acero-dissectum-garnet
+  image: /img/vivaio/aceri/acer-dissctum-garnet.jpg
+  brand: Potasiepe
+  price: 130
+  ratingValue: 5
+  reviewCount: 4
+  availability: InStock
+  excerpt: Vaso 20 l - Altezza 120/150 cm
+
+- sku: acer-dis-vir
+  name: Acero Dissectum Viridis
+  link: acero-dissectum-viridis
+  image: /img/vivaio/aceri/acer-dissectum-viridis.jpg
+  brand: Potasiepe
+  price: 130
+  ratingValue: 4.8
+  reviewCount: 5
+  availability: InStock
+  excerpt: Vaso 20 l - Altezza 120/150 cm
+
+- sku: acer-pal-blo
+  name: Acero Palmatum Bloodgood
+  link: acero-palmatum-bloodgood
+  image: /img/vivaio/aceri/acer-palmatum-bloodgood.jpg
+  brand: Potasiepe
+  price: 130
+  ratingValue: 4.7
+  reviewCount: 6
+  availability: InStock
+  excerpt: Vaso 20 l - Altezza 120/150 cm
+
+- sku: acer-pal-shi
+  name: Acero Palmatum Shishigashira
+  link: acero-palmatum-shishigashira
+  image: /img/vivaio/aceri/acer-palmatum-shishigashira.jpg
+  brand: Potasiepe
+  price: 130
+  ratingValue: 4.6
+  reviewCount: 7
+  availability: InStock
+  excerpt: Vaso 20 l - Altezza 120/150 cm

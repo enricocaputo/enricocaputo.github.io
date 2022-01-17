@@ -1,0 +1,67 @@
+items:
+
+- sku: olivo-550
+  name: Olivo bonsai
+  link: olivo-secolare-550
+  image: /img/vivaio/olivi/olivo-550.jpg
+  brand: Potasiepe
+  price: 550
+  ratingValue: 5
+  reviewCount: 10
+  availability: InStock
+  excerpt: Circonf. fusto 80/100 cm - H 150/180 cm
+
+- sku: olivo-750
+  name: Olivo secolare
+  link: olivo-secolare-750
+  image: /img/vivaio/olivi/olivo-750.jpg
+  brand: Potasiepe
+  price: 750
+  ratingValue: 4.5
+  reviewCount: 18
+  availability: InStock
+  excerpt: Circonf. fusto 100/120 cm - H 250/300 cm
+
+- sku: olivo-1100
+  name: Olivo secolare a piatto
+  link: olivo-secolare-1100
+  image: /img/vivaio/olivi/olivo-1100.jpg
+  brand: Potasiepe
+  price: 1100
+  ratingValue: 5
+  reviewCount: 9
+  availability: InStock
+  excerpt: Circonf. fusto 110/130 cm - H 170/180 cm
+
+- sku: olivo-1300
+  name: Olivo secolare
+  link: olivo-secolare-1300
+  image: /img/vivaio/olivi/olivo-1300.jpg
+  brand: Potasiepe
+  price: 1300
+  ratingValue: 10
+  reviewCount: 4
+  availability: InStock
+  excerpt: Circonf. fusto 120/140 cm – H 250/300 cm
+
+- sku: olivo-2200
+  name: Olivo doppio
+  link: olivo-secolare-2200
+  image: /img/vivaio/olivi/olivo-2200.jpg
+  brand: Potasiepe
+  price: 2200
+  ratingValue: 5
+  reviewCount: 4
+  availability: InStock
+  excerpt: Circonf. fusto 80/120 cm – H 250/300 cm
+
+- sku: olivo-4000
+  name: Olivo scultura
+  link: olivo-secolare-4000
+  image: /img/vivaio/olivi/olivo-4000.jpg
+  brand: Potasiepe
+  price: 4000
+  ratingValue: 5
+  reviewCount: 2
+  availability: InStock
+  excerpt: Circonf. fusto 150/200 cm - H 270/300 cm

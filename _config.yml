@@ -1,0 +1,104 @@
+---
+version: 4.1.1
+title: Potasiepe
+description: "Potasiepe: giardiniere a Udine e Gorizia per progettazione giardini, realizzazione giardini, sistemazione giardini, servizi giardinaggio, manutenzione del verde"
+url: https://www.potasiepe.it
+baseurl:
+repository: https://github.com/enricocaputo/potasiepe
+timezone: Europe/Rome
+encoding: UTF-8
+lang: it-IT
+name: "Potasiepe"
+logo: "/img/amp-logo-60x600px.png"
+twitter:
+  username: potasiepe
+  card: summary
+social:
+  links:
+    - https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html
+    - https://www.facebook.com/giardiniere.potasiepe/
+    - https://twitter.com/potasiepe?lang=it
+    - https://www.paginegialle.it/giardinierepotasiepe_baildd
+    - https://www.paginebianche.it/cervignano-del-friuli/giardiniere-potasiepe.11997753
+    - https://www.yelp.it/biz/potasiepe-cervignano-del-friuli
+
+permalink: pretty
+collections_dir: my_collections
+collections:
+  servizi:
+    output: true
+    permalink: /servizi/:title/
+  prodotti:
+    output: true
+    permalink: /prodotti/:title/
+  posts:
+    output: true
+    permalink: /news/:title/
+  calendario:
+    output: true
+    permalink: /calendario-di-giardinaggio/:title/
+  vendita_piante_online:
+    output: true
+    permalink: /vivaio/:title/
+
+defaults:
+  - scope:
+      path: "*download"
+    values:
+      sitemap: false
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      seo:
+        type: "Article"
+      author: "potasiepe"
+      category: "Orto & Giardino"
+      comments: "true"
+      image: "/img/share-potasiepe.jpg"
+  - scope:
+      path: "_calendario"
+    values:
+      layout: "post"
+      author: "potasiepe"
+      comments: "false"
+      seo:
+        type: "Article"
+  - scope:
+      path: "_vendita_piante_online"
+    values:
+      layout: "product"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+feed:
+  categories:
+    - Orto & Giardino
+
+paginate: 6
+paginate_path: "/news/page:num/"
+markdown: kramdown
+
+social_icons:
+  - Facebook
+  - Twitter
+  - RSS
+exclude:
+  - ".gitignore"
+  - CNAME
+  - README.md
+
+  # Compress
+sass:
+    style: compressed
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  startings: [head, body]

@@ -1,0 +1,15 @@
+/* TEAM */
+  Web designer: Enrico Caputo
+  Contact: enricocaputo.1972@gmail.com
+  From: Italy
+
+/* THANKS */
+  Blog and static website: jekyllrb.com
+  Hosting: github.com
+  Forms: formspree.io
+  Testing: search.google.com/test/rich-results
+
+/* SITE */
+  Last update: 2020/08/13
+  Doctype: HTML5
+  IDE: Atom
