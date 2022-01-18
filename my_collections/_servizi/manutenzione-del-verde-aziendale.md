@@ -52,6 +52,3 @@ Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiep
   <a title="Compila il modulo online" href="/contatti/" class="button"> &#9993; &nbsp; SCRIVI </a>
 </div>
 <br/><br/>
-
-
-<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

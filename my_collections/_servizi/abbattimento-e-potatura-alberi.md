@@ -99,5 +99,3 @@ Agendo così spenderete meno denaro e preserverete la salute e la bellezza delle
   <a title="contatti" href="/contatti/" aria-label="contatti" class="button">SCRIVETEMI</a>
 </div>
 <br/><br/>
-
-<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

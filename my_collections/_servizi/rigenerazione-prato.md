@@ -79,5 +79,3 @@ misurazioni dell'acqua, **analisi del terreno** ecc.
   <a title="Chiama adesso e prenota la rigenerazione del tuo prato." href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 <br/><br/>
-
-<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

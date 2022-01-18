@@ -54,5 +54,3 @@ Scegli il meglio per il tuo nuovo prato: Potasiepe ti assicura **la perfetta pre
   <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/preparazione-letto-di-semina.jpg" alt="preparazione del letto di semina per un nuovo prato" title="letto di semina prato">
 </div>
 <br/><br/>
-
-<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>
