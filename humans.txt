@@ -10,6 +10,6 @@
   Testing: search.google.com/test/rich-results
 
 /* SITE */
-  Last update: 2020/08/13
+  Last update: 2022/01/19
   Doctype: HTML5
   IDE: Atom
