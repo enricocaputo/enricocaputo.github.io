@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Progettazione e Realizzazione Giardini
+name: Realizzazione Giardini
 subtitle: Progettazione giardini moderni a bassa manutenzione.
 title: Progettazione e Realizzazione Giardini Friuli-venezia-giulia
 excerpt: 'Vuoi progettare, realizzare un giardino a Udine e Gorizia? ✓ Potasiepe è una ditta specializzata nella progettazione e realizzazione di giardini contemporanei.'
