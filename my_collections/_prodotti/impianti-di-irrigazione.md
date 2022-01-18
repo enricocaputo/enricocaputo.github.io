@@ -1,9 +1,9 @@
 ---
 layout: page
 name: Irrigazione Giardino
-subtitle: "Impianti d'irrigazione moderni a prestazioni elevate e basso consumo idrico."
+subtitle: "Impianti di irrigazione moderni a prestazioni elevate e basso consumo idrico."
 title: Impianti di irrigazione giardino Friuli-venezia-giulia
-excerpt: 'Impianti d'irrigazione giardino, Udine, Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato Hunter e Rain-Bird'
+excerpt: "Impianti di irrigazione giardino, Udine, Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato Hunter e Rain-Bird"
 image: /img/prodotti/pozzetto-irrigazione.jpg
 webp: /img/prodotti/webp/pozzetto-irrigazione.webp
 image_path: /img/prodotti/scavo-irrigazione-giardino-4x3.jpg
