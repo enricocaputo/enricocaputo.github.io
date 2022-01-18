@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Manutenzione Tosaerba
-subtitle: Affilatura, manutenzione e piccole riparazioni di tagliaerba con motore a scoppio.
+subtitle: Affilatura e manutenzione di tagliaerba con motore a scoppio.
 title: Manutenzione e riparazione tagliaerba Friuli-venezia-giulia
 excerpt: 'Centro di assistenza per la manutenzione di tagliaerba e tosaerba, Udine, Gorizia. Messa a punto e manutenzione di rasaerba con motore a scoppio.'
 image: /img/servizi/manutenzione-tosaerba.jpg

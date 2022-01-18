@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Formazione Tappeti Erbosi
-subtitle: "Un nuovo manto erboso in un nuovo giardino - Rifare completamente un prato malconcio."
+subtitle: "Un nuovo manto erboso in un nuovo giardino - Rifare completamente il prato."
 title: Formazione tappeto erboso e Rifacimento completo del prato
 excerpt: 'Per rifare completamente il prato, insediare un nuovo prato Potasiepe assicura la perfetta preparazione del letto di semina con 6 mesi di assistenza e garanzia.'
 image: /img/servizi/prato-rifacimento-completo.jpg

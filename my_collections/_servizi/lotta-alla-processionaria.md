@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Lotta alla Processionaria
-subtitle: "Conosci l'endoterapia? Una cura semplice, non invasiva e offre una protezione per ben 3 anni!"
+subtitle: "Endoterapia, una cura semplice, non invasiva e protegge per ben 3 anni!"
 title: Lotta alla Processionaria del pino Friuli-venezia-giulia
 excerpt: 'Rimozione processionaria, Udine, Gorizia ✓ Lotta processionaria del pino, disinfestazione nidi. Endoterapia, una cura non invasiva con garanzia per 3 anni!'
 image: /img/servizi/lotta-alla-processionaria-pino.jpg
