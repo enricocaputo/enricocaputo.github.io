@@ -25,7 +25,7 @@ Potatura artistica di singoli esemplari: potatura a spirale, potatura sferica a 
 ## Più accurato non si può
 
 **Accuratezza del taglio** - Ti faresti operare da un chirurgo che usa un bisturi sporco di sangue infetto? Beh, non credo proprio! Pretendi la stessa cautela per la tua siepe. <br/>
-La potatura delle piante da siepe deve essere accurata, il taglio preciso e netto, le lame ben affilate e disinfettate. Lo sapevi che la linfa di alcune piante è tossica per altre specie? Dopo aver potato un oleandro non si dovrebbe toccare un bosso senza aver prima disinfettato le lame delle cesoie troncarami e del tagliasiepe. Se una siepe è malata e non si disinfettano le lame è probabile che le avversità si propaghino da un giardino all'altro.
+La potatura delle piante da siepe deve essere accurata, il taglio preciso e netto, le lame ben affilate e disinfettate. Lo sapevi che la linfa di alcune piante è tossica per altre specie? Dopo aver potato un oleandro non si dovrebbe toccare un bosso senza aver prima disinfettato le lame delle cesoie tronca rami e del tagliasiepe. Se una siepe è malata e non si disinfettano le lame è probabile che le avversità si propaghino da un giardino all'altro.
 
 **Accuratezza della forma** – Garantiamo la precisione di misure, altezze e sporgenze tanto della più comune potatura di siepi con linee squadrate quanto dei tagli ad arco ed informali.
 
@@ -41,7 +41,7 @@ Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno
 Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 40 Km da Cervignano del Friuli, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br/>
 Il **preventivo è gratuito** e nella sezione prezzi puoi farti un'idea abbastanza precisa del [costo taglio siepe al metro lineare](/prezzi/ "costo taglio siepe al metro lineare").
 
-## Mesi ideali e luna clante per il taglio della siepe
+## Mesi ideali e luna calante per il taglio della siepe
 
 A seconda del **periodo di fioritura** ti sapremo consigliare il periodo più indicato per sfoltire la tua varietà di piante per siepe.
 
@@ -49,7 +49,7 @@ Anche la luna è importante! Se il taglio della siepe avviene nel periodo di **l
 
 ## Trattamenti, concimazioni e consigli
 
-Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi/disinfestazioni/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e di insetti: oidio, necrosi, cocciniglie ecc.
+Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi/disinfestazioni/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e d'insetti: oidio, necrosi, cocciniglie ecc.
 
 Le foglie della tua siepe sono ingiallite, hanno la muffa, sono bucherellate e annerite? Approfitta dei **preziosi consigli** di Giardiniere Potasiepe.
 

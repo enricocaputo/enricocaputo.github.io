@@ -60,7 +60,7 @@ Il costo della disinfestazione zanzare **dipende dalla dimensione del giardino**
 - &#10004; eliminazione zanzare adulte (con nebulizzazione di insetticida)
 - &#10004; distruzione uova di zanzara (pastiglie e compresse nei tombini)
 
-Il costo per la disinfestazione degli insetti adulti è inferiore a quello relativo alle uova, perché si tratta di un’operazione più semplice, che richiede meno insetticida e in generale meno lavoro. Invece, controllare la proprietà alla ricerca di possibili punti di futuri focolai da trattare singolarmente con la massima attenzione richiede maggior dispendio di tempo e di insetticida.
+Il costo per la disinfestazione degli insetti adulti è inferiore a quello relativo alle uova, perché si tratta di un’operazione più semplice, che richiede meno insetticida e in generale meno lavoro. Invece, controllare la proprietà alla ricerca di possibili punti di futuri focolai da trattare singolarmente con la massima attenzione richiede maggior dispendio di tempo e d'insetticida.
 
 Consigliamo di effettuare l'esecuzione di entrambi i trattamenti perché l’uno senza l’altro offrirebbe risultati di breve durata (eliminando solamente le zanzare adulte dopo pochi giorni sareste invasi dalle larve, mentre annientando solamente le larve le femmine adulte sarebbero libere di deporre altre uova).
 
@@ -79,13 +79,13 @@ Se pensi che sia una cifra eccessiva, forse dovresti considerare che la disinfes
 
 Se stai prendendo in considerazione il fai da te, sappi che a i prodotti naturali e gli insetticidi biologici sono inefficaci all'aperto e con quelli chimici rischi di intossicare te, i tuoi cari e i tuoi animali domestici.
 
-## Disinfestazioni blatte e trattamenti anti cimice verde asiatica
+## Disinfestazioni scarafaggi e cimice verde asiatica
 
 Negli ultimi anni abbiamo subito una vera e propria invasione da parte della cimice verde asiatica.
 
 Per debellare la presenza delle cimici verdi si usano delle emulsioni ad altissimo concentrato di piretro.
 
-Con uno-due cicli di disinfestazione il problema viene risolto quasi del tutto.
+Con uno o due cicli di disinfestazione il problema viene risolto quasi del tutto.
 
 <br/>
 <div class="text-center">

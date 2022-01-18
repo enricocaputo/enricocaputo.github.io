@@ -24,13 +24,13 @@ order: 7
 
 Siamo tra i primi in Friuli-venezia-giulia ad effettuare la lotta alla Processionaria del Pino con sistemi innovativi e sostenibili.
 
-## Lotta alla processionaria: perchè?
+## Lotta alla processionaria: perché?
 
-**La processioanria provaca gravi scompensi tanto nell'uomo quanto negli animali**. Una volta entrati in contatto con le setole urticanti è facile riscontrare sintomi più o meno gravi e spesso si deve correre al pronto soccorso. I più frequenti: shock anafilattico, reazioni cutanee, infiammazioni ai bulbi oculari, difficoltà respiratoria, irritazione del tratto gastro intestinale. E’ sempre buona cosa evitare di avvicinarsi ai nidi e toccare le larve.
+**La processionaria provoca gravi scompensi tanto nell'uomo quanto negli animali**. Una volta entrati in contatto con le setole urticanti è facile riscontrare sintomi più o meno gravi e spesso si deve correre al pronto soccorso. I più frequenti: shock anafilattico, reazioni cutanee, infiammazioni ai bulbi oculari, difficoltà respiratoria, irritazione del tratto gastro intestinale. E’ sempre buona cosa evitare di avvicinarsi ai nidi e toccare le larve.
 
 **La disinfestazione della processionaria del pino è obbligatoria per legge** e ora acquisisce un nuovo metodo.
 
-## Endoterapia: cos'è e perchè conviene?
+## Endoterapia: cos'è e perché conviene?
 
 L'endoterapia consiste in una **iniezione al fusto della pianta**, a circa un metro dal suolo, di un prodotto appositamente studiato per sconfiggere la processionaria del pino.
 
@@ -56,7 +56,7 @@ Il periodo di intervento è molto ampio:
 
 ## Rimozione nidi secchi di processionaria
 
-Le processionarie del pino cominciano a nidificare tra settembre ed ottobre. Tessono il loro nido raggruppando le cime dei rami. Costruiscono un solido involucro sericeo esterno, spesso qualche millimetro, molto elastico. Creano all’interno numerose masse di seta con cui si proteggono dal freddo.
+Le processionarie del pino cominciano a nidificare tra settembre e ottobre. Tessono il loro nido raggruppando le cime dei rami. Costruiscono un solido involucro sericeo esterno, spesso qualche millimetro, molto elastico. Creano all’interno numerose masse di seta con cui si proteggono dal freddo.
 
 Se voi e i vostri animali da compagnia frequentate la zona sottostante ai nidi di processionaria, anche se ormai secchi, rischiate che i peli urticanti vi cadano addosso ferendovi. In questo caso è consigliabile intervenire con la rimozione dei nidi di processionaria con una [potatura](/servizi/abbattimento-e-potatura-alberi/ "abbattimento e potatura alberi").
 

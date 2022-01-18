@@ -79,7 +79,7 @@ Consiste nell'ancorare con appositi tiranti (statici e dinamici) le branche dell
 
 Si ricorre all'abbattimento controllato quando non c'è spazio sufficiente per far cadere in sicurezza le parti tagliate.
 
-Consiste nel tagliare la pianta smontandola a pezzi. Le parti prima di essere tagliate vengono assicurate per mezzo di corde e calate lentamente controllandone la discesa. Vengono così scongiurati danni ad edifici, pavimentazioni e linee di cavi.
+Consiste nel tagliare la pianta smontandola a pezzi. Le parti prima di essere tagliate vengono assicurate per mezzo di corde e calate lentamente controllandone la discesa. Vengono così scongiurati danni a edifici, pavimentazioni e linee di cavi.
 
 <br/>
 ## Cura e Gestione programmata per i vostri alberi

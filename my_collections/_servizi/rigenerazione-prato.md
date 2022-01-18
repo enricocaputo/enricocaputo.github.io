@@ -45,7 +45,7 @@ Per ottenere e mantenere una buona riuscita nel rinnovare il prato l'elemento ac
 è essenziale. Se non disponete di una valida irrigazione del giardino vi consiglio
 vivamente, prima di effettuare la trasemina, di far installare [un buon impianto di irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino") oppure di aggiornare quello esistente.
 
-Vi consiglieremo sui giusti tempi di irrigazione, in maniera da fortificare
+Vi consiglieremo sui giusti tempi d'irrigazione, in maniera da fortificare
 l'apparato radicale dell'erba buona. Con la giusta irrigazione del prato e la
 corretta altezza di taglio dell'erba è possibile anche un buon controllo delle
 future infestanti.

@@ -37,7 +37,7 @@ Facile e veloce da posare, il prato carrabile è calpestabile da subito, ha otti
 
 - &#10004; Celle aperte sul fondo e ai lati favoriscono la propagazione delle radici, lo scambio d’aria, d’acqua e dei nutrimenti.
 
-- &#10004; Struttura aperta ai lati per una posa senza sfalsamenti di altezza.
+- &#10004; Struttura aperta ai lati per una posa senza sfalsamento in altezza.
 
 - &#10004; Massima stabilità e minimo spessore.
 
@@ -45,7 +45,7 @@ Facile e veloce da posare, il prato carrabile è calpestabile da subito, ha otti
 
 - &#10004; Antiscivolo e i tacchi delle signore non soffriranno.
 
-- &#10004; Come tutti i prati necessita di **[un buon impianto di irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino")**
+- &#10004; Come tutti i prati necessita di **[un buon impianto d'irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino")**
 
 
 <br/>
