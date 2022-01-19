@@ -1,5 +1,5 @@
 links:
-- name: Manutenzione del verde
+- name: Manutenzione verde
   submenu:
   - name: Potatura siepi
     link: /servizi/potatura-siepi/
@@ -14,7 +14,7 @@ links:
   - name: Lotta alla processionaria
     link: /servizi/lotta-alla-processionaria/
 
-- name: Impianti irrigazione
+- name: Irrigazione
   link: /prodotti/impianti-di-irrigazione/
 
 - name: Tappeti erbosi

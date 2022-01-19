@@ -3,7 +3,7 @@
   padding: 0 30px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   background-color: DarkGreen;
   color: white;
   #homeLogo {
@@ -64,7 +64,7 @@
   width: 100%;
   margin: 0;
   z-index: 1;
-  padding: 0 30px;
+  padding: 0 22px;
   position: sticky;
   background-color: DarkGreen;
   color: white;
@@ -161,7 +161,6 @@
   .siteHeader {
     top: 0;
     position: sticky;
-    justify-content: center;
     z-index: 2;
   }
 
