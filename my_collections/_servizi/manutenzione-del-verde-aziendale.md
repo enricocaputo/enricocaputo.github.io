@@ -1,7 +1,7 @@
 ---
 layout: page
 name: Manutenzione Verde Aziendale
-subtitle: Affida a Giardiniere Potasiepe la gestione degli spazi esterni della tua attività.
+subtitle: Affida a Potasiepe la gestione degli spazi esterni della tua attività.
 title: 'Impresa giardinaggio gestione verde aziendale Udine, Gorizia'
 excerpt: 'Affida a Potasiepe la progettazione parchi, prenota la pulizia dei piazzali e la manutenzione del verde di hotel, ristoranti, negozi e stabilimenti industriali.'
 image: /img/servizi/verde-commerciale-industriale-potasiepe.jpg

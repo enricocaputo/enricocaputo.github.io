@@ -8,9 +8,10 @@
   font-size: 15px;
   letter-spacing: 0.0278em;
   text-rendering: optimizeSpeed;
-  text-size-adjust: none;
-  -ms-text-size-adjust: none;
-  -webkit-text-size-adjust: none;
+  overflow-x:hidden;
+  text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -49,7 +50,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 .hero {
@@ -193,13 +194,13 @@ a {
   background: #f7f7f7;
 }
 
-.content {
+main {
   margin: 0 auto;
   width: 80%;
   max-width: 1000px;
   padding: 2em 0 18em 0;
   min-height: 414px;
-  font-size: 1.2rem;
+  font-size: 130%;
 }
 
 footer {
@@ -240,9 +241,8 @@ table {
   body {
     text-align: left;
   }
-  .content {
+  main {
     width: 86%;
     padding-bottom: 10rem;
-    font-size: 121%;
   }
 }
