@@ -143,7 +143,7 @@ hr {
   }
 
 .name {
-  font-size: 1.2rem;
+  font-size: 1em;
 }
 
 a {
@@ -203,7 +203,7 @@ a {
 }
 
 footer {
-  font-size: 110%;
+  font-size: 105%;
   margin-top: 70px;
   padding: 34px 25px 10px 25px;
 }
@@ -243,6 +243,6 @@ table {
   .content {
     width: 86%;
     padding-bottom: 10rem;
-    font-size: clamp(1.2rem,calc(1.0568rem + 0.6711vw),1.4rem);
+    font-size: 121%;
   }
 }
