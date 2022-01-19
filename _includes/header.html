@@ -19,7 +19,7 @@
 
   <div class="menuWrap">
   <ul class="menu" itemscope itemtype=http://www.schema.org/SiteNavigationElement role="menubar" aria-label="Potasiepe">
-    <li role="none"><a href="/">{% include home.svg %}</a></li>
+    <li role="none"><a href="/" aria-label="Home page">{% include home.svg %}</a></li>
 		{% for link in site.data.navigation.links %}
 			{% assign class = "" %}
 			{% if link.highlight %}
