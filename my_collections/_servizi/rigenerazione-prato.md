@@ -25,7 +25,7 @@ concimi, diserbi chimici e manuali ma il tuo prato continua a non darti soddisfa
 
 Se il tuo prato presenta chiazze, diradamenti e le erbacce imperversano è facile iniziare a temere che il manto erboso non sarà più recuperabile e bisognerà rifarlo da zero.
 
-### Trasemina o rifacimento completo del prato?
+**Trasemina o rifacimento completo del prato?**
 
 Per decidere se il prato va rinnovato oppure [rifatto completamente](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/ "rifacimento prato da zero")
 esiste una semplice equazione matematica: se è rimasto più del 40% di erba buona
@@ -56,7 +56,7 @@ future infestanti.
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 
