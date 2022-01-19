@@ -230,8 +230,11 @@
       position: fixed;
       top: 1rem;
       left: 1.3rem;
-      cursor: pointer;
+      width: 27px;
+      height: 27px;
+      margin: 0;
       z-index: 9;
+      cursor: pointer;
     }
   }
 
