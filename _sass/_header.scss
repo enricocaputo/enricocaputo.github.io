@@ -31,8 +31,8 @@
     position: absolute;
     padding: 5px 0 5px 30px;
     width: 0;
-    top: 0;
-    margin-top: 16px;
+    height: 19px;
+    top: 19.5px;
     right: 1.3rem;
     z-index: 2;
     transition: z-index 0.8s, width 0.5s, background 0.3s ease, border 0.3s;
@@ -49,6 +49,7 @@
     outline: none;
     cursor: auto;
     padding-right: 10px;
+    height: auto;
   }
   input[type="submit"] {
     position: absolute;
@@ -231,8 +232,7 @@
     .menu-icon:checked + label,
     .menu-icon:not(:checked) + label {
       position: fixed;
-      top: 0;
-      margin-top: 15.5px;
+      top: 17px;
       left: 1.3rem;
       width: 27px;
       height: 27px;
