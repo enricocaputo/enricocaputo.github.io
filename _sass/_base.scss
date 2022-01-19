@@ -34,29 +34,22 @@ a {
  text-decoration:none;
 }
 
+h1, h2, h3, h4 {
+    letter-spacing: .035rem;
+    line-height: 1.2;
+}
+
 h1 {
-  font-size: 2rem;
+  font-size: 1.802rem;
   text-align: center;
 }
 
 h2, .h2 {
-  font-size: 1.5rem;
+  font-size: 1.602rem;
 }
 
 h3, .h3 {
   font-size: 1.2rem;
-}
-
-.h2, .h3 {
-  font-weight:700;
-  margin:10px 0
-}
-.h2 {
-  line-height: 2.8;
-}
-
-.h3 {
-  line-height: 2;
 }
 
 .hero {
@@ -210,8 +203,9 @@ a {
 }
 
 footer {
-  padding: 34px 25px 10px 25px;
+  font-size: 110%;
   margin-top: 70px;
+  padding: 34px 25px 10px 25px;
 }
 
 .cookie {
@@ -226,28 +220,16 @@ table {
 }
 
 @media (max-width: 767px) {
-  h1 {
-    font-size: 1.9rem;
-  }
-  h2 {
-    font-size: 1.5rem;
-  }
-  .h2 {
-    font-size: 1.5rem;
-  }
   .hero {
     margin: 100px 0 0 0;
    }
   .centered {
     background-color: #e4e4e6;
     margin-top: 73px;
-    padding: 50px 0 50px 0;
+    padding: 25px 0;
     position: relative;
   }
   .list-collection {
-    h3 {
-      font-size: 1.1rem;
-    }
     ul li {
       margin: 2em 0;
     }
@@ -260,7 +242,7 @@ table {
   }
   .content {
     width: 86%;
-    font-size: 1.26rem;
     padding-bottom: 10rem;
+    font-size: clamp(1.26rem,calc(1.2rem + .25vw),1.52rem);
   }
 }
