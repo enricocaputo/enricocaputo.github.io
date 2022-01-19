@@ -214,6 +214,7 @@
     }
 
     .menu {
+      display: none;
       height: 0;
       flex-direction: column;
       justify-content: flex-end;
@@ -242,6 +243,7 @@
 
   #menuToggle:checked ~ .menuWrap .menu {
     height: 100%;
+    display: block;
     padding-bottom: 90px;
   }
 }
