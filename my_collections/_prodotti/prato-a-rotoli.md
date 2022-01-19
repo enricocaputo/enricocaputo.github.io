@@ -6,6 +6,7 @@ title: Prato a Rotoli a Udine e Gorizia
 excerpt: 'Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.'
 image: /img/prato/prato4x3.jpg
 image_path: /img/prato/posa-prato-pronto-400x300.jpg
+carousel: true
 order: 2
 ---
 # Prato a Rotoli a Udine e Gorizia
@@ -119,5 +120,3 @@ A distanza di un mese il prato va concimato e si può iniziare ad irrigare una v
   <source srcset="/img/prato/cura-prato-a-rotoli.jpg" type="image/jpeg">
   <img src="/img/prato/cura-prato-a-rotoli.jpg" width="800" alt="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle" title="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle">
 </picture>
-
-<script>var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,2e3)}carousel();</script>

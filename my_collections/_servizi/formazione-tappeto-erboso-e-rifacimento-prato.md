@@ -7,6 +7,7 @@ excerpt: 'Per rifare completamente il prato, insediare un nuovo prato Potasiepe 
 image: /img/servizi/prato-rifacimento-completo.jpg
 webp: /img/servizi/webp/prato-rifacimento-completo.webp
 image_path: /img/servizi/prato-rifacimento-completo-400x300.jpg
+carousel: true
 order: 4
 ---
 # Formazione tappeti erbosi

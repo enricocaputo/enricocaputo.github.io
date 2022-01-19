@@ -7,6 +7,7 @@ excerpt: 'Il tuo prato ha bisogno di essere rinnovato?  ✓ Potasiepe è una dit
 image: /img/servizi/rigenerazione-prato-erpice-rotante.jpg
 webp: /img/servizi/webp/rigenerazione-prato-erpice-rotante.webp
 image_path: /img/servizi/rinnovare-il-prato-400x300.jpg
+carousel: true
 order: 3
 ---
 # Rinnovare il Prato
