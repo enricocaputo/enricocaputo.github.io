@@ -29,17 +29,17 @@
   input.search-text {
     color: #f7f7f7;
     position: absolute;
+    padding: 5px 0 5px 30px;
+    width: 0;
+    top: 0;
+    margin-top: 16px;
+    right: 1.3rem;
     z-index: 2;
     transition: z-index 0.8s, width 0.5s, background 0.3s ease, border 0.3s;
-    width: 0;
-    margin: 0;
-    padding: 5px 0 5px 30px;
     cursor: pointer;
     border: none;
     background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMTkiIGhlaWdodD0iMTkiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik01MDUgNDQyLjdMNDA1LjMgMzQzYy00LjUtNC41LTEwLjYtNy0xNy03SDM3MmMyNy42LTM1LjMgNDQtNzkuNyA0NC0xMjhDNDE2IDkzLjEgMzIyLjkgMCAyMDggMFMwIDkzLjEgMCAyMDhzOTMuMSAyMDggMjA4IDIwOGM0OC4zIDAgOTIuNy0xNi40IDEyOC00NHYxNi4zYzAgNi40IDIuNSAxMi41IDcgMTdsOTkuNyA5OS43YzkuNCA5LjQgMjQuNiA5LjQgMzMuOSAwbDI4LjMtMjguM2M5LjQtOS40IDkuNC0yNC42LjEtMzR6TTIwOCAzMzZjLTcwLjcgMC0xMjgtNTcuMi0xMjgtMTI4IDAtNzAuNyA1Ny4yLTEyOCAxMjgtMTI4IDcwLjcgMCAxMjggNTcuMiAxMjggMTI4IDAgNzAuNy01Ny4yIDEyOC0xMjggMTI4eiIvPjwvc3ZnPg==)
       no-repeat left 9px center transparent;
-    top: 16px;
-    right: 1.3rem;
   }
   input.search-text:focus {
     z-index: 3;
@@ -231,11 +231,11 @@
     .menu-icon:checked + label,
     .menu-icon:not(:checked) + label {
       position: fixed;
-      top: 15.5px;
+      top: 0;
+      margin-top: 15.5px;
       left: 1.3rem;
       width: 27px;
       height: 27px;
-      margin: 0;
       z-index: 9;
       cursor: pointer;
     }
