@@ -9,7 +9,7 @@ permalink: /cerca/
 
 <script>
   (function() {
-    var cx = 'partner-pub-2292514451269367:5089958237';
+    var cx = '757017904923928f0';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
