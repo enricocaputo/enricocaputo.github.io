@@ -3,16 +3,16 @@ links:
   submenu:
   - name: Potatura siepi
     link: /servizi/potatura-siepi/
-  - name: Giardiniere a domicilio
-    link: /servizi/giardiniere-a-domicilio/
-  - name: Gestione verde aziendale
-    link: /servizi/manutenzione-del-verde-aziendale/
   - name: Potatura alberi
     link: /servizi/abbattimento-e-potatura-alberi/
   - name: Abbattimento alberi
     link: /servizi/abbattimento-e-potatura-alberi/
+  - name: Giardiniere a domicilio
+    link: /servizi/giardiniere-a-domicilio/
   - name: Lotta alla processionaria
     link: /servizi/lotta-alla-processionaria/
+  - name: Gestione verde aziendale
+    link: /servizi/manutenzione-del-verde-aziendale/
 
 - name: Irrigazione
   link: /prodotti/impianti-di-irrigazione/
