@@ -238,7 +238,7 @@
     .menu-icon:checked + label,
     .menu-icon:not(:checked) + label {
       position: fixed;
-      top: 0 !important;
+      top: 0;
       left: 0;
       padding: 16px;
       width: 58px;
