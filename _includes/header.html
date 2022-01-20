@@ -33,7 +33,7 @@
 			{% if link.submenu %}
 			<li role="none">
 				<details open>
-					<summary>{{ link.name }} &#9662;</summary>
+					<summary>{{ link.name }} {% include sort-down.svg %}</summary>
 					<div class="someDetails">
 						<ul role="menu">
 							{% for submenu-link in link.submenu %}
