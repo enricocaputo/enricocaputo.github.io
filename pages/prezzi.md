@@ -3,9 +3,14 @@ layout: page
 title: Costo giardiniere - Potasiepe
 excerpt: "I costi per la sistemazione del giardino: costo taglio siepe al metro lineare, taglio prato, potatura alberi, lavori di base - Prezzi onesti, Listino prezzi pdf"
 image: /img/porcellino.png
+webp: /img/webp/porcellino.webp
 permalink: /prezzi/
 ---
-<img src="/img/porcellino.png" width="300" height="176" alt="porcellino salvadanaio" title="Prezzi economici">
+<picture>
+  <source srcset="{{ page.webp }}" type="image/webp">
+  <source srcset="{{ page.image }}" type="image/png">
+  <img src="{{ page.image }}" width="300" height="176" alt="porcellino salvadanaio" title="Prezzi economici"/>
+</picture>
 
 <h1 class="h3">Prezzi Economici ed Onesti</h1>
 
@@ -39,7 +44,7 @@ permalink: /prezzi/
 |€ 40 | entro un raggio di 40 km da Cervignano, UD|
 |     | Le Zone Oltre i 40 km NON SONO SERVITE |
 
-## <img src="{{ site.baseurl }}/img/icon-pdf.svg" style="display:inline"> [**LISTINO PREZZI COMPLETO**](/download/prezzi-potasiepe-2020.pdf)
+## <img src="{{ site.baseurl }}/img/icon-pdf.svg" width="24" height="24" style="display:inline" alt="PDF"> [**LISTINO PREZZI COMPLETO**](/download/prezzi-potasiepe-2020.pdf)
 
 Se trovi difficile calcolare il prezzo al metro oppure se preferisci stabilire un **prezzo a forfait** non esitare a [contattarmi](/contatti/ "Richiedi maggiori informazioni").
 
