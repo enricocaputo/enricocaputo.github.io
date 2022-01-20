@@ -19,7 +19,7 @@ Sfalci erba altissima a Udine e Gorizia. **Taglio di erbacce, rovi, canneti ed e
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 

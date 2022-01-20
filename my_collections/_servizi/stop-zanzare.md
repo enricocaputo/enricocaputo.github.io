@@ -15,7 +15,7 @@ order: 8
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="1000" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="970" height="300" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 
@@ -35,7 +35,7 @@ La disinfestazione della **zanzara tigre** può essere svolta anche in **tardo i
 <picture>
   <source srcset="/img/servizi/webp/stop-zanzare-disinfestazioni-potasiepe.webp" type="image/webp">
   <source srcset="/img/servizi/stop-zanzare-disinfestazioni-potasiepe.jpg" type="image/jpeg">
-  <img src="/img/servizi/stop-zanzare-disinfestazioni-potasiepe.jpg" width="800"  alt="Controllo zanzare, disinfestazione con nebulizzatore">
+  <img src="/img/servizi/stop-zanzare-disinfestazioni-potasiepe.jpg" width="800" height="600" alt="Controllo zanzare, disinfestazione con nebulizzatore">
 </picture>
 <br/>
 

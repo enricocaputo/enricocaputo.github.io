@@ -87,7 +87,7 @@ Una raccolta di fotografie a testimonianza del lavoro svolto da il **Giardiniere
 <div class="list-collection">
 <ul class="photo-gallery">
   {% for image in page.images %}
-    <li><img src="{{ image.image_path }}" alt="{{ image.title}}" title="{{ image.title}}"/></li>
+    <li><img src="{{ image.image_path }}" width="280" height="280" alt="{{ image.title}}" title="{{ image.title}}"/></li>
   {% endfor %}
 </ul>
 </div>

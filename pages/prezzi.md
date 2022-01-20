@@ -5,7 +5,7 @@ excerpt: "I costi per la sistemazione del giardino: costo taglio siepe al metro 
 image: /img/porcellino.png
 permalink: /prezzi/
 ---
-<img src="/img/porcellino.png" alt="Costo giardiniere" title="Costo giardiniere">
+<img src="/img/porcellino.png" width="300" height="176" alt="porcellino salvadanaio" title="Prezzi economici">
 
 <h1 class="h3">Prezzi Economici ed Onesti</h1>
 

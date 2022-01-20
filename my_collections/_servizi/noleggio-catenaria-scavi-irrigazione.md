@@ -19,7 +19,7 @@ Noleggio Catenaria con Operatore per **scavi irrigazione giardino poco invasivi 
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 

@@ -3,12 +3,17 @@ layout: page
 title: Lavora con noi
 excerpt: 'Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti, solamente passione per il giardinaggio.'
 image: /img/lavoraconnoi.jpg
+webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
 ---
 # Lavora con noi
 
 <div class="carousel">
-<img src="/img/lavoraconnoi.jpg" alt="Lavora con noi" title="Lavora con noi">
+<picture>
+  <source srcset="{{ page.webp }}" type="image/webp">
+  <source srcset="{{ page.image }}" type="image/jpeg">
+  <img src="{{ page.image }}" width="800" height="350" alt="{{ page.title }}" title="{{ page.title }}"/>
+</picture>
 </div>
 
 ## Opportunità di lavoro

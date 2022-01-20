@@ -24,7 +24,7 @@ Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi s
 {% for item in site.data.aceri.items %}
 <li>
     <a href="{{ item.link }}">
-    <img src="{% include relative-src.html src=item.image %}" alt="{{ item.name }}">
+    <img src="{% include relative-src.html src=item.image %}" width="800" height="618" alt="{{ item.name }}">
     </a>
     <div class="text-center">
     <h3>{{ item.name }}</h3>
@@ -46,7 +46,7 @@ Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi s
 {% for item in site.data.ulivi.items %}
 <li>
     <a href="{{ item.link }}">
-    <img src="{% include relative-src.html src=item.image %}" alt="{{ item.name }}">
+    <img src="{% include relative-src.html src=item.image %}" width="300" height="400" alt="{{ item.name }}">
     </a>
     <div class="text-center">
     <h3>{{ item.name }}</h3>

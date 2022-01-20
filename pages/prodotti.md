@@ -2,7 +2,7 @@
 layout: page
 title: "I nostri prodotti"
 excerpt: "Elenco dei prodotti offerti"
-image:
+image: /img/prodotti/prato-armato.jpg
 permalink: /prodotti/
 ---
 # Prodotti garantiti e sostenibili
@@ -12,7 +12,7 @@ permalink: /prodotti/
   {% assign prodotti = site.prodotti | sort: 'order' %}
   {% for prodotti in prodotti %}
 		<li>
-      <img src="{% include relative-src.html src=prodotti.image_path %}" alt="{{ prodotti.url }}">
+      <img src="{% include relative-src.html src=prodotti.image_path %}" width="400" height="300" alt="{{ prodotti.url }}">
       <div>
       <h2 class="h3">{{ prodotti.name }}</h2>
       <p>{{ prodotti.subtitle }}</p>

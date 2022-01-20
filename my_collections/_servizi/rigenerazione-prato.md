@@ -14,10 +14,10 @@ order: 3
 
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-1.jpg" alt="Come rinnovare il prato con un intervento di trasemina" title="Rigenerazione prato, Udine">
-  <img class="mySlides" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-2.jpg" alt="Rigenerazione prato, concimazione" title="Rinnovamento prato, trasemina e concimazione">
-  <img class="mySlides" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-3.jpg" alt="Rigenerazione prato e verticut" title="Rinnovamento e arieggiatura del prato, Udine, Gorizia">
-  <img class="mySlides" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-4.jpg" alt="Rigenerazione prato con rete livellatrice" title="progetto orto e giardino a Udine">
+  <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-1.jpg" alt="Come rinnovare il prato con un intervento di trasemina" title="Rigenerazione prato, Udine">
+  <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-2.jpg" alt="Rigenerazione prato, concimazione" title="Rinnovamento prato, trasemina e concimazione">
+  <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-3.jpg" alt="Rigenerazione prato e verticut" title="Rinnovamento e arieggiatura del prato, Udine, Gorizia">
+  <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-4.jpg" alt="Rigenerazione prato con rete livellatrice" title="progetto orto e giardino a Udine">
 </div>
 <br/><br/>
 

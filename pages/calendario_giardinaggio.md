@@ -36,7 +36,7 @@ ___
 <ul>
 	{% for calendario in site.calendario %}
 		<li>
-		  <img src="{% include relative-src.html src=calendario.image %}" alt="{{ calendario.title }}">
+		  <img src="{% include relative-src.html src=calendario.image %}" width="400" height="300" alt="{{ calendario.title }}">
 			<div>
 			<h2><span class="name">{{ calendario.title }}</span></h2>
 			<a href="{{ site.baseurl }}{{ calendario.url }}"><strong>SCOPRI I CONSIGLI DEL MESE</strong> &gt;</a>

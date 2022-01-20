@@ -16,7 +16,7 @@ order: 7
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 
@@ -66,7 +66,7 @@ Se voi e i vostri animali da compagnia frequentate la zona sottostante ai nidi d
 <picture>
   <source srcset="/img/servizi/webp/rimozione-nidi-processionaria-alberi.webp" type="image/webp">
   <source srcset="(/img/servizi/rimozione-nidi-processionaria-alberi.jpg" type="image/jpeg">
-  <img src="/img/servizi/rimozione-nidi-processionaria-alberi.jpg" width="800" alt="Rimozione nidi di processionaria dagli alberi" title="Rimozione nidi di processionaria del pino">
+  <img src="/img/servizi/rimozione-nidi-processionaria-alberi.jpg" width="800" height="600" alt="Rimozione nidi di processionaria dagli alberi" title="Rimozione nidi di processionaria del pino">
 </picture>
 
 <br/>

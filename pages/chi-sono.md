@@ -3,11 +3,16 @@ layout: page
 title: 'Scopri di più sul Giardiniere Potasiepe'
 excerpt: 'Sono un giardiniere professionista, realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità.'
 image: /img/enrico.jpg
+web: /img/webp/enrico.webp
 permalink: /chi-sono/
 ---
 # Chi sono
 
-![Enrico](/img/enrico.jpg  "Enrico")
+<picture>
+  <source srcset="{{ page.webp }}" type="image/webp">
+  <source srcset="{{ page.image }}" type="image/jpeg">
+  <img src="{{ page.image }}" width="500" height="473" alt="Enrico" title="Enrico"/>
+</picture>
 
 <br/>
 Mi chiamo Enrico, di lavoro **curo gli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà in cui ho accesso.

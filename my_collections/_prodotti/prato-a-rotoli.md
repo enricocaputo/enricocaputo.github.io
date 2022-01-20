@@ -14,9 +14,9 @@ order: 2
 <br/>
 
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}/img/prato/prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia">
-  <img class="mySlides" src="{{ site.baseurl }}/img/prato/prato2.jpg" alt="prato a rotoli" title="posa di tappeto erbosa in zolla a rotoli">
-  <img class="mySlides" src="{{ site.baseurl }}/img/prato/prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
+  <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia">
+  <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato2.jpg" alt="prato a rotoli" title="posa di tappeto erbosa in zolla a rotoli">
+  <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
 </div>
 
 <br/><br/>
@@ -118,5 +118,5 @@ A distanza di un mese il prato va concimato e si può iniziare ad irrigare una v
 <picture>
   <source srcset="/img/prato/webp/cura-prato-a-rotoli.webp" type="image/webp">
   <source srcset="/img/prato/cura-prato-a-rotoli.jpg" type="image/jpeg">
-  <img src="/img/prato/cura-prato-a-rotoli.jpg" width="800" alt="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle" title="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle">
+  <img src="/img/prato/cura-prato-a-rotoli.jpg" width="800" height="450" alt="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle" title="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle">
 </picture>

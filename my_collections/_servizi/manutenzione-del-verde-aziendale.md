@@ -13,11 +13,11 @@ order: 9
 
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide1.jpg" alt="ottieni progetti di parchi di hotel" title="ottieni progetti di parchi di hotel">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide2.jpg" alt="gestione del verde industriale" title="gestione del verde industriale">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide3.jpg" alt="manutenzione del verde commerciale e industriale" title="manutenzione del verde commerciale e industriale">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide4.jpg" alt="sfalcio erba grandi superfici" title="sfalcio erba grandi superfici">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide5.jpg" alt="pulizia e manutenzione a verde del giardino di un ristorante" title="pulizia e manutenzione a verde del giardino di un ristorante">
+  <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide1.jpg" alt="ottieni progetti di parchi di hotel" title="ottieni progetti di parchi di hotel">
+  <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide2.jpg" alt="gestione del verde industriale" title="gestione del verde industriale">
+  <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide3.jpg" alt="manutenzione del verde commerciale e industriale" title="manutenzione del verde commerciale e industriale">
+  <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide4.jpg" alt="sfalcio erba grandi superfici" title="sfalcio erba grandi superfici">
+  <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide5.jpg" alt="pulizia e manutenzione a verde del giardino di un ristorante" title="pulizia e manutenzione a verde del giardino di un ristorante">
 </div>
 <br/><br/>
 

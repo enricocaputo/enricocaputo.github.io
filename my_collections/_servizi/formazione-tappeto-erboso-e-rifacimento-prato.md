@@ -18,7 +18,7 @@ Formazione nuovo prato a Udine e Gorizia
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 
@@ -50,8 +50,8 @@ Scegli il meglio per il tuo nuovo prato: Potasiepe ti assicura **la perfetta pre
 
 <br/><br/>
 <div class="carousel">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/nuovo-prato-finito.jpg" alt="un nuovo prato finito" title="un nuovo prato finito">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/rimozione-ceppo-e-radici.jpg" alt="eliminazione di vecchi ceppi e radici" title="eliminazione di ceppi e radici">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/preparazione-letto-di-semina.jpg" alt="preparazione del letto di semina per un nuovo prato" title="letto di semina prato">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/nuovo-prato-finito.jpg" alt="un nuovo prato finito" title="un nuovo prato finito">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/rimozione-ceppo-e-radici.jpg" alt="eliminazione di vecchi ceppi e radici" title="eliminazione di ceppi e radici">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/preparazione-letto-di-semina.jpg" alt="preparazione del letto di semina per un nuovo prato" title="letto di semina prato">
 </div>
 <br/><br/>

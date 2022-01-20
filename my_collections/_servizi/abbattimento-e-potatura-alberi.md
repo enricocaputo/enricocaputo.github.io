@@ -15,10 +15,10 @@ order: 6
 <br/>
 ✓ Potasiepe è una ditta specializzata nell'abbattimento e potatura di alberi anche in tree climbing, operante a Udine e Gorizia.
 <div class="carousel">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/potatura-ornamentale-conifere-topiaria.jpg" alt="potatura alberi e conifere ornamentale" title="potatura alberi ornamentale">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/smaltimento.jpg" alt="smaltimento potatura abbattimento alberi" title="smaltimento">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/abbattimento.jpg" alt="abbattimento alberi" title="abbattimento alberi">
-  <img class="mySlides" width ="800" src="{{ site.baseurl }}/img/servizi/abbattimento-albero.jpg" alt="abbattimento albero" title="abbattimento albero">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/potatura-ornamentale-conifere-topiaria.jpg" alt="potatura alberi e conifere ornamentale" title="potatura alberi ornamentale">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/smaltimento.jpg" alt="smaltimento potatura abbattimento alberi" title="smaltimento">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento.jpg" alt="abbattimento alberi" title="abbattimento alberi">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento-albero.jpg" alt="abbattimento albero" title="abbattimento albero">
 </div>
 <br/>
 
@@ -39,7 +39,7 @@ Quando un albero è cariato e la sua stabilità compromessa, quando mina l'integ
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/>
 
@@ -54,7 +54,7 @@ Deriva dall'inglese Tree (albero) e Climb (arrampicare).
 <picture>
   <source srcset="/img/servizi/webp/consolidamento-alberi-treeclimbing-potasiepe.webp" type="image/webp">
   <source srcset="/img/servizi/consolidamento-alberi-treeclimbing-potasiepe.jpg" type="image/jpg">
-  <img src="/img/servizi/consolidamento-alberi-treeclimbing-potasiepe.jpg" width="800" alt="Tree Climbing" title="Tree Climbing"/>
+  <img src="/img/servizi/consolidamento-alberi-treeclimbing-potasiepe.jpg" width="800" height="600" alt="Tree Climbing" title="Tree Climbing"/>
 </picture>
 <br/>
 
@@ -74,7 +74,7 @@ Consiste nell'ancorare con appositi tiranti (statici e dinamici) le branche dell
 <picture>
   <source srcset="/img/servizi/webp/abbattimento-controllato.webp" type="image/webp">
   <source srcset="/img/servizi/abbattimento-controllato.jpg" type="image/jpg">
-  <img src="/img/servizi/abbattimento-controllato.jpg" width="800" alt="Abbattimento controllato" title="Abbattimento controllato"/>
+  <img src="/img/servizi/abbattimento-controllato.jpg" width="800" height="600" alt="Abbattimento controllato" title="Abbattimento controllato"/>
 </picture>
 <br/>
 

@@ -30,7 +30,7 @@ permalink: /servizi/
   {% assign servizi = site.servizi | sort: 'order' %}
   {% for servizi in servizi %}
 		<li>
-      <img src="{% include relative-src.html src=servizi.image_path %}" alt="{{ servizi.url }}">
+      <img src="{% include relative-src.html src=servizi.image_path %}" width="400" height="300" alt="{{ servizi.url }}">
       <div>
       <h2 class="h3">{{ servizi.name }}</h2>
       <p>{{ servizi.subtitle }}</p>

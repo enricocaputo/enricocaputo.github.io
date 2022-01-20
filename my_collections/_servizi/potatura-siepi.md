@@ -4,16 +4,19 @@ name: Potatura Siepi
 subtitle: 'Potare siepi è la nostra specialità: più accurato non si può!'
 title: 'La potatura di siepi è la nostra specialità! - Potasiepe'
 excerpt: 'Il Giardiniere Potasiepe è specializzato in potatura di siepi a Udine e Gorizia: taglio accurato, esperienza, puntualità, prezzi onesti e preventivo gratuito.'
-image: /img/servizi/potatura-siepe-udine-gorizia.jpg
+image: /img/servizi/potatura-di-siepi-udine-gorizia.jpg
+webp: /img/servizi/webp/potatura-di-siepi-udine-gorizia.webp
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 1
 ---
 # La potatura di siepi è la nostra specialità!
 
 <br/>
-
-![Potatura di siepi a Udine e Gorizia](/img/servizi/potatura-di-siepi-udine-gorizia.jpg "Potatura di siepi a Udine e Gorizia")
-
+<picture>
+  <source srcset="{{ page.webp }}" type="image/webp">
+  <source srcset="{{ page.image }}" type="image/jpeg">
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
+</picture>
 <br/><br/>
 
 Effettuiamo il taglio di [piante da siepe](/news/siepe-quale-scegliere "Piante da siepe: quale scegliere") di ogni dimensione e genere: Agazzino, Alloro, Bosso, Lauroceraso, Fotinia, Tasso, Viburno, Phyllirea ecc.
@@ -52,6 +55,8 @@ Anche la luna è importante! Se il taglio della siepe avviene nel periodo di **l
 Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi/disinfestazioni/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e d'insetti: oidio, necrosi, cocciniglie ecc.
 
 Le foglie della tua siepe sono ingiallite, hanno la muffa, sono bucherellate e annerite? Approfitta dei **preziosi consigli** di Giardiniere Potasiepe.
+
+
 
 ![Potatura di siepe, prima e dopo](/img/prima-e-dopo-la-potatura.jpg  "Potatura di siepe, prima e dopo")
 

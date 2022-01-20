@@ -15,7 +15,7 @@ order: 1
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 <br/><br/>
 
@@ -80,7 +80,7 @@ Posa recinzioni in rete plastica (con pali in ferro o legno), una rete con magli
 <picture>
   <source srcset="/img/prodotti/webp/recinzione-rete-plastica-verde.webp" type="image/webp">
   <source srcset="/img/prodotti/recinzione-rete-plastica-verde.jpg" type="image/jpeg">
-  <img src="/img/prodotti/recinzione-rete-plastica-verde.jpg" width="800" alt=" recinzione in rete di plastica colore verde" title="recinzione in rete plastica"/>
+  <img src="/img/prodotti/recinzione-rete-plastica-verde.jpg" width="800" height="600" alt=" recinzione in rete di plastica colore verde" title="recinzione in rete plastica"/>
 </picture>
 **Costa molto meno** di una recinzione in ferro.
 
@@ -92,6 +92,6 @@ Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giu
 <picture>
   <source srcset="/img/prodotti/webp/recinzione-posa-cancello-giardino.webp" type="image/webp">
   <source srcset="/img/prodotti/recinzione-posa-cancello-giardino.jpg" type="image/jpeg">
-  <img src="/img/prodotti/recinzione-posa-cancello-giardino.jpg" width="800" alt=" recinzione e posa cancello pedonale da giardino" title="recinzione e posa cancello pedonale da giardino"/>
+  <img src="/img/prodotti/recinzione-posa-cancello-giardino.jpg" width="800" height="600" alt=" recinzione e posa cancello pedonale da giardino" title="recinzione e posa cancello pedonale da giardino"/>
 </picture>
 <br/><br/>

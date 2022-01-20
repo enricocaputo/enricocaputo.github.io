@@ -13,9 +13,9 @@ order: 0
 
 <br/>
 <div class="carousel">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine">
+  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">
+  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia">
+  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine">
 </div>
 <br/><br/>
 

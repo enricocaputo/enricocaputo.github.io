@@ -3,11 +3,16 @@ layout: page
 title: Giardiniere a Gorizia
 excerpt: Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti i comuni della provincia di Gorizia.
 image: /img/gorizia.jpg
+webp: /img/webp/gorizia.webp
 permalink: /giardiniere-a-gorizia/
 ---
 # Giardiniere a Gorizia
 
-<img src="/img/gorizia.jpg" alt="Giardiniere a Gorizia" title="Giardiniere a Monfalcone e Gorizia">
+<picture>
+  <source srcset="{{ page.webp }}" type="image/webp">
+  <source srcset="{{ page.image }}" type="image/jpeg">
+  <img src="{{ page.image }}" width="800" height="456" alt="{{ page.title }}" title="{{ page.title }}"/>
+</picture>
 
 Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti gli altri comuni della Provincia di Gorizia.
 
@@ -32,41 +37,3 @@ Mi sposto in tutta la provincia di Gorizia, entro un raggio di 40 km circa da Ce
 
 ## Perchè scegliermi?
 Ho **prezzi onesti**. Lavoro con **competenza di giardinaggio**. Sono un giardiniere professionista e offro **una gamma di [servizi di giardinaggio](/servizi/ "Scopri i servizi di giardinaggio di giardiniere Potasiepe") a Gorizia a 360 gradi**:
-
-<div class="page-content">
-<div class="list-collection">
-<ul>
-  {% assign servizi = site.servizi | sort: 'order' %}
-  {% for servizi in servizi %}
-		<li>
-      <img src="{% include relative-src.html src=servizi.image_path %}" alt="{{ servizi.url }}">
-      <div>
-      <h3>{{ servizi.name }}</h3>
-      <p>{{ servizi.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
-      </div>
-    </li>
-	{% endfor %}
-</ul>
-</div>
-</div>
-<br/><br/>
-<section>
-<br/>
-<div>
-  <h2><a href="/news/" title="Consigli di Giardinaggio">Per l'orto e il giardino</a></h2>
-  Le ultimissime notizie dal blog:
-  <ul class="post-list">
-    {% for post in site.posts limit: 5 %}
-      <li>
-      <article>
-        <h3>
-          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> .. continua </a>
-        </h3>
-      </article>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-<br/>
-</section>
