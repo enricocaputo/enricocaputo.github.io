@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Prato in Zolla a Rotoli
+name: Prato in Zolla
 subtitle: "Esperienza decennale nella posa del prato pronto. Risparmierete tempo e denaro!"
 title: Prato a Rotoli a Udine e Gorizia
 excerpt: 'Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.'

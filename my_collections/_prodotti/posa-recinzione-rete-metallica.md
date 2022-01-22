@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Recinzioni in Rete e Pannelli
+name: Recinzioni in Rete
 subtitle: Richiedi un preventivo per la tua nuova recinzione in rete metallica o plastica.
 title: Posa recinzione rete metallica, Udine, Gorizia
 excerpt: 'Posa recinzione rete metallica, Udine, Gorizia. Posa recinzioni, installazione reti, posa pali recinzione, costo posa recinzione rete metallica, prezzi onesti.'

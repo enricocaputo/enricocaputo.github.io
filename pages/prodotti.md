@@ -16,7 +16,7 @@ permalink: /prodotti/
       <div>
       <h2 class="h3">{{ prodotti.name }}</h2>
       <p>{{ prodotti.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ prodotti.url }}" title="{{ prodotti.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+			<a href="{{ site.baseurl }}{{ prodotti.url }}" title="{{ prodotti.url }}"><strong>SCOPRI E PRENOTA</strong></a>
       </div>
     </li>
 	{% endfor %}

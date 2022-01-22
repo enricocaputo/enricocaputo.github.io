@@ -34,7 +34,7 @@ permalink: /servizi/
       <div>
       <h2 class="h3">{{ servizi.name }}</h2>
       <p>{{ servizi.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.url }}"><strong>SCOPRI E PRENOTA</strong> &gt;</a>
+			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.url }}"><strong>SCOPRI E PRENOTA</strong></a>
       </div>
     </li>
 	{% endfor %}
