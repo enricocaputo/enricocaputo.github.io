@@ -235,7 +235,8 @@
       display: block;
     }
     .menu-icon:checked + label,
-    .menu-icon:not(:checked) + label {
+    .menu-icon:not(:checked) + label,
+    .menu-icon > svg {
       position: fixed;
       top: 0;
       left: 0;
