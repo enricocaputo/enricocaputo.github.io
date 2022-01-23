@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 'Scopri di più sul Giardiniere Potasiepe'
-excerpt: 'Sono un giardiniere professionista, realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità.'
+title: "Scopri di più sul Giardiniere Potasiepe"
+excerpt: "Sono un giardiniere professionista, realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità."
 image: /img/enrico.jpg
 web: /img/webp/enrico.webp
 permalink: /chi-sono/

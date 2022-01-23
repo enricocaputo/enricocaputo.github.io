@@ -3,7 +3,7 @@ layout: page
 name: Prati Carrabili
 subtitle: "Il prato carrabile è ideale per vialetti e salva il prato anche dai cani scavatori più ostinati."
 title: Posa prato carrabile, Udine, Gorizia
-excerpt: 'Il prato carrabile è composto da vero prato e da una speciale griglia che protegge il prato dal passaggio dei veicoli. Chiama ora per un preventivo gratuito!'
+excerpt: "Il prato carrabile è composto da vero prato e da una speciale griglia che protegge il prato dal passaggio dei veicoli. Chiama ora per un preventivo gratuito!"
 image: /img/prodotti/prato-carrabile.jpg
 webp: /img/prodotti/webp/prato-carrabile.webp
 image_path: /img/prodotti/prato-carrabile-400x300.jpg

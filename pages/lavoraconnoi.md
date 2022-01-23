@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lavora con noi
-excerpt: 'Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti, solamente passione per il giardinaggio.'
+excerpt: "Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti, solamente passione per il giardinaggio."
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/

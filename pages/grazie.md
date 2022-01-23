@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Messaggio inviato!'
+title: "Messaggio inviato!"
 permalink: /grazie.html
 sitemap: false
 ---

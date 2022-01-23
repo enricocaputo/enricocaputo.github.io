@@ -3,7 +3,7 @@ layout: page
 name: Rigenerazione Prato
 subtitle: "Il tuo prato ha bisogno di essere rinnovato? Ci pensiamo noi!"
 title: Rinnovare e rigenerare il prato in Friuli-venezia-giulia
-excerpt: 'Il tuo prato ha bisogno di essere rinnovato?  ✓ Potasiepe è una ditta specializzata in rigenerazione del prato, Udine, Gorizia.'
+excerpt: "Il tuo prato ha bisogno di essere rinnovato?  ✓ Potasiepe è una ditta specializzata in rigenerazione del prato, Udine, Gorizia."
 image: /img/servizi/rigenerazione-prato-erpice-rotante.jpg
 webp: /img/servizi/webp/rigenerazione-prato-erpice-rotante.webp
 image_path: /img/servizi/rinnovare-il-prato-400x300.jpg

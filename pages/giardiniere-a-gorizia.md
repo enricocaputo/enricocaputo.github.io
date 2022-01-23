@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Giardiniere a Gorizia
-excerpt: Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti i comuni della provincia di Gorizia.
+excerpt: "Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti i comuni della provincia di Gorizia."
 image: /img/gorizia.jpg
 webp: /img/webp/gorizia.webp
 permalink: /giardiniere-a-gorizia/
