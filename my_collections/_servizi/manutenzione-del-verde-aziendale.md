@@ -9,7 +9,7 @@ image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 carousel: true
 order: 9
 ---
-# Manutenzione del verde per aziende a Udine, Gorizia
+# Gestione del verde aziendale 
 
 <br/>
 <div class="carousel">

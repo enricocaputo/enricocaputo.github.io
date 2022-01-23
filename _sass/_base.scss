@@ -40,7 +40,6 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 1.9rem;
   text-align: center;
   text-transform: uppercase;
 }
@@ -221,6 +220,9 @@ table {
 }
 
 @media (max-width: 767px) {
+  h1 {
+    font-size: 1.75rem;
+  }
   .hero {
     margin: 100px 0 0 0;
    }

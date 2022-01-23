@@ -9,7 +9,7 @@ webp: /img/servizi/webp/servizi-giardinaggio.webp
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
 order: 2
 ---
-# Giardiniere a domicilio a Udine e Gorizia
+# Giardiniere a domicilio
 
 <br/>
 <picture>
