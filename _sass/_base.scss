@@ -1,3 +1,23 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
+        url('/assets/ProximaNova-Regular.woff2') format('woff2'),
+        url('/assets/ProximaNova-Regular.woff') format('woff'),
+        url('/assets/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
+        url('/assets/ProximaNova-Semibold.woff2') format('woff2'),
+        url('/assets/ProximaNova-Semibold.woff') format('woff'),
+        url('/assets/ProximaNova-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+
 *,
 *::before,
 *::after {
@@ -5,10 +25,9 @@
 }
 
 :root {
-  font-size: 15px;
-  letter-spacing: 0.0278em;
-  text-rendering: optimizeSpeed;
+  font-size: 18px;
   overflow-x:hidden;
+  text-rendering: optimizeSpeed;
   text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -19,9 +38,10 @@ body {
   padding: 0;
   background: #003200;
   color: #202124;
+  font-family: 'Proxima Nova';
+  letter-spacing: 0.0278em;
+
   text-align: justify;
-  font-family: Verdana,sans-serif;
-  font-weight: 400;
   line-height: 1.7;
 }
 
@@ -40,17 +60,18 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 1.9em;
-  text-align: center;
+  font-size: 34px;
   text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
 }
 
 h2, .h2 {
-  font-size: 1.6rem;
+  font-size: 27px;
 }
 
 h3, .h3 {
-  font-size: 1.3rem;
+  font-size: 22px;
 }
 
 .hero {
@@ -200,11 +221,10 @@ main {
   max-width: 1000px;
   padding: 2em 0 18em 0;
   min-height: 414px;
-  font-size: 130%;
+  font-size: 20px;
 }
 
 footer {
-  font-size: 105%;
   margin-top: 70px;
   padding: 34px 25px 10px 25px;
 }
@@ -222,7 +242,13 @@ table {
 
 @media (max-width: 767px) {
   h1 {
-    font-size: 1.75rem;
+    font-size: 5.9vw;
+  }
+  h2 {
+    font-size: 5vmin;
+  }
+  main, h3, .h3 {
+    font-size: 4.5vmin;
   }
   .hero {
     margin: 100px 0 0 0;
