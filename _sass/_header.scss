@@ -182,7 +182,8 @@
   .navBar {
     position: absolute;
     display: contents;
-    font-size: 22px;
+    letter-spacing: normal;
+    font-size: 20px;
 
     .menuWrap {
       position: fixed;
@@ -203,7 +204,7 @@
 
     .someDetails {
       display: contents;
-      font-size: 21px;
+      font-size: 19px;
       &::after {
         display: none;
       }
