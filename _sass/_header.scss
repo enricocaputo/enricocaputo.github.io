@@ -39,6 +39,7 @@
     cursor: pointer;
     border: none;
     background: url("data:image/svg+xml,%3Csvg focusable='false' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23ffffff'%3E%3Cpath d='M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z'%3E%3C/path%3E%3C/svg%3E") no-repeat;
+    font-size: 19px;
   }
   input.search-text:focus {
     z-index: 3;
@@ -69,11 +70,11 @@
   z-index: 1;
   padding: 0 22px;
   position: sticky;
-  background-color: DarkGreen;
-  letter-spacing: 0.75px;
-  font-variant: small-caps;
-  font-size: 18px;
+  font-size: 17px;
+  letter-spacing: 0.1em;;
+  text-transform: uppercase;
   color: white;
+  background-color: $theme-dark;
   box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.31);
 
   .menu-icon + label {
@@ -94,6 +95,8 @@
     display: none;
     padding: 19px;
     font-size: 16px;
+    text-transform: none;
+    font-variant: small-caps;
     text-align: left;
     background-color: $rosso-potasiepe;
     margin-top: 17px;
@@ -200,7 +203,7 @@
 
     .someDetails {
       display: contents;
-      font-size: 19px;
+      font-size: 21px;
       &::after {
         display: none;
       }
@@ -253,4 +256,10 @@
     display: block;
     padding-bottom: 90px;
   }
+}
+
+@media (max-width: 300px) {
+  .siteHeader #homeLogo a > svg{
+    height: 10px;
+    }
 }

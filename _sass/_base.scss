@@ -24,10 +24,9 @@
   box-sizing: border-box;
 }
 
-:root {
-  font-size: 18px;
+html {
   overflow-x:hidden;
-  text-rendering: optimizeSpeed;
+  text-rendering: optimizeLegibility;
   text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -38,11 +37,8 @@ body {
   padding: 0;
   background: #003200;
   color: #202124;
-  font-family: 'Proxima Nova';
-  letter-spacing: 0.0278em;
-
+  font: 400 17px/1.7 "proxima-nova", 'Proxima Nova', sans-serif;
   text-align: justify;
-  line-height: 1.7;
 }
 
 ul {
@@ -56,22 +52,23 @@ a {
 }
 
 h1, h2, h3, h4 {
-    letter-spacing: .035rem;
+  line-height: 1.2;
+  margin-bottom: 0.3em;
 }
 
 h1 {
-  font-size: 34px;
-  text-transform: uppercase;
-  line-height: 2;
+  font-size: 1.923em;
+  font-variant-caps: all-small-caps;
   text-align: center;
+  color: #003200;
 }
 
 h2, .h2 {
-  font-size: 27px;
+  font-size: 1.538em;
 }
 
 h3, .h3 {
-  font-size: 22px;
+  font-size: 1.3em;
 }
 
 .hero {
@@ -221,7 +218,7 @@ main {
   max-width: 1000px;
   padding: 2em 0 18em 0;
   min-height: 414px;
-  font-size: 20px;
+  font-size: 137.5%;
 }
 
 footer {
@@ -241,31 +238,29 @@ table {
 }
 
 @media (max-width: 767px) {
-  h1 {
-    font-size: 5.9vw;
+  body {
+    text-align: left;
   }
+
+  main {
+    width: 86%;
+    padding-bottom: 10rem;
+  }
+
   .hero {
     margin: 100px 0 0 0;
    }
+
   .centered {
     background-color: #e4e4e6;
     margin-top: 73px;
     padding: 25px 0;
     position: relative;
   }
+
   .list-collection {
     ul li {
       margin: 2em 0;
     }
-  }
-}
-
-@media (max-width: 1200px) {
-  body {
-    text-align: left;
-  }
-  main {
-    width: 86%;
-    padding-bottom: 10rem;
   }
 }
