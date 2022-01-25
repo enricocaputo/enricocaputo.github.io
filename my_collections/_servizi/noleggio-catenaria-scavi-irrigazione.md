@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Noleggio catenaria
+name: Noleggio Catenaria
 subtitle: Noleggio catenaria per scavi poco invasivi che non rovinano il prato.
 title: Noleggio catenaria per scavi Friuli-venezia-giulia
 excerpt: "Noleggio Catenaria per scavi irrigazione giardino poco invasivi senza rovinare il prato, Udine, Gorizia. Noleggio Catenaria scavi con Operatore, costo € 50/h."
