@@ -83,8 +83,6 @@ La manutenzione ordinaria (*check-up*) ha un **costo variabile da 50 a 100 euro*
 - &#10004; Programmazione zone
 - &#10004; Test finale
 
-**[Prenota ora](/contatti/ "contatti") il *check-up* del tuo impianto d'irrigazione**
-
 <br/>
 <div class="text-center">
   <p class="h3">Prenota il <em>check-up</em> del tuo impianto d'irrigazione</p>
