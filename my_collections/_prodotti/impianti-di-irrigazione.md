@@ -17,64 +17,78 @@ order: 3
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+<br/>
 
-Impianti d'irrigazione a Udine e Gorizia, irrigazione a goccia, irrigazione interrata, irrigazione giardino, installatore autorizzato
-<a href="https://www.hunterindustries.com/it" title="impianti d'irrigazione HUNTER" rel="noopener nofollow"><strong>HUNTER</strong></a> -
-<a href="https://www.rainbird.com/it/eur" title="impianti d'irrigazione RAIN BIRD" rel="noopener nofollow"><strong>RAIN BIRD</strong></a> -
-<a href="https://www.toro.com/it-it/irrigation" title="impianti di irrigazione TORO" rel="noopener nofollow"><strong>TORO</strong></a>.
+Impianti d'irrigazione a Udine e Gorizia, irrigazione giardino a **basso consumo idrico**. Installatore autorizzato
+<a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" rel="noopener nofollow"><strong>HUNTER</strong></a> e
+<a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" rel="noopener nofollow"><strong>RAIN BIRD</strong></a>.
+
+## Impianti di irrigazione moderni a prestazioni elevate
+
+Potasiepe è una realtà innovativa che propone l’utilizzo di componenti a prestazioni elevate per l'irrigazione del giardino.
+
+Siamo tra i pochi in Friuli-venezia-giulia a installare impianti di irrigazione di tipo moderno con **staffe e tubi  innovativi e di lunghissima durata**. L'irrigazione di tipo moderno consente di alzare, abbassare, spostare, eliminare e aggiungere irrigatori senza difficoltà.   
+
+Grazie all'installazione di impianti d'irrigazione progettati da un professionista potrai evitare i più comuni problemi di inutile spreco d'acqua. Negli impianti di tipo tradizionale (posati dalla maggioranza degli installatori) l'acqua non raggiunge l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
+
+Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
+
+<br/>
+<picture>
+  <source srcset="/img/prodotti/webp/scavo-irrigazione-giardino.webp" type="image/webp">
+  <source srcset="/img/prodotti/scavo-irrigazione-giardino.jpg" type="image/jpeg">
+  <img src="/img/prodotti/scavo-irrigazione-giardino.jpg" width="800" height="600" alt="scavi impianto d'irrigazione in giardino" title="scavi impianti irrigazione giardino"/>
+</picture>
+<br/>
+
+### Irrigazione a goccia
+
+L’irrigazione a goccia consente di somministrare a ogni singola pianta la giusta quantità d’acqua all’orario desiderato. Una soluzione ideale per le piante in vaso, le aiuole e gli orti.
+
+La centralina all'ora stabilita apre l’acqua che, attraverso un'ala gocciolante e appositi tubicini, scorre fino a raggiungere la base delle singole piante.
+
+<br/>
+<div class="text-center">
+  <p class="h3">PREVENTIVO GRATUITO</p>
+  <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+</div>
+<br/>
 
 ## Vantaggi irrigazione interrata automatica
 
 I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
 
-- &#10004; aumento del valore della proprietà
-- &#10004; comodità di irrigare automaticamente il giardino anche quando si è assenti o in vacanza
-- &#10004; certezza che ogni zona del giardino riceva la giusta quantità d’acqua, senza sprechi
-- &#10004; piacevolezza estetica per la mancanza di tubazioni fuori terra,
-- &#10004; facilità di tagliare il prato, gli irrigatori sono collocati a livello del manto erboso
+- &#10004; aumento del valore della vostra proprietà immobiliare
+- &#10004; comodità di irrigare automaticamente il giardino anche quando siete in vacanza
+- &#10004; certezza che ogni zona del giardino riceva la giusta quantità d’acqua senza sprechi
+- &#10004; piacevolezza estetica dei giochi d'acqua, nessuna tubazione fuori terra
+- &#10004; facilità di tagliare il prato, terminato il ciclo di irrigazione gli irrigatori scompaiono
 
 [**Bonus Verde 2022: detrazione IRPEF 36% per gli impianti d'irrigazione**](/news/bonus-verde "Bonus Verde 2022").
 
-## Irrigazione giardino
+## Il tuo impianto di irrigazione in giardino non funziona?
 
-![impianto irrigazione giardino](/img/prodotti/progettazione-impianti-irrigazione-udine.jpg  "impianto irrigazione giardino")
+[Potasiepe](/chi-sono/ "chi-sono") ripara anche i guasti improvvisi dei vecchi impianti d'irrigazione!
 
-Grazie all'installazione di impianti d'irrigazione progettati da un professionista potrai evitare i più comuni problemi: un sistema mal bilanciato non permette all'acqua di raggiungere l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
+Per un'irrigazione sempre efficiente vi **consigliamo un *check-up* ogni 2 anni**.
 
-Esperienza decennale in impianti d'irrigazione. Possiamo risolvere i guasti improvvisi con una riparazione ottimale del tuo vecchio impianto di irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica avrai il tuo impianto, pronto a prendersi cura della tua area verde. Il tuo prato e le tue piante ti ringrazieranno!
+La manutenzione ordinaria (*check-up*) ha un **costo variabile da 50 a 100 euro** e prevede:
 
-## Irrigazione a goccia
-
-L’irrigazione a goccia consente di somministrare a ogni singola pianta la giusta quantità d’acqua, all’orario desiderato: una soluzione ideale per tutte le piante in vaso, per le aiuole e anche per l’orto.
-
-Dal programmatore elettrico o a batteria, l’acqua scorre in un tubo collettore flessibile e da questo, attraverso un ala gocciolante o appositi tubicini capillari, raggiunge le singole piante.  
-
-## Irrigazione fuori terra
-
-*Giardiniere Potasiepe* è specializzato in irrigazione fuori terra resistenti e a perfetta tenuta stagna.
-
-L’irrigazione fuori terra è il modo più semplice di annaffiare le piante e il prato, collegando un tubo a un rubinetto e distribuendo l’acqua con una lancia o una pistola. Per orti, piccoli prati, siepi, gruppi di vasi oppure aiuole la soluzione migliore è l'irrigazione esterna e a goccia.
-
-E’ molto importante però scegliere dei prodotti efficienti, durevoli e di qualità, per ottenere un’irrigazione veramente efficace. Carrelli irrigatori, irrigatori di superficie, tubi gocciolanti, timer e tutto l'occorrente verrà installato in pochissimo tempo e a costo contenuto.
-
-## La manutenzione
-
-*Giardiniere Potasiepe*, specializzato nell'installazione degli impianti di irrigazione e della loro manutenzione, garantisce l'esecuzione della seguente manutenzione:
-
-- &#10004; Ispezione del programmatore per accertarsi che sia collegato e funzionante
-- &#10004; Aggiornamento di ora e data e impostazione dei tempi di funzionamento
-- &#10004; Controllo della connessione di tutte le componenti (sensori di pioggia)
+- &#10004; Pulizia testine, ugelli, di tutti gli irrigatori
+- &#10004; Ispezione del programmatore, centralina
 - &#10004; Sostituzione della batteria tampone
-- &#10004; Modifica del programma in base all’andamento climatico e le esigenze d'irrigazione del paesaggio
-- &#10004; Attivazione di ogni zona e ricerca eventuali danni al sistema.
+- &#10004; Controllo sensore pioggia
+- &#10004; Controllo elettrovalvole
+- &#10004; Aggiornamento ora e data
+- &#10004; Programmazione zone
+- &#10004; Test finale
 
-**[Contattaci](/contatti/ "contatti") per un sopralluogo e un preventivo gratuito**
+**[Prenota ora](/contatti/ "contatti") il *check-up* del tuo impianto d'irrigazione**
 
 <br/>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <p class="h3">Prenota il <em>check-up</em> del tuo impianto d'irrigazione</p>
+  <a title="Prenota ora" href="/contatti/" class="button">PRENOTA ORA</a>
 </div>
 <br/><br/>
 
