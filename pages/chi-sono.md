@@ -8,10 +8,11 @@ permalink: /chi-sono/
 ---
 # Chi sono
 
+<br/>
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="500" height="473" alt="Enrico" title="Enrico"/>
+  <img src="{{ page.image }}" width="500" height="473" style="border-radius: 35% 0 5% 5%;" alt="Enrico" title="Enrico"/>
 </picture>
 
 <br/>
