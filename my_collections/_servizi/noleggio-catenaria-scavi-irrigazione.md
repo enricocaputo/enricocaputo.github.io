@@ -9,19 +9,19 @@ webp: /img/servizi/webp/noleggio-catenaria-scavi-irrigazione.webp
 image_path: /img/servizi/noleggio-catenaria-scavi-400x300.jpg
 order: 11
 ---
-# Noleggio Catenaria con Operatore
+# Noleggio Catenaria
 
 <br/>
-
-Noleggio Catenaria con Operatore per **scavi irrigazione giardino poco invasivi che non rovinano il prato**, a Udine, Gorizia, in un raggio di 40 km da Cervignano del Friuli, UD.
-
-<br/><br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+</div>
+<br/>
+
+Noleggio Catenaria con Operatore per **scavi irrigazione giardino poco invasivi** che non rovinano il prato, a Udine, Gorizia, in un raggio di 40 km da Cervignano del Friuli, UD.
 
 ## Catenaria vs Escavatore
 
@@ -36,7 +36,7 @@ la terra, con il passare del tempo, calerà poco.
 
 ## Costo noleggio catenaria
 
-&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è a tariffa oraria, gli scavi verranno eseguiti da nostro operatore, il costo è di € 50/h.
+&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è a tariffa oraria, **gli scavi verranno eseguiti da nostro operatore**, il costo è di € 50/h.
 
 ### Vantaggi del noleggio catenaria con operatore
 

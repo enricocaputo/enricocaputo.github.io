@@ -9,7 +9,7 @@ image_path: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 carousel: true
 order: 9
 ---
-# Gestione del verde aziendale
+# Gestione verde aziendale
 
 <br/>
 <div class="carousel">
@@ -19,15 +19,15 @@ order: 9
   <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide4.jpg" alt="sfalcio erba grandi superfici" title="sfalcio erba grandi superfici">
   <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide5.jpg" alt="pulizia e manutenzione a verde del giardino di un ristorante" title="pulizia e manutenzione a verde del giardino di un ristorante">
 </div>
-<br/><br/>
+<br/>
+
+**La cura del verde è un importante biglietto da visita**. Testimonia la vostra sensibilità per il benessere dei lavoratori, mette a loro agio i clienti e **aumenta la reputazione della vostra azienda**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale.
 
 **La forza dell'esperienza al tuo servizio**. Giardiniere Potasiepe vanta un'esperienza pluriennale testimoniata da centinaia di opere a verde, manutenzione di parchi e installazioni di impianti di irrigazione.
 
-**La cura della vegetazione è un importante biglietto da visita**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale. **La presenza e la cura del verde testimoniano la vostra sensibilità per il benessere dei lavoratori, mettono a loro agio i vostri clienti e aumentano la reputazione della vostra azienda**.
+## Giardinaggio dedicato alle aziende
 
-## Manutenzione del verde aziendale: i nostri servizi
-
-Ci occupiamo della **pulizia dei piazzali** e della **manutenzione delle aree verdi di hotel, ristoranti, negozi e stabilimenti industriali**.
+Ci occupiamo di **pulizia dei piazzali** e della **manutenzione delle aree verdi di hotel, ristoranti, negozi e stabilimenti industriali**.
 
 Il nostro ufficio tecnico è a vostra disposizione per proporvi **soluzioni progettuali funzionali, creative e belle da vedere**.
 
@@ -35,21 +35,21 @@ Se avete già affidato la parte progettuale ad un architetto saremo lieti di occ
 
 **[Una gran varietà di alberi e piante](/vivaio/ "Scopri i Vivai Potasiepe")**, tutte forti, sane, ben nutrite e adeguatamente protette dalle infestanti.
 
-## Come avviene la gestione del verde
+## Gestione del verde industria e commercio
 
-**[Chiavi in mano](/prezzi/ "prezzi")**, dalla movimentazione di terra alla posa in opera e assistenza.
+- &#10004; [Addetti altamente qualificati](/chi-sono/ "Chi sono") e formati per garantirvi lavori svolti a regola d’arte, nel rispetto delle norme sulla sicurezza.
 
-**[Addetti altamente qualificati](/chi-sono/ "Chi sono")** e formati secondo le normative CEE così da poterti garantire una realizzazione a regola d’arte, nel **rispetto totale della sicurezza**.
+- &#10004; **Programmazione a calendario** con possibilità di invio promemoria e rapporti di avvenuta esecuzione lavori.
 
-**Programmazione a [calendario](/calendario-di-giardinaggio/ "calendario di giardinaggio")** con possibilità di invio promemoria e rapporti di avvenuta esecuzione lavori.
+- &#10004; Possibilità di stabilire un **importo forfettario annuale** per la gestione del verde.
 
 ## Manutenzione verde per aziende, Udine, Gorizia
 
-Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiepe lavora in provincia di Udine")** e **[Gorizia](/gorizia/ "Potasiepe serve anche la provincia di Gorizia")** in un raggio di circa 40 km dalla nostra sede di Cervignano del Friuli (UD).
+Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiepe a Udine")** e **[Gorizia](/gorizia/ "Il giardiniere Potasiepe anche a Gorizia")** in un raggio di circa 40 km dalla nostra sede di Cervignano del Friuli (UD).
 
 <br/>
 <div class="text-center">
-  <h2>Desiderate concordare un sopralluogo o richiedere un preventivo?</h2>
-  <a title="Compila il modulo online" href="/contatti/" class="button"> &#9993; &nbsp; SCRIVI </a>
+  <p class="h3">Sopralluogo Gratuito</p>
+  <a title="Compila il modulo online" href="/contatti/" class="button"> PRENOTA </a>
 </div>
 <br/><br/>

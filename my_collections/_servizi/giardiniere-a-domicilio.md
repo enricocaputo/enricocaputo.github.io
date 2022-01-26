@@ -19,6 +19,7 @@ order: 2
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
+<br/>
 
 Da oggi puoi rivolgerti a **Potasiepe**! Un giardiniere esperto che **ti aiuterà a mantenere in salute le tue piante**.
 
