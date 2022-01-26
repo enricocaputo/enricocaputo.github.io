@@ -12,10 +12,6 @@ order: 5
 # Sfalcio erba altissima
 
 <br/>
-
-Sfalci erba altissima a Udine e Gorizia. **Taglio di erbacce, rovi, canneti ed erbe molto alte e tenaci**, a mezzo decespugliatore, **macchine trinciaerba e trinciatutto professionali**.
-
-<br/>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -24,6 +20,8 @@ Sfalci erba altissima a Udine e Gorizia. **Taglio di erbacce, rovi, canneti ed e
 </picture>
 </div>
 <br/>
+
+Sfalci erba altissima a Udine e Gorizia. **Taglio di erbacce, rovi, canneti ed erbe molto alte e tenaci**, a mezzo decespugliatore, **macchine trinciaerba e trinciatutto professionali**.
 
 ## Costo taglio di erba altissima
 
