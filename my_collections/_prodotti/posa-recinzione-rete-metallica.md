@@ -12,12 +12,14 @@ order: 1
 # Posa recinzioni, Udine, Gorizia
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+</div>
+<br/>
 
 Posa recinzione rete metallica, Udine, Gorizia. Posa recinzioni, installazione reti, posa pali recinzione, costo posa recinzione rete metallica, prezzi onesti.
 
@@ -82,16 +84,19 @@ Posa recinzioni in rete plastica (con pali in ferro o legno), una rete con magli
   <source srcset="/img/prodotti/recinzione-rete-plastica-verde.jpg" type="image/jpeg">
   <img src="/img/prodotti/recinzione-rete-plastica-verde.jpg" width="800" height="600" alt=" recinzione in rete di plastica colore verde" title="recinzione in rete plastica"/>
 </picture>
-**Costa molto meno** di una recinzione in ferro.
+**Costa meno** di una recinzione in ferro.
+<br/>
 
 ## Zona servita
 
 Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giulia, in un raggio di 40Km da Cervignano del Friuli (UD).
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="/img/prodotti/webp/recinzione-posa-cancello-giardino.webp" type="image/webp">
   <source srcset="/img/prodotti/recinzione-posa-cancello-giardino.jpg" type="image/jpeg">
   <img src="/img/prodotti/recinzione-posa-cancello-giardino.jpg" width="800" height="600" alt=" recinzione e posa cancello pedonale da giardino" title="recinzione e posa cancello pedonale da giardino"/>
 </picture>
+</div>
 <br/><br/>

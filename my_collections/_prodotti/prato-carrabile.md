@@ -12,12 +12,14 @@ order: 0
 # Il Prato Carrabile
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+</div>
+<br/>
 
 Il prato carrabile **è composto da [vero prato](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/ "Potasiepe è specializzato nella formazione di tappeto erboso e prato di ogni genere.") e da una speciale griglia** che protegge il manto erboso dal passaggio dei veicoli, salva il prato anche dai cani scavatori più ostinati e non ostacola la crescita del manto erboso.
 

@@ -12,12 +12,14 @@ order: 1
 # La potatura di siepi è la nostra specialità!
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+</div>
+<br/>
 
 Effettuiamo il taglio di [piante da siepe](/news/siepe-quale-scegliere "Piante da siepe: quale scegliere") di ogni dimensione e genere: Agazzino, Alloro, Bosso, Lauroceraso, Fotinia, Tasso, Viburno, Phyllirea ecc.
 

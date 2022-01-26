@@ -13,11 +13,13 @@ order: 4
 # Formazione tappeti erbosi
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
+</div>
 <p class="text-center">Formazione nuovo prato a Udine e Gorizia</p>
 <br/>
 

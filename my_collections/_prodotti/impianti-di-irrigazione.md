@@ -12,11 +12,13 @@ order: 3
 # Irrigazione Giardino
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
+</div>
 <br/>
 
 Impianti d'irrigazione a Udine e Gorizia, irrigazione giardino a **basso consumo idrico**. Installatore autorizzato
@@ -34,11 +36,13 @@ Grazie all'installazione di impianti d'irrigazione progettati da un professionis
 Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="/img/prodotti/webp/scavo-irrigazione-giardino.webp" type="image/webp">
   <source srcset="/img/prodotti/scavo-irrigazione-giardino.jpg" type="image/jpeg">
   <img src="/img/prodotti/scavo-irrigazione-giardino.jpg" width="800" height="600" alt="scavi impianto d'irrigazione in giardino" title="scavi impianti irrigazione giardino"/>
 </picture>
+</div>
 <br/>
 
 ### Irrigazione a goccia

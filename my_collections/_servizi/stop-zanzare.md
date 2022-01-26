@@ -32,11 +32,13 @@ La disinfestazione della **zanzara tigre** può essere svolta anche in **tardo i
 ### Una corretta disinfestazione va ripetuta ogni 2 o 3 settimane
 
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="/img/servizi/webp/stop-zanzare-disinfestazioni-potasiepe.webp" type="image/webp">
   <source srcset="/img/servizi/stop-zanzare-disinfestazioni-potasiepe.jpg" type="image/jpeg">
   <img src="/img/servizi/stop-zanzare-disinfestazioni-potasiepe.jpg" width="800" height="600" alt="Controllo zanzare, disinfestazione con nebulizzatore">
 </picture>
+</div>
 <br/>
 
 Le ripetizione del trattamento *Stop Zanzare* aumenta l'efficacia della disinfestazione e ne prolunga sensibilmente la durata nel tempo. E' consigliabile **ripetere** la disinfestazione

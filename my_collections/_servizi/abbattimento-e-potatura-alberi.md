@@ -36,11 +36,13 @@ Quando un albero è cariato e la sua stabilità compromessa, quando mina l'integ
 
 ## Potatura e Abbattimento Alberi con Piattaforma Aerea PLE
 <br/>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
+</div>
 <br/>
 
 La potatura e l'abbattimento con l'ausilio di una piattaforma aerea (PLE) è **particolarmente indicato, in presenza di piante deperenti e con carie del legno, quando la stabilità della pianta è compromessa**.
@@ -51,11 +53,13 @@ Per le potature dove non c'è bisogno di addentrarsi all'interno della chioma de
 ## Tree Climbing
 
 Deriva dall'inglese Tree (albero) e Climb (arrampicare).
+<div class="carousel">
 <picture>
   <source srcset="/img/servizi/webp/consolidamento-alberi-treeclimbing-potasiepe.webp" type="image/webp">
   <source srcset="/img/servizi/consolidamento-alberi-treeclimbing-potasiepe.jpg" type="image/jpg">
   <img src="/img/servizi/consolidamento-alberi-treeclimbing-potasiepe.jpg" width="800" height="600" alt="Tree Climbing" title="Tree Climbing"/>
 </picture>
+</div>
 <br/>
 
 E' una tecnica di arrampicata che consente di accedere alla chioma e su qualsiasi parte dell'albero di qualsiasi altezza. **Muovendosi in totale sicurezza** con l’ausilio di imbraghi, caschi, corde e altri attrezzi specifici, **si possono eseguire interventi di potatura, abbattimento, consolidamento e monitoraggio**.
