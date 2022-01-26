@@ -13,7 +13,6 @@ order: 6
 # Abbattimento e Potatura Alberi
 
 <br/>
-✓ Potasiepe è una ditta specializzata nell'abbattimento e potatura di alberi anche in tree climbing, operante a Udine e Gorizia.
 <div class="carousel">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/potatura-ornamentale-conifere-topiaria.jpg" alt="potatura alberi e conifere ornamentale" title="potatura alberi ornamentale">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/smaltimento.jpg" alt="smaltimento potatura abbattimento alberi" title="smaltimento">
@@ -21,6 +20,8 @@ order: 6
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento-albero.jpg" alt="abbattimento albero" title="abbattimento albero">
 </div>
 <br/>
+
+✓ Potasiepe è una ditta specializzata nell'abbattimento e potatura di alberi anche in tree climbing, operante a Udine e Gorizia.
 
 Abbattere un albero è sempre un colpo al cuore ma a volte è necessario.
 Quando un albero è cariato e la sua stabilità compromessa, quando mina l'integrità  e la salute di un edificio purtroppo lo si deve abbattere.

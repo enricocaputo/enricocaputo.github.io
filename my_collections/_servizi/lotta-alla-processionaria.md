@@ -11,8 +11,7 @@ order: 7
 ---
 # Lotta alla Processionaria del pino
 
-<p class="text-center"><strong>Rimozione processionaria del pino a Udine e Gorizia</strong></p>
-
+<br/>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -20,7 +19,7 @@ order: 7
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br/>
+<p class="text-center"><strong>Rimozione processionaria del pino a Udine e Gorizia</strong></p>
 
 [Potasiepe](/chi-sono/ "about") è una realtà innovativa che propone l’utilizzo di prodotti naturali e biotecnologie a tutela delle piante.
 
