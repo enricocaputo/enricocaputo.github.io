@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Proxima Nova';
     src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
-        url('/assets/ProximaNova-Regular.woff2') format('woff2'),
-        url('/assets/ProximaNova-Regular.woff') format('woff'),
-        url('/assets/ProximaNova-Regular.ttf') format('truetype');
+        url('/assets/ProximaNova-Regular-subset.woff2') format('woff2'),
+        url('/assets/ProximaNova-Regular-subset.zopfli.woff') format('woff'),
+        url('/assets/ProximaNova-Regular-subset.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
   }
@@ -11,9 +11,9 @@
 @font-face {
     font-family: 'Proxima Nova';
     src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
-        url('/assets/ProximaNova-Semibold.woff2') format('woff2'),
-        url('/assets/ProximaNova-Semibold.woff') format('woff'),
-        url('/assets/ProximaNova-Semibold.ttf') format('truetype');
+        url('/assets/ProximaNova-Semibold-subset.woff2') format('woff2'),
+        url('/assets/ProximaNova-Semibold-subset.zopfli.woff') format('woff'),
+        url('/assets/ProximaNova-Semibold-subset.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
   }
@@ -240,6 +240,10 @@ table {
 @media (max-width: 767px) {
   body {
     text-align: left;
+  }
+
+  h1 {
+    font-size: calc(1.475rem + 2.25vw);
   }
 
   main {
