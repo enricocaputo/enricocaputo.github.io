@@ -22,8 +22,8 @@ order: 3
 <br/>
 
 Impianti d'irrigazione a Udine e Gorizia, irrigazione giardino a **basso consumo idrico**. Installatore autorizzato
-<a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener nofollow"><strong>HUNTER</strong></a> e
-<a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" target="_blank" rel="noopener nofollow"><strong>RAIN BIRD</strong></a>.
+<a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener noreferrer"><strong>HUNTER</strong></a> e
+<a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" target="_blank" rel="noopener noreferrer"><strong>RAIN BIRD</strong></a>.
 
 ## Impianti di irrigazione moderni a prestazioni elevate
 
