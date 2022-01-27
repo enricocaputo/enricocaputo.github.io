@@ -1,21 +1,41 @@
 @font-face {
-    font-family: 'Proxima Nova';
-    src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
-        url('/assets/ProximaNova-Regular-subset.woff2') format('woff2'),
-        url('/assets/ProximaNova-Regular-subset.zopfli.woff') format('woff'),
-        url('/assets/ProximaNova-Regular-subset.ttf') format('truetype');
-    font-weight: 400;
+  font-family: 'system-ui';
+  font-style: normal;
+  font-weight: 400;
+  src: local(".SFNSText-Regular"), local(".HelveticaNeueDeskInterface-Regular"),
+    local(".LucidaGrandeUI"), local("Segoe UI"), local("Ubuntu"),
+    local("Roboto-Regular"), local("DroidSans"), local("Tahoma");
+  }
+
+  @font-face {
+    font-family: 'system-ui';
     font-style: normal;
+    font-weight: 700;
+    src: local(".SFNSText-Bold"), local(".HelveticaNeueDeskInterface-Bold"),
+      local(".LucidaGrandeUI"), local("Segoe UI Bold"), local("Ubuntu Bold"),
+      local("Roboto-Bold"), local("DroidSans-Bold"), local("Tahoma Bold");
   }
 
 @font-face {
-    font-family: 'Proxima Nova';
-    src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
-        url('/assets/ProximaNova-Semibold-subset.woff2') format('woff2'),
-        url('/assets/ProximaNova-Semibold-subset.zopfli.woff') format('woff'),
-        url('/assets/ProximaNova-Semibold-subset.ttf') format('truetype');
-    font-weight: 600;
-    font-style: normal;
+  font-display: swap;
+  font-family: 'ProximaNova';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
+  url('/assets/ProximaNova-Regular-subset.woff2') format('woff2'),
+  url('/assets/ProximaNova-Regular-subset.zopfli.woff') format('woff'),
+  url('/assets/ProximaNova-Regular-subset.ttf') format('truetype');
+  }
+
+@font-face {
+  font-display: swap;
+  font-family: 'ProximaNova';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
+  url('/assets/ProximaNova-Semibold-subset.woff2') format('woff2'),
+  url('/assets/ProximaNova-Semibold-subset.zopfli.woff') format('woff'),
+  url('/assets/ProximaNova-Semibold-subset.ttf') format('truetype');
   }
 
 *,
@@ -37,7 +57,7 @@ body {
   padding: 0;
   background: #003200;
   color: #202124;
-  font: 400 17px/1.7 "proxima-nova", 'Proxima Nova', sans-serif;
+  font: 400 17px/1.7 'ProximaNova', 'system-ui';
   text-align: justify;
 }
 
