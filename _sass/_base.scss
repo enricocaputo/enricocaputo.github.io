@@ -59,8 +59,8 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  font-size: 1.923em;
   font-variant-caps: all-small-caps;
+  font-size: calc(1.5rem + 3vw);
   text-align: center;
   color: #003200;
 }
@@ -242,10 +242,6 @@ table {
 @media (max-width: 767px) {
   body {
     text-align: left;
-  }
-
-  h1 {
-    font-size: calc(1.5rem + 2.5vw);
   }
 
   main {
