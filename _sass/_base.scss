@@ -1,6 +1,6 @@
 @font-face {
   font-display: swap;
-  font-family: ProximaNova;
+  font-family: 'Proxima Nova';
   font-style: normal;
   font-weight: 400;
   src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
@@ -11,7 +11,7 @@
 
 @font-face {
   font-display: swap;
-  font-family: ProximaNova;
+  font-family: 'Proxima Nova';
   font-style: normal;
   font-weight: 600;
   src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
@@ -39,7 +39,7 @@ body {
   padding: 0;
   background: #003200;
   color: #202124;
-  font: 400 17px/1.7 ProximaNova;
+  font: 400 17px/1.7 'Proxima Nova', sans-serif;
   text-align: justify;
 }
 
