@@ -1,24 +1,6 @@
 @font-face {
-  font-family: 'system-ui';
-  font-style: normal;
-  font-weight: 400;
-  src: local(".SFNSText-Regular"), local(".HelveticaNeueDeskInterface-Regular"),
-    local(".LucidaGrandeUI"), local("Segoe UI"), local("Ubuntu"),
-    local("Roboto-Regular"), local("DroidSans"), local("Tahoma");
-  }
-
-  @font-face {
-    font-family: 'system-ui';
-    font-style: normal;
-    font-weight: 700;
-    src: local(".SFNSText-Bold"), local(".HelveticaNeueDeskInterface-Bold"),
-      local(".LucidaGrandeUI"), local("Segoe UI Bold"), local("Ubuntu Bold"),
-      local("Roboto-Bold"), local("DroidSans-Bold"), local("Tahoma Bold");
-  }
-
-@font-face {
   font-display: swap;
-  font-family: 'ProximaNova';
+  font-family: ProximaNova;
   font-style: normal;
   font-weight: 400;
   src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
@@ -29,7 +11,7 @@
 
 @font-face {
   font-display: swap;
-  font-family: 'ProximaNova';
+  font-family: ProximaNova;
   font-style: normal;
   font-weight: 600;
   src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
@@ -57,7 +39,7 @@ body {
   padding: 0;
   background: #003200;
   color: #202124;
-  font: 400 17px/1.7 'ProximaNova', 'system-ui';
+  font: 400 17px/1.7 ProximaNova;
   text-align: justify;
 }
 
