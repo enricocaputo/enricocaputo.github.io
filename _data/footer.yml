@@ -28,7 +28,7 @@
       social_icon: Twitter
       new_window: true
     - name: Blog
-      link: /consigli-di-giardinaggio/
+      link: /news/
       social_icon: Github
       new_window: false
     - name: RSS
