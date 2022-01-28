@@ -43,7 +43,7 @@ Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno
 
 ## Dove? Anche dai tuoi vicini
 
-Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 40 Km da Cervignano del Friuli, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br/>
+Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/giardiniere-a-gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 40 Km da Cervignano del Friuli, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br/>
 Il **preventivo è gratuito** e nella sezione prezzi puoi farti un'idea abbastanza precisa del [costo taglio siepe al metro lineare](/prezzi/ "costo taglio siepe al metro lineare").
 
 ## Mesi ideali e luna calante per il taglio della siepe
@@ -54,7 +54,7 @@ Anche la luna è importante! Se il taglio della siepe avviene nel periodo di **l
 
 ## Trattamenti, concimazioni e consigli
 
-Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi/disinfestazioni/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e d'insetti: oidio, necrosi, cocciniglie ecc.
+Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi/lotta-alla-processionaria/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e d'insetti: oidio, necrosi, cocciniglie ecc.
 
 Le foglie della tua siepe sono ingiallite, hanno la muffa, sono bucherellate e annerite? Approfitta dei **preziosi consigli** di Giardiniere Potasiepe.
 
