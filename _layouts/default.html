@@ -30,12 +30,16 @@ if ('serviceWorker' in navigator) {
 </script>
 {% if page.comments %}
 <script>
-(function() {
-var d = document, s = d.createElement('script');
-s.src = '//potas.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
+  window.onscroll = function(ev) {
+      if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+        (function() {
+        var d = document, s = d.createElement('script');
+        s.src = '//potas.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+      }
+  };
 </script>
 <noscript>Abilita JavaScript per vedere i commenti <a href="https://disqus.com/?ref_noscript">powered by Disqus.</a></noscript>
 {% endif %}
