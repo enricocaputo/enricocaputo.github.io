@@ -4,9 +4,9 @@
   font-style: normal;
   font-weight: 400;
   src: local('Proxima Nova Regular'), local('Proxima-Nova-Regular'),
-  url('/assets/ProximaNova-Regular-subset.woff2') format('woff2'),
-  url('/assets/ProximaNova-Regular-subset.zopfli.woff') format('woff'),
-  url('/assets/ProximaNova-Regular-subset.ttf') format('truetype');
+  url('/fonts/ProximaNova-Regular-subset.woff2') format('woff2'),
+  url('/fonts/ProximaNova-Regular-subset.zopfli.woff') format('woff'),
+  url('/fonts/ProximaNova-Regular-subset.ttf') format('truetype');
   }
 
 @font-face {
@@ -15,9 +15,9 @@
   font-style: normal;
   font-weight: 600;
   src: local('Proxima Nova Semibold'), local('Proxima-Nova-Semibold'),
-  url('/assets/ProximaNova-Semibold-subset.woff2') format('woff2'),
-  url('/assets/ProximaNova-Semibold-subset.zopfli.woff') format('woff'),
-  url('/assets/ProximaNova-Semibold-subset.ttf') format('truetype');
+  url('/fonts/ProximaNova-Semibold-subset.woff2') format('woff2'),
+  url('/fonts/ProximaNova-Semibold-subset.zopfli.woff') format('woff'),
+  url('/fonts/ProximaNova-Semibold-subset.ttf') format('truetype');
   }
 
 *,
@@ -28,6 +28,7 @@
 
 html {
   overflow-x:hidden;
+  scroll-behavior: smooth;
   text-rendering: optimizeLegibility;
   text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -54,23 +55,23 @@ a {
 }
 
 h1, h2, h3, h4 {
-  line-height: 1.2;
+  font-weight: 600;
+  line-height: 1.45;
   margin-bottom: 0.3em;
 }
 
 h1 {
-  font-variant-caps: all-small-caps;
-  font-size: calc(1.5rem + 3vw);
   text-align: center;
+  text-transform: uppercase;
   color: #003200;
 }
 
 h2, .h2 {
-  font-size: 1.538em;
+  font-size: 1.5em;
 }
 
 h3, .h3 {
-  font-size: 1.185em;
+  font-size: 1.17em;
 }
 
 .hero {
