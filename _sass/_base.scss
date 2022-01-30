@@ -247,6 +247,11 @@ table {
     text-align: left;
   }
 
+  h1 {
+    font-size: calc(1.25em + 2vw);
+    word-wrap: break-word;
+  }
+
   main {
     padding-bottom: 10rem;
   }
