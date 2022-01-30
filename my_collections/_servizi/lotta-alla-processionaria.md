@@ -9,7 +9,7 @@ webp: /img/servizi/webp/lotta-alla-processionaria-pino.webp
 image_path: /img/servizi/lotta-alla-processionaria-400x300.jpg
 order: 7
 ---
-# Lotta alla Processionaria del pino
+# Lotta alla processionaria del pino
 
 <br/>
 <div class="carousel">

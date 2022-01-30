@@ -35,7 +35,7 @@ Quando un albero è cariato e la sua stabilità compromessa, quando mina l'integ
 </div>
 <br/>
 
-## Potatura e Abbattimento Alberi con Piattaforma Aerea PLE
+## Potatura e abbattimento alberi con piattaforma PLE
 <br/>
 <div class="carousel">
 <picture>
