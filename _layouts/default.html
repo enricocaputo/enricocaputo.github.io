@@ -16,11 +16,11 @@ layout: compress
 {% include sidebar-shortcuts.html %}
 {% include footer.html %}
 {% if page.carousel %}
-  <script>
+  <script defer>
     {% include carousel.min.js %}
   </script>
 {% endif %}
-<script>
+<script defer>
   {% include cookieconsent.min.js %}
 </script>
 {% if page.comments %}
@@ -38,7 +38,7 @@ layout: compress
   </script>
   <noscript>Abilita JavaScript per vedere i commenti <a href="https://disqus.com/?ref_noscript">powered by Disqus.</a></noscript>
 {% endif %}
-<script>
+<script defer>
    if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js')})}
 </script>
 </body>
