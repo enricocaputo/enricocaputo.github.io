@@ -18,4 +18,9 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
+  {% if page.carousel %}
+  <script async src="/js/carousel.min.js"></script>
+  {% endif %}
+  <script async src="/js/cookieconsent.min.js"></script>
+  <script async src="/js/serviceWorkerInNavigator.js"></script>
 </head>
