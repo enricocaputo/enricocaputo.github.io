@@ -1,16 +1,16 @@
 module.exports = {
 	globDirectory: '/',
 	globPatterns: [
-		'**/*.{ico,png,jpg,svg,webp,js}'
+		'**/*.{ico,woff2,png,jpg,svg,webp,js}'
 	],
-	swDest: '/sw.js',
+	swDest: '_site/sw.js',
 	runtimeCaching: [{
 		urlPattern: /\.(?:png|jpg|jpeg|svg)$/,
 		handler: 'CacheFirst',
 		options: {
 			cacheName: 'images',
 				expiration: {
-				maxEntries: 22,
+				maxEntries: 19,
 			},
 		},
 	}],
