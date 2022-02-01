@@ -15,14 +15,14 @@ layout: compress
 </div>
 {% include sidebar-shortcuts.html %}
 {% include footer.html %}
+<script>
+  {% include cookieconsent.min.js %}
+</script>
 {% if page.carousel %}
   <script>
     {% include carousel.min.js %}
   </script>
 {% endif %}
-<script>
-  {% include cookieconsent.min.js %}
-</script>
 {% if page.comments %}
   <script>
     window.onscroll = function(ev) {
