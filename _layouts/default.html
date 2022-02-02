@@ -5,6 +5,7 @@ layout: compress
 <html lang="it-IT">
 {% include head.html %}
 <body>
+{% include cookieconsent.html %}
 {% include header.html %}
 <div class="wrapper">
   {% include breadcrumbs.html path=page.path title=page.title %}
@@ -14,13 +15,12 @@ layout: compress
 </div>
 {% include sidebar-shortcuts.html %}
 {% include footer.html %}
-{% include cookieconsent.html %}
-<script type="application/javascript">{% include cookieconsent.min.js %}</script>
+<script src="{{ site.baseurl }}/js/cookieconsent.min.js"></script>
 {% if page.carousel %}
-<script type="application/javascript">{% include carousel.min.js %}</script>
+<script>{% include carousel.min.js %}</script>
 {% endif %}
 {% if page.comments %}
-<script type="application/javascript">{% include comments.js %}</script>
+<script>{% include comments.js %}</script>
 <noscript>Abilita JavaScript per vedere i commenti <a href="https://disqus.com/?ref_noscript">powered by Disqus.</a></noscript>
 {% endif %}
 <script>
