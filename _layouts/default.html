@@ -11,10 +11,10 @@ layout: compress
   <main>
     {{ content }}
   </main>
+  {% include cookieconsent.html %}
 </div>
 {% include sidebar-shortcuts.html %}
 {% include footer.html %}
-{% include cookieconsent.html %}
 <script src="{{ site.baseurl }}/js/cookieconsent.min.js"></script>
 {% if page.carousel %}
 <script>{% include carousel.min.js %}</script>
