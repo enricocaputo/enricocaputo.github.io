@@ -7,11 +7,11 @@ layout: compress
 <body>
 {% include header.html %}
 <div class="wrapper">
+  {% include cookieconsent.html %}
   {% include breadcrumbs.html path=page.path title=page.title %}
   <main>
     {{ content }}
   </main>
-  {% include cookieconsent.html %}
 </div>
 {% include sidebar-shortcuts.html %}
 {% include footer.html %}

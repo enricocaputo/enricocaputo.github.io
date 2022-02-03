@@ -74,6 +74,14 @@ h3, .h3 {
   font-size: 1.17em;
 }
 
+#logo {
+    height: 360px;
+    background-image: url("/img/potasiepe-logo-v1.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
 .hero {
   position: relative;
   transform: scale(1.1);
