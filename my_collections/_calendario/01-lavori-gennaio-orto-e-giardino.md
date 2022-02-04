@@ -4,6 +4,7 @@ excerpt: "I principali lavori da compiere in gennaio nell'orto, in cantina, nel 
 image: /img/calendario/gennaio.png
 date: 2019-01-01T05:01:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 Non sono molte le operazioni che si possono

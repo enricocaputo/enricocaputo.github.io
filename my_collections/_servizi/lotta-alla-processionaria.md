@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Lotta alla Processionaria
 subtitle: "Endoterapia, una cura semplice, non invasiva e protegge per ben 3 anni!"
 title: Lotta alla Processionaria del pino Friuli-venezia-giulia

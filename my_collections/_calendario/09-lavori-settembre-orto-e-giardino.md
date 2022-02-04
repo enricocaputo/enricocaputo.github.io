@@ -4,6 +4,7 @@ excerpt: "Il mese di settembre sancisce il calare dell’impegno lavorativo all�
 image: /img/calendario/settembre.png
 date: 2019-01-01T05:09:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 Si consiglia di riportare all’interno le piante d’appartamento e

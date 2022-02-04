@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Rigenerazione Prato
 subtitle: "Il tuo prato ha bisogno di essere rinnovato? Ci pensiamo noi!"
 title: Rinnovare e rigenerare il prato in Friuli-venezia-giulia

@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Giardiniere a Domicilio
 subtitle: Rivolgiti a un professionista altamente qualificato che lavora in sicurezza.
 title: Giardiniere a domicilio a Udine e Gorizia

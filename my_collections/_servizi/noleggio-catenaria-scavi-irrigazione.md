@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Noleggio Catenaria
 subtitle: Noleggio catenaria per scavi poco invasivi che non rovinano il prato.
 title: Noleggio catenaria per scavi Friuli-venezia-giulia

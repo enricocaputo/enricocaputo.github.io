@@ -4,6 +4,7 @@ excerpt: "Agosto mese di vacanze, agosto rinfresca il bosco, recita un detto pop
 image: /img/calendario/agosto.png
 date: 2019-01-01T05:08:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 Come nel mese precedente, annaffiare le aiuole, meglio se nelle ore serali e

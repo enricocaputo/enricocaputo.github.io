@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Gestione Verde Aziendale
 subtitle: Affida a Potasiepe la gestione degli spazi esterni della tua attività.
 title: "Impresa giardinaggio gestione verde aziendale Udine, Gorizia"

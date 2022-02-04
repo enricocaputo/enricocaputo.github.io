@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Abbattimento e Potatura Alberi
 subtitle: "Potatura e abbattimento alberi con piattaforma aerea e Tree Climbing."
 title: "Abbattimento e Potatura Alberi Friuli-venezia-giulia"

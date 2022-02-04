@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Stop Zanzare
 subtitle: Liberati dalle zanzare, proteggi le tue piante dagli insetti.
 title: Disinfestazioni zanzare a Udine, e Gorizia

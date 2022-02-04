@@ -4,6 +4,7 @@ excerpt: "I principali lavori di giardinaggio e le principali incombenze che il 
 image: /img/calendario/dicembre.png
 date: 2019-01-01T05:12:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 **Potare le piante**, evitando le giornate molto fredde ed eventualmente trattarle

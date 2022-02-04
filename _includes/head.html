@@ -1,15 +1,28 @@
 <head>
   <meta charset="UTF-8" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ page.title }}</title>
-  {% seo title=false %}
+  <title>{% if page.title == 'Potasiepe • Giardiniere a Udine e Gorizia' %}{{ page.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% feed_meta %}
+  <link type="application/opensearchdescription+xml" rel="search" href="/PotasiepeRicercaPersonalizzata.xml" title="Potasiepe Ricerca Personalizzata" />
+  <meta property="og:locale" content="it_IT">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:type" content="{% if page.title == 'Potasiepe • Giardiniere a Udine e Gorizia' %}website{% else %}article{% endif %}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}https://www.potasiepe.it/img/share-potasiepe.jpg{% endif %}">
+  <meta name="twitter:card" content="summary">
+  <meta property="twitter:title" content="{{ page.title }}">
+  <meta property="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}https://www.potasiepe.it/img/share-potasiepe.jpg{% endif %}">
+  <meta name="twitter:site" content="@potasiepe">
+  <meta name="twitter:creator" content="@potasiepe">
+  <link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
+  <meta name="theme-color" content="#003200" />
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="icon" type="image/png" href="{{ site.baseurl }}/img/ico/favicon.png" sizes="32x32"/>
   <link rel="apple-touch-icon" href="{{ site.baseurl }}/img/ico/apple-touch-icon.png" sizes="180x180"/>
-  <link rel="manifest" href="{{ site.baseurl }}/manifest.json" />
-  <meta name="theme-color" content="#003200" />
-  {% feed_meta %}
-  <link type="application/opensearchdescription+xml" rel="search" href="/PotasiepeRicercaPersonalizzata.xml" title="Potasiepe Ricerca Personalizzata" />
   <link rel="preload" href="/fonts/ProximaNova-Regular-subset.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/fonts/ProximaNova-Semibold-subset.woff2" as="font" type="font/woff2" crossorigin />
   <style>
@@ -18,4 +31,6 @@
     {% endcapture %}
     {{ include_to_scssify | scssify }}
   </style>
+  <script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","url":"https://www.potasiepe.it","sameAs":["https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html","https://www.facebook.com/giardiniere.potasiepe/","https://twitter.com/potasiepe?lang=it","https://www.paginegialle.it/giardinierepotasiepe_baildd","https://www.paginebianche.it/cervignano-del-friuli/giardiniere-potasiepe.11997753","https://www.yelp.it/biz/potasiepe-cervignano-del-friuli"], "Brand":"Potasiepe","logo":"https://www.potasiepe.it/img/potasiepe1x1.jpg","image":["https://www.potasiepe.it/img/potasiepe1x1.jpg","https://www.potasiepe.it/img/potasiepe4x3.jpg","https://www.potasiepe.it/img/potasiepe16x9.jpg"],"telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"},"openingHours":"Lu-Sa 8:00 - 20:00","priceRange":"€18-50/h","contactPoint":[{"@type":"ContactPoint","telephone":"+39-3889005888","email":"giardiniere@potasiepe.com","contactType":"customer service"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","bestRating":"5","ratingCount":"22"},"name":"Il Giardiniere POTASIEPE"}</script>
+  <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.potasiepe.it/","potentialAction":{"@type":"SearchAction","target":"https://www.potasiepe.it/cerca/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
 </head>

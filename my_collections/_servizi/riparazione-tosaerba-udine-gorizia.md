@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Manutenzione Tosaerba
 subtitle: Affilatura e manutenzione di tagliaerba con motore a scoppio.
 title: "Manutenzione e riparazione tagliaerba Friuli-venezia-giulia"

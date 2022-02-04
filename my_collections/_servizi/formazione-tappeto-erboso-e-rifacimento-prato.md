@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Formazione Tappeti Erbosi
 subtitle: "Un manto erboso nuovo è un nuovo giardino! Rifare il prato da zero."
 title: Formazione tappeto erboso e Rifacimento completo del prato

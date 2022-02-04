@@ -4,6 +4,7 @@ excerpt: "I lavori in novembre in giardino, periodo ideale per la messa a dimora
 image: /img/calendario/novembre.png
 date: 2019-01-01T05:11:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 E’ sempre il periodo ideale per la messa

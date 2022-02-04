@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Prato in Zolla
 subtitle: "Esperienza decennale nella posa del prato pronto. Risparmierete tempo e denaro!"
 title: Prato a Rotoli a Udine e Gorizia

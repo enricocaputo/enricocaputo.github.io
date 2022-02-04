@@ -4,6 +4,7 @@ excerpt: "I lavori da compiere in giardino, nel frutteto e nell'orto in ottobre:
 image: /img/calendario/ottobre.png
 date: 2019-01-01T05:10:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 Estirpare le piante ed i fiori che iniziano a risentire

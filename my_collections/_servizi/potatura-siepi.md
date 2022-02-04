@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Potatura Siepi
 subtitle: 'Potare siepi è la nostra specialità: più accurato non si può!'
 title: "La potatura di siepi è la nostra specialità! - Potasiepe"

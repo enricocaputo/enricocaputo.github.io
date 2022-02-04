@@ -47,23 +47,26 @@ defaults:
     values:
       sitemap: false
   - scope:
+      path: "_calendario"
+    values:
+      layout: "post"
+      author: "potasiepe"
+  - scope:
       path: "_posts"
     values:
       layout: "post"
-      seo:
-        type: "Article"
       author: "potasiepe"
       category: "Orto & Giardino"
       comments: "true"
       image: "/img/share-potasiepe.jpg"
   - scope:
-      path: "_calendario"
+      path: "_prodotti"
     values:
-      layout: "post"
-      author: "potasiepe"
-      comments: "false"
-      seo:
-        type: "Article"
+      layout: "page"
+  - scope:
+      path: "_servizi"
+    values:
+      layout: "page"
   - scope:
       path: "_vendita_piante_online"
     values:
@@ -71,7 +74,6 @@ defaults:
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
 

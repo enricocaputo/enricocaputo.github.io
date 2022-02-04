@@ -4,6 +4,7 @@ excerpt: "Promemoria dei lavori in luglio in giardino, nel prato, e le principal
 image: /img/calendario/luglio.png
 date: 2019-01-01T05:07:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 **Innaffiare** le aiuole, meglio se **nelle ore

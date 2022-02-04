@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Sfalci Erba Altissima
 subtitle: "Hai un appezzamento di terra che non curi da tempo? Chiama ora!"
 title: Sfalci erba altissima Friuli-venezia-giulia

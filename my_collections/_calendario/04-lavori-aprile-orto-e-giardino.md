@@ -4,6 +4,7 @@ excerpt: "Sintesi dei principali lavori di giardinaggio e delle principali incom
 image: /img/calendario/aprile.png
 date: 2019-01-01T05:04:00+00:00
 last_modified_at: 2019-11-27
+comments: false
 ---
 ## Nel giardino
 Mese ideale per la **messa a dimora di molte piante**,

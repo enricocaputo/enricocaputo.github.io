@@ -5,8 +5,6 @@ excerpt: "Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe,
 image: /img/potasiepe-logo-557x500.png
 permalink: /brand/
 ---
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","Brand":"Potasiepe","url":"https://www.potasiepe.it","logo":"https://www.potasiepe.it/img/potasiepe1x1.jpg"}</script>
-
 # Linee guida per l'utilizzo del brand Potasiepe
 
 <div id="logo"></div>

@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Realizzazione Giardini
 subtitle: Progettazione giardini moderni a bassa manutenzione.
 title: Progettazione e Realizzazione Giardini Friuli-venezia-giulia

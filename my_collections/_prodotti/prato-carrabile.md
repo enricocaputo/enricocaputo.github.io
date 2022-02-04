@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Prati Carrabili
 subtitle: "Il prato carrabile è ideale per vialetti e salva il prato anche dai cani scavatori più ostinati."
 title: Posa prato carrabile, Udine, Gorizia

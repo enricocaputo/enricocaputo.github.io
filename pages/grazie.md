@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Messaggio inviato!"
+excerpt: "Messaggio inviato con successo! Grazie, vi risponderò il prima possibile."
 permalink: /grazie.html
 sitemap: false
 ---

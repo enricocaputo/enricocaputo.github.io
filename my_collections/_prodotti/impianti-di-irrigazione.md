@@ -1,5 +1,4 @@
 ---
-layout: page
 name: Irrigazione Giardino
 subtitle: "Impianti di irrigazione moderni a prestazioni elevate e basso consumo idrico."
 title: Impianti di irrigazione giardino Friuli-venezia-giulia
