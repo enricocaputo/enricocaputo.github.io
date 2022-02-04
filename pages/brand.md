@@ -9,10 +9,7 @@ permalink: /brand/
 
 # Linee guida per l'utilizzo del brand Potasiepe
 
----
-
-<br/>
-<img src="/img/potasiepe-logo-557x500.png" width="557" height="500" alt="Potasiepe: marchio" title="Potasiepe: marchio">
+<div id="logo"></div>
 
 Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe, e il logo del giardiniere aitante che impugna il tosasiepi: simboli di eccezionale perizia, serietà, artigianalità tutta italiana.  
 
