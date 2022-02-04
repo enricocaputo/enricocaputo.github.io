@@ -53,7 +53,7 @@ Bianco o comunque molto chiaro, tendente al bianco.
 ### Dimensioni
 Le proporzioni sono 1:1, la dimensione minima per la stampa è 4 cm.
 
-<img src="/img/potasiepe1x1.jpg" alt="Marchio Potasiepe" title="Marchio Potasiepe" style="margin-left:0" width="200" height="200">
+<img src="/img/potasiepe-logo-200x200.png" alt="Potasiepe ® Marchio Registrato, Registered Trademark" style="margin-left:0" width="200" height="200">
 
 ## I siti web di Potasiepe
 
