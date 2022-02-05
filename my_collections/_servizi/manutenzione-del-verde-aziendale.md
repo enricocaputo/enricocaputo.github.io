@@ -10,13 +10,13 @@ order: 9
 ---
 # Gestione verde aziendale
 
-<br/>
+<br>
 <div class="carousel">
   <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide0.jpg" alt="gestione del verde industriale" title="gestione del verde industriale">
   <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide3.jpg" alt="manutenzione del verde commerciale" title="manutenzione del verde commerciale e industriale">
   <img class="mySlides" width="800" height="533" src="{{ site.baseurl }}/img/slides/verde-commerciale/slide4.jpg" alt="sfalcio erba grandi superfici" title="sfalcio erba grandi superfici">
 </div>
-<br/>
+<br>
 
 **La cura del verde è un importante biglietto da visita**. Testimonia la vostra sensibilità per il benessere dei lavoratori, mette a loro agio i clienti e **aumenta la reputazione della vostra azienda**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale.
 
@@ -44,9 +44,9 @@ Se avete già affidato la parte progettuale ad un architetto saremo lieti di occ
 
 Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiepe a Udine")** e **[Gorizia](/gorizia/ "Il giardiniere Potasiepe anche a Gorizia")** in un raggio di circa 40 km dalla nostra sede di Cervignano del Friuli (UD).
 
-<br/>
+<br>
 <div class="text-center">
   <p class="h3">Sopralluogo Gratuito</p>
   <a title="Compila il modulo online" href="/contatti/" class="button"> PRENOTA </a>
 </div>
-<br/><br/>
+<br><br>

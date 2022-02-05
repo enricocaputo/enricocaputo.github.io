@@ -10,13 +10,13 @@ order: 0
 ---
 # Progettazione e Realizzazione Giardini
 
-<br/>
+<br>
 <div class="carousel">
   <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">
   <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia">
   <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine">
 </div>
-<br/><br/>
+<br><br>
 
 &#10004; **Progettazione gratuita** ai clienti che ci affidano la realizzazione del loro giardino!
 
@@ -68,12 +68,12 @@ Il progetto del giardino si realizza in tre fasi:
 
 ### 1. Bozza di progetto
 A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
-<br/><br/>
+<br><br>
 ![Bozza di progetto di un giardino](/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
 
 ### 2. Progetto definitivo
 Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino vi proporrò una lista di piante e manufatti tra cui scegliere.
-<br/><br/>
+<br><br>
 ![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
 ### 3. Renderig 3d, e video
@@ -98,17 +98,17 @@ Di seguito i **prezzi medi onnicomprensivi**, riferiti a un **incarico completo*
 
 Il [**Bonus Verde 2022**](/news/bonus-verde "Scopri tutto su Bonus Verde 2022") prevede una detrazione IRPEF del 36% per le spese di sistemazione e progettazione di giardini, tetti verdi e aree scoperte private in genere.
 
-<br/>
+<br>
 <div class="text-center">
   <h2>Desideri progettare un giardino?</h2>
   <a title="contatti" href="/contatti/" aria-label="contatti" class="button">CONTATTAMI</a>
 </div>
-<br/><br/>
+<br><br>
 
 ## Realizzazione giardini
 
 Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, [impianti di irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino") e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e [prato a rotoli](/prodotti/prato-a-rotoli/ "prato a rotoli"). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
 
-<br/>
+<br>
 
 ![Giardini design, Udine, Gorizia](\img\posts\giardini\giardino-acquatico.jpg "Giardini design, Udine, Gorizia")

@@ -8,14 +8,14 @@ permalink: /chi-sono/
 ---
 # Chi sono
 
-<br/>
+<br>
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="500" height="473" style="border-radius: 35% 0 5% 5%;" alt="Enrico" title="Enrico"/>
 </picture>
 
-<br/>
+<br>
 Mi chiamo Enrico, di lavoro **curo gli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà in cui ho accesso.
 
 Non di rado i miei clienti mi confidano brutte esperienze passate con altri giardinieri. Credo fermamente che la serietà e la **puntualità** siano doti indispensabili di un giardiniere professionista tanto quanto la preparazione e la **competenza**. Per questi motivi mi impegno a svolgere i lavori con la massima accuratezza e non dormo sugli allori del diploma di laurea ma dedico molto del mio tempo libero allo studio delle piante.
@@ -44,12 +44,12 @@ Se cerchi consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](
 Nel corso degli anni ho svolto un gran numero di progetti di giardini e terrazze, manutenzioni del verde, installazione di impianti di irrigazione, qui trovi una [galleria](/gallery/ "qui trovi una galleria di immagini di alcuni miei progetti di giardini e terrazze") di immagini.
 Infine, se vuoi conoscere i costi visita la pagina [prezzi](/prezzi/ "prezzi") oppure [scrivimi](/contatti/ "contatti") per un sopralluogo gratuito e senza impegno.
 
-<br/>
+<br>
 <div class="text-center">
   <p class="h3">PREVENTIVO GRATUITO</p>
   <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
-<br/><br/>
+<br><br>
 
 ## Le opinioni dei clienti
 <p class="h3">Il Giardiniere Potasiepe</p>
@@ -71,6 +71,6 @@ Viale Stazione, 28, Cervignano del Friuli UD
 - <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
 - "Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!"
 
-<br/>
+<br>
 
 <a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="recensioni Google" target="_blank" rel="noopener"> Visualizza le altre recensioni </a>

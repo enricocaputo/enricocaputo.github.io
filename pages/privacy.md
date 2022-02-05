@@ -49,5 +49,5 @@ Per ulteriori informazioni visitare la pagina specifica del browser web che si s
 
 Se avete altre domande su come trattiamo le vostre informazioni personali o se intendete esercitare i vostri diritti previsti dalla presente informativa, potete contattarci ai seguenti recapiti:
 
-Tel. (+39) 388 9005888 <br/>
+Tel. (+39) 388 9005888 <br>
 giardiniere &#64; potasiepe.com

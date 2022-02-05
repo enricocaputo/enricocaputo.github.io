@@ -10,7 +10,7 @@ order: 2
 ---
 # Giardiniere a domicilio
 
-<br/>
+<br>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -18,7 +18,7 @@ order: 2
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br/>
+<br>
 
 Da oggi puoi rivolgerti a **Potasiepe**! Un giardiniere esperto che **ti aiuterà a mantenere in salute le tue piante**.
 
@@ -50,13 +50,13 @@ Lavoro come giardiniere a **[Udine](/giardinaggio-udine/ "giardiniere a Udine pe
 
 Mi sposto spesso tra Monfalcone e Gorizia ma mi muovo volentieri in tutti gli altri comuni della **provincia di [Gorizia](/giardiniere-a-gorizia/ "giardiniere a Gorizia e Monfalcone per potatura siepe e alberi e lavori di giardinaggio, massima serietà e costo onesto")**. Ho lavorato a Capriva, Cormons, Gradisca d'Isonzo, Grado, Romans d'Isonzo, Ronchi dei Legionari, San Pier d'Isonzo ecc.
 
-<br/><br/>
+<br><br>
 
 <div class="text-center">
   <p class="h3">RESTERAI SODDISFATTO</p>
   <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
-<br/>
+<br>
 
 ## Le opinioni dei clienti
 <p class="h3">Il Giardiniere Potasiepe</p>
@@ -78,8 +78,8 @@ Viale Stazione, 28, Cervignano del Friuli UD
 - <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
 - "Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!"
 
-<br/>
+<br>
 
 <a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="recensioni Google" target="_blank" rel="noopener"> Visualizza le altre recensioni </a>
 
-<br/>
+<br>

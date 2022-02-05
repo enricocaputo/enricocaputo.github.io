@@ -10,7 +10,7 @@ order: 7
 ---
 # Lotta alla processionaria del pino
 
-<br/>
+<br>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -62,20 +62,20 @@ Se voi e i vostri animali da compagnia frequentate la zona sottostante ai nidi d
 
 
 
-<br/>
+<br>
 <picture>
   <source srcset="/img/servizi/webp/rimozione-nidi-processionaria-alberi.webp" type="image/webp">
   <source srcset="(/img/servizi/rimozione-nidi-processionaria-alberi.jpg" type="image/jpeg">
   <img src="/img/servizi/rimozione-nidi-processionaria-alberi.jpg" width="800" height="600" alt="Rimozione nidi di processionaria dagli alberi" title="Rimozione nidi di processionaria del pino">
 </picture>
 
-<br/>
+<br>
 <div class="text-center">
   <h2>Desideri un preventivo e maggiori informazioni?</h2>
 
-  <p>Potete specificare l'orario nel quale desiderate essere ricontattati.<br/>
+  <p>Potete specificare l'orario nel quale desiderate essere ricontattati.<br>
   Nella sezione contatti troverete anche il nostro recapito telefonico nel caso desideriate chiamare direttamente.</p>
-<br/><br/>
+<br><br>
   <a title="contatti" href="/contatti/" aria-label="contatti" class="button">SCRIVICI</a>
 </div>
-<br/><br/>
+<br><br>

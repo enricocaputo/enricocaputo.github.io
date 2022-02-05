@@ -14,7 +14,7 @@ layout: default
 		<span class="small-red-line"></span>
 		{% assign author = site.data.authors[page.author] %}
 		<span class="autore">di {{ author.name }}</span>
-		<br/>
+		<br>
 		<time class="post-date">{{ page.last_modified_at | date: "%d %b %Y" }}</time>
 		<p>{{ page.excerpt }}</p>
 
@@ -36,9 +36,9 @@ layout: default
   <div class="post-content">
 		<h2>Indice</h2>
 		{% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
-		<br/>
+		<br>
     {{ content }}
-		<br/>
+		<br>
   </div>
 
   <div class="pagination">

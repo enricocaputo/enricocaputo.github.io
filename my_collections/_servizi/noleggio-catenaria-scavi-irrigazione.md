@@ -10,7 +10,7 @@ order: 11
 ---
 # Noleggio Catenaria
 
-<br/>
+<br>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -18,7 +18,7 @@ order: 11
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br/>
+<br>
 
 Noleggio Catenaria con Operatore per **scavi irrigazione giardino poco invasivi** che non rovinano il prato, a Udine, Gorizia, in un raggio di 40 km da Cervignano del Friuli, UD.
 
@@ -53,11 +53,11 @@ Agli operatori di settore riserviamo uno sconto di € 5/h ma il noleggio avverr
 
 
 
-<br/><br/>
+<br><br>
 <div class="text-center">
   <h2>Desideri noleggiare la catenaria per scavi irrigazione giardino o altro?</h2>
   <p>Chiama adesso per concordare la data dello scavo.</p>
-  <br/>
+  <br>
   <a title="Chiama adesso per concordare la data dello scavo" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
-<br/><br/>
+<br><br>

@@ -17,7 +17,7 @@ permalink: /giardinaggio-udine/
 Offro i miei servizi di giardinaggio a Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana, Manzano, Palmanova, San Giovanni al Natisone e in tutti i comuni della Provincia.
 
 ## La mia specialità è tagliare le siepi e curare i giardini
-Chi sono? Uno che fin da bambino amava i fiori e le piante!<br/>
+Chi sono? Uno che fin da bambino amava i fiori e le piante!<br>
 Sono un giardiniere professionista e qualificato al vostro servizio.
 
 [Progetto giardini](/servizi/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/prodotti/impianti-di-irrigazione/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.

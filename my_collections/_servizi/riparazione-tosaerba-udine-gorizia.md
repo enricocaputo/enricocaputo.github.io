@@ -10,17 +10,17 @@ order: 10
 ---
 # Manutenzione e riparazione di tosaerba
 
-<br/>
+<br>
 
 Centro di assistenza per la manutenzione di tagliaerba a Udine e Gorizia: **affilatura e manutenzione tosaerba di ogni marca**.
 
-<br/><br/>
+<br><br>
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+<br><br>
 
 Si eseguono **messe a punto e piccole riparazioni di tosaerba equipaggiati esclusivamente con motori a scoppio**, delle seguenti marche: Honda, Briggs & Stratton, Loncin e Husqvarna.
 
@@ -42,15 +42,15 @@ Una lama ben affilata **non strappa i fili d'erba** ma li taglia di netto. Se no
 
 I fili d'erba non recisi di netto si ammalano più facilmente, il prato si indebolisce e lascia spazio alle erbe infestanti.
 
-<br/>
+<br>
 <div class="text-center">
   <h3>Affila la lama del tuo tosaerba, avrai un prato più sano!</h3>
   <p>Affilatura lama tagliaerba anche a domicilio con un piccolo rimborso spese di viaggio.</p>
-<br/>
+<br>
   <p class="h3">CHIAMA</p>
   <a title="Chiama Potasiepe" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
-<br/><br/>
+<br><br>
 
 ## Assistenza delle migliori marche di tosaerba
 
@@ -76,11 +76,11 @@ La frequenza degli interventi di manutenzione dipende generalmente dall'utilizzo
 **Forse ti interessa [come scegliere il tosaerba adatto](/news/tagliaerba-quale-scegliere "tagliaerba: quale scegliere").**
 
 
-<br/>
+<br>
 <div class="text-center">
   <h2>Desideri prenotare il tagliando del tuo tosaerba?</h2>
   <p>Possibile ritiro a domicilio con un modico rimborso delle spese di viaggio.</p>
-<br/><br/>
+<br><br>
   <a title="Prenota il ritiro a domicilio del tuo tosaerba" href="/contatti/" class="button">RICHIEDILO ORA!</a>
 </div>
-<br/><br/>
+<br><br>

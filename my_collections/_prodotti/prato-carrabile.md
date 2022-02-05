@@ -10,7 +10,7 @@ order: 0
 ---
 # Il Prato Carrabile
 
-<br/>
+<br>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -18,7 +18,7 @@ order: 0
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br/>
+<br>
 
 Il prato carrabile **è composto da [vero prato](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/ "Potasiepe è specializzato nella formazione di tappeto erboso e prato di ogni genere.") e da una speciale griglia** che protegge il manto erboso dal passaggio dei veicoli, salva il prato anche dai cani scavatori più ostinati e non ostacola la crescita del manto erboso.
 
@@ -49,13 +49,13 @@ Facile e veloce da posare, il prato carrabile è calpestabile da subito, ha otti
 - &#10004; Come tutti i prati necessita di **[un buon impianto d'irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino")**
 
 
-<br/>
+<br>
 <div class="text-center">
   <h2>Desideri un preventivo e maggiori informazioni?</h2>
 
-  <p>Specificate l'orario in cui desiderate essere ricontattati.<br/>
+  <p>Specificate l'orario in cui desiderate essere ricontattati.<br>
   Nella sezione contatti troverete anche il nostro recapito telefonico nel caso desideriate chiamare subito.</p>
-<br/><br/>
+<br><br>
   <a title="contatti" href="/contatti/" aria-label="contatti" class="button">SCRIVICI</a>
 </div>
-<br/><br/>
+<br><br>

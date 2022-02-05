@@ -13,21 +13,21 @@ permalink: /calendario-di-giardinaggio/
 
 ___
 
-<br/>
+<br>
 ## Acquista il Calendario Giardinaggio 2022
-<br/>
+<br>
 
 ![calendario giardinaggio 2022](/img/posts/calendario2022.png "calendario giardinaggio 2022")
 
-<br/>
+<br>
 
 RICHIEDI il **Calendario Giardinaggio 2022** stampato a colori su preziosa carta patinata da 200 gr. ti verrà recapitato nel giro di 3-4 gg. al prezzo di **€ 14,90** - **Spedizione GRATUITA**.
 
-<br/>
+<br>
 <div class="text-center">
   <a title="Richiedi il Calendario Giardinaggio" href="/contatti/" class="button">RICHIEDILO ORA</a>
 </div>
-<br/><br/>
+<br><br>
 
 ___
 

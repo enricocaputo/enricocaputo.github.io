@@ -7,16 +7,16 @@ permalink: /vivaio/
 ---
 # Vivaio: aceri, ulivi, e piante da siepe
 
-<br/>
+<br>
 
 Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai, e piante da siepe. Piante sane, nutrite, e protette.
 
-<br/>
+<br>
 
 ![POTASIEPE vendita piante online](/img/vivai-potasiepe.jpg "vendita piante online")
 
-<br/>
-<br/><br/>
+<br>
+<br><br>
 <h2 class="text-center" id="aceri">Aceri giapponesi</h2>
 
 <div class="list-collection">
@@ -30,10 +30,10 @@ Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi s
     <h3>{{ item.name }}</h3>
     <p>{{ item.excerpt }}</p>
     <p><strong>{{ item.price }},00 €</strong></p>
-    <br/>
+    <br>
     <a title="Acquista ora {{ item.name }}" href="{{ item.link }}" class="button">Acquista ora</a>
     </div>
-    <br/>
+    <br>
 </li>
 {% endfor %}
 </ul>
@@ -52,10 +52,10 @@ Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi s
     <h3>{{ item.name }}</h3>
     <p>{{ item.excerpt }}</p>
     <p><strong>{{ item.price }},00 €</strong></p>
-    <br/>
+    <br>
     <a title="Acquista ora {{ item.name }}" href="{{ item.link }}" class="button">Acquista ora</a>
     </div>
-    <br/>
+    <br>
 </li>
 {% endfor %}
 </ul>

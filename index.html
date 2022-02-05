@@ -9,17 +9,28 @@ carousel: true
 <div id="logo"></div>
 <h1>Il Giardiniere Potasiepe</h1>
 <p class="text-center"><strong>Opera in un raggio di 40 km da Cervignano del Friuli, UD </strong></p>
-<br/>
+<br>
 <div class="carousel" >
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide1.jpg">
   <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide1.jpg" width="800" height="533"  alt="Potaura in altezza di piante da siepe" >
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide2.jpg" width="800" height="533" alt="Piante per siepi in fioriera" >
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide3.jpg" width="800" height="533" alt="Siepe sempreverde di ligustro" >
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide4.jpg" width="800" height="533" alt="Fotinia: piante da siepe a crescita veloce" >
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide5.jpg" width="800" height="533" alt="Giardinaggio: come piantare una siepe" >
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide2.jpg">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide2.jpg" width="800" height="533" alt="Piante per siepi in fioriera">
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide3.jpg">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide3.jpg" width="800" height="533" alt="Siepe sempreverde di ligustro">
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide4.jpg">
+  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide4.jpg" width="800" height="533" alt="Fotinia: piante da siepe a crescita veloce">
+  </picture>
 </div>
 
   <div class="page-content">
-<br/>
+<br>
   <h2>Custode del tuo giardino</h2>
     <i><span class="name">Piacere, Enrico</span></i>
     <p>Di lavoro <strong>curo gli spazi verdi</strong>. Che si tratti di falciare l'erba in un giardino privato, manutenere
@@ -27,24 +38,24 @@ carousel: true
       di macchine moderne ed efficienti</strong>. Decespugliatore, tagliaerba, trattorino ecc. hanno un
       <strong>motore a quattro tempi</strong> in regola con le nuove normative sull'inquinamento. Quando lavoro nei
       centri urbani sono equipaggiato con <strong>attrezzature a batteria</strong>.
-      <br/><a href="/chi-sono/" aria-label="Chi sono">LEGGI TUTTO</a></p>
-<br/>
+      <br><a href="/chi-sono/" aria-label="Chi sono">LEGGI TUTTO</a></p>
+<br>
     <h2>Giardiniere a Udine e Gorizia</h2>
     <p>Il mio lavoro di giardiniere mi ha portato nei comuni di Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana,
     Manzano, Palmanova, San Giovanni al Natisone, Gorizia, Gradisca d'Isonzo, Grado, Monfalcone, Ronchi dei Legionari ecc.
-    <br/>
+    <br>
     Scopri tutti i comuni che ho servito nella provincia di
     <a href="/giardinaggio-udine/" title="Giardinaggio in provincia di Udine, giardiniere a Udine"><strong>Udine</strong></a>
     e in quella di
     <a href="/giardiniere-a-gorizia/" title="Giardinaggio in provincia di Gorizia, giardiniere a Gorizia"><strong>Gorizia</strong></a>.
     </p>
   </div>
-<br/>
+<br>
 
 <h2>La scelta giusta</h2>
 <p>Una vasta gamma di <strong><a href="/servizi/" aria-label="Scopri i servizi di giardinaggio di POTASIEPE">servizi di giardinaggio</a></strong> svolti con la massima <strong>serietà</strong>, <strong>competenza</strong> e <strong>puntualità</strong>, offerti a <strong><a href="/prezzi/" aria-label="Costo giardiniere"> prezzi onesti</a></strong>.
 Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande.
-<br/><a class="text-center" href="/contatti/" aria-label="Contatti">CONTATTAMI</a></p>
+<br><a class="text-center" href="/contatti/" aria-label="Contatti">CONTATTAMI</a></p>
 
 <div class="list-collection">
 <ul>
@@ -72,13 +83,13 @@ Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande.
   </picture>
     <div class="centered">
       <h2 class="h3">Vendita aceri, ulivi, e piante da siepe</h2>
-      <br/>
+      <br>
       <p>
       <a href="/vivaio/" aria-label="vendita piante da siepe e olivi secolari"><strong>VIVAIO</strong></a>
       </p>
     </div>
 </div>
-<br/>
+<br>
 <div>
   <h2><a href="/news/" title="blog di giardinaggio, orto e giardino">Per l'orto e il giardino</a></h2>
   Le ultimissime notizie dal blog:
@@ -86,10 +97,10 @@ Un giardiniere esperto sempre lieto di rispondere a tutte le tue domande.
     {% for post in site.posts limit: 5 %}
       <li>
         <h3>
-          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> </br>.. LEGGI </a>
+          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> <br>.. LEGGI </a>
         </h3>
       </li>
     {% endfor %}
   </ul>
 </div>
-<br/>
+<br>

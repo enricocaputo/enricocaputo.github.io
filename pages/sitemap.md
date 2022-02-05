@@ -10,7 +10,7 @@ permalink: /sitemap/
 
 <p class="text-center"> Usa la mappa per orientarti all'interno del sito web </p>
 
-<br/>
+<br>
 
 {% capture site_url %}{% if site.url %}{{ site.url | append: site.baseurl }}{% else %}{{ site.github.url }}{% endif %}{% endcapture %}
 
@@ -43,7 +43,7 @@ permalink: /sitemap/
   </li>
 </ul>
 
-<br/>
+<br>
 
 <ul>
   <li><h3>I NOSTRI SERVIZI</h3></li>
@@ -56,7 +56,7 @@ permalink: /sitemap/
 	{% endfor %}
 </ul>
 
-<br/>
+<br>
 
 <ul>
   <li><h3>I NOSTRI PRODOTTI</h3></li>
@@ -69,7 +69,7 @@ permalink: /sitemap/
 {% endfor %}
 </ul>
 
-<br/>
+<br>
 
 <ul>
   <li><h3>SCOPRI E ACQUISTA</h3></li>
@@ -100,4 +100,4 @@ permalink: /sitemap/
     </li>
 </ul>
 
-<br/>
+<br>

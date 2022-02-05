@@ -11,14 +11,14 @@ order: 3
 ---
 # Rinnovare il Prato
 
-<br/>
+<br>
 <div class="carousel">
   <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-1.jpg" alt="Come rinnovare il prato con un intervento di trasemina" title="Rigenerazione prato, Udine">
   <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-2.jpg" alt="Rigenerazione prato, concimazione" title="Rinnovamento prato, trasemina e concimazione">
   <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-3.jpg" alt="Rigenerazione prato e verticut" title="Rinnovamento e arieggiatura del prato, Udine, Gorizia">
   <img class="mySlides" width="800" height="600" src="{{ site.baseurl }}/img/servizi/rinnovare-il-prato-4.jpg" alt="Rigenerazione prato con rete livellatrice" title="progetto orto e giardino a Udine">
 </div>
-<br/><br/>
+<br><br>
 
 Il tuo prato ha bisogno di essere rinnovato? Forse hai già provato di tutto, semine,
 concimi, diserbi chimici e manuali ma il tuo prato continua a non darti soddisfazioni.
@@ -52,13 +52,13 @@ future infestanti.
 
 ## Rigenerazione prato, competenza e macchinari professionali
 
-<br/>
+<br>
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br/><br/>
+<br><br>
 
 Perché dovreste affidare a noi il rinnovamento del vostro prato?
 E' molto semplice: abbiamo un'adeguata competenza tecnica e disponiamo di macchinari professionali!
@@ -73,9 +73,9 @@ misurazioni dell'acqua, **analisi del terreno** ecc.
 
 - ✓ Il costo massimo è di € 5,00 al mq IVA inclusa.
 
-<br/><br/>
+<br><br>
 <div class="text-center">
   <p class="h3">CHIAMA CON FIDUCIA!</p>
   <a title="Chiama adesso e prenota la rigenerazione del tuo prato." href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
-<br/><br/>
+<br><br>

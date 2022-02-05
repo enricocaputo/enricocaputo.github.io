@@ -82,7 +82,7 @@ images:
 
 Una raccolta di fotografie a testimonianza del lavoro svolto da il **Giardiniere Potasiepe** nel corso degli anni: progetti di giardini, irrigazioni, potature ecc. [Mi presento..](/chi-sono/ "Chi sono")
 
-<br/>
+<br>
 
 <div class="list-collection">
 <ul class="photo-gallery">

@@ -10,7 +10,7 @@ order: 3
 ---
 # Irrigazione Giardino
 
-<br/>
+<br>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -18,7 +18,7 @@ order: 3
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br/>
+<br>
 
 Impianti d'irrigazione a Udine e Gorizia, irrigazione giardino a **basso consumo idrico**. Installatore autorizzato
 <a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener noreferrer"><strong>HUNTER</strong></a> e
@@ -34,13 +34,13 @@ Grazie all'installazione di impianti d'irrigazione progettati da un professionis
 
 Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
 
-<br/>
+<br>
 <picture>
   <source srcset="/img/prodotti/webp/scavo-irrigazione-giardino.webp" type="image/webp">
   <source srcset="/img/prodotti/scavo-irrigazione-giardino.jpg" type="image/jpeg">
   <img src="/img/prodotti/scavo-irrigazione-giardino.jpg" width="800" height="600" alt="scavi impianto d'irrigazione in giardino" title="scavi impianti irrigazione giardino"/>
 </picture>
-<br/>
+<br>
 
 ### Irrigazione a goccia
 
@@ -48,12 +48,12 @@ L’irrigazione a goccia consente di somministrare a ogni singola pianta la gius
 
 La centralina all'ora stabilita apre l’acqua che, attraverso un'ala gocciolante e appositi tubicini, scorre fino a raggiungere la base delle singole piante.
 
-<br/>
+<br>
 <div class="text-center">
   <p class="h3">PREVENTIVO GRATUITO</p>
   <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
-<br/>
+<br>
 
 ## Vantaggi irrigazione interrata automatica
 
@@ -84,11 +84,11 @@ La manutenzione ordinaria (*check-up*) ha un **costo variabile da 50 a 100 euro*
 - &#10004; Programmazione zone
 - &#10004; Test finale
 
-<br/>
+<br>
 <div class="text-center">
   <p class="h3">Prenota il <em>check-up</em> del tuo impianto d'irrigazione</p>
   <a title="Prenota ora" href="/contatti/" class="button">PRENOTA ORA</a>
 </div>
-<br/><br/>
+<br><br>
 
 ![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")

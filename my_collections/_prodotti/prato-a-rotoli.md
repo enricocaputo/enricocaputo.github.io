@@ -10,7 +10,7 @@ order: 2
 ---
 # Prato a Rotoli a Udine e Gorizia
 
-<br/>
+<br>
 
 <div class="carousel">
   <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia">
@@ -18,7 +18,7 @@ order: 2
   <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
 </div>
 
-<br/><br/>
+<br><br>
 
 Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.
 
@@ -105,14 +105,14 @@ Dopo due o tre settimane si procede con il primo taglio.
 
 A distanza di un mese il prato va concimato e si può iniziare ad irrigare una volta al giorno solamente.
 
-<br/>
+<br>
 
 <div class="text-center">
   <h2>Vuoi acquistare il tuo prato a rotoli?</h2>
   <a title="Prenota adesso il tuo prato a  rotoli" href="/contatti/" class="button">PRENOTA ORA</a>
 </div>
 
-<br/><br/>
+<br><br>
 
 <picture>
   <source srcset="/img/prato/webp/cura-prato-a-rotoli.webp" type="image/webp">

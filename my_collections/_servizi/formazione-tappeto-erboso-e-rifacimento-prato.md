@@ -11,7 +11,7 @@ order: 4
 ---
 # Formazione tappeti erbosi
 
-<br/>
+<br>
 <div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -20,13 +20,13 @@ order: 4
 </picture>
 </div>
 <p class="text-center">Formazione nuovo prato a Udine e Gorizia</p>
-<br/>
+<br>
 
 Il tuo prato [ha bisogno di un rifacimento completo](/servizi/rigenerazione-prato "Forse è sufficiente un rinnovamento del prato?") oppure stai per entrare nella tua nuova casa?
 
 Scegli il meglio per il tuo nuovo prato: Potasiepe ti assicura **la perfetta preparazione del letto di semina, il giusto apporto di concime ed emendanti, le analisi del terreno, macchinari moderni e all'avanguardia**.
 
-<br/>
+<br>
 
 ## Semina tradizionale vs Prato a rotoli
 
@@ -40,18 +40,18 @@ Scegli il meglio per il tuo nuovo prato: Potasiepe ti assicura **la perfetta pre
 
 - &#10004; Offriamo ai nostri clienti **6 mesi di assistenza e garanzia** sul nuovo prato.
 
-<br/>
+<br>
 <div class="text-center">
   <h2>Desideri un preventivo?</h2>
   <p>Telefona e concorda la data per un sopralluogo.</p>
-  <br/>
+  <br>
   <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 
-<br/><br/>
+<br><br>
 <div class="carousel">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/nuovo-prato-finito.jpg" alt="un nuovo prato finito" title="un nuovo prato finito">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/rimozione-ceppo-e-radici.jpg" alt="eliminazione di vecchi ceppi e radici" title="eliminazione di ceppi e radici">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/preparazione-letto-di-semina.jpg" alt="preparazione del letto di semina per un nuovo prato" title="letto di semina prato">
 </div>
-<br/><br/>
+<br><br>

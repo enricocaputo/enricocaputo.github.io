@@ -109,5 +109,5 @@ Si può usare il colore anche per attirare l'attenzione verso un particolare ele
 
 Potete sfruttare anche l'alterazione della percezione della distanza prodotta dai colori. Ad esempio, se mettete in fondo a un giardino dei rossi e degli arancio, si produce un effetto di scorcio che fa sembrare il giardino più corto, mentre i colori pallidi lo fanno sembrare più lungo.
 
-<br/><br/>
+<br><br>
 **Fonte**: RHS, *L'enciclopedia di piante e fiori*, Feltrinelli editore, 2018, ISBN 9788858021903.
