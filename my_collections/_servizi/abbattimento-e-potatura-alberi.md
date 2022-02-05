@@ -25,10 +25,6 @@ order: 6
   <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/abbattimento.jpg">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento.jpg" alt="abbattimento alberi" title="abbattimento alberi">
   </picture>
-  <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/abbattimento-albero.jpg">
-  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento-albero.jpg" alt="abbattimento albero" title="abbattimento albero">
-  </picture>
 </div>
 <br>
 
