@@ -22,15 +22,15 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:locale" content="it_IT">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:type" content="{% if page.title == 'Potasiepe • Giardiniere a Udine e Gorizia' %}website{% else %}article{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Potasiepe">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="{% if page.image %}{{ page.image }}{% else %}https://www.potasiepe.it/img/share-potasiepe.jpg{% endif %}">
-  <meta name="twitter:card" content="summary">
-  <meta property="twitter:title" content="{{ page.title }}">
-  <meta property="twitter:image" content="{% if page.image %}{{ page.image }}{% else %}https://www.potasiepe.it/img/share-potasiepe.jpg{% endif %}">
+  <meta property="og:image" content="https://www.potasiepe.it/img/potasiepe-logo-v1.svg">
   <meta name="twitter:site" content="@potasiepe">
-  <meta name="twitter:creator" content="@potasiepe">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="{% if page.title == 'Potasiepe • Giardiniere a Udine e Gorizia' %}{{ page.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
   <script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","url":"https://www.potasiepe.it","sameAs":["https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html","https://www.facebook.com/giardiniere.potasiepe/","https://twitter.com/potasiepe?lang=it","https://www.paginegialle.it/giardinierepotasiepe_baildd","https://www.paginebianche.it/cervignano-del-friuli/giardiniere-potasiepe.11997753","https://www.yelp.it/biz/potasiepe-cervignano-del-friuli"], "Brand":"Potasiepe","logo":"https://www.potasiepe.it/img/potasiepe1x1.jpg","image":["https://www.potasiepe.it/img/potasiepe1x1.jpg","https://www.potasiepe.it/img/potasiepe4x3.jpg","https://www.potasiepe.it/img/potasiepe16x9.jpg"],"telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"},"openingHours":"Lu-Sa 8:00 - 20:00","priceRange":"€18-50/h","contactPoint":[{"@type":"ContactPoint","telephone":"+39-3889005888","email":"giardiniere@potasiepe.com","contactType":"customer service"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","bestRating":"5","ratingCount":"22"},"name":"Il Giardiniere POTASIEPE"}</script>
   <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.potasiepe.it/","potentialAction":{"@type":"SearchAction","target":"https://www.potasiepe.it/cerca/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
 </head>
