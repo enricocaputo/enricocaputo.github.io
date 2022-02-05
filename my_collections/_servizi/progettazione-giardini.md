@@ -12,9 +12,18 @@ order: 0
 
 <br>
 <div class="carousel">
-  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt="progetto di un giardino a Udine" title="progetto di un giardino a Udine">
-  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progetto di un giardino a Gorizia" title="progetto di un giardino a Gorizia">
-  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progetto orto e giardino a Udine" title="progetto orto e giardino a Udine">
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/progettazione-giardini/400x300/progettazione-aiuole-bassa-manutenzione.jpg">
+  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt=" progettazione aiuole">
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/progettazione-giardini/400x300/realizzazione-progettazione-verde-aziende-2.jpg">
+  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progettazione giardini">
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/progettazione-giardini/400x300/realizzazione-progettazione-verde-aziende.jpg">
+  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progettazione verde per aziende">
+  </picture>
 </div>
 <br><br>
 
