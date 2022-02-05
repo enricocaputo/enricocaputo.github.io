@@ -120,4 +120,4 @@ Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, 
 
 <br>
 
-![Giardini design, Udine, Gorizia](\img\posts\giardini\giardino-acquatico.jpg "Giardini design, Udine, Gorizia")
+![Giardini design, Udine, Gorizia](/img/posts/giardini/giardino-acquatico.jpg "Giardini design, Udine, Gorizia")
