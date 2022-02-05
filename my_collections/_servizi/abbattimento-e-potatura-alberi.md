@@ -14,16 +14,16 @@ order: 6
 <br>
 <div class="carousel">
   <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/potatura-ornamentale-conifere-topiaria.jpg">
-  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/potatura-ornamentale-conifere-topiaria.jpg" alt="potatura alberi e conifere ornamentale" title="potatura alberi ornamentale">
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/abbattimento.jpg">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento.jpg" alt="abbattimento alberi">
   </picture>
   <picture>
   <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/smaltimento.jpg">
-  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/smaltimento.jpg" alt="smaltimento potatura abbattimento alberi" title="smaltimento">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/smaltimento.jpg" alt="smaltimento scarti verdi, recupero ramaglia e potature con camion munito di polipo">
   </picture>
   <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/abbattimento.jpg">
-  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/abbattimento.jpg" alt="abbattimento alberi" title="abbattimento alberi">
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/servizi/400x300/potatura-ornamentale-conifere-topiaria.jpg">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/potatura-ornamentale-conifere-topiaria.jpg" alt="potature ornamentali di alberi">
   </picture>
 </div>
 <br>
