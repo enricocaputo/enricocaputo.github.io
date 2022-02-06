@@ -13,9 +13,18 @@ order: 2
 <br>
 
 <div class="carousel">
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/prato/prato1-400x300.jpg">
   <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato1.jpg" alt="prato a rotoli" title="prato a rotoli, in Udine e Gorizia">
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ page.image_path }}">
   <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato2.jpg" alt="prato a rotoli" title="posa di tappeto erbosa in zolla a rotoli">
+  </picture>
+  <picture>
+  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/prato/prato3-400x300.jpg">
   <img class="mySlides" width="800" height="530" src="{{ site.baseurl }}/img/prato/prato3.jpg" alt="prato a rotoli" title="pallet di prato in zolla pronto per la vendita e la consegna in Udine e Gorizia">
+  </picture>
 </div>
 
 <br><br>
