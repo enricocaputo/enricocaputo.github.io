@@ -5,6 +5,7 @@ excerpt: "Vendita online di piante di acero, aceri rossi, aceri giapponesi, oliv
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
 ---
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"CollectionPage","url":"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"}</script>
 # Vivaio: aceri, ulivi, e piante da siepe
 
 <br>

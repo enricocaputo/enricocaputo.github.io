@@ -5,7 +5,12 @@ excerpt: "Elenco dei prodotti offerti"
 image: /img/prodotti/prato-armato.jpg
 permalink: /prodotti/
 ---
+<script type="application/ld+json">{"@context":"https://schema.org/","@type":"CollectionPage","url":"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"}</script>
 # Prodotti garantiti e sostenibili
+
+La massima cura nella scelta della materia prima e la ricerca della migliore qualità si uniscono alla creatività tipicamente italiana.
+
+## Scopri i nostri prodotti
 
 <div class="list-collection">
 <ul>
@@ -14,7 +19,7 @@ permalink: /prodotti/
 		<li>
       <img src="{% include relative-src.html src=prodotti.image_path %}" width="400" height="300" alt="{{ prodotti.url }}">
       <div>
-      <h2 class="h3">{{ prodotti.name }}</h2>
+      <h3>{{ prodotti.name }}</h3>
       <p>{{ prodotti.subtitle }}</p>
 			<a href="{{ site.baseurl }}{{ prodotti.url }}" title="{{ prodotti.url }}"><strong>SCOPRI E PRENOTA</strong></a>
       </div>
