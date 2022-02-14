@@ -56,7 +56,9 @@ I fili d'erba non recisi di netto si ammalano più facilmente, il prato si indeb
 
 Molti sottovalutano l´importanza di una costante ed accurata manutenzione di questo indispensabile strumento per il mantenimento del giardino, ma essa è essenziale per una lunga durata della macchina e per il suo perfetto funzionamento, un tagliaerba ben manutenuto con piccole spese o nella maggior parte dei casi solo spendendo un po’ di tempo, vi eviterà grosse spese dovute a danneggiamenti per colpa della trascurata manutenzione, o dovute anche solo ad una scarsa pulizia.
 
-**I 5 migliori tosaerba: guida all'acquisto [come scegliere il tosaerba adatto](/news/tagliaerba-quale-scegliere "tagliaerba: quale scegliere")**
+<br>
+**[I 5 migliori tosaerba: guida all'acquisto](/news/tagliaerba-quale-scegliere "I 5 migliori tosaerba: guida all'acquisto")**
+<br>
 
 ### Alcuni consigli per evitare spiacevoli inconvenienti
 
