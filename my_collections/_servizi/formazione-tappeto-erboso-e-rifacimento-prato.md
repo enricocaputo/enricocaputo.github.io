@@ -1,7 +1,7 @@
 ---
 name: Formazione Tappeti Erbosi
 subtitle: "Un manto erboso nuovo è un nuovo giardino! Rifare il prato da zero."
-title: Formazione tappeto erboso e Rifacimento completo del prato
+title: Formazione tappeto erboso e Rifacimento completo del prato a Udine, Gorizia
 excerpt: "Per rifare completamente il prato, insediare un nuovo prato Potasiepe assicura la perfetta preparazione del letto di semina con 6 mesi di assistenza e garanzia."
 image: /img/servizi/prato-rifacimento-completo.jpg
 webp: /img/servizi/webp/prato-rifacimento-completo.webp
