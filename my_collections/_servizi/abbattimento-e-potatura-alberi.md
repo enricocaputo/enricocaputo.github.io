@@ -1,8 +1,8 @@
 ---
 name: Abbattimento e Potatura Alberi
 subtitle: "Potatura e abbattimento alberi con piattaforma aerea e Tree Climbing."
-title: "Abbattimento e Potatura Alberi Friuli-venezia-giulia"
-excerpt: "Vuoi abbattere, potare un albero a Udine e Gorizia? ✓ Potasiepe è una ditta specializzata nell'abbattimento e potatura di alberi e piante ad alto fusto."
+title: "Abbattimento alberi Udine, Gorizia"
+excerpt: "✓ Potasiepe è una ditta specializzata nell'abbattimento e potatura di alberi in Tree Climbing e con PLE a Udine, Gorizia. Anche eliminazione di ceppaie e radici"
 image: /img/servizi/abbattimento-potatura-alberi-PLE.jpg
 webp: /img/servizi/webp/abbattimento-potatura-alberi-PLE.webp
 image_path: /img/servizi/abbattimento-potatura-alberi-400x300.jpg
