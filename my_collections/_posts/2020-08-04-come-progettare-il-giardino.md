@@ -3,7 +3,7 @@ title: "Come progettare un giardino"
 excerpt: "Come progettare un giardino: dividere gli spazi, scegliere e coltivare alberi e piante, creare un arredo verde per ottenere il massimo effetto decorativo."
 image: /img/posts/giardini/progettazione-giardini-contemporanei.jpg
 image_featured: true
-last_modified_at: 2020-08-16T13:32
+last_modified_at: 2022-02-14T8:00
 ---
 ## Stili di giardini
 Esistono molti stili di giardini ma per [ottenere il massimo](/servizi/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere

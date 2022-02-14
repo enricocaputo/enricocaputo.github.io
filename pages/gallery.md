@@ -3,6 +3,7 @@ layout: default
 title: Foto Gallery manutenzione giardini
 excerpt: "Una raccolta di fotografie a testimonianza del lavoro svolto da giardiniere POTASIEPE nel corso degli anni: progetti di giardini, irrigazioni, potature ecc."
 permalink: /gallery/
+last_modified_at: 2022-02-14T8:00
 
 images:
   - image_path: /img/gallery/10.jpg

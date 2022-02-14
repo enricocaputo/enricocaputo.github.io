@@ -5,6 +5,7 @@ excerpt: "Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
+last_modified_at: 2022-02-14T8:00
 ---
 # Lavora con noi
 

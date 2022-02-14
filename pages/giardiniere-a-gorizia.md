@@ -5,6 +5,7 @@ excerpt: "Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, 
 image: /img/gorizia.jpg
 webp: /img/webp/gorizia.webp
 permalink: /giardiniere-a-gorizia/
+last_modified_at: 2022-02-14T8:00
 ---
 # Giardiniere a Gorizia
 

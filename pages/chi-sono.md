@@ -5,6 +5,7 @@ excerpt: "Sono un giardiniere professionista, realizzo giardini e impianti di ir
 image: /img/enrico.jpg
 web: /img/webp/enrico.webp
 permalink: /chi-sono/
+last_modified_at: 2022-02-14T8:00
 ---
 # Chi sono
 

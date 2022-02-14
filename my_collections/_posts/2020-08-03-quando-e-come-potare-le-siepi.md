@@ -3,7 +3,7 @@ title: "Quando e come potare le siepi"
 excerpt: "Quando e come tagliare la siepe? Potare la siepe di bosso, fotinia, tuia, lauroceraso, aucuba, siepe fiorita, siepe sempreverde, siepe formale e informale."
 image: /img/blog/siepe/potatura.jpg
 image_featured: true
-last_modified_at: 2022-01-22T17:37
+last_modified_at: 2022-02-14T8:00
 ---
 ## Siepi sempreverdi
 Le **siepi sempreverdi** (nella foto il [Buxus](/news/siepe-quale-scegliere "scopri le caratteristiche della siepe")) come ad esempio il [lauroceraso](/news/siepe-quale-scegliere "scopri le caratteristiche della siepe") e la [fotinia](/news/siepe-quale-scegliere "scopri le caratteristiche della siepe") vanno potate preferibilmente da metà settembre a inizio dicembre perché in quel momento lo sviluppo si rallenta e la nuova vegetazione che si produce ha il tempo per rafforzarsi prima dell'arrivo del gelo invernale.

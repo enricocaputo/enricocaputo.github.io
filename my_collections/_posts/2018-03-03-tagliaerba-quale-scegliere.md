@@ -3,7 +3,7 @@ title: "Tosaerba a batteria contro motore a scoppio: quale scegliere?"
 excerpt: "Hai mai sentito parlare dei rasaerba a cuscino d'aria e senza ruote? Conosci i tosaerba elicoidali e la differenza tra una batteria da 18v e 50v?"
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
-last_modified_at: 2021-12-29T18:07
+last_modified_at: 2022-02-14T8:00
 ---
 
 ## Tosaerba elettrici 230 Volt

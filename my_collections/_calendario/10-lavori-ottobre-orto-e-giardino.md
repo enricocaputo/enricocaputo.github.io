@@ -3,7 +3,7 @@ title: "Ottobre nell'orto e in giardino"
 excerpt: "I lavori da compiere in giardino, nel frutteto e nell'orto in ottobre: funghi e insetti da questo mese fino al ritorno della primavera non sono più un problema."
 image: /img/calendario/ottobre.png
 date: 2019-01-01T05:10:00+00:00
-last_modified_at: 2019-11-27
+last_modified_at: 2022-02-14T8:00
 comments: false
 ---
 ## Nel giardino

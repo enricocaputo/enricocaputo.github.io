@@ -3,7 +3,7 @@ title: "Aprile nell'orto e in giardino"
 excerpt: "Sintesi dei principali lavori di giardinaggio e delle principali incombenze da compiere per ottenere ottimi risultati in giardino in aprile."
 image: /img/calendario/aprile.png
 date: 2019-01-01T05:04:00+00:00
-last_modified_at: 2019-11-27
+last_modified_at: 2022-02-14T8:00
 comments: false
 ---
 ## Nel giardino

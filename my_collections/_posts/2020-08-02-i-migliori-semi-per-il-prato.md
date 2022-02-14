@@ -3,7 +3,7 @@ title: I migliori tipi di prato
 excerpt: "Scegliere il prato per il giardino, calpestabile, piacevole e non delicato. Impiego sportivo e ornamentale. Quanto impegno: festuca, poa, agrostide, dicondra."
 image: /img/posts/erbe.png
 image_featured: true
-last_modified_at: 2020-08-16T12:48
+last_modified_at: 2022-02-14T8:00
 ---
 Esistono tre fondamentali tipologie di prato: il **prato ornamentale** e di piacere, quello **sportivo** e l'**inerbimento tecnico**. Il primo è quello che ci interessa; a sua volta, si suddivide in numerose varianti riconducibili a due interpretazioni: il prato più o meno grande ma privo di altre piante; il prato di un giardino con alberi, arbusti e fiori dove si instaura  una competizione tra le piante per l'utilizzo di acqua, fattori nutritivi, luce e aria.
 

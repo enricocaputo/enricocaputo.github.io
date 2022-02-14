@@ -3,7 +3,7 @@ title: "Lavori di dicembre in giardino"
 excerpt: "Dicembre: cortecce colorate e fiori profumati. Dicembre non pretende la presenza costante del giardiniere ma alcuni lavori in giardino devono essere svolti."
 image: /img/posts/12-2018.jpg
 image_featured: true
-last_modified_at: 2019-11-08T10:32
+last_modified_at: 2022-02-14T8:00
 ---
 Quasi tutto ciò che ci sarebbe da fare in giardino a dicembre lo si potrebbe
 rimandare al mese successivo. Ma un gennaio particolarmente piovoso e nevoso

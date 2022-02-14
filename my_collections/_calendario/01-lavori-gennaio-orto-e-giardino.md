@@ -3,7 +3,7 @@ title: "Gennaio nell'orto e in giardino"
 excerpt: "I principali lavori da compiere in gennaio nell'orto, in cantina, nel frutteto e in giardino per ottenere anche questo mese dei risultati soddisfacenti."
 image: /img/calendario/gennaio.png
 date: 2019-01-01T05:01:00+00:00
-last_modified_at: 2019-11-27
+last_modified_at: 2022-02-14T8:00
 comments: false
 ---
 ## Nel giardino

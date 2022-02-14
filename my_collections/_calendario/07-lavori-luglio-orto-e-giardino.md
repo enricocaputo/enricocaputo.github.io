@@ -3,7 +3,7 @@ title: "Luglio nell'orto e in giardino"
 excerpt: "Promemoria dei lavori in luglio in giardino, nel prato, e le principali incombenze che il giardiniere deve compiere per ottenere dei risultati gratificanti."
 image: /img/calendario/luglio.png
 date: 2019-01-01T05:07:00+00:00
-last_modified_at: 2019-11-27
+last_modified_at: 2022-02-14T8:00
 comments: false
 ---
 ## Nel giardino

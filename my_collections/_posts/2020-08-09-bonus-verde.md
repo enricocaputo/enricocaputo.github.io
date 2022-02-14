@@ -3,7 +3,7 @@ title: "Bonus Verde 2022"
 excerpt: "Il Bonus Verde 2022 prevede una detrazione fiscale del 36% fino a un importo di 5.000 euro per la progettazione e la sistemazione a verde di giardini e terrazzi"
 image: /img/posts/green-pig.png
 image_featured: true
-last_modified_at: 2021-12-30T14:48
+last_modified_at: 2022-02-14T8:00
 ---
 Il **Bonus Verde 2022** prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista").
 
