@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Servizi - Cosa facciamo"
-excerpt: "Cosa facciamo? Dalla A di Abbattimento Alberi, alla Z di Stop Zanzare, progettazione giardini e manutenzione del verde. Scopri i nostri servizi di giardinaggio."
+title: "Servizi, il nostro lavoro"
+excerpt: "Cosa facciamo? Dalla A di Abbattimento Alberi, alla Z di Stop Zanzare. Realizzazione giardini e manutenzione del verde, scopri i nostri servizi di giardinaggio."
 image: /img/servizi/servizi-giardinaggio.jpg
 permalink: /servizi/
 last_modified_at: 2022-02-14T8:00
