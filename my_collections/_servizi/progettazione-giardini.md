@@ -69,7 +69,11 @@ Se non abiti in Friuli-Venezia Giulia saremo a tua disposizione in videoconferen
 
 La conoscenza botanica, la lunga esperienza in giardini design accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "About")
 
-## Come avviene la progettazione del giardino
+## Come nasce un giardino
+
+<div class="YouTube">
+<iframe width="727" height="409" src="https://www.youtube.com/embed/AuOMG8RhZsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Il progetto del giardino è un percorso creativo e tecnico che sarà facile percorrere in compagnia di un giardiniere paesaggista sempre a vostra disposizione, dalla fase progettuale, a quella esecutiva, fino ai minimi dettagli.
 
