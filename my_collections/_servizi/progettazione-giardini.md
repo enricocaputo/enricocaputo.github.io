@@ -5,16 +5,14 @@ title: Progettazione giardini, realizzo giardini da sogno!
 excerpt: "Progettazione Giardini: come nasce un giardino, costi, perché scegliere Potasiepe Giardini. Dalla progettazione alla realizzazione di un giardino da sogno."
 image: /img/posts/giardini/giardino-contemporaneo.png
 image_path: /img/servizi/esempio-di-giardino-moderno.jpg
-carousel: true
 order: 0
 ---
 # Progettazione giardini
 
 <br>
-<div class="YouTube">
-<iframe width="727" height="409" src="https://www.youtube.com/embed/AuOMG8RhZsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video YouTube carousel" data-videoid="AuOMG8RhZsA">
+  <a href="https://www.youtube.com/watch?v=AuOMG8RhZsA" target="_blank" rel="noopener"><img src="/img/servizi/miniatura-come-nasce-un-giardino-YouTube.jpg" width="900" height="506" alt="Come nasce un giardino" loading="lazy"></a>
 </div>
-<br>
 
 Progettazione di giardini unici, che rispecchiano la vostra personalità e le vostre esigenze.
 
@@ -38,11 +36,11 @@ Questa verrà effettuata con le più moderne tecniche attualmente disponibili: a
 
 La sintesi dello studio del materiale raccolto e dell'idea progettuale verrà concretizzata in un primo elaborato planimetrico utile anche ad ipotizzare il budget destinato alla sua realizzazione.
 
-![Bozza di progetto di un giardino](/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
+<img src="/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg" width="800" height="566" alt="Primo step, bozza di progetto del giardino">
 
 Successivamente a questo si entrerà nello specifico di tutti i particolari tecnico stilistici.
 
-![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
+<img src="/img/slides/progettazione-giardini/planimetria.jpg" width="800" height="566" alt="Progetto definitivo del giardino con tutti i particolari tecnico stilistici">
 
 ### Progettazione Real 3D Garden Design
 
@@ -80,3 +78,19 @@ Ci prendiamo cura del giardino negli anni a venire, siamo specializzati nella [m
   </a>
 </div>
 <br><br>
+
+<script>
+var videos = document.querySelectorAll('.video');
+
+for (var i = 0; i < videos.length; i++) {
+    videos[i].addEventListener('click', function() {
+        var iframe = document.createElement('iframe');
+        iframe.setAttribute('allowfullscreen', '');
+        iframe.setAttribute('allow', 'autoplay; fullscreen');
+         iframe.setAttribute('src', 'https://www.youtube.com/embed/'+ this.dataset.videoid +'?autoplay=1');
+        this.innerHTML = '';
+        this.appendChild(iframe);
+        event.preventDefault();
+    });
+};
+</script>
