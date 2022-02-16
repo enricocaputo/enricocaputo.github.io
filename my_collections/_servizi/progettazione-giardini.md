@@ -43,7 +43,7 @@ Successivamente a questo si entrerà nello specifico di tutti i particolari tecn
 
 ### Progettazione Real 3D Garden Design
 
-Il progetto realizzato con la tecnica della *Real 3D Garden Design* e l'altissima definizione **4K** regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione: manufatti, scale, piscina, accessori. Ogni elemento del giardino è in 3D, viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il Real 3D Garden Design si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
+Il progetto realizzato con la tecnica della *Real 3D Garden Design* e l'altissima definizione **4K** regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione: manufatti, scale, piscina, accessori. Ogni elemento del giardino è in 3D, viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il *Real 3D Garden Design* si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
 
 ### Progettazioni complementari del giardino
 
