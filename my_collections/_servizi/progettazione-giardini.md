@@ -11,7 +11,7 @@ order: 0
 
 <br>
 <div class="video YouTube carousel" data-videoid="AuOMG8RhZsA">
-  <a href="https://www.youtube.com/watch?v=AuOMG8RhZsA" target="_blank" rel="noopener"><img src="/img/servizi/miniatura-come-nasce-un-giardino-YouTube.jpg" width="900" height="506" alt="Come nasce un giardino" loading="lazy"></a>
+  <a href="https://www.youtube.com/watch?v=AuOMG8RhZsA" target="_blank" rel="noopener"><img src="/img/servizi/miniatura-come-nasce-un-giardino-YouTube.jpg" width="900" height="506" alt="Come nasce un giardino"></a>
 </div>
 <br>
 
