@@ -20,7 +20,7 @@ Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano
 ## La mia specialità è tagliare la siepe e curare i giardini
 Sono un giardiniere professionista e qualificato. Offro i miei servizi di giardinaggio a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari, Capriva e in tutti i comuni della Provincia.
 
-[Progetto giardini](/servizi/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/prodotti/impianti-di-irrigazione/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
+[Progetto giardini](/servizi/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/prodotti/irrigazione-giardino/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
 
 **[Scopri di più &gt;](/chi-sono/ "Chi sono")**
 

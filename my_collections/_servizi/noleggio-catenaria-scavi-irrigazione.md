@@ -45,7 +45,7 @@ La catenaria pesa quasi 2 quintali, è ingombrante e il suo utilizzo richiede la
 - &#10003; Niente file e ritardi: arriviamo noi in cantiere all'ora stabilita.
 - &#10003; Evitate ogni responsabilità perché un uso improprio la può danneggiare.
 - &#10003; Evitate di perdere la priorità nel caso dobbiate disdire l'appuntamento causa maltempo.
-- &#10003; Grazie alla nostra [esperienza nel settore irrigazione](/prodotti/impianti-di-irrigazione/ "Potasiepe è installatore autorizzato di impianti di irrigazione giardino dei marchi più prestigiosi") possiamo consigliarvi e aiutarvi a risolvere seduta stante eventuali errori di progettazione.
+- &#10003; Grazie alla nostra [esperienza nel settore irrigazione](/prodotti/irrigazione-giardino/ "Potasiepe è installatore autorizzato di impianti di irrigazione giardino dei marchi più prestigiosi") possiamo consigliarvi e aiutarvi a risolvere seduta stante eventuali errori di progettazione.
 
 ### Sconti per giardinieri e idraulici
 

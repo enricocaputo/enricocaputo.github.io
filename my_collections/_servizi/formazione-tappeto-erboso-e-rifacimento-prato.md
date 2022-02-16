@@ -31,7 +31,7 @@ Scegli il meglio per il tuo nuovo prato: Potasiepe ti assicura **la perfetta pre
 
 ## Semina tradizionale vs Prato a rotoli
 
-- &#10004; Come tutti i prati necessita di **[un buon impianto di irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino")**.
+- &#10004; Come tutti i prati necessita di **[un buon impianto di irrigazione](/prodotti/irrigazione-giardino/ "irrigazione giardino")**.
 
 - &#10004; Con la semina tradizionale il giardiniere può scegliere le sementi che meglio si adattano al vostro giardino.
 

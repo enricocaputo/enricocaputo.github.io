@@ -1,95 +1,82 @@
 ---
 name: Realizzazione Giardini
-subtitle: Progettazione giardini moderni a bassa manutenzione.
-title: Progettazione e realizzo giardini e aiuole. Udine, Gorizia
+subtitle: Progetto giardini unici, realizzo giardini da sogno.
+title: Progettazione giardini, realizzo giardini da sogno!
 excerpt: "Progettazione Giardini: come nasce un giardino, costi, perché scegliere Potasiepe Giardini. Dalla progettazione alla realizzazione di un giardino da sogno."
 image: /img/posts/giardini/giardino-contemporaneo.png
 image_path: /img/servizi/esempio-di-giardino-moderno.jpg
 carousel: true
 order: 0
 ---
-# Progettazione e Realizzazione Giardini
+# Progettazione giardini
 
 <br>
-<div class="carousel">
-  <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/progettazione-giardini/400x300/progettazione-aiuole-bassa-manutenzione.jpg">
-  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto1.jpg" alt=" progettazione aiuole">
-  </picture>
-  <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/progettazione-giardini/400x300/realizzazione-progettazione-verde-aziende-2.jpg">
-  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto2.jpg" alt="progettazione giardini">
-  </picture>
-  <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/progettazione-giardini/400x300/realizzazione-progettazione-verde-aziende.jpg">
-  <img class="mySlides" width="800" height="427" src="{{ site.baseurl }}/img/slides/progettazione-giardini/progetto3.jpg" alt="progettazione verde per aziende">
-  </picture>
-</div>
-<br><br>
-
-&#10004; **Progettazione gratuita** ai clienti che ci affidano la realizzazione del loro giardino!
-
-Progettazione di giardini moderni a bassa manutenzione, terrazzi e giardini contemporanei realizzati su misura in base alle esigenze del cliente. Giardini unici!
-
-Esistono diversi [stili per progettare un giardino](/news/come-progettare-il-giardino "stili progettazione giardino") ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze tenendo in considerazione le caratteristiche dell'ambiente che vi circonda.
-
-## Perché scegliere Giardiniere Potasiepe
-
-La conoscenza botanica, la lunga esperienza in giardini design accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "About")
-
-## Come nasce un giardino
-
 <div class="YouTube">
 <iframe width="727" height="409" src="https://www.youtube.com/embed/AuOMG8RhZsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
 
-Il progetto del giardino è un percorso creativo e tecnico che sarà facile percorrere in compagnia di un giardiniere paesaggista sempre a vostra disposizione, dalla fase progettuale, a quella esecutiva, fino ai minimi dettagli.
+Progettazione di giardini unici, che rispecchiano la vostra personalità e le vostre esigenze.
 
-Il progetto del giardino si realizza in tre fasi:
+La conoscenza botanica, l'esperienza accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "Chi sono")
 
-### 1. Bozza di progetto
-A seguito del nostro primo incontro preparerò una **bozza di progetto**. L'obiettivo di questa fase sarà definire i punti fermi e le caratteristiche più significative che il giardino dovrà avere: la suddivisione degli spazi e le relative funzioni.
-<br><br>
+## Come nasce un giardino
+
+Sopralluogo, i giardini più belli nascono dalle attenta analisi di una serie di elementi: la forma e le dimensioni dello spazio da progettare, il suo **orientamento**, il tipo di **terreno** le **condizioni climatiche**, le **vedute** più importanti da enfatizzare e quelle meno piacevoli da nascondere.
+
+A questo si aggiunge un attento studio delle **essenze autoctone**, dei **materiali** e delle **architetture** tipiche della zona, alla ricerca di una perfetta integrazione con l'ambiente circostante.
+
+### Briefing
+
+Forse l'aspetto più importante di tutti e riuscire a comprendere la **personalità**, lo **stile** e i **desideri** di chi vivrà il futuro giardino. Per questo dedichiamo tutto il tempo necessario a discutere delle soluzioni architettoniche, senza tralasciare gli **aspetti emozionali**, in uno o più incontri con i committenti.
+
+### Acquisizione digitalizzata dello stato dei luoghi
+
+Questa verrà effettuata con le più moderne tecniche attualmente disponibili: aerofotogrammetria e scansione tridimensionale dell'area con drone, acquisizione video e fotografica a 360°. Tutto questo materiale digitalizzato sarà indispensabile per la fase progettuale in studio.
+
+### Primo step di progetto del giardino
+
+La sintesi dello studio del materiale raccolto e dell'idea progettuale verrà concretizzata in un primo elaborato planimetrico utile anche ad ipotizzare il budget destinato alla sua realizzazione.
+
 ![Bozza di progetto di un giardino](/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg "Bozza di progetto di un giardino a Udine")
 
-### 2. Progetto definitivo
-Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la discussione del progetto preliminare. Per ciascuna zona del giardino vi proporrò una lista di piante e manufatti tra cui scegliere.
-<br><br>
+Successivamente a questo si entrerà nello specifico di tutti i particolari tecnico stilistici.
+
 ![Progettazione giardini: esempio di planimetria](/img/slides/progettazione-giardini/planimetria.jpg "Progettazione giardini a Udine e Gorizia - planimetria di progetto definitivo")
 
-### 3. Renderig 3d, e video
-Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
+### Progettazione Real 3D Garden Design
 
-## Costi per progettare il giardino
+Il progetto realizzato con la tecnica della Real 3D Garden Design e l'altissima definizione 4K regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione: manufatti, scale, piscina, accessori. Ogni elemento del giardino è in 3D viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il Real 3D Garden Design si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
 
-**Il costo di progettazione dipende da diversi fattori**, ad esempio, la dimensione del giardino, il numero di piante, il progetto illuminotecnico, eventuali manufatti come ad esempio muretti in pietra, fontane ecc.
+### Progettazioni complementari del giardino
 
-Inoltre, potreste desiderare ricevere solamente una bozza di progetto con alcune indicazioni per mettervi sulla buona strada e poi procedere da soli, oppure potreste affidarmi un incarico completo.
+Qui come per tutti gli altri aspetti progettuali, la tecnica si fonde con l'esperienza, alla ricerca del risultato eccellente. I migliori materiali, tecnici preparati e tecnologia all'avanguardia sono quello che mettiamo quotidianamente in campo per la nostra clientela.
 
-Di seguito i **prezzi medi onnicomprensivi**, riferiti a un **incarico completo** di sopralluogo, bozza e progetto giardino definitivo (è prevista una maggiorazione per spese di viaggio per l'eventuale sopralluogo fuori dalla regione Friuli-venezia-giulia).
+#### 1 Sistema di irrigazione totalmente automatizzato
 
-| Costo progettazione giardino | Superficie mq |
-| ------------------  | ---------------- |
-| € 400,00            | fino a 500 m²    |
-| € 900,00            | 501 - 1000 m²    |
-| € 1.500,00          | 1001 - 2000 m²   |
-| Da concordare       | 2001 - e oltre   |
+Le adeguate conoscenze botaniche e la specifica esperienza sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, [sistema di irrigazione](/prodotti/irrigazione-giardino/ "irrigazione giardino") del giardino.
 
-**&#10004; Gratuita per i clienti che ci affidano anche la realizzazione del giardino!**
+#### 2 scenografia notturna del giardino
 
-Il [**Bonus Verde 2022**](/news/bonus-verde "Scopri tutto su Bonus Verde 2022") prevede una detrazione IRPEF del 36% per le spese di sistemazione e progettazione di giardini, tetti verdi e aree scoperte private in genere.
+L'affascinante studio della luce viene realizzato sulla base di sistemi illuminotecnici a bassissimo consumo energetico prodotti da un'azienda partner su nostre specifiche.
 
-<br>
-<div class="text-center">
-  <h2>Desideri progettare un giardino?</h2>
-  <a title="contatti" href="/contatti/" aria-label="contatti" class="button">CONTATTAMI</a>
-</div>
-<br><br>
+#### 3 Outdoor entertainment system
+
+Sonorizzazione degli spazi ludici o di relax con sistemi acustici innovativi.
 
 ## Realizzazione giardini
 
-Assieme ai miei collaboratori metto a dimora alberi anche di grandi dimensioni, realizzo aiuole, bordure, [impianti di irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino") e prati erbosi di tipo tradizionale (a mezzo fresatura del terreno e semina), e [prato a rotoli](/prodotti/prato-a-rotoli/ "prato a rotoli"). Il risultato è sempre lo stesso: un giardino bello da vedere, su misura per ogni vostra necessità.
+Selezione di [alberi e piante](/vivaio/ "vivaio vendita piante") anche di grandi dimensioni per un giardino pronto effetto. Piante dalle fioriture lunghe e particolarmente belle garantiranno il mantenimento dei risultati nel tempo.
+
+Insediamento del manto erboso di tipo tradizionale oppure di un [prato a zolla in rotolo](/prodotti/prato-a-rotoli/ "prato a zolla in rotolo").
+
+Ci prendiamo cura del giardino negli anni a venire, siamo specializzati nella [manutenzione del verde](/servizi/giardiniere-a-domicilio/ "giardiniere a domicilio").
 
 <br>
-
-![Giardini design, Udine, Gorizia](/img/posts/giardini/giardino-acquatico.jpg "Giardini design, Udine, Gorizia")
+<div class="text-center">
+  <p class="h2">Diamo concretezza alla tue idee!</p>
+  <a title="contatti" href="/contatti/" aria-label="contatti" class="button">
+    CONTATTACI
+  </a>
+</div>
+<br><br>

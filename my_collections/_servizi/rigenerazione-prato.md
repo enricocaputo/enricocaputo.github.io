@@ -43,7 +43,7 @@ prato ha ricominciato la ripresa vegetativa.
 
 Per ottenere e mantenere una buona riuscita nel rinnovare il prato l'elemento acqua
 è essenziale. Se non disponete di una valida irrigazione del giardino vi consiglio
-vivamente, prima di effettuare la trasemina, di far installare [un buon impianto di irrigazione](/prodotti/impianti-di-irrigazione/ "irrigazione giardino") oppure di aggiornare quello esistente.
+vivamente, prima di effettuare la trasemina, di far installare [un buon impianto di irrigazione](/prodotti/irrigazione-giardino/ "irrigazione giardino") oppure di aggiornare quello esistente.
 
 Vi consiglieremo sui giusti tempi d'irrigazione, in maniera da fortificare
 l'apparato radicale dell'erba buona. Con la giusta irrigazione del prato e la
