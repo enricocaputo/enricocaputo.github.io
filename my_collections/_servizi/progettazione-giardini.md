@@ -60,7 +60,7 @@ Il **progetto definitivo** terrà conto dalle indicazioni approvate durante la d
 ### 3. Renderig 3d, e video
 Infine, vi sottoporrò una **stima dei costi** e potrete guardare il vostro futuro giardino da ogni angolazione grazie al **rendering 3d** e a un [**video in realtà virtuale**](https://www.youtube.com/channel/UChOregSevfw5GAASxrTh2DQ "Vai al canale YouTube di Potasiepe - Progettazione giardini a Udine e Gorizia"){:target="_blank"}.
 
-## Progettazione giardini prezzi
+## Costi per progettare il giardino
 
 **Il costo di progettazione dipende da diversi fattori**, ad esempio, la dimensione del giardino, il numero di piante, il progetto illuminotecnico, eventuali manufatti come ad esempio muretti in pietra, fontane ecc.
 
