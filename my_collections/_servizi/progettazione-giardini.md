@@ -1,8 +1,8 @@
 ---
 name: Realizzazione Giardini
 subtitle: Progettazione giardini moderni a bassa manutenzione.
-title: Progettazione e Realizzazione Giardini a Udine e in tutto il Triveneto
-excerpt: "Vuoi progettare, realizzare un giardino a Udine e Gorizia? ✓ Potasiepe è una ditta specializzata nella progettazione e realizzazione di giardini contemporanei."
+title: Progettazione e realizzo giardini e aiuole. Udine, Gorizia
+excerpt: "Progettazione Giardini: come nasce un giardino, costi, perché scegliere Potasiepe Giardini. Dalla progettazione alla realizzazione di un giardino da sogno."
 image: /img/posts/giardini/giardino-contemporaneo.png
 image_path: /img/servizi/esempio-di-giardino-moderno.jpg
 carousel: true
@@ -31,39 +31,7 @@ order: 0
 
 Progettazione di giardini moderni a bassa manutenzione, terrazzi e giardini contemporanei realizzati su misura in base alle esigenze del cliente. Giardini unici!
 
-Angoli da esaltare, spazi da preservare, luoghi da circoscrivere, ogni giardino ha la sua priorità, in simbiosi con l'architettura circostante o in contrasto con essa, per distinguersi, stupire, sorprendere.
-
 Esistono diversi [stili per progettare un giardino](/news/come-progettare-il-giardino "stili progettazione giardino") ma, se volete ottenere il massimo dai vostri spazi, il progetto dovrà rispecchiare i vostri gusti personali e le vostre esigenze tenendo in considerazione le caratteristiche dell'ambiente che vi circonda.
-
-## Progettazione giardini rocciosi
-
-Gli appassionati di giardinaggio che desiderano coltivare un’ampia varietà di piante in uno spazio limitato o che vivono in una zona poco piovosa, potrebbero voler creare un giardino particolare con rocce e pietre.
-
-Molti di questi giardini imitano la natura d’alta montagna o il terreno cotto dal sole del deserto. Che si tratti di un classico giardino roccioso, di un’aiuola di ghiaia o di un’area pavimentata costellata di piante striscianti aromatiche e succulente, le soddisfazioni per gli appassionati sono assicurate.
-
-## Progettazione giardini moderni
-
-I giardini moderni e urbani possono assumere diversi ruoli: uno spazio dove far crescere le piante, rilassarsi, giocare e divertirsi. Sono spazi funzionali in cui prevalgono le superfici solide e l’arredamento, gli effetti luce e gli elementi acquatici.
-
-La configurazione di un giardino urbano si basa di solito su linee semplici, spesso a pianta asimmetrica, con materiali naturali che si combinano con quelli artificiali, come cemento, vetro, plastica, plexiglas e acciaio che forniscono interesse strutturale.
-
-## Progettazione giardini giapponesi
-
-Il giardino in stile giapponese è progettato per creare spazi tranquilli, contemplativi, che rispecchiano il paesaggio naturale con un numero limitato di piante. Il segreto per realizzare uno schema del genere è valutare il rapporto reciproco fra gli elementi principali - massi, ghiaia e piante - e la loro connessione simbolica e spirituale con il mondo naturale.
-
-Le composizioni sempreverdi sono spruzzate di colori stagionali: ciliegi in fiore e camelie in primavera, eleganti iris estivi e chiome di aceri fiammeggianti in autunno.
-
-## Progetto giardino mediterraneo
-
-Lo stile più accessibile per un giardino mediterraneo ha una struttura informale e un’atmosfera rilassata. Il principale materiale duro è la ghiaia, usata per collegare fra loro aiuole e vialetti. Spesso le piante hanno foglie argentate, verde salvia e sfumate di azzurro, che riflettono il forte sole estivo. Piante comuni sono gli olivi, gli agrumi, i fichi, la vite, le santoline e le artemisie, ma anche piante aromatiche come timo, salvia, lavanda e rosmarino.
-
-## Progettazione giardini privati
-
-Il servizio di progettazione giardini è rivolto a proprietari di case indipendenti, aziende, ristoranti, hotel e imprese di costruzioni in Friuli-Venezia Giulia, in provincia di Udine, Gorizia, Trieste.
-
-## Progettazione giardini online
-
-Se non abiti in Friuli-Venezia Giulia saremo a tua disposizione in videoconferenza e il progetto ti verrà consegnato via mail. La progettazione online offre il vantaggio dell'abbattimento dei costi e spesso anche una riduzione delle tempistiche per la consegna del progetto.
 
 ## Perché scegliere Giardiniere Potasiepe
 
