@@ -13,14 +13,13 @@ order: 0
 <div class="video YouTube carousel" data-videoid="AuOMG8RhZsA">
   <a href="https://www.youtube.com/watch?v=AuOMG8RhZsA" target="_blank" rel="noopener"><img src="/img/servizi/miniatura-come-nasce-un-giardino-YouTube.jpg" width="900" height="506" alt="Come nasce un giardino" loading="lazy"></a>
 </div>
+<br>
 
-Progettazione di giardini unici, che rispecchiano la vostra personalità e le vostre esigenze.
-
-La conoscenza botanica, l'esperienza accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "Chi sono")
+Progettazione di giardini unici, che rispecchiano la vostra personalità e le vostre esigenze.<br> La conoscenza botanica, l'esperienza accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "Chi sono")
 
 ## Come nasce un giardino
 
-Sopralluogo, i giardini più belli nascono dalle attenta analisi di una serie di elementi: la forma e le dimensioni dello spazio da progettare, il suo **orientamento**, il tipo di **terreno** le **condizioni climatiche**, le **vedute** più importanti da enfatizzare e quelle meno piacevoli da nascondere.
+Sopralluogo - i giardini più belli nascono dall'attenta analisi di una serie di elementi: la forma e le dimensioni dello spazio da progettare, il suo **orientamento**, il tipo di **terreno** le **condizioni climatiche**, le **vedute** più importanti da enfatizzare e quelle meno piacevoli da nascondere.
 
 A questo si aggiunge un attento studio delle **essenze autoctone**, dei **materiali** e delle **architetture** tipiche della zona, alla ricerca di una perfetta integrazione con l'ambiente circostante.
 
@@ -30,7 +29,7 @@ Forse l'aspetto più importante di tutti e riuscire a comprendere la **personali
 
 ### Acquisizione digitalizzata dello stato dei luoghi
 
-Questa verrà effettuata con le più moderne tecniche attualmente disponibili: aerofotogrammetria e scansione tridimensionale dell'area con drone, acquisizione video e fotografica a 360°. Tutto questo materiale digitalizzato sarà indispensabile per la fase progettuale in studio.
+Questa verrà effettuata con le più moderne tecniche attualmente disponibili: aerofotogrammetria e scansione tridimensionale dell'area con **drone**, acquisizione video e fotografica a 360°. Tutto questo materiale digitalizzato sarà indispensabile per la fase progettuale in studio.
 
 ### Primo step di progetto del giardino
 
@@ -44,7 +43,7 @@ Successivamente a questo si entrerà nello specifico di tutti i particolari tecn
 
 ### Progettazione Real 3D Garden Design
 
-Il progetto realizzato con la tecnica della Real 3D Garden Design e l'altissima definizione 4K regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione: manufatti, scale, piscina, accessori. Ogni elemento del giardino è in 3D viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il Real 3D Garden Design si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
+Il progetto realizzato con la tecnica della *Real 3D Garden Design* e l'altissima definizione **4K** regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione: manufatti, scale, piscina, accessori. Ogni elemento del giardino è in 3D, viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il Real 3D Garden Design si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
 
 ### Progettazioni complementari del giardino
 
