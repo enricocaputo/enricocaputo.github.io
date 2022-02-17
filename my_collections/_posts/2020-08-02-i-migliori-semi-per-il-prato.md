@@ -26,26 +26,26 @@ Un erba molto resistente, di **un bel punto di verde** (né scuro, né chiaro). 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B07QHFBN95&linkId=600be5b947655f961d1dfaf8526e2962&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 ### Ripristino di un prato a zolla in rotolo
-Questa è l'essenza di cui sono composti la maggioranza dei prati in zolla.<br>Adatta anche alla prima semina di un prato. Colore **verde scuro**.
+L'essenza di cui sono composti la maggioranza dei prati in zolla.<br>Adatta anche alla prima semina di un prato. Colore **verde scuro**.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B08TK4QZP7&linkId=10a95e68130515c786d2f92067251499&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 ### Trasemina prato in primavera e autunno
-Germinazione rapidissima. **Verde chiaro**. Particolarmente adatta alla trasemina.
+Germinazione rapidissima. **Verde chiaro**.<br>Particolarmente adatta alla trasemina.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B00N5TEFRM&linkId=4f2b45ca797a456d5f5916589b44ceb4&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 ### Dicondra, per non tosare mai il prato
-Caratteristica forma **a ombrellino**, per un prato diverso. Resiste al sole battente. Si può seminare da sola oppure mescolata con qualsiasi altra essenza.
+Caratteristica forma **a ombrellino**, per un prato diverso.<br>Resiste al sole battente. Si può seminare da sola oppure mescolata con qualsiasi altra essenza.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B01CVZ2V4O&linkId=e472d713c7c50368021cc465414a7c5c&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 ### Trifoglio nano, per un terreno ricco di azoto
-Seminata singolarmente o mescolata con altre essenze. Se doveste pentirvi della scelta si debella facilmente con un diserbante per foglia larga.
+Seminata singolarmente o mescolata con altre essenze. Se doveste pentirvi si debella facilmente con un diserbante per foglia larga.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B01HGSM17I&linkId=a4c6a04bf0b2623285d1c754792908fb&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
-Se volete avventurarvi nella semina di **un prato mono-essenza** di seguito trovate le specie più importanti e il quantitativo necessario per seminare un metro quadro.
+Se volete avventurarvi nella semina di **un prato mono-essenza** di seguito trovate le specie più diffuse.
 
 ## Le specie di prato più importanti
 
