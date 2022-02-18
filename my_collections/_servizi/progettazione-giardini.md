@@ -31,7 +31,7 @@ Forse l'aspetto più importante di tutti e riuscire a comprendere la **personali
 
 Questa verrà effettuata con le più moderne tecniche attualmente disponibili: aerofotogrammetria e scansione tridimensionale dell'area con **drone**, acquisizione video e fotografica a 360°. Tutto questo materiale digitalizzato sarà indispensabile per la fase progettuale in studio.
 
-### Primo step di progetto del giardino
+### Primo step progettuale
 
 La sintesi dello studio del materiale raccolto e dell'idea progettuale verrà concretizzata in un primo elaborato planimetrico utile anche ad ipotizzare il budget destinato alla sua realizzazione.
 
@@ -43,7 +43,7 @@ Successivamente a questo si entrerà nello specifico di tutti i particolari tecn
 
 ### Progettazione Real 3D Garden Design
 
-Il progetto realizzato con la tecnica della *Real 3D Garden Design* e l'altissima definizione **4K** regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione: manufatti, scale, piscina, accessori. Ogni elemento del giardino è in 3D, viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il *Real 3D Garden Design* si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
+Il progetto realizzato con la tecnica della *Real 3D Garden Design* e l'altissima definizione **4K** regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione. Manufatti, scale, piscina, accessori: ogni elemento del giardino è in 3D, viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il *Real 3D Garden Design* si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
 
 ### Progettazioni complementari del giardino
 
