@@ -46,8 +46,8 @@ images:
     title: Trattorino rasaerba con lama mulching
   - image_path: /img/gallery/40.jpg
     title: Aiuole in terrazza con vasi e siepe
-  - image_path: /img/gallery/41.jpg
-    title: Il tagliasiepi a batteria Makita aiuta il giardiniere Potasiepe nella potatura dei piccoli arbusti
+  - image_path: /img/gallery/59.jpg
+    title: Fontane da giardino, installazione e posa
   - image_path: /img/gallery/57.jpg
     title: Posa passi giapponesi da giardino
   - image_path: /img/gallery/43.jpg
