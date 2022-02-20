@@ -55,7 +55,7 @@ Le adeguate conoscenze botaniche e la specifica esperienza sono elementi indispe
 
 <br>
 <div class="text-center">
-  <h3 class="h3">PREVENTIVO GRATUITO</h3>
+  <p class="h3">PREVENTIVO GRATUITO</p>
   <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 <br>
