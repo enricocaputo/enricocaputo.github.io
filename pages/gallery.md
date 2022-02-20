@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foto Gallery manutenzione giardini
+title: MediaGallery manutenzione giardini
 excerpt: "Una raccolta di fotografie a testimonianza del lavoro svolto da giardiniere POTASIEPE nel corso degli anni: progetti di giardini, irrigazioni, potature ecc."
 permalink: /gallery/
 last_modified_at: 2022-02-14T8:00
@@ -14,8 +14,6 @@ images:
     title: Potatura cipresso leylandii
   - image_path: /img/gallery/13.jpg
     title: Utensili manuali per giardino
-  - image_path: /img/gallery/14.jpg
-    title: Riparazione tosaerba, servizio di ritiro a domicilio
   - image_path: /img/gallery/16.jpg
     title: Potatura siepe lauro
   - image_path: /img/gallery/17.jpg
@@ -24,8 +22,6 @@ images:
     title: Sfalcio con trattore e trincia
   - image_path: /img/gallery/19.jpg
     title: Realizzazione aiuole con irrigazione
-  - image_path: /img/gallery/23.jpg
-    title: Carrello da giardinaggio
   - image_path: /img/gallery/24.jpg
     title: Giardiniere Potasiepe spiana e livella il terreno con escavatore
   - image_path: /img/gallery/25.jpg
@@ -46,8 +42,6 @@ images:
     title: Impianto di irrigazione con pozzetto e valvole Claber
   - image_path: /img/gallery/34.jpg
     title: Realizzazione di un giardino con cipresso di leyland e zolle di prato a rotoli
-  - image_path: /img/gallery/36.jpg
-    title: Attrezzi a batteria, soffiatore e tagliasiepe
   - image_path: /img/gallery/38.jpg
     title: Trattorino rasaerba con lama mulching
   - image_path: /img/gallery/40.jpg
@@ -78,8 +72,14 @@ images:
     title: costruzione di un manufatto in tufo dove alloggiare un mandorlo di 10 anni
   - image_path: /img/gallery/53.jpg
     title: stesura zolle di prato in rotoli
+  - image_path: /img/gallery/54.jpg
+    title: Cascata laghetto giardino
+  - image_path: /img/gallery/55.jpg
+    title: Progettazione laghetto giardino
+  - image_path: /img/gallery/56.jpg
+    title: Realizzo laghetto giardino
 ---
-# Fotogallery
+# MediaGallery
 
 Una raccolta di fotografie a testimonianza del lavoro svolto da il **Giardiniere Potasiepe** nel corso degli anni: progetti di giardini, irrigazioni, potature ecc. [Mi presento..](/chi-sono/ "Chi sono")
 
