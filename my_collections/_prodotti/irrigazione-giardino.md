@@ -49,15 +49,13 @@ Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di 
 </picture>
 <br>
 
-### Irrigazione a goccia
+## Sistemi di irrigazione totalmente automatizzati
 
-L’irrigazione a goccia consente di somministrare a ogni singola pianta la giusta quantità d’acqua all’orario desiderato. Una soluzione ideale per le piante in vaso, le aiuole e gli orti.
-
-La centralina all'ora stabilita apre l’acqua che, attraverso un'ala gocciolante e appositi tubicini, scorre fino a raggiungere la base delle singole piante.
+Le adeguate conoscenze botaniche e la specifica esperienza sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, sistema di irrigazione del giardino.
 
 <br>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
+  <h3 class="h3">PREVENTIVO GRATUITO</h3>
   <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
 </div>
 <br>
