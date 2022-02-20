@@ -48,8 +48,8 @@ images:
     title: Aiuole in terrazza con vasi e siepe
   - image_path: /img/gallery/41.jpg
     title: Il tagliasiepi a batteria Makita aiuta il giardiniere Potasiepe nella potatura dei piccoli arbusti
-  - image_path: /img/gallery/42.jpg
-    title: lavorazione di un terreno con la motozappa
+  - image_path: /img/gallery/57.jpg
+    title: Posa passi giapponesi da giardino
   - image_path: /img/gallery/43.jpg
     title: un pallet di prato a rotolo in zolle
   - image_path: /img/gallery/44.jpg
@@ -68,8 +68,8 @@ images:
     title: impianto di irrigazione con valvola master
   - image_path: /img/gallery/51.jpg
     title: potatura oleandro
-  - image_path: /img/gallery/52.jpg
-    title: costruzione di un manufatto in tufo dove alloggiare un mandorlo di 10 anni
+  - image_path: /img/gallery/58.jpg
+    title: Aiuola per Ulivo in tufo, ciottoli e granulati
   - image_path: /img/gallery/53.jpg
     title: stesura zolle di prato in rotoli
   - image_path: /img/gallery/54.jpg
