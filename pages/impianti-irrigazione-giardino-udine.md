@@ -52,7 +52,7 @@ Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono")
 
 ## Sistemi di irrigazione totalmente automatizzati
 
-Le **adeguate conoscenze botaniche** e la **specifica esperienza** sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, sistema di irrigazione del giardino **ben diverso da quello termo sanitario dell'abitazione**.
+Le adeguate **conoscenze botaniche** e la specifica esperienza sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, sistema di irrigazione del giardino **ben diverso da quello termo sanitario** dell'abitazione.
 
 <br>
 <div class="text-center">
