@@ -25,7 +25,7 @@ order: 7
 
 Siamo tra i primi in Friuli-venezia-giulia ad effettuare la lotta alla Processionaria del Pino con sistemi innovativi e sostenibili.
 
-## Lotta alla processionaria: perché?
+## Disinfestazione processionaria: perché?
 
 **La processionaria provoca gravi scompensi tanto nell'uomo quanto negli animali**. Una volta entrati in contatto con le setole urticanti è facile riscontrare sintomi più o meno gravi e spesso si deve correre al pronto soccorso. I più frequenti: shock anafilattico, reazioni cutanee, infiammazioni ai bulbi oculari, difficoltà respiratoria, irritazione del tratto gastro intestinale. E’ sempre buona cosa evitare di avvicinarsi ai nidi e toccare le larve.
 
