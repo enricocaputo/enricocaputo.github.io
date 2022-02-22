@@ -3,7 +3,7 @@ title: Impianti irrigazione giardino, Udine
 excerpt: "Impianti irrigazione giardino, Udine: irrigazione interrata automatica, impianti irrigazione moderni a prestazioni elevate ✓ Basso consumo idrico, Lunga durata!"
 permalink: /impianti-irrigazione-giardino-udine/
 image: /img/prodotti/pozzetto-irrigazione-2.jpg
-last_modified_at: 2022-02-15T6:46
+last_modified_at: 2022-02-22T9:09
 ---
 # Impianti irrigazione giardino Udine
 
@@ -16,11 +16,13 @@ last_modified_at: 2022-02-15T6:46
 </div>
 <br>
 
-Installazione e posa di impianti irrigazione per il giardino delle migliori marche, come  
+Installazione e posa impianti di irrigazione per il giardino delle migliori marche, come  
 <a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener"><strong>HUNTER</strong></a> e
 <a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" target="_blank" rel="noopener"><strong>RAIN BIRD</strong></a>.
 
-## Irrigazioni giardino a Udine
+## Impianti di irrigazione a Udine
+
+POTASIEPE segue sia la progettazione che l’installazione di impianti di irrigazione automatica per giardini e aree verdi in tutta la provincia di Udine.
 
 Abbiamo installato irrigazioni nei giardini di Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana, Manzano, Palmanova, San Giovanni al Natisone e in molti comuni della Provincia.
 
@@ -28,11 +30,17 @@ Abbiamo installato irrigazioni nei giardini di Udine, Spilimbergo, Aquileia, Cod
 
 Potasiepe è una realtà innovativa che propone l’utilizzo di componenti a prestazioni elevate per l'irrigazione del giardino.
 
-Siamo tra i pochi in Friuli-venezia-giulia a installare impianti di irrigazione di tipo moderno con **staffe e tubi  innovativi e di lunghissima durata**. L'irrigazione di tipo moderno consente di alzare, abbassare, spostare, eliminare e aggiungere irrigatori senza difficoltà.   
+Siamo tra i pochi in Friuli-Venezia-Giulia a installare impianti di irrigazione di tipo moderno con **staffe e tubi  innovativi e di lunghissima durata**. L'irrigazione di tipo moderno consente di alzare, abbassare, spostare, eliminare e aggiungere irrigatori senza difficoltà.   
 
 Grazie all'installazione di impianti d'irrigazione progettati da un professionista potrai evitare i più comuni problemi di inutile spreco d'acqua. Negli impianti di tipo tradizionale (posati dalla maggioranza degli installatori) l'acqua non raggiunge l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
 
-Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
+### Impianti di irrigazione a goccia
+
+L’irrigazione a goccia consente di somministrare a ogni singola pianta la giusta quantità d’acqua all’orario desiderato. Una soluzione ideale per le piante in vaso, le aiuole e gli orti.
+
+### Esperienza decennale in impianti d'irrigazione.
+
+Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
 
 <br>
 <picture>
@@ -42,11 +50,9 @@ Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di 
 </picture>
 <br>
 
-### Irrigazione a goccia
+## Sistemi di irrigazione totalmente automatizzati
 
-L’irrigazione a goccia consente di somministrare a ogni singola pianta la giusta quantità d’acqua all’orario desiderato. Una soluzione ideale per le piante in vaso, le aiuole e gli orti.
-
-La centralina all'ora stabilita apre l’acqua che, attraverso un'ala gocciolante e appositi tubicini, scorre fino a raggiungere la base delle singole piante.
+Le **adeguate conoscenze botaniche** e la **specifica esperienza** sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, sistema di irrigazione del giardino **ben diverso da quello termo sanitario dell'abitazione**.
 
 <br>
 <div class="text-center">
@@ -67,11 +73,13 @@ I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
 
 [**Bonus Verde 2022: detrazione IRPEF 36% per gli impianti d'irrigazione**](/news/bonus-verde "Bonus Verde 2022").
 
-## Il tuo impianto di irrigazione in giardino non funziona?
+## La manutenzione dell’impianto di irrigazione per giardini
 
-[Potasiepe](/chi-sono/ "chi-sono") ripara anche i guasti improvvisi dei vecchi impianti d'irrigazione!
+Il Giardiniere POTASIEPE ripara anche i guasti improvvisi dei vecchi impianti d'irrigazione!
 
 Per un'irrigazione sempre efficiente vi **consigliamo un *check-up* ogni 2 anni**.
+
+### Quanto costa la manutenzione di un impianto di irrigazione
 
 La manutenzione ordinaria (*check-up*) ha un **costo variabile da 50 a 100 euro** e prevede:
 
