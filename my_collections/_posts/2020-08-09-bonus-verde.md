@@ -7,7 +7,7 @@ last_modified_at: 2022-02-14T8:00
 ---
 Il **Bonus Verde 2022** prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista").
 
-Come spiegato sul portale dell'<a href="https://www.agenziaentrate.gov.it/portale/web/guest/bonus-verde/infogen-bonus-verde-cittadini" aria-label="vai al portale Agenzia delle Entrate" target="_blank" rel="nofollow noopener"> Agenzia delle Entrate </a> la detrazione Irpef è possibile per i seguenti interventi:
+Come spiegato sul portale dell'<a href="https://www.agenziaentrate.gov.it/portale/web/guest/bonus-verde/infogen-bonus-verde-cittadini" aria-label="vai al portale Agenzia delle Entrate" target="_blank" rel="noopener"> Agenzia delle Entrate </a> la detrazione Irpef è possibile per i seguenti interventi:
 
 - sistemazione a verde di aree scoperte private di edifici esistenti, unità immobiliari, pertinenze o recinzioni, [**impianti di irrigazione**](/prodotti/irrigazione-giardino/ "Il Giardiniere Potasiepe installa impianti di irrigazione a Udine e Gorizia") e realizzazione pozzi
 - realizzazione di coperture a verde e di giardini pensili.
