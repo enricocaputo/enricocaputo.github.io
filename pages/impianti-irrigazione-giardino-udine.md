@@ -16,7 +16,7 @@ last_modified_at: 2022-02-22T9:09
 </div>
 <br>
 
-Installazione e posa impianti di irrigazione per il giardino delle migliori marche, come  
+Installazione e posa di impianti d'irrigazione per il giardino delle migliori marche, come  
 <a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener"><strong>HUNTER</strong></a> e
 <a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" target="_blank" rel="noopener"><strong>RAIN BIRD</strong></a>.
 
