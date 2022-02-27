@@ -4,7 +4,7 @@ title: "Brand"
 excerpt: "Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe, e il logo del giardiniere aitante che impugna il tosasiepi: simboli di eccezionale perizia"
 image: /img/potasiepe-logo-557x500.png
 permalink: /brand/
-last_modified_at: 2022-02-14T8:00
+last_modified_at: 2022-02-27T8:39
 ---
 # Linee guida per l'utilizzo del brand Potasiepe
 

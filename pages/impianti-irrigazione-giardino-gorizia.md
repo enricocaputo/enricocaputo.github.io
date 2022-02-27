@@ -3,7 +3,7 @@ title: Impianti irrigazione giardino, Gorizia
 excerpt: "Impianti irrigazione giardino, Gorizia: irrigazione interrata automatica, impianti irrigazione moderni a prestazioni elevate, basso consumo idrico, lunga durata"
 permalink: /impianti-irrigazione-giardino-gorizia/
 image: /img/prodotti/pozzetto-irrigazione-2.jpg
-last_modified_at: 2022-02-15T6:46
+last_modified_at: 2022-02-27T8:39
 ---
 # Impianti irrigazione giardino Gorizia
 
