@@ -78,6 +78,10 @@ images:
     title: Progettazione laghetto giardino
   - image_path: /img/gallery/56.jpg
     title: Realizzo laghetto giardino
+  - image_path: /img/gallery/60.jpg
+    title: Giardino roccioso, realizzazione aiuole
+  - image_path: /img/gallery/61.jpg
+    title: Giardino zen, staccionata in bambù
 ---
 # MediaGallery
 
