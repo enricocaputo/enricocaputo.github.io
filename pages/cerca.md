@@ -21,6 +21,6 @@ last_modified_at: 2022-02-27T8:39
 </script>
 <div class="ricerca-personalizzata">
   <div id="google-search">
-    <gcse:search></gcse:search>
+    <gcse:search enableHistory="false"></gcse:search>
   </div>
 </div>
