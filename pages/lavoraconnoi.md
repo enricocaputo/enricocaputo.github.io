@@ -50,8 +50,7 @@ Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessari
      "@context" : "https://schema.org/",
      "@type" : "JobPosting",
      "title" : "Operaio Giardiniere",
-     "description" : "<p>Potasiepe, Impresa del verde operante in provincia di Udine e Gorizia, ricerca un Operaio Giardiniere
-     Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services.</p>",
+     "description" : "<p>Potasiepe, Impresa del verde operante in provincia di Udine e Gorizia, ricerca un Operaio Giardiniere. Si usano motosega e decespugliatore. Necessaria Prestanza fisica e lucidità. Inviare curriculum vitae completo di fotografia.</p>",
      "identifier": {
        "@type": "PropertyValue",
        "name": "Google",
