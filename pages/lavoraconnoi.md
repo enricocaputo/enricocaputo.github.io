@@ -5,7 +5,7 @@ excerpt: "Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2022-09-28T13:46
 ---
 # Lavora con noi
 
@@ -44,3 +44,44 @@ Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessari
 ## Autocandidatura
 
 **Invia una mail** a giardiniere @ potasiepe.com specificando come **oggetto: autocandidatura**. Allega il tuo **curriculum vitae**, una **fotografia** e non dimenticarti di fornire il **consenso al trattamento dei dati personali**.
+
+<script type="application/ld+json">
+   {
+     "@context" : "https://schema.org/",
+     "@type" : "JobPosting",
+     "title" : "Operaio Giardiniere",
+     "description" : "<p>Potasiepe, Impresa del verde operante in provincia di Udine e Gorizia, ricerca un Operaio Giardiniere
+     Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve. We believe that in addition to hiring the best talent, a diversity of perspectives, ideas and cultures leads to the creation of better products and services.</p>",
+     "identifier": {
+       "@type": "PropertyValue",
+       "name": "Google",
+       "value": "1234567"
+     },
+     "datePosted" : "2022-09-28",
+     "validThrough" : "2023-03-31",
+     "employmentType" : "CONTRACTOR",
+     "hiringOrganization" : {
+       "@type" : "Organization",
+       "name" : "Potasiepe",
+       "sameAs" : "https://www.potasiepe.it",
+       "logo" : "https://www.potasiepe.it/img/potasiepe1x1.jpg"
+     },
+     "jobLocation": {
+     "@type": "Place",
+       "address": {
+       "@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"
+     }
+   },
+     "baseSalary": {
+       "@type": "MonetaryAmount",
+       "currency": "EUR",
+       "value": {
+         "@type": "QuantitativeValue",
+         "minValue": 10.00,
+         "maxValue": 15.00,
+         "unitText": "HOUR"
+       }
+     },
+     "directApply": "https://www.potasiepe.it/lavora-con-noi/"
+   }
+   </script>
