@@ -24,10 +24,10 @@ images:
     title: Realizzazione aiuole con irrigazione
   - image_path: /img/gallery/24.jpg
     title: Giardiniere Potasiepe spiana e livella il terreno con escavatore
-  - image_path: /img/gallery/38.jpg
-    title: Taglio erba con trattorino
   - image_path: /img/gallery/18.jpg
     title: Sfalcio con trattore e trincia
+  - image_path: /img/gallery/38.jpg
+    title: Taglio erba con trattorino
   - image_path: /img/gallery/26.jpg
     title: Tosaerba con tecnologia mulching
   - image_path: /img/gallery/62.jpg
