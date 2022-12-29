@@ -84,8 +84,6 @@ images:
     title: Giardino roccioso, realizzazione aiuole
   - image_path: /img/gallery/61.jpg
     title: Giardino zen, staccionata in bambù
-  - image_path: /img/gallery/63.jpg
-    title: Abbattimento alberi a Udine, Gorizia
 ---
 # MediaGallery
 
