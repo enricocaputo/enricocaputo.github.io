@@ -7,7 +7,7 @@ last_modified_at: 2022-02-27T8:39
 
 images:
   - image_path: /img/gallery/10.jpg
-    title: Potatura cipressi
+    title: Potare la tuia, taglio siepe di thuja
   - image_path: /img/gallery/11.jpg
     title: Potatura photinia
   - image_path: /img/gallery/12.jpg
