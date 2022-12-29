@@ -24,7 +24,7 @@ ISCRIVITI alla **Newsletter** per ricevere il **Calendario Giardinaggio 2023** s
 
 <br>
 <div class="text-center">
-  <a title="Richiedi il Calendario Giardinaggio" href="#newsletter class="button">RICHIEDILO ORA</a>
+  <a title="Richiedi il Calendario Giardinaggio" href="#newsletter" class="button">RICHIEDILO ORA</a>
 </div>
 <br><br>
 
