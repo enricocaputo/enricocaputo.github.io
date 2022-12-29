@@ -1,32 +1,30 @@
 ---
 layout: page
-title: Calendario giardinaggio 2022
-excerpt: "Calendario giardinaggio 2022: tutti i lavori in orto e giardino mese per mese, calendario lunare, consigli per semina, trapianto, potatura e 12 gustose ricette!"
-image: /img/posts/calendario2022.png
+title: Il calendario del giardiniere
+excerpt: "Calendario giardinaggio 2023: tutti i lavori in orto e giardino mese per mese, calendario lunare, consigli per semina, trapianto e potatura - Calendario in PDF."
+image: /img/posts/calendario2023.jpg
 permalink: /calendario-di-giardinaggio/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2022-12-29T14:10
 ---
-<script type="application/ld+json">{"@context":"https://schema.org/","@type":"Product","name":"Il Calendario del Giardiniere","image":"https://www.potasiepe.it/img/posts/calendario2022.png","description":"Il calendario del giardiniere 2022, tutti i lavori in orto e giardino mese per mese. I segreti del giardiniere, le cure da riservare a piante, alberi e prato. E in più 12 gustose ricette!","sku":"claneda_giard_2022","mpn":"calenda_2022","brand":{"@type":"Brand","name":"POTASIEPE"},"review":{"@type":"Review","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"author":{"@type":"Person","name":"Giancarlo"},"description":"Il calendario è magnifico e mi è stato consegnato a tempo di record.","name":"Calendario bellissimo e molto utile"},"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"10"},"offers":{"@type":"Offer","url":"https://www.potasiepe.it/calendario-di-giardinaggio/","priceCurrency":"EUR","price":"14","priceValidUntil":"2022-12-31","itemCondition":"https://schema.org/NewCondition","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"POTASIEPE"}}}</script>
+# Calendario Giardinaggio 2023
 
-# Calendario Giardinaggio 2022
-
-**Calendario giardinaggio 2022**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato. **12 gustosissime ricette!**
+**Calendario giardinaggio 2023**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato.
 
 ___
 
 <br>
-## Acquista il Calendario Giardinaggio 2022
+## Richiedi il Calendario Giardinaggio 2023
 <br>
 
-![calendario giardinaggio 2022](/img/posts/calendario2022.png "calendario giardinaggio 2022")
+![calendario giardinaggio 2023](/img/posts/calendario2023.jpg "calendario giardinaggio 2023")
 
 <br>
 
-RICHIEDI il **Calendario Giardinaggio 2022** stampato a colori su preziosa carta patinata da 200 gr. ti verrà recapitato nel giro di 3-4 gg. al prezzo di **€ 14,90** - **Spedizione GRATUITA**.
+ISCRIVITI alla **Newsletter** per ricevere il **Calendario Giardinaggio 2023** stampato a colori in formato PDF.
 
 <br>
 <div class="text-center">
-  <a title="Richiedi il Calendario Giardinaggio" href="/contatti/" class="button">RICHIEDILO ORA</a>
+  <a title="Richiedi il Calendario Giardinaggio" href="#newsletter class="button">RICHIEDILO ORA</a>
 </div>
 <br><br>
 

@@ -24,8 +24,8 @@ images:
     title: Realizzazione aiuole con irrigazione
   - image_path: /img/gallery/24.jpg
     title: Giardiniere Potasiepe spiana e livella il terreno con escavatore
-  - image_path: /img/gallery/25.jpg
-    title: Disinfestazione zanzare con atomizzatore
+  - image_path: /img/gallery/38.jpg
+    title: Taglio erba con trattorino
   - image_path: /img/gallery/18.jpg
     title: Sfalcio con trattore e trincia
   - image_path: /img/gallery/26.jpg
@@ -44,8 +44,8 @@ images:
     title: Impianto di irrigazione con pozzetto e valvole Claber
   - image_path: /img/gallery/34.jpg
     title: Realizzazione di un giardino con cipresso di leyland e zolle di prato a rotoli
-  - image_path: /img/gallery/38.jpg
-    title: Trattorino rasaerba con lama mulching
+  - image_path: /img/gallery/25.jpg
+    title: Disinfestazione zanzare con atomizzatore
   - image_path: /img/gallery/40.jpg
     title: Aiuole in terrazza con vasi e siepe
   - image_path: /img/gallery/59.jpg
