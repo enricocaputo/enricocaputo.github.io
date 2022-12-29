@@ -15,21 +15,23 @@ images:
   - image_path: /img/gallery/13.jpg
     title: Utensili manuali per giardino
   - image_path: /img/gallery/16.jpg
-    title: Potatura siepe lauro
-  - image_path: /img/gallery/17.jpg
-    title: Potatura di contenimento siepi
-  - image_path: /img/gallery/18.jpg
-    title: Sfalcio con trattore e trincia
+    title: Potatura di ringiovanimento della siepe
+  - image_path: /img/gallery/63.jpg
+    title: Taglio alberi con cestello, potatura con piattaforma aerea
+  - image_path: /img/gallery/62.jpg
+    title: Levaceppi
   - image_path: /img/gallery/19.jpg
     title: Realizzazione aiuole con irrigazione
   - image_path: /img/gallery/24.jpg
     title: Giardiniere Potasiepe spiana e livella il terreno con escavatore
   - image_path: /img/gallery/25.jpg
     title: Disinfestazione zanzare con atomizzatore
+  - image_path: /img/gallery/18.jpg
+    title: Sfalcio con trattore e trincia
   - image_path: /img/gallery/26.jpg
     title: Tosaerba con tecnologia mulching
-  - image_path: /img/gallery/27.jpg
-    title: Potatura alberi da frutto, ciliegio
+  - image_path: /img/gallery/62.jpg
+    title: Attrezzatura rimozione ceppi, eliminazione radici di una siepe
   - image_path: /img/gallery/28.jpg
     title: Pulizia muretto in cemento e muro in pietra con idropulitrice
   - image_path: /img/gallery/29.jpg
@@ -82,6 +84,8 @@ images:
     title: Giardino roccioso, realizzazione aiuole
   - image_path: /img/gallery/61.jpg
     title: Giardino zen, staccionata in bambù
+  - image_path: /img/gallery/63.jpg
+    title: Abbattimento alberi a Udine, Gorizia
 ---
 # MediaGallery
 

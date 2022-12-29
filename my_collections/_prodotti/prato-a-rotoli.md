@@ -104,7 +104,7 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 10 rotoli.
 
 Il prato a rotoli è uno dei migliori [tipi di prato](/news/i-migliori-semi-per-il-prato/ "tipi di prato"). I vantaggi del tappeto erboso in zolla rispetto a un semina sono davvero tanti. In primo luogo, il prato sarà immediatamente calpestabile. In secondo luogo è esente da erbacce. In terzo luogo è un prato adulto e stabile con radici ben sviluppate che è stato curato, nutrito e rasato a giorni alterni durante gli ultimi otto / dodici mesi. Infine, si può realizzare tutto l'anno, **il costo non è molto più elevato di quello di un prato seminato**, il risultato è garantito e l'effetto di un bel prato verde è immediato.
 
-[**Bonus Verde 2022: detrazione IRPEF 36% per le spese di rifacimento del prato**](/news/bonus-verde "Bonus Verde 2022").
+[**Bonus Verde 2023: detrazione IRPEF 36% per le spese di rifacimento del prato**](/news/bonus-verde "Bonus Verde 2023").
 
 ## Cura, concimazione e irrigazione del prato in rotoli
 

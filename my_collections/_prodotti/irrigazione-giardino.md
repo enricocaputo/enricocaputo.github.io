@@ -70,7 +70,7 @@ I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
 - &#10004; piacevolezza estetica dei giochi d'acqua, nessuna tubazione fuori terra
 - &#10004; facilità di tagliare il prato, terminato il ciclo di irrigazione gli irrigatori scompaiono
 
-[**Bonus Verde 2022: detrazione IRPEF 36% per gli impianti d'irrigazione**](/news/bonus-verde "Bonus Verde 2022").
+[**Bonus Verde 2023: detrazione IRPEF 36% per gli impianti d'irrigazione**](/news/bonus-verde "Bonus Verde 2023").
 
 ## Il tuo impianto di irrigazione in giardino non funziona?
 
