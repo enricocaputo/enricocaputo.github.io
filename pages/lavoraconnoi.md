@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lavora con noi
-excerpt: "Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti, solamente passione per il giardinaggio."
+excerpt: "Impresa del verde operante in provincia di Udine ricerca un Operaio Giardiniere. Si usano motosega e decespugliatore. Automunito, prestanza fisica e puntualità."
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
@@ -33,13 +33,9 @@ Ci impegniamo nella formazione delle persone che lavorano con noi e ad accrescer
 
 Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti. La **passione per il giardinaggio** invece è **indispensabile**.
 
-&#10004; **Manutentore del verde**: richieste affidabilità, puntualità, prestanza fisica e scrupolosità
+&#10004; **Manutentore del verde**: Potasiepe, Impresa del verde operante in provincia di Udine e Gorizia, ricerca un Operaio Giardiniere. Si usano motosega e decespugliatore. Automunito, richieste prestanza fisica e puntualità. Inviare curriculum vitae completo di fotografia;
 
-&#10004; **Giardiniere aggiunto**: diplomato e laureato in agraria con esperienza
-
-&#10004; **Stagista**: preferibilmente diplomando, laureando e neo-diplomato in **agraria**
-
-&#10004; **Aiutante giardiniere**: pensionati e studenti maggiori di 16 anni di età in cerca di lavoro durante le vacanze estive
+&#10004; **Stagista / Aiuto giardiniere***: studenti della scuola agraria, maggiori di 16 anni di età, part time oppure volenterosi in cerca di lavoro durante le vacanze estive.
 
 ## Autocandidatura
 
@@ -50,14 +46,14 @@ Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessari
      "@context" : "https://schema.org/",
      "@type" : "JobPosting",
      "title" : "Operaio Giardiniere",
-     "description" : "<p>Potasiepe, Impresa del verde operante in provincia di Udine e Gorizia, ricerca un Operaio Giardiniere. Si usano motosega e decespugliatore. Necessaria Prestanza fisica e lucidità. Inviare curriculum vitae completo di fotografia.</p>",
+     "description" : "<p>Impresa del verde operante in provincia di Udine ricerca un Operaio Giardiniere. Si usano motosega e decespugliatore. Automunito, prestanza fisica e puntualità.</p>",
      "identifier": {
        "@type": "PropertyValue",
        "name": "Google",
        "value": "1234567"
      },
-     "datePosted" : "2022-09-28",
-     "validThrough" : "2023-03-31",
+     "datePosted" : "2023-01-01",
+     "validThrough" : "2023-12-31",
      "employmentType" : "CONTRACTOR",
      "hiringOrganization" : {
        "@type" : "Organization",
