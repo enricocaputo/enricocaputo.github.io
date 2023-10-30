@@ -35,7 +35,7 @@ la terra, con il passare del tempo, calerà poco.
 
 ## Costo noleggio catenaria
 
-&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è a tariffa oraria, **gli scavi verranno eseguiti da nostro operatore**, il costo è di € 50/h.
+&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è al metro, **gli scavi verranno eseguiti da nostro operatore**, il costo è di € 5 al metro. 
 
 ### Vantaggi del noleggio catenaria con operatore
 
@@ -46,11 +46,6 @@ La catenaria pesa quasi 2 quintali, è ingombrante e il suo utilizzo richiede la
 - &#10003; Evitate ogni responsabilità perché un uso improprio la può danneggiare.
 - &#10003; Evitate di perdere la priorità nel caso dobbiate disdire l'appuntamento causa maltempo.
 - &#10003; Grazie alla nostra [esperienza nel settore irrigazione](/prodotti/irrigazione-giardino/ "Potasiepe è installatore autorizzato di impianti di irrigazione giardino dei marchi più prestigiosi") possiamo consigliarvi e aiutarvi a risolvere seduta stante eventuali errori di progettazione.
-
-### Sconti per giardinieri e idraulici
-
-Agli operatori di settore riserviamo uno sconto di € 5/h ma il noleggio avverrà sempre ed esclusivamente con operatore e il trasporto in loco sarà a nostra cura.
-
 
 
 <br><br>
