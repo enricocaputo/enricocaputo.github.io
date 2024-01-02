@@ -35,7 +35,7 @@ la terra, con il passare del tempo, calerà poco.
 
 ## Costo noleggio catenaria
 
-&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è al metro, **gli scavi verranno eseguiti da nostro operatore**, il costo è di € 5 al metro lineare.
+&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è al metro, **gli scavi verranno eseguiti da nostro operatore**, il costo è di € 5 al metro.
 
 ### Vantaggi del noleggio catenaria con operatore
 
