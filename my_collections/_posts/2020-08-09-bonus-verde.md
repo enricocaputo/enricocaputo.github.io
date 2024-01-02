@@ -5,7 +5,7 @@ image: /img/posts/green-pig.png
 image_featured: true
 last_modified_at: 2024-01-02T10:37
 ---
-Il **Bonus Verde** prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista"). La Legge di Bilancio 2022 ha prorogato questa agevolazione fino al 2024.
+Il **Bonus Verde** prevede una **detrazione fiscale del 36%** sull'IRPEF per la **sistemazione a verde di giardini e terrazzi** eseguiti da [**professionisti del settore**](/chi-sono/ "Potasiepe giardiniere e paesaggista"). La Legge di Bilancio 2023 ha prorogato questa agevolazione fino al 31/12/2024.
 
 Come spiegato sul portale dell'<a href="https://www.agenziaentrate.gov.it/portale/web/guest/bonus-verde/infogen-bonus-verde-cittadini" aria-label="vai al portale Agenzia delle Entrate" target="_blank" rel="noopener"> Agenzia delle Entrate </a> la detrazione Irpef è possibile per i seguenti interventi:
 
