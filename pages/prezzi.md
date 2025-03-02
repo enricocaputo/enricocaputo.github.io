@@ -19,7 +19,7 @@ last_modified_at: 2022-02-27T8:39
 
 ## Costo taglio siepe al metro lineare
 
-| Costo taglio siepe[^1] | Altezza siepe |
+| Costo taglio siepe [^1] | Altezza siepe |
 |--------------------|---------------|
 |€ 5,00  al metro |fino a 200 cm di altezza
 |€ 7,00  al metro |da 201 a 300 cm di altezza
@@ -46,7 +46,7 @@ last_modified_at: 2022-02-27T8:39
 |€ 40 | entro un raggio di 40 km da Cervignano, UD|
 |     | Le Zone Oltre i 40 km NON SONO SERVITE |
 
-## <img src="{{ site.baseurl }}/img/icon-pdf.svg" width="24" height="24" style="display:inline" alt="PDF"> [**LISTINO PREZZI COMPLETO**](/download/prezzi-potasiepe-2020.pdf)
+## <img src="{{ site.baseurl }}/img/icon-pdf.svg" width="24" height="24" style="display:inline" alt="PDF"> [**LISTINO PREZZI COMPLETO**](/download/prezzi-potasiepe-2025.pdf)
 
 Se trovi difficile calcolare il prezzo al metro oppure se preferisci stabilire un **prezzo a forfait** non esitare a [contattarmi](/contatti/ "Richiedi maggiori informazioni").
 
