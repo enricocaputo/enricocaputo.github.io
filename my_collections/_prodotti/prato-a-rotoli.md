@@ -37,10 +37,8 @@ Di seguito i **prezzi del prato a rotoli** riferiti a un lavoro di **posa comple
 
 | Dimensione giardino mq   | Costo prato a rotoli |
 | -----------------------  | -------------------- |
-| fino a 35 m²             | € 15,00              |
-| 36 - 70 m²               | € 14,00              |
-| 71 - 150 m²              | € 13,00              |
-| 151 - 300 m²             | € 12,00              |
+| fino a 100 m²            | € 20,00              |
+| 100 - 300 m²             | € 18,00              |
 | a partire da 301 m²      | prezzo da concordare |
 
 Sola fornitura (trasporto e posa esclusi): **prezzo prato a rotoli** è di **€ 5,00** a rotolo.
