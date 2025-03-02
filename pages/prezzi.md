@@ -17,9 +17,9 @@ last_modified_at: 2022-02-27T8:39
 
 <br>
 
-## Costo taglio siepe al metro lineare [^1]
+## Costo taglio siepe al metro lineare
 
-| Costo taglio siepe | Altezza siepe |
+| Costo taglio siepe[^1] | Altezza siepe |
 |--------------------|---------------|
 |€ 5,00  al metro |fino a 200 cm di altezza
 |€ 7,00  al metro |da 201 a 300 cm di altezza
