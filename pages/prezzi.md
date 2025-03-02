@@ -17,12 +17,12 @@ last_modified_at: 2022-02-27T8:39
 
 <br>
 
-## Costo taglio siepe al metro lineare
+## Costo taglio siepe al metro lineare ([^1: Il costo della potatura di siepi è riferito a tutti e tre i lati])
 
 | Costo taglio siepe | Altezza siepe |
 |--------------------|---------------|
-|€ 4,00  al metro |fino a 200 cm di altezza
-|€ 6,00  al metro |da 201 a 300 cm di altezza
+|€ 5,00  al metro |fino a 200 cm di altezza
+|€ 7,00  al metro |da 201 a 300 cm di altezza
 |€ 9,00  al metro |da 301 a 500 cm di altezza
 |€ 14,00 al metro |da 501 a 800 cm di altezza
 
@@ -30,10 +30,9 @@ last_modified_at: 2022-02-27T8:39
 
 | Costo taglio prato | Dimensione giardino |
 |--------------------|------------------|
-| € 0,40 al mq | superfici fino a 200 mq |
-| € 0,30 al mq | superfici tra 200 e 500 mq |
-| € 0,20 al mq | superfici tra 500 e 2.000 mq |
-| € 0,10 al mq | superfici oltre i 2.000 mq |
+| € 0,50 al mq | superfici fino a 100 mq |
+| € 0,40 al mq | superfici tra 100 e 500 mq |
+| € 0,30 al mq | superfici oltre i 500 mq |
 
 ## Diritto di chiamata
 
