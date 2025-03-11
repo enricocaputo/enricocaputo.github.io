@@ -3,7 +3,7 @@ title: I migliori tipi di prato
 excerpt: "Scegliere il prato per il giardino, calpestabile, piacevole e non delicato. Impiego sportivo e ornamentale. Quanto impegno: festuca, poa, agrostide, dicondra."
 image: /img/posts/erbe.png
 image_featured: true
-last_modified_at: 2022-02-17T21:04
+last_modified_at: 2025-03-11T11:04
 ---
 Esistono tre fondamentali tipologie di prato: il **prato ornamentale** e di piacere, quello **sportivo** e l'**inerbimento tecnico**. Il primo è quello che ci interessa; a sua volta, si suddivide in numerose varianti riconducibili a due interpretazioni: il prato più o meno grande ma privo di altre piante; il prato di un giardino con alberi, arbusti e fiori dove si instaura  una competizione tra le piante per l'utilizzo di acqua, fattori nutritivi, luce e aria.
 
@@ -21,29 +21,22 @@ Ma quali specie di graminacee e quali loro varietà intervengono nella composizi
 I migliori semi per il prato in base alle vostre specifiche esigenze:
 
 ### Prima semina del prato
-Un erba molto resistente, di **un bel punto di verde** (né scuro, né chiaro). Indicato anche per il rinnovamento dei prati.
+Opportuno **mix di festuche** scelto in base all'esposizione al sole. Ulteriori condizioni particolari di cui tenere conto nella scelta delle sementi riguarda le zone marine e montane.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B07QHFBN95&linkId=600be5b947655f961d1dfaf8526e2962&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 ### Ripristino di un prato a zolla in rotolo
-L'essenza di cui sono composti la maggioranza dei prati in zolla.<br>Adatta anche alla prima semina di un prato. Colore **verde scuro**.
+Si dovrebbero usare **le stesse sementi usate durante la prima semina** del prato in modo da non notare chiazze di colore diverso né diversa velocità di accrescimento.
+In generale le **Festuche** presentano una gradazione di verde più scura rispetto al verde giada del  **Loietto** (*Lolium*).
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B08TK4QZP7&linkId=10a95e68130515c786d2f92067251499&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 ### Trasemina prato in primavera e autunno
-Germinazione rapidissima. **Verde chiaro**.<br>Particolarmente adatta alla trasemina.
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B00N5TEFRM&linkId=4f2b45ca797a456d5f5916589b44ceb4&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
+Il **Loietto** preseta una colorazione **verde chiaro**, è di facile insediamento e di rapito accrescimento. Questo tipo di semi sia nella variante a radice normale che rizomatosa è particolarmente adatto per le trasemine.
 
 ### Dicondra, per non tosare mai il prato
 Caratteristica forma **a ombrellino**, per un prato diverso.<br>Resiste al sole battente. Si può seminare da sola oppure mescolata con qualsiasi altra essenza.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B01CVZ2V4O&linkId=e472d713c7c50368021cc465414a7c5c&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
-
 ### Trifoglio nano, per un terreno ricco di azoto
 Seminata singolarmente o mescolata con altre essenze. Se doveste pentirvi si debella facilmente con un diserbante per foglia larga.
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=enricocaputo1-21&m=amazon&o=29&p=8&l=as1&IS1=1&asins=B01HGSM17I&linkId=a4c6a04bf0b2623285d1c754792908fb&bc1=FFFFFF&amp;lt1=_top&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr"></iframe>
 
 Se volete avventurarvi nella semina di **un prato mono-essenza** di seguito trovate le specie più diffuse.
 
