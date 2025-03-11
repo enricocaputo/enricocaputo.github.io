@@ -22,7 +22,7 @@ layout: default
 			<a class="share-link" aria-label="resta sempre aggiornato, iscriviti alla mailing list" href="#newsletter" title="mailing list">
 				{% include social-share.html icon="Watchlist" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Twitter" href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Twitter" href="https://twitter.com/intent/tweet?text={% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}&url={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Twitter" %}
 			</a>
 			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
