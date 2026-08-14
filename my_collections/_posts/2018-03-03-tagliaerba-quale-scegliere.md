@@ -1,6 +1,6 @@
 ---
 title: "Robot rasaerba vs Tagliaerba tradizionale: quale scegliere?"
-excerpt: "Hai mai sentito parlare dei rasaerba a cuscino d'aria e senza ruote? Conosci i tosaerba elicoidali e la differenza tra una batteria da 18v e 50v?"
+excerpt: "La domanda che molti clienti mi rivolgono è sempre la stessa: Mi conviene investire in un robot rasaerba o rimanere sul classico tagliaerba a motore o batteria?"
 image: /img/blog/tagliaerba/sceglere-rasaerba.jpg
 image_featured: true
 last_modified_at: 2026-08-14T22:57
