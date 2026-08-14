@@ -1,7 +1,7 @@
 ---
 title: "Autunno a Udine: come preparare siepi e impianti di irrigazione al freddo"
 excerpt: "L'autunno è il momento critico per compiere due interventi specialistici che proteggeranno il tuo investimento verde e ti eviteranno brutte sorprese a primavera."
-image: /img/posts/green-pig.png
+image: /img/calendario/ottobre.png
 image_featured: true
 last_modified_at: 2026-08-14T22:12
 ---
