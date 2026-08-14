@@ -5,7 +5,9 @@ image: /img/posts/green-pig.png
 image_featured: true
 last_modified_at: 2026-08-14T22:12
 ---
-L'autunno è alle porte e a Udine, con l'arrivo dei primi freddi della pianura friulana, il giardino cambia ritmo. Molti pensano che in questo periodo i lavori all'aperto si fermino, ma in realtà è l'esatto contrario. Questo è il momento più critico per compiere due interventi specialistici che proteggeranno il tuo investimento verde e ti eviteranno brutte sorprese (e spese extra) in primavera.Ecco cosa devi assolutamente pianificare prima dell'arrivo del gelo invernale:
+L'autunno è alle porte e a Udine, con l'arrivo dei primi freddi della pianura friulana, il giardino cambia ritmo. Molti pensano che in questo periodo i lavori all'aperto si fermino, ma in realtà è l'esatto contrario. Questo è il momento più critico per compiere due interventi specialistici che proteggeranno il tuo investimento verde e ti eviteranno brutte sorprese (e spese extra) in primavera.
+
+Ecco cosa devi assolutamente pianificare prima dell'arrivo del gelo invernale:
 
 
 
