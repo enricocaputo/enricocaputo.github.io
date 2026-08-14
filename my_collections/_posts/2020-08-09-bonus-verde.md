@@ -1,5 +1,5 @@
 ---
-title: "Stop al Bonus Verde 2025"
+title: "Stop al Bonus Verde"
 excerpt: "Dall'anno 2025 non è più possibile usufruire del Bonus Verde poiché l'agevolazione non è stata rinnovata dalla Legge di Bilancio."
 image: /img/posts/green-pig.png
 image_featured: true
