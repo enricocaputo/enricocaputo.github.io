@@ -42,7 +42,7 @@ Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno
 
 ## Dove? Anche dai tuoi vicini
 
-Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/giardiniere-a-gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 40 Km da Cervignano del Friuli, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br>
+Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/giardiniere-a-gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 30 Km da Palmanova, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br>
 Il **preventivo è gratuito** e nella sezione prezzi puoi farti un'idea abbastanza precisa del [costo taglio siepe al metro lineare](/prezzi/ "costo taglio siepe al metro lineare").
 
 ## Mesi ideali e luna calante per il taglio della siepe

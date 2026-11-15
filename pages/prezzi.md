@@ -40,10 +40,10 @@ last_modified_at: 2022-02-27T8:39
 
 |Costo | Distanza |
 |-----|---------|
-|€ 10 | entro un raggio di 10 km da Cervignano, UD|
-|€ 20 | entro un raggio di 20 km da Cervignano, UD|
-|€ 30 | entro un raggio di 30 km da Cervignano, UD|
-|€ 40 | entro un raggio di 40 km da Cervignano, UD|
+|€ 10 | entro un raggio di 10 km da Palmanova, UD|
+|€ 20 | entro un raggio di 20 km da Palmanova, UD|
+|€ 30 | entro un raggio di 30 km da Palmanova, UD|
+|€ 40 | entro un raggio di 40 km da Palmanova, UD|
 |     | Le Zone Oltre i 40 km NON SONO SERVITE |
 
 ## <img src="{{ site.baseurl }}/img/icon-pdf.svg" width="24" height="24" style="display:inline" alt="PDF"> [**LISTINO PREZZI COMPLETO**](/download/prezzi-potasiepe-2025.pdf)
