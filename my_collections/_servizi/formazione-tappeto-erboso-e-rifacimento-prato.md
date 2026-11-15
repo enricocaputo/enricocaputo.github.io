@@ -61,6 +61,6 @@ Un bel prato verde e uniforme è la cornice che valorizza tutta la casa. Per ott
 
 Ogni terreno ha esigenze diverse. Contattami per fissare un **sopralluogo gratuito entro 30 km da Palmanova**: valuteremo insieme la soluzione migliore e ti fornirò un preventivo chiaro e dettagliato.
 
-[Contattami per un sopralluogo](/contatti/) | Chiama o scrivi su **[WhatsApp](https://wa.me/393889005888)**
+*[Contattami per un sopralluogo](/contatti/)** | **Scrivi su [WhatsApp](https://wa.me/393889005888)**
 
 <br>
