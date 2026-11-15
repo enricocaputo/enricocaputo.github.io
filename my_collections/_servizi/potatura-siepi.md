@@ -1,14 +1,14 @@
 ---
 name: Potatura Siepi
 subtitle: 'Siepi dritte, folte e in salute, anche oltre i 6 metri di altezza.'
-title: "La potatura di siepi è la nostra specialità!"
-excerpt: "Il Giardiniere Potasiepe è specializzato in potatura di siepi a Udine e Gorizia: taglio accurato, esperienza, puntualità, prezzi onesti e preventivo gratuito."
+title: "Potatura siepi a Udine e Gorizia • Anche oltre i 6 metri"
+excerpt: "Potatura siepi a Udine e Gorizia (entro 30 km da Palmanova): taglio preciso anche in altezza, disinfezione lame e pulizia finale inclusa. Sopralluogo gratuito."
 image: /img/servizi/potatura-di-siepi-udine-gorizia.jpg
 webp: /img/servizi/webp/potatura-di-siepi-udine-gorizia.webp
 image_path: /img/servizi/potatura-siepe-udine-gorizia.jpg
 order: 1
 ---
-# La potatura di siepi è la nostra specialità!
+# Potatura siepi a Udine e Gorizia
 
 <br>
 <div class="carousel">
@@ -20,52 +20,47 @@ order: 1
 </div>
 <br>
 
-Effettuiamo il taglio di [piante da siepe](/news/siepe-quale-scegliere "Piante da siepe: quale scegliere") di ogni dimensione e genere: Agazzino, Alloro, Bosso, Lauroceraso, Fotinia, Tasso, Viburno, Phyllirea ecc.
+# Potatura siepi a Udine e Gorizia
 
-Potatura di mantenimento, potatura di siepi formale, potatura di siepi informale, potatura di siepi ad arco, potatura di arbusti su più livelli, potatura a schermo, potatura di ringiovanimento.
+**Siepi dritte, folte e in salute, anche oltre i 6 metri di altezza (entro 30 km da Palmanova)**
 
-Potatura artistica di singoli esemplari: potatura a spirale, potatura sferica a palla, topiaria pom poms.
+Una siepe ben curata protegge la tua privacy, valorizza la casa e mantiene il confine ordinato. Tuttavia, se viene potata nel periodo sbagliato o con attrezzature non adatte, rischia di svuotarsi alla base, ammalarsi o diventare un motivo di discussione con i vicini.
 
-## Più accurato non si può
+*Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **potatura di siepi di ogni dimensione e specie** nelle province di **Udine e Gorizia**, garantendo un taglio netto, regolare e rispettoso della salute della pianta.
 
-**Accuratezza del taglio** - Ti faresti operare da un chirurgo che usa un bisturi sporco di sangue infetto? Beh, non credo proprio! Pretendi la stessa cautela per la tua siepe. <br>
-La potatura delle piante da siepe deve essere accurata, il taglio preciso e netto, le lame ben affilate e disinfettate. Lo sapevi che la linfa di alcune piante è tossica per altre specie? Dopo aver potato un oleandro non si dovrebbe toccare un bosso senza aver prima disinfettato le lame delle cesoie tronca rami e del tagliasiepe. Se una siepe è malata e non si disinfettano le lame è probabile che le avversità si propaghino da un giardino all'altro.
+---
 
-**Accuratezza della forma** – Garantiamo la precisione di misure, altezze e sporgenze tanto della più comune potatura di siepi con linee squadrate quanto dei tagli ad arco ed informali.
+## Perché affidare a me la tua siepe
 
-**Accuratezza nella composizione** – Se una o più piante delle tua siepe si sono seccate disponiamo di un [vivaio](/vivaio/ "Visita i Vivai Potasiepe") con un’ampia varietà di piante da siepe di ogni famiglia, specie e varietà.
+* **Altezze importanti senza problemi:** Intervengo anche su siepi alte **oltre i 6 metri** utilizzando trabattelli, scale professionali certificate e piattaforme aeree in piena sicurezza.
+* **Disinfezione delle lame contro le malattie:** Proprio come un chirurgo disinfetta il bisturi prima di ogni intervento, **igienizzo le lame dei tagliasiepi** tra un giardino e l'altro (e tra piante malate e sane) per evitare la trasmissione di funghi e parassiti.
+* **Silenzio nei centri abitati:** Quando lavoro vicino alle abitazioni utilizzo tagliasiepi **a batteria di ultima generazione**, riducendo al minimo il rumore e azzerando i fumi di scarico.
+* **Attenzione ai rapporti di vicinato:** Se la tua siepe si trova sul confine, presto la massima attenzione a non invadere o sporcare la proprietà accanto e, se necessario, mi coordino volentieri con il vicino per eseguire il taglio su entrambi i lati.
+* **Pulizia finale impeccabile:** A fine lavoro raccolgo ogni rametto e foglia caduta, occupandomi dello smaltimento dei residui vegetali o triturandoli per creare pacciamatura naturale.
 
-**Accuratezza nel metodo** – Le nostre potature di piante per siepi usano un metodo particolare e un procedere metodico frutto di studio, esperienza e confronto con altri maestri giardinieri e con case costruttrici di attrezzi tagliasiepe.
+---
 
-**Accuratezza nella pulizia** – La pulizia sotto la siepe è importante per evitare la formazione di edere, per la salute del tronco, per tenere lontani insetti, zanzare e roditori. <br>
-Alla fine della giornata, anche quando la potatura dovesse prolungarsi al giorno successivo, ripuliremo il giardino, la strada e il cortile dei vicini dal materiale di risulta.
+## Quali siepi poto
 
-## Dove? Anche dai tuoi vicini
+Intervengo su tutte le principali specie presenti nei giardini friulani e isontini:
 
-Arriviamo direttamente a casa tua, in tutta la provincia di **[Udine](/giardinaggio-udine/ "Il Giardiniere Potasiepe a Udine e provincia")** e **[Gorizia](/giardiniere-a-gorizia/ "Il Giardiniere Potasiepe a Gorizia e provincia")** in un raggio di 30 Km da Palmanova, UD. Se non hai un **ottimo rapporto con il vicinato** e non ti va di affrontare la questione potatura interpellaci: come soggetto terzo e neutrale quasi sempre riusciamo ad appianare le divergenze. <br>
-Il **preventivo è gratuito** e nella sezione prezzi puoi farti un'idea abbastanza precisa del [costo taglio siepe al metro lineare](/prezzi/ "costo taglio siepe al metro lineare").
+* **Siepi sempreverdi:** Lauroceraso, Fotinia (*Photinia red robin*), Leylandii, Tuia, Ligustro, Bosso, Viburno, Eleagno e Tasso.
+* **Siepi spoglianti e fiorite:** Carpino, Biancospino, Ibisco, Forsizia, Spirea e siepi miste informali.
 
-## Mesi ideali e luna calante per il taglio della siepe
+---
 
-A seconda del **periodo di fioritura** ti sapremo consigliare il periodo più indicato per sfoltire la tua varietà di piante per siepe.
+## Quando conviene potare la siepe
 
-Anche la luna è importante! Se il taglio della siepe avviene nel periodo di **luna calante**, meglio se subito a ridosso del plenilunio, le piante mantengono più a lungo la forma e sopportano meglio le potature drastiche.
-
-## Trattamenti, concimazioni e consigli
-
-Primavera e autunno sono i periodi migliori per **concimare la siepe** preferibilmente a base di **prodotti biologici** e **pacciamature**. Al termine della potatura ove necessario consigliamo ed eseguiamo **[trattamenti fitosanitari](/servizi/lotta-alla-processionaria/ "Scopri i trattamenti fitosanitari")** con prodotti naturali e a **basso impatto ambientale** (B.I.A.) contro vari possibili attacchi fungini e d'insetti: oidio, necrosi, cocciniglie ecc.
-
-Le foglie della tua siepe sono ingiallite, hanno la muffa, sono bucherellate e annerite? Approfitta dei **preziosi consigli** di Giardiniere Potasiepe.
-
-
+In genere consiglio **due interventi all'anno**:
+1. **Tarda primavera (maggio – giugno):** per contenere la forte spinta vegetativa primaverile e dare forma compatta alla siepe.
+2. **Fine estate / inizio autunno (settembre – ottobre):** per riordinare la chioma prima dell'inverno e mantenerla perfetta per tutta la stagione fredda.
 
 ![Potatura di siepe, prima e dopo](/img/prima-e-dopo-la-potatura.jpg  "Potatura di siepe, prima e dopo")
 
-Prenotare il servizio è molto semplice: vai alla pagina [contatti](/contatti/ "contatti") e compila il modulo con i tuoi dati. Oppure telefona per un sopralluogo e un preventivo gratuito e senza impegno.
+## Prezzi e sopralluogo gratuito
 
-<br>
-<div class="text-center">
-  <p class="h3">PROVA LA DIFFERENZA!</p>
-  <a title="Chiama ora! Prova la differenza" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
+Puoi consultare subito le tariffe indicative al metro lineare nella mia pagina [Prezzi onesti](/prezzi/). Per una stima esatta, contattami: verrò da te **entro 30 km da Palmanova** per un **sopralluogo gratuito e senza impegno**.
+
+[Richiedi un preventivo gratuito](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**
+
 <br><br>
