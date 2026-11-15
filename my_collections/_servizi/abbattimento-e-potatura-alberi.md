@@ -65,7 +65,7 @@ Interveniamo su pini, abeti, querce, tigli, aceri, pioppi, cedri e alberi da fru
 * **Rimonda del secco:** rimozione dei rami secchi o spezzati che rischiano di cadere con il vento.
 * **Sfoltimento e alleggerimento della chioma:** per ridurre l'"effetto vela" durante i temporali e far filtrare più luce in giardino.
 * **Contenimento controllato:** per allontanare i rami da facciate, grondaie, cavi elettrici o proprietà confinanti.
-* **Processionaria:** per scongiurare il pericolo dei peli urticanti di questi lepidotteri pericolosi per persone e mortali per gli animali domestici rimuoviamo i [nidi di processionaria](/servizi/lotta-alla-processionaria/ "Rimozione nidi processionaria") che aggrediscono i vostri pini, cedri e querce.
+* **Processionaria:** per scongiurare il pericolo dei peli urticanti di questi lepidotteri, pericolosi per le persone, letali per gli animali domestici, rimuoviamo i [nidi di processionaria](/servizi/lotta-alla-processionaria/ "Rimozione nidi processionaria") che aggrediscono i vostri pini, cedri e querce.
 
 
 ### 2. Abbattimento alberi e abbattimento controllato
