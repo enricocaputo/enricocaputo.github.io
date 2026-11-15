@@ -1,34 +1,16 @@
 ---
 name: Stop Zanzare
 subtitle: "Trattamenti mirati per liberare il giardino da zanzare e insetti."
-title: Disinfestazioni zanzare a Udine, e Gorizia
-excerpt: "Stop zanzare a Udine e Gorizia! Trattamento antizanzare super efficace ad effetto immediato con lunga durata. Disinfestazione insetti."
+title: "Trattamenti antizanzare giardino a Udine e Gorizia • Stop Zanzare"
+excerpt: "Trattamenti mirati contro zanzare e zanzara tigre a Udine e Gorizia (entro 30 km da Palmanova): interventi larvicidi e adulticidi sicuri con patentino fitosanitario."
 image: /img/servizi/stop-zanzare.jpg
 webp: /img/servizi/webp/stop-zanzare.webp
 image_path: /img/servizi/disinfestazione-zanzare-udine-gorizia.jpg
 order: 8
 ---
-# Stop Zanzare
+# Stop Zanzare: trattamenti mirati per il giardino
 
-<br>
-<picture>
-  <source srcset="{{ page.webp }}" type="image/webp">
-  <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="970" height="300" alt="{{ page.name }}" title="{{ page.name }}"/>
-</picture>
-<br><br>
-
-Basta con le  zanzare! Nel **rispetto più assoluto verso le api** e gli altri insetti pronubi eseguiamo efficacissime disinfestazioni contro le zanzare a Udine, e Gorizia. Si eseguono anche disinfestazioni di **scarafaggi, cimici verdi e formiche**. Disinfestazione insetti a [**costi contenuti**](#costo "scopri quanto costa la disinfestazione zanzare").
-
-Con il **trattamento zanzare giardino** potrai ritornare a goderti le sere d’estate in giardino, organizzare cene con gli amici all'aperto senza preoccuparti delle punture d'insetti, rilassarti in piscina assieme ai tuoi bambini perché i metodi di lotta alle zanzare di [**Giardiniere POTASIEPE**](/chi-sono/ "Chi sono") sono davvero mirati ed efficaci.  
-
-## Quando è meglio iniziare il trattamento antizanzare?
-
-I trattamenti di disinfestazione per le **zanzare comuni** si iniziano non appena le zanzare ritornano attive in **primavera**, solitamente quando le temperature notturne raggiungono i 15 gradi.
-
-La disinfestazione della **zanzara tigre** può essere svolta anche in **tardo inverno**.
-
-### Una corretta disinfestazione va ripetuta ogni 2 o 3 settimane
+**Torna a goderti il tuo spazio verde all'aperto senza zanzare e insetti (entro 30 km da Palmanova)**
 
 <br>
 <div class="carousel">
@@ -40,58 +22,43 @@ La disinfestazione della **zanzara tigre** può essere svolta anche in **tardo i
 </div>
 <br>
 
-Le ripetizione del trattamento *Stop Zanzare* aumenta l'efficacia della disinfestazione e ne prolunga sensibilmente la durata nel tempo. E' consigliabile **ripetere** la disinfestazione
-delle zanzare al più tardi **ogni tre settimane**.
+Durante la bella stagione, zanzara comune e zanzara tigre possono rendere impossibile cenare in giardino, far giocare i bambini sull'erba o rilassarsi sul terrazzo. I comuni spray o le candele spesso offrono solo un sollievo temporaneo perché non agiscono nei punti in cui le zanzare si riproducono e si nascondono.
 
-## Disinfestazione di zanzara comuni, e zanzara tigre
+*Piacere, sono Enrico.* In possesso di **patentino fitosanitario abilitante**, eseguo trattamenti professionali **Stop Zanzare** per giardini privati, condomini, ristoranti e aziende nelle province di **Udine e Gorizia**.
 
-Mentre la zanzara comune sverna in forma adulta e in stato di diapausa (arresto spontaneo dello sviluppo, nel quale l’organismo è inattivo, non si alimenta e non si muove), **le zanzare tigre** lo fanno anche sotto forma di uova, **resistenti alla siccità e alle basse temperature**.
+---
 
-Per questo motivo la disinfestazione della zanzara tigre può essere svolta anche in tardo inverno, non solo attraverso pesticidi ma anche intervenendo per favorire lo scolo di canali e altre potenziali zone adatte alla deposizione delle uova.
+## Il mio metodo in due fasi per risultati concreti
 
-### Lotta anti larvale
+Per abbattere realmente la presenza delle zanzare nel tuo giardino non basta "spruzzare nell'aria": intervengo con una strategia mirata e rispettosa dell'ambiente:
 
-La **lotta anti larvale** consente di eliminare in breve tempo un grande numero di “potenziali” zanzare adulte, agendo in aree limitate ed impiegando quantità modeste di specifici insetticidi anti-larvali. Si tratta di una forma di lotta caratterizzata da un impatto ambientale minore rispetto a quello che accompagna la lotta contro le zanzare adulte.
+1. **Lotta larvicida nei punti di ristagno:** Tratto tombini, caditoie, griglie di scolo e sottovasi con prodotti specifici a basso impatto ambientale che bloccano lo sviluppo delle larve prima che diventino zanzare adulte.
+2. **Trattamento adulticida mirato sulla vegetazione:** Nebulizzo prodotti professionali a bassa tossicità e a rapido decadimento esclusivamente nelle zone in cui le zanzare si rifugiano durante il giorno (siepi, cespugli ombreggiati, sottobosco e bordi del prato).
 
-<h2 id="costo">Costo disinfestazione zanzare</h2>
+---
 
-Il costo della disinfestazione zanzare **dipende dalla dimensione del giardino** ed eventualmente dal numero di tombini, pozzetti e altri ristagni d’acqua.
-**L'intervento standard** *Stop Zanzare* agisce su due fronti:
+## Sicurezza, competenza e rispetto per l'ambiente
 
-- &#10004; eliminazione zanzare adulte (con nebulizzazione di insetticida)
-- &#10004; distruzione uova di zanzara (pastiglie e compresse nei tombini)
+* **Prodotti autorizzati e dosaggi controllati:** Utilizzo esclusivamente formulati registrati dal Ministero della Salute per uso civile e domestico, calibrando le dosi con precisione per massimizzare l'efficacia e minimizzare l'impatto.
+* **Attenzione agli insetti utili:** Eseguo i trattamenti nelle fasce orarie più adatte (primo mattino o tardo pomeriggio) ed evitando le piante in fioritura per tutelare api e impollinatori.
+* **Tranquillità per famiglia e animali:** Dopo poche ore dall'asciugatura del prodotto, il giardino torna perfettamente fruibile per adulti, bambini e animali domestici.
 
-Il costo per la disinfestazione degli insetti adulti è inferiore a quello relativo alle uova, perché si tratta di un’operazione più semplice, che richiede meno insetticida e in generale meno lavoro. Invece, controllare la proprietà alla ricerca di possibili punti di futuri focolai da trattare singolarmente con la massima attenzione richiede maggior dispendio di tempo e d'insetticida.
+---
 
-Consigliamo di effettuare l'esecuzione di entrambi i trattamenti perché l’uno senza l’altro offrirebbe risultati di breve durata (eliminando solamente le zanzare adulte dopo pochi giorni sareste invasi dalle larve, mentre annientando solamente le larve le femmine adulte sarebbero libere di deporre altre uova).
+## Quando conviene iniziare i trattamenti
 
-| Dimensione giardino m² | Costo disinfestazione zanzare |
-| ------------ | ------- |
-| fino a 50 m² | € 30,00 |
-| 51 - 100 m²  | € 60,00 |
-|101 - 150 m²  | € 90,00 |
-|oltre 150 m²  | prezzo da concordare |
-
-Il costo minimo di una disinfestazione si aggira attorno ai 30 euro. Si tratta di una cifra orientativa, che dipende dalla particolarità del giardino, dal tipo di trattamento proposto e dalla zona in cui abitate. Scopri di più sui &#10140; [costi del giardiniere](/prezzi/ "costi del giardiniere, diritto di chiamata").
-
-## Vantaggi della disinfestazione zanzare
-
-Se pensi che sia una cifra eccessiva, forse dovresti considerare che la disinfestazione rappresenta il miglior metodo per eliminare le zanzare dal giardino, un rimedio efficace che ti permetterà di risparmiare sull'acquisto al supermercato di spray antizanzare, piastrine e creme dopo-puntura.
-
-Se stai prendendo in considerazione il fai da te, sappi che a i prodotti naturali e gli insetticidi biologici sono inefficaci all'aperto e con quelli chimici rischi di intossicare te, i tuoi cari e i tuoi animali domestici.
-
-## Disinfestazioni scarafaggi e cimice verde asiatica
-
-Negli ultimi anni abbiamo subito una vera e propria invasione da parte della cimice verde asiatica.
-
-Per debellare la presenza delle cimici verdi si usano delle emulsioni ad altissimo concentrato di piretro.
-
-Con uno o due cicli di disinfestazione il problema viene risolto quasi del tutto.
+Per mantenere il giardino protetto tutta l'estate, consiglio di iniziare tra **aprile e maggio** (con la prevenzione larvicida) e programmare interventi di mantenimento ogni **3–4 settimane** fino a settembre, oppure un trattamento mirato prima di un evento o una festa all'aperto.
 
 <br>
-<div class="text-center">
-  <p class="h3">Desideri un sopralluogo per una disinfestazione?</p>
-  <br>
-  <a title="Richiedi un sopralluogo" href="/contatti/" class="button">RICHIEDILO ORA</a>
-</div>
+<picture>
+  <source srcset="{{ page.webp }}" type="image/webp">
+  <source srcset="{{ page.image }}" type="image/jpeg">
+  <img src="{{ page.image }}" width="970" height="300" alt="{{ page.name }}" title="{{ page.name }}"/>
+</picture>
 <br><br>
+
+## Prenota il trattamento per il tuo giardino
+
+Vuoi liberare il tuo giardino dalle zanzare questa stagione? Contattami per una valutazione gratuita **entro 30 km da Palmanova**.
+
+[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
