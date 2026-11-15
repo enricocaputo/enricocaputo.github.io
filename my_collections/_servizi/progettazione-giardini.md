@@ -2,7 +2,7 @@
 name: Realizzazione Giardini
 subtitle: "Progetto e realizzo spazi verdi su misura, belli e facili da gestire."
 title: "Progettazione e realizzazione giardini a Udine e Gorizia"
-excerpt: "Progettazione e realizzazione giardini su misura entro 30 km da Palmanova (UD e GO): scelta piante, prato, irrigazione e pacciamatura per spazi verdi belli e facili da gestire." realizzazione di un giardino da sogno."
+excerpt: "Progettazione e realizzazione giardini su misura entro 30 km da Palmanova (UD e GO): scelta piante, prato, irrigazione e pacciamatura per spazi verdi belli e facili da gestire."
 image: /img/posts/giardini/giardino-contemporaneo.png
 image_path: /img/servizi/esempio-di-giardino-moderno.jpg
 order: 0
