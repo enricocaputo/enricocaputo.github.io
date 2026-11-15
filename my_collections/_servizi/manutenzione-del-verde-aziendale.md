@@ -1,14 +1,21 @@
 ---
 name: Gestione Verde Aziendale
 subtitle: "Manutenzione programmata e puntuale per le aziende."
-title: "Impresa giardinaggio gestione verde aziendale Udine, Gorizia"
-excerpt: "Affida a Potasiepe la progettazione parchi, prenota la pulizia dei piazzali e la manutenzione del verde di hotel, ristoranti, negozi e stabilimenti industriali."
+title: "Gestione e manutenzione verde aziendale a Udine e Gorizia"
+excerpt: "Manutenzione programmata del verde per aziende, condomini e hotel entro 30 km da Palmanova (UD e GO). Puntualità, sicurezza e fatturazione trasparente."
 image: /img/servizi/verde-commerciale-industriale-potasiepe.jpg
 image_path: /img/servizi/verde-manutenzione-gestione-aziende.jpg
 carousel: true
 order: 9
 ---
-# Gestione verde aziendale
+
+# Gestione e manutenzione verde aziendale
+
+**Cura programmata, puntuale e in regola per aziende, condomini e strutture ricettive (entro 30 km da Palmanova)**
+
+L'area verde esterna è il primo biglietto da visita della tua azienda, del tuo hotel o del tuo condominio: un ingresso curato, siepi ordinate e parcheggi puliti trasmettono immediatamente serietà ai clienti, ai visitatori e ai residenti.
+
+*Piacere, sono Enrico.* Con **Potasiepe** offro contratti di **manutenzione programmata del verde** nelle province di **Udine e Gorizia**, garantendo interventi puntuali, zero pensieri per l'amministrazione e il pieno rispetto delle normative sulla sicurezza.
 
 <br>
 <div class="carousel">
@@ -18,35 +25,29 @@ order: 9
 </div>
 <br>
 
-**La cura del verde è un importante biglietto da visita**. Testimonia la vostra sensibilità per il benessere dei lavoratori, mette a loro agio i clienti e **aumenta la reputazione della vostra azienda**. Un piazzale pulito e ben curato, un'area esterna prestigiosa rappresentano la prima buona impressione che potete offrire ai vostri clienti e dipendenti. Studi scientifici hanno rivelato che la presenza di alberi e piante ha un legame forte con il benessere personale.
+## Perché le aziende scelgono Potasiepe
 
-**La forza dell'esperienza al tuo servizio**. Giardiniere Potasiepe vanta un'esperienza pluriennale testimoniata da centinaia di opere a verde, manutenzione di parchi e installazioni di impianti di irrigazione.
+* **Pianificazione annuale senza imprevisti:** Definiamo insieme un calendario di interventi stagionali (taglio erba, potatura siepi, pulizia aiuole, concimazioni e raccolta foglie) così il verde resta sempre in ordine senza che tu debba ricordarti di chiamare ogni volta.
+* **Silenzio durante l'orario di lavoro:** Utilizzo attrezzature professionali **a batteria di ultima generazione**, ideali per uffici, studi medici, alberghi e condomini perché non disturbano chi lavora o riposa all'interno.
+* **Massima sicurezza e abilitazioni:** Laureato in ambito agrario e regolarmente abilitato per **lavori in quota, utilizzo di piattaforme aeree (PLE) e trattamenti fitosanitari (patentino ERSA)**, opero nel pieno rispetto delle norme di sicurezza sul lavoro.
+* **Un unico referente responsabile:** Intervengo personalmente, garantendo continuità, cura dei dettagli e pulizia impeccabile dei piazzali e dei camminamenti a fine servizio.
 
-## Giardinaggio dedicato alle aziende
+---
 
-Ci occupiamo di **pulizia dei piazzali** e della **manutenzione delle aree verdi di hotel, ristoranti, negozi e stabilimenti industriali**.
+## I servizi inclusi nella gestione aziendale
 
-Il nostro ufficio tecnico è a vostra disposizione per proporvi **soluzioni progettuali funzionali, creative e belle da vedere**.
+* Rasatura regolare di tappeti erbosi e aree verdi perimetrali.
+* Potatura periodica di siepi ornamentali e arbusti.
+* Controllo e manutenzione di [impianti di irrigazione automatica](/prodotti/irrigazione-giardino/).
+* Potatura di sicurezza per alberi ad alto fusto e [lotta alla processionaria](/servizi/lotta-alla-processionaria/).
+* Pulizia caditoie, vialetti e raccolta foglie autunnali con smaltimento certificato dei residui.
 
-Se avete già affidato la parte progettuale ad un architetto saremo lieti di occuparci della realizzazione pratica.
+---
 
-**[Una gran varietà di alberi e piante](/vivaio/ "Scopri i Vivai Potasiepe")**, tutte forti, sane, ben nutrite e adeguatamente protette dalle infestanti.
+## Richiedi un sopralluogo per la tua azienda o condominio
 
-## Gestione del verde industria e commercio
+Vuoi ricevere una proposta di manutenzione annuale su misura **entro 30 km da Palmanova**? Contattami per un sopralluogo gratuito e senza impegno.
 
-- &#10004; [Addetti altamente qualificati](/chi-sono/ "Chi sono") e formati per garantirvi lavori svolti a regola d’arte, nel rispetto delle norme sulla sicurezza.
-
-- &#10004; **Programmazione a calendario** con possibilità di invio promemoria e rapporti di avvenuta esecuzione lavori.
-
-- &#10004; Possibilità di stabilire un **importo forfettario annuale** per la gestione del verde.
-
-## Manutenzione verde per aziende, Udine, Gorizia
-
-Serviamo le provincie di **[Udine](/giardinaggio-udine/ "Il giardiniere Potasiepe a Udine")** e **[Gorizia](/gorizia/ "Il giardiniere Potasiepe anche a Gorizia")** in un raggio di circa 40 km dalla nostra sede di Cervignano del Friuli (UD).
+[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
 
 <br>
-<div class="text-center">
-  <p class="h3">Sopralluogo Gratuito</p>
-  <a title="Compila il modulo online" href="/contatti/" class="button"> PRENOTA </a>
-</div>
-<br><br>

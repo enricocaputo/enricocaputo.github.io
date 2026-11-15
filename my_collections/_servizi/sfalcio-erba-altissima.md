@@ -1,14 +1,20 @@
 ---
 name: Sfalci Erba Altissima
 subtitle: "Pulizia rapida di terreni incolti, parchi e aree abbandonate."
-title: Sfalci erba altissima a Udine, Gorizia
-excerpt: "Sfalci erba altissima, Udine, Gorizia. Taglio di erbacce, rovi, canneti ed erba molto alta e tenace, con trinciatrice. Prezzo e tariffa oraria, costo € 50/h."
+title: "Sfalcio erba altissima e pulizia terreni a Udine e Gorizia"
+excerpt: "Sfalcio erba alta, rovi e pulizia terreni incolti entro 30 km da Palmanova (UD e GO) con trinciaerba e decespugliatori professionali. Preventivo gratuito."
 image: /img/servizi/taglio-erba-molto-alta.jpg
 webp: /img/servizi/webp/taglio-erba-molto-alta.webp
 image_path: /img/servizi/taglio-erba-altissima-400x300.jpg
 order: 5
 ---
-# Sfalcio erba altissima
+
+
+# Sfalcio erba altissima e pulizia terreni incolti
+
+**Bonifica rapida di terreni abbandonati, parchi, frutteti e aree artigianali (entro 30 km da Palmanova)**
+
+Quando un terreno o un giardino resta fermo per mesi, erba alta, rovi e sterpaglie prendono rapidamente il sopravvento, rendendo l'area inutilizzabile, favorendo la proliferazione di zecche, insetti e roditori, e aumentando il rischio di incendi in estate (spesso in violazione delle ordinanze comunali sul decoro e la sicurezza).
 
 <br>
 <div class="carousel">
@@ -20,17 +26,33 @@ order: 5
 </div>
 <br>
 
-Sfalci erba altissima a Udine e Gorizia. **Taglio di erbacce, rovi, canneti ed erbe molto alte e tenaci**, a mezzo decespugliatore, **macchine trinciaerba e trinciatutto professionali**.
+*Piacere, sono Enrico.* Con **Potasiepe** intervengo nelle province di **Udine e Gorizia** con macchine professionali ad alte prestazioni per **ripulire rapidamente terreni incolti, giardini trascurati, argini e aree industriali**, anche in presenza di vegetazione molto fitta e alta oltre il metro.
 
-## Costo taglio di erba altissima
+---
 
-&#10004; Il prezzo del taglio di erba molto alta è a tariffa oraria, il costo è di € 50/h.
+## Attrezzature professionali per ogni tipo di terreno
 
-<br><br>
-<div class="text-center">
-  <h2>Hai un appezzamento di terra che non curi da un po' di tempo?</h2>
-  <p>Chiama adesso e nel giro di qualche giorno verremo a tagliare le erbacce.</p>
-  <br>
-  <a title="Chiama adesso e prenota un sopralluogo" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
-<br><br>
+Un normale tagliaerba non può affrontare erba alta e rovi. Per questo utilizzo macchine specifiche in base alle condizioni del tuo appezzamento:
+
+* **Trinciaerba e trattorini falciatutto professionali:** Ideali per grandi superfici, prati rustici e terreni sconnessi, sminuzzano finemente l'erba alta e i piccoli arbusti riducendo subito il volume dei residui.
+* **Decespugliatori forestali ad alta potenza:** Perfetti per rifinire bordi, fossati, scarpate, attorno agli alberi e negli spazi stretti dove i mezzi più grandi non arrivano.
+* **Rispetto per l'ambiente:** Anche nei lavori più gravosi impiego motori a 4 tempi a basse emissioni e, dove possibile, **filo biodegradabile in fibra di mais**.
+
+---
+
+## Cosa posso fare con i residui dello sfalcio
+
+In base alle tue esigenze e alla destinazione del terreno, puoi scegliere tra:
+
+* **Trinciatura sul posto (mulching rustico):** L'erba sminuzzata resta al suolo, decomponendosi rapidamente e restituendo sostanza organica al terreno senza costi di trasporto.
+* **Raccolta e smaltimento completo:** Se si tratta di un giardino residenziale da rimettere a nuovo, raccolgo e porto via tutto il materiale tagliato lasciando l'area completamente libera.
+
+---
+
+## Richiedi un preventivo rapido (anche via WhatsApp)
+
+Hai un terreno o un giardino da ripulire **entro 30 km da Palmanova**? Inviami **2 o 3 foto su WhatsApp** indicando la superficie approssimativa: ti risponderò subito con una prima stima o fisseremo un sopralluogo gratuito.
+
+[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
+
+<br>

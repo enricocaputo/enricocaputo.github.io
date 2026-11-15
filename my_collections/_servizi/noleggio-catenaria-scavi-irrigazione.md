@@ -1,14 +1,21 @@
 ---
 name: Noleggio Catenaria
 subtitle: "Scavi stretti e precisi per impianti senza rovinare il prato."
-title: Noleggio catenaria per scavi a Udine
-excerpt: "Noleggio Catenaria per scavi irrigazione giardino poco invasivi senza rovinare il prato, Udine, Gorizia. Noleggio Catenaria scavi con Operatore, costo € 5/m."
+title: "Noleggio catenaria per scavi stretti a Udine e Gorizia"
+excerpt: "Noleggio catenaria (scavatrincea) a freddo o con operatore entro 30 km da Palmanova (UD e GO) per posa impianti di irrigazione, cavi elettrici e tubazioni."
 image: /img/servizi/noleggio-catenaria-scavi-irrigazione.jpg
 webp: /img/servizi/webp/noleggio-catenaria-scavi-irrigazione.webp
 image_path: /img/servizi/noleggio-catenaria-scavi-400x300.jpg
 order: 11
 ---
-# Noleggio Catenaria
+
+# Noleggio catenaria per scavi stretti
+
+**Scavatrincea compatta per impianti di irrigazione, cavi e tubazioni senza rovinare il prato (entro 30 km da Palmanova)**
+
+Devi posare tubi per l'irrigazione, cavi elettrici per l'illuminazione del giardino o piccole condotte interrate e non vuoi distruggere il prato con un miniescavatore? La **catenaria (scavatrincea)** è la soluzione più rapida, pulita ed economica.
+
+*Piacere, sono Enrico.* Metto a disposizione la mia **catenaria professionale** per privati e imprese nelle province di **Udine e Gorizia**, sia con **noleggio a freddo** (solo macchina) sia con **servizio completo con operatore**.
 
 <br>
 <div class="carousel">
@@ -20,39 +27,25 @@ order: 11
 </div>
 <br>
 
-Noleggio Catenaria con Operatore per **scavi irrigazione giardino poco invasivi** che non rovinano il prato, a Udine, Gorizia, in un raggio di 40 km da Cervignano del Friuli, UD.
+## Perché usare una catenaria al posto della vanga o dell'escavatore
 
-## Catenaria vs Escavatore
+* **Scavo stretto e preciso:** Realizza trincee larghe circa **10 cm** e profonde fino a **35/40 cm**, ideali per alloggiare tubi in polietilene e corrugati senza movimentare inutilmente quintali di terra.
+* **Il giardino resta intatto:** La terra scavata viene depositata ordinatamente lungo il bordo della trincea, permettendo di richiudere lo scavo in pochi minuti con un impatto minimo sul tappeto erboso.
+* **Tempi ridotti al minimo:** Decine di metri di scavo che a mano richiederebbero giorni di fatica vengono completati in meno di un'ora.
+* **Compatta e maneggevole:** Passa facilmente attraverso cancelli pedonali e spazi stretti tra aiuole e siepi.
 
-Quando è preferibile usare la catenaria al posto dell' escavatore?
+---
 
-- &#10004; La catenaria ha un peso ridotto e non rovina il giardino.
-- &#10004; Lo scavo della catenaria ha una larghezza di soli 12 cm.
-- &#10004; La terra scavata dalla catenaria viene macinata finemente.
-- &#10004; Richiudere uno scavo fatto dalla catenaria è molto agevole e
-la terra, con il passare del tempo, calerà poco.
-- ❌ Se ci sono molte pietre e sassi grossi si deve usare un escavatore.
+## Modalità di noleggio
 
-## Costo noleggio catenaria
+* **Noleggio a freddo (solo macchina):** Ritiro o consegna concordata entro 30 km da Palmanova, con spiegazione pratica sull'utilizzo sicuro della macchina.
+* **Scavo con operatore:** Se preferisci non occupartene personalmente, vengo direttamente io a eseguire lo scavo secondo il tracciato che hai stabilito.
 
-&#10004; Il prezzo del nolo catenaria per scavi irrigazione giardino è al metro, **gli scavi verranno eseguiti da nostro operatore**, il costo è di € 6 al metro.
+---
 
-### Vantaggi del noleggio catenaria con operatore
+## Verifica disponibilità e tariffe
 
-La catenaria pesa circa 2 quintali e il suo utilizzo richiede cautela e una certa dose di esperienza.
+Vuoi conoscere la disponibilità della catenaria o richiedere un preventivo per lo scavo nel tuo giardino?
 
-- &#10003; Evitate il problema del trasporto e della restituzione.
-- &#10003; Niente file e ritardi: arriviamo noi in cantiere all'ora stabilita.
-- &#10003; Evitate ogni responsabilità perché un uso improprio la può danneggiare.
-- &#10003; Evitate di perdere la priorità nel caso dobbiate disdire l'appuntamento causa maltempo.
-- &#10003; Grazie alla nostra [esperienza nel settore irrigazione](/prodotti/irrigazione-giardino/ "Potasiepe è installatore autorizzato di impianti di irrigazione giardino dei marchi più prestigiosi") possiamo consigliarvi e aiutarvi a risolvere seduta stante eventuali errori di progettazione.
-
-
-<br><br>
-<div class="text-center">
-  <h2>Desideri noleggiare la catenaria per scavi irrigazione giardino o altro?</h2>
-  <p>Chiama adesso per concordare la data dello scavo.</p>
-  <br>
-  <a title="Chiama adesso per concordare la data dello scavo" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
-<br><br>
+[Richiedi informazioni](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
+<br>
