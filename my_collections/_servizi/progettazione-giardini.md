@@ -1,13 +1,34 @@
 ---
 name: Realizzazione Giardini
 subtitle: "Progetto e realizzo spazi verdi su misura, belli e facili da gestire."
-title: Progettazione giardini, realizzo giardini da sogno!
-excerpt: "Progettazione Giardini: come nasce un giardino, costi, perché scegliere Potasiepe Giardini. Dalla progettazione alla realizzazione di un giardino da sogno."
+title: "Progettazione e realizzazione giardini a Udine e Gorizia"
+excerpt: "Progettazione e realizzazione giardini su misura entro 30 km da Palmanova (UD e GO): scelta piante, prato, irrigazione e pacciamatura per spazi verdi belli e facili da gestire." realizzazione di un giardino da sogno."
 image: /img/posts/giardini/giardino-contemporaneo.png
 image_path: /img/servizi/esempio-di-giardino-moderno.jpg
 order: 0
 ---
-# Progettazione giardini
+
+# Progettazione e realizzazione giardini a Udine e Gorizia
+
+**Spazi verdi su misura, belli da vivere e facili da gestire nel tempo (entro 30 km da Palmanova)**
+
+Un bel giardino non nasce mettendo a dimora qualche pianta a caso: perché resti sano, armonioso e ordinato negli anni, serve uno studio attento dell'esposizione al sole, del tipo di terreno, del clima locale e del tempo che puoi dedicare alla manutenzione.
+
+<br>
+<img src="/img/slides/progettazione-giardini/planimetria.jpg" width="800" height="566" alt="Progetto definitivo del giardino con tutti i particolari tecnico stilistici">
+<br>
+
+*Piacere, sono Enrico.* Grazie alla mia **formazione universitaria in ambito agrario** e all'esperienza sul campo nelle province di **Udine e Gorizia**, progetto e realizzo giardini privati, aiuole e aree verdi aziendali che uniscono **estetica, resistenza e praticità**.
+
+---
+
+## Come progetto e realizzo il tuo giardino
+
+1. **Sopralluogo e ascolto delle tue esigenze:** Camminiamo insieme nel tuo spazio verde per valutare esposizione, pendenze, punti d'acqua, privacy rispetto ai vicini e lo stile che desideri (moderno, mediterraneo, fiorito o a bassa manutenzione).
+2. **Scelta botanica mirata:** Seleziono alberi, arbusti, siepi e fioriture realmente adatti al clima e al terreno del Friuli Venezia Giulia e dell'Isontino, evitando specie troppo delicate o sproporzionate per lo spazio disponibile.
+3. **Preparazione del terreno e impianti:** Prima ancora di piantare, preparo il suolo in profondità, realizzo eventuali [impianti di irrigazione automatica](/irrigazione/) con scavi stretti e installo bordure pulite per delimitare aiuole e camminamenti.
+4. **Messa a dimora e pacciamatura:** Pianto le essenze selezionate con le corrette distanze di crescita e rifinisco le aiuole con **pacciamatura naturale** (corteccia, cippato o lapillo) per trattenere l'umidità e ridurre la crescita delle erbacce.
+5. **Formazione del prato:** Completo il lavoro con la [semina o la posa di prato a rotoli](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/) per consegnarti un giardino subito ordinato e pronto da vivere.
 
 <br>
 <div class="video YouTube carousel" data-videoid="AuOMG8RhZsA">
@@ -15,67 +36,21 @@ order: 0
 </div>
 <br>
 
-Progettazione di giardini unici, che rispecchiano la vostra personalità e le vostre esigenze.<br> La conoscenza botanica, l'esperienza accumulata negli anni, la capacità di cogliere la personalità e le aspettative del committente condurranno alla realizzazione di giardini da sogno. &#10140; [Chi sono](/chi-sono/ "Chi sono")
+## Perché affidare a me il tuo nuovo giardino
 
-## Come nasce un giardino
+* **Un solo referente dall'idea alla realizzazione:** Non dovrai coordinare più ditte diverse: seguo personalmente ogni fase, dal progetto alla scelta delle piante fino alla posa e alla manutenzione futura.
+* **Progettazione pensata per durare:** Studio combinazioni di piante che garantiscono colore e interesse in ogni stagione, riducendo al minimo gli interventi straordinari e gli sprechi d'acqua.
+* **Trasparenza su tempi e costi:** Prima di iniziare i lavori ricevi un preventivo chiaro e dettagliato con tutte le voci di spesa.
 
-Sopralluogo - i giardini più belli nascono dall'attenta analisi di una serie di elementi: la forma e le dimensioni dello spazio da progettare, il suo **orientamento**, il tipo di **terreno** le **condizioni climatiche**, le **vedute** più importanti da enfatizzare e quelle meno piacevoli da nascondere.
+---
 
-A questo si aggiunge un attento studio delle **essenze autoctone**, dei **materiali** e delle **architetture** tipiche della zona, alla ricerca di una perfetta integrazione con l'ambiente circostante.
+## Hai un giardino da creare o rinnovare da zero?
 
-### Briefing
+Che si tratti di una nuova abitazione o di un giardino esistente da ripensare, contattami per un **sopralluogo gratuito entro 30 km da Palmanova**: trasformeremo insieme il tuo spazio esterno.
 
-Forse l'aspetto più importante di tutti e riuscire a comprendere la **personalità**, lo **stile** e i **desideri** di chi vivrà il futuro giardino. Per questo dedichiamo tutto il tempo necessario a discutere delle soluzioni architettoniche, senza tralasciare gli **aspetti emozionali**, in uno o più incontri con i committenti.
+[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
 
-### Acquisizione digitalizzata dello stato dei luoghi
 
-Questa verrà effettuata con le più moderne tecniche attualmente disponibili: aerofotogrammetria e scansione tridimensionale dell'area con **drone**, acquisizione video e fotografica a 360°. Tutto questo materiale digitalizzato sarà indispensabile per la fase progettuale in studio.
-
-### Primo step progettuale
-
-La sintesi dello studio del materiale raccolto e dell'idea progettuale verrà concretizzata in un primo elaborato planimetrico utile anche ad ipotizzare il budget destinato alla sua realizzazione.
-
-<img src="/img/slides/progettazione-giardini/bozza-progetto-giardino.jpg" width="800" height="566" alt="Primo step, bozza di progetto del giardino">
-
-Successivamente a questo si entrerà nello specifico di tutti i particolari tecnico stilistici.
-
-<img src="/img/slides/progettazione-giardini/planimetria.jpg" width="800" height="566" alt="Progetto definitivo del giardino con tutti i particolari tecnico stilistici">
-
-### Progettazione Real 3D Garden Design
-
-Il progetto realizzato con la tecnica della *Real 3D Garden Design* e l'altissima definizione **4K** regalerà al committente una straordinaria esperienza virtuale immersiva con la sensazione di passeggiare nel nuovo giardino della propria abitazione. Manufatti, scale, piscina, accessori: ogni elemento del giardino è in 3D, viene rappresentato in scala 1:1 e con materiali reali. L'impressione di passeggiare tra fiori e alberi con le foglie mosse dal vento è assolutamente impressionante. Inoltre, con il *Real 3D Garden Design* si potranno valutare insieme la correttezza e la godibilità di tutte le scelte stilistiche e architettoniche proposte.
-
-### Progettazioni complementari del giardino
-
-Qui come per tutti gli altri aspetti progettuali, la tecnica si fonde con l'esperienza, alla ricerca del risultato eccellente. I migliori materiali, tecnici preparati e tecnologia all'avanguardia sono quello che mettiamo quotidianamente in campo per la nostra clientela.
-
-#### 1 Sistema di irrigazione totalmente automatizzato
-
-Le adeguate conoscenze botaniche e la specifica esperienza sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, [sistema di irrigazione](/prodotti/irrigazione-giardino/ "irrigazione giardino") del giardino.
-
-#### 2 scenografia notturna del giardino
-
-L'affascinante studio della luce viene realizzato sulla base di sistemi illuminotecnici a bassissimo consumo energetico prodotti da un'azienda partner su nostre specifiche.
-
-#### 3 Outdoor entertainment system
-
-Sonorizzazione degli spazi ludici o di relax con sistemi acustici innovativi.
-
-## Realizzazione giardini
-
-Selezione di [alberi e piante](/vivaio/ "vivaio vendita piante") anche di grandi dimensioni per un giardino pronto effetto. Piante dalle fioriture lunghe e particolarmente belle garantiranno il mantenimento dei risultati nel tempo.
-
-Insediamento del manto erboso di tipo tradizionale oppure di un [prato a zolla in rotolo](/prodotti/prato-a-rotoli/ "prato a zolla in rotolo").
-
-Ci prendiamo cura del giardino negli anni a venire, siamo specializzati nella [manutenzione del verde](/servizi/giardiniere-a-domicilio/ "giardiniere a domicilio").
-
-<br>
-<div class="text-center">
-  <p class="h2">Diamo concretezza alla tue idee!</p>
-  <a title="contatti" href="/contatti/" aria-label="contatti" class="button">
-    CONTATTACI
-  </a>
-</div>
 <br><br>
 
 <div class="YouTube">
