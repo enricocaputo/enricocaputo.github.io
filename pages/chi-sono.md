@@ -19,7 +19,13 @@ last_modified_at: 2022-02-27T8:39
 <br>
 Mi chiamo Enrico, di lavoro **curo gli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà in cui ho accesso.
 
-Non di rado i miei clienti mi confidano brutte esperienze passate con altri giardinieri. Credo fermamente che la serietà e la **puntualità** siano doti indispensabili di un giardiniere professionista tanto quanto la preparazione e la **competenza**. Per questi motivi mi impegno a svolgere i lavori con la massima accuratezza e non dormo sugli allori del diploma di laurea ma dedico molto del mio tempo libero allo studio delle piante.
+So quanto sia importante potersi fidare di chi entra nella propria proprietà: per questo garantisco **puntualità assoluta, preventivi chiari e il giardino lasciato perfettamente pulito a fine lavoro**.
+
+Credo fermamente che la serietà e la **puntualità** siano doti indispensabili di un giardiniere professionista tanto quanto la preparazione e la **competenza**. Per questi motivi mi impegno a svolgere i lavori con la massima accuratezza e non dormo sugli allori del diploma di laurea ma dedico molto del mio tempo libero allo studio delle piante.
+
+Sono un istruttore certificato nell'uso della motosega e abilitato per i lavori in quota Per te significa avere in giardino un professionista che applica i più alti standard di sicurezza e precisione di taglio, azzerando i rischi per la tua proprietà.
+
+Ho il patentino fitosanitario e ti potrò consigliare per mantenere le tue piante in salute o su come intervenire efficacemente se vedrò le tue piante sofferenti.
 
 ## Come lavoro
 
