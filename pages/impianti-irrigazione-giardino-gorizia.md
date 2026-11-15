@@ -1,11 +1,16 @@
 ---
-title: Impianti irrigazione giardino, Gorizia
-excerpt: "Impianti irrigazione giardino, Gorizia: irrigazione interrata automatica, impianti irrigazione moderni a prestazioni elevate, basso consumo idrico, lunga durata"
+title: "Impianti di irrigazione giardino a Gorizia e Monfalcone"
+excerpt: "Progettazione, installazione e riparazione impianti di irrigazione a Gorizia, Monfalcone, Grado, Gradisca e Cormons (entro 30 km da Palmanova). Sopralluogo gratuito."
 permalink: /impianti-irrigazione-giardino-gorizia/
 image: /img/prodotti/pozzetto-irrigazione-2.jpg
 last_modified_at: 2022-02-27T8:39
 ---
-# Impianti irrigazione giardino Gorizia
+
+# Impianti di irrigazione giardino a Gorizia e provincia
+
+**Sistemi di irrigazione automatici per prati, siepi e terrazzi nell'Isontino (entro 30 km da Palmanova)**
+
+Durante le estati calde e ventilate tra **Monfalcone, Grado, Gradisca d'Isonzo, Cormons e Gorizia**, mantenere il giardino verde e in salute richiede un'irrigazione regolare e ben calibrata.
 
 <br>
 <div class="carousel">
@@ -16,23 +21,15 @@ last_modified_at: 2022-02-27T8:39
 </div>
 <br>
 
-Installazione e posa di impianti irrigazione per il giardino delle migliori marche, come  
-<a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener"><strong>HUNTER</strong></a> e
-<a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" target="_blank" rel="noopener"><strong>RAIN BIRD</strong></a>.
+*Piacere, sono Enrico.* Con **Potasiepe** progetto, installo e riparo **impianti di irrigazione automatici in tutta la provincia di Gorizia**, offrendo soluzioni affidabili che ti permettono di risparmiare tempo e acqua.
 
-## Irrigazioni giardino a Gorizia
+---
 
-Abbiamo installato irrigazioni nei giardini di Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionarie e in molti comuni della Provincia.
+## Soluzioni su misura per ogni spazio verde dell'Isontino
 
-## Impianti di irrigazione moderni a prestazioni elevate
-
-Potasiepe è una realtà innovativa che propone l’utilizzo di componenti a prestazioni elevate per l'irrigazione del giardino.
-
-Siamo tra i pochi in Friuli-venezia-giulia a installare impianti di irrigazione di tipo moderno con **staffe e tubi  innovativi e di lunghissima durata**. L'irrigazione di tipo moderno consente di alzare, abbassare, spostare, eliminare e aggiungere irrigatori senza difficoltà.   
-
-Grazie all'installazione di impianti d'irrigazione progettati da un professionista potrai evitare i più comuni problemi di inutile spreco d'acqua. Negli impianti di tipo tradizionale (posati dalla maggioranza degli installatori) l'acqua non raggiunge l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
-
-Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
+* **Impianti interrati per prati e giardini:** Irrigatori dinamici e statici dei marchi professionali **Hunter e Rain Bird**, regolati per distribuire l'acqua in modo omogeneo anche in presenza di vento.
+* **Irrigazione a goccia per siepi, orti e giardini rocciosi:** Erogazione lenta e mirata alle radici, perfetta per ottimizzare la risorsa idrica ed evitare malattie fogliari.
+* **Impianti per seconde case e terrazzi (Grado e costa):** Sistemi automatizzati con centraline programmabili per mantenere piante e vasi sempre irrigati anche quando sei fuori casa.
 
 <br>
 <picture>
@@ -42,53 +39,23 @@ Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di 
 </picture>
 <br>
 
-### Irrigazione a goccia
+## Installazione rapida e pulita con catenaria
 
-L’irrigazione a goccia consente di somministrare a ogni singola pianta la giusta quantità d’acqua all’orario desiderato. Una soluzione ideale per le piante in vaso, le aiuole e gli orti.
+Per posare le tubazioni interrate utilizzo una **catenaria professionale** che realizza trincee strette e precise: in questo modo riduco al minimo il disturbo sul giardino esistente e consegno un lavoro pulito in tempi rapidi.
 
-La centralina all'ora stabilita apre l’acqua che, attraverso un'ala gocciolante e appositi tubicini, scorre fino a raggiungere la base delle singole piante.
+---
 
-<br>
-<div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
-<br>
+## Assistenza, riparazioni e check-up stagionale
 
-## Vantaggi irrigazione interrata automatica
+Hai un impianto che perde acqua, irrigatori che non si alzano più o vuoi prepararlo alla stagione estiva? Effettuo interventi rapidi di riparazione e **check-up stagionali completi (da 50 € a 100 €)** in tutta la provincia di Gorizia.
 
-I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
+---
 
-- &#10004; aumento del valore della vostra proprietà immobiliare
-- &#10004; comodità di irrigare automaticamente il giardino anche quando siete in vacanza
-- &#10004; certezza che ogni zona del giardino riceva la giusta quantità d’acqua senza sprechi
-- &#10004; piacevolezza estetica dei giochi d'acqua, nessuna tubazione fuori terra
-- &#10004; facilità di tagliare il prato, terminato il ciclo di irrigazione gli irrigatori scompaiono
+## Prenota un sopralluogo nella provincia di Gorizia
 
-[**Bonus Verde 2023: detrazione IRPEF 36% per gli impianti d'irrigazione**](/news/bonus-verde "Bonus Verde 2023").
+Opero regolarmente in tutti i comuni della provincia di Gorizia **entro 30 km da Palmanova**. Chiamami o scrivimi su WhatsApp per valutare insieme il tuo impianto.
 
-## Il tuo impianto di irrigazione in giardino non funziona?
+[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
 
-[Potasiepe](/chi-sono/ "chi-sono") ripara anche i guasti improvvisi dei vecchi impianti d'irrigazione!
-
-Per un'irrigazione sempre efficiente vi **consigliamo un *check-up* ogni 2 anni**.
-
-La manutenzione ordinaria (*check-up*) ha un **costo variabile da 50 a 100 euro** e prevede:
-
-- &#10004; Pulizia testine, ugelli, di tutti gli irrigatori
-- &#10004; Ispezione del programmatore, centralina
-- &#10004; Sostituzione della batteria tampone
-- &#10004; Controllo sensore pioggia
-- &#10004; Controllo elettrovalvole
-- &#10004; Aggiornamento ora e data
-- &#10004; Programmazione zone
-- &#10004; Test finale
-
-<br>
-<div class="text-center">
-  <p class="h3">Prenota il <em>check-up</em> del tuo impianto d'irrigazione</p>
-  <a title="Prenota ora" href="/contatti/" class="button">PRENOTA ORA</a>
-</div>
-<br><br>
 
 ![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")
