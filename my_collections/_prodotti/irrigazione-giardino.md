@@ -19,7 +19,7 @@ Un impianto di irrigazione ben progettato ti libera dall'impegno quotidiano di b
 ![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")
 <br>
 
-*Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **realizzazione, riparazione e manutenzione di impianti di irrigazione** per giardini privati, terrazzi e aziende nelle province di **Udine e Gorizia**.
+*Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **realizzazione, riparazione e manutenzione di impianti di irrigazione** per giardini privati, terrazzi e aziende nelle province di **Udine e Gorizia**, utilizzando esclusivamente componenti professionali **Hunter e Rain Bird**.
 
 ---
 
@@ -42,17 +42,17 @@ Un impianto di irrigazione ben progettato ti libera dall'impegno quotidiano di b
 
 Uno dei timori più frequenti di chi ha già un bel giardino è che lo scavo per i tubi distrugga il prato. Grazie all'utilizzo di una **catenaria professionale**, realizzo **trincee strette, profonde e precisissime**, riducendo al minimo l'impatto sul tappeto erboso e ripristinando subito il livello del terreno a fine posa.
 
-Inoltre, seleziono esclusivamente **componenti affidabili dei migliori marchi del settore**, facili da manutenere e progettati per durare negli anni.
+---
+
+## Check-up stagionale e manutenzione (da 50 € a 100 €)
+
+Oltre a realizzare impianti nuovi, intervengo anche su impianti esistenti per **apertura primaverile, regolazione ugelli, pulizia filtri, chiusura invernale e ricerca guasti**, con pacchetti di controllo e messa a punto a partire da **50 € a 100 €** in base alle dimensioni dell'impianto.
 
 ---
 
-## Manutenzione stagionale e riparazioni
+## Dove opero
 
-Oltre a realizzare impianti nuovi, intervengo anche su impianti esistenti per:
-
-* **Apertura primaverile:** Controllo pressione, pulizia filtri, regolazione degli ugelli e programmazione della centralina.
-* **Chiusura e svuotamento autunnale:** Messa in sicurezza dell'impianto prima delle gelate invernali per evitare rotture di tubi ed elettrovalvole.
-* **Ricerca guasti e riparazioni:** Sostituzione di irrigatori danneggiati, elettrovalvole bloccate, perdite lungo le linee o centraline guaste.
+Realizzo e riparo impianti di irrigazione entro **30 km da Palmanova**, nelle province di [Udine](/impianti-irrigazione-giardino-udine/) e [Gorizia](/impianti-irrigazione-giardino-gorizia/).
 
 <br>
 <div class="carousel">
@@ -67,6 +67,8 @@ Oltre a realizzare impianti nuovi, intervengo anche su impianti esistenti per:
 
 ## Richiedi un sopralluogo gratuito
 
-Vuoi installare un impianto di irrigazione o far controllare quello che hai già? Contattami per un **sopralluogo gratuito entro 30 km da Palmanova**: valuteremo insieme la portata d'acqua disponibile e la soluzione più adatta al tuo giardino.
+Vuoi installare un impianto di irrigazione o far controllare quello che hai già? Contattami per un **sopralluogo gratuito**: valuteremo insieme la portata d'acqua disponibile e la soluzione più adatta al tuo giardino.
 
 [Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
+
+<br>
