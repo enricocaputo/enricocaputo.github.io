@@ -2,7 +2,7 @@
 name: Giardiniere a Domicilio
 subtitle: "Cura ordinaria e straordinaria del verde con attrezzature silenziose."
 title: Giardiniere a domicilio a Udine e Gorizia
-excerpt: "Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, balcone o giardino Potasiepe ti aiuta a progettare e mantenere il tuo spazio verde."
+excerpt: "Cerchi un giardiniere a domicilio tra Udine e Gorizia? Manutenzione ordinaria e stagionale entro 30 km da Palmanova: taglio erba, potature e pulizia finale inclusa."
 image: /img/servizi/servizi-giardinaggio.jpg
 webp: /img/servizi/webp/servizi-giardinaggio.webp
 image_path: /img/servizi/giardiniere-a-domicilio-udine.jpg
