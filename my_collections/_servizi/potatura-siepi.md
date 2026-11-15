@@ -10,6 +10,8 @@ order: 1
 ---
 # Potatura siepi a Udine e Gorizia
 
+**Siepi dritte, folte e in salute, anche oltre i 6 metri di altezza (entro 30 km da Palmanova)**
+
 <br>
 <div class="carousel">
 <picture>
@@ -19,10 +21,6 @@ order: 1
 </picture>
 </div>
 <br>
-
-# Potatura siepi a Udine e Gorizia
-
-**Siepi dritte, folte e in salute, anche oltre i 6 metri di altezza (entro 30 km da Palmanova)**
 
 Una siepe ben curata protegge la tua privacy, valorizza la casa e mantiene il confine ordinato. Tuttavia, se viene potata nel periodo sbagliato o con attrezzature non adatte, rischia di svuotarsi alla base, ammalarsi o diventare un motivo di discussione con i vicini.
 
