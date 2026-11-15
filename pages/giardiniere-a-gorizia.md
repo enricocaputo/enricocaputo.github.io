@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Giardiniere a Gorizia
-excerpt: "Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti i comuni della provincia di Gorizia."
+title: Giardiniere a Gorizia e provincia
+excerpt: "Manutenzione giardini, potatura siepi e alberi a Monfalcone, Grado, Gradisca, Cormons e Gorizia. Interventi professionali entro 30 km da Palmanova. Sopralluogo gratuito."
 image: /img/gorizia.jpg
 webp: /img/webp/gorizia.webp
 permalink: /giardiniere-a-gorizia/
 last_modified_at: 2022-02-27T8:39
 ---
-# Giardiniere a Gorizia
+
+# Giardiniere a Gorizia e provincia
+
+**Cura del verde, potature e manutenzione giardini entro 30 km da Palmanova**
+
+Cerchi un giardiniere affidabile tra **Monfalcone, Grado, Gradisca d'Isonzo, Cormons e Gorizia**? Sono **Enrico**, titolare di **Potasiepe**, e mi occupo personalmente della cura degli spazi verdi per famiglie, condomini e aziende in tutta la provincia di Gorizia.
+
+Grazie alla posizione strategica della mia sede a **Palmanova**, raggiungo rapidamente tutto il territorio isontino e il mandamento di Monfalcone, offrendo interventi puntuali, prezzi trasparenti e massima pulizia a fine lavoro.
 
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -15,26 +22,35 @@ last_modified_at: 2022-02-27T8:39
   <img src="{{ page.image }}" width="800" height="456" alt="{{ page.title }}" title="{{ page.title }}"/>
 </picture>
 
-Giardiniere a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari e in tutti gli altri comuni della Provincia di Gorizia.
+## Cosa posso fare per il tuo spazio verde
 
-## La mia specialità è tagliare la siepe e curare i giardini
-Sono un giardiniere professionista e qualificato. Offro i miei servizi di giardinaggio a Gorizia, Monfalcone, Cormons, Grado, San Pier D'Isonzo, Staranzano, Ronchi dei Legionari, Capriva e in tutti i comuni della Provincia.
+* **[Potatura e messa in sicurezza alberi](/servizi/abbattimento-e-potatura-alberi/):** Potature di contenimento e abbattimenti controllati con piattaforma aerea o Tree Climbing, ideali anche in giardini costieri o esposti al vento.
+* **[Potatura siepi di ogni altezza](/servizi/potatura-siepi/):** Taglio netto e regolare per siepi sempreverdi (lauroceraso, fotinia, leyland, ligustro) con smaltimento completo delle ramaglie.
+* **[Cura del prato e irrigazione](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/):** Semina, posa di prato a rotoli, rigenerazione di prati ingialliti e impianti di irrigazione automatica per affrontare al meglio l'estate.
+* **[Sfalcio erba alta e pulizia terreni](/servizi/sfalcio-erba-altissima/):** Interventi rapidi su giardini incolti, seconde case a Grado e appezzamenti abbandonati.
+* **[Manutenzione verde aziendale](/servizi/manutenzione-del-verde-aziendale/):** Piani di manutenzione programmata per aziende, hotel e strutture ricettive dell'Isontino.
 
-[Progetto giardini](/servizi/progettazione-giardini/ "Affida a Potasiepe il progetto del tuo giardino"), realizzo aiuole, poso [impianti di irrigazione](/prodotti/irrigazione-giardino/ "Ottieni un impianto di irrigazione a regola d'arte") interrati e fuori terra. Cerco di proporre soluzioni originali e creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti.
+---
 
-**[Scopri di più &gt;](/chi-sono/ "Chi sono")**
+## Il metodo di lavoro Potasiepe
 
-## Metodo di lavoro
-Sia che stabiliamo un [prezzo](/prezzi/ "Scopri i prezzi di giardiniere Potasiepe") forfettario sia che decidiamo per un compenso orario e a metro, cerco di lavorare alacremente, con precisione, rapidamente e con la massima pulizia.
-Cerco di essere sempre reperibile e, impegni precedenti permettendo, cerco di soddisfare le esigenze di orario dei miei clienti. **Offro supporto e consulenza continui nel tempo**.
+* **Competenza certificata:** Formazione universitaria in ambito agrario e abilitazioni aggiornate per lavori in quota e trattamenti fitosanitari.
+* **Zero disturbo per il vicinato:** Uso macchine professionali **a batteria** silenziose e senza fumi, perfette per giardini residenziali e condomini.
+* **Trasparenza totale:** Prima di iniziare ogni lavoro effettuo un sopralluogo gratuito per valutare insieme le soluzioni migliori e fornirti un preventivo chiaro, affiancato dal mio [listino prezzi online](/prezzi/).
 
-## Attrezzature adeguate e moderne
-Che si tratti di curare un giardino privato, di manutenere un parco e di livellare e fresare un appezzamento di terra incolto ed abbandonato, **mi avvalgo di macchine moderne ed efficienti**. Decespugliatore, tagliaerba e trattorino per lo sfalcio hanno un **motore a quattro tempi** a benzina in regola con le nuove normative sull'inquinamento. Inoltre, dispongo di **bio-trituratore per macinare i residui delle potature** in maniera ecocompatibile ed eco-sostenibile nel rispetto dell'ambiente.
-Quando lavoro nei centri urbani sono equipaggiato con **attrezzature a batteria**.
+---
 
-## Arrivo direttamente a casa vostra
-Mi sposto in tutta la provincia di Gorizia, entro un raggio di 40 km circa da Cervignano del Friuli.
+## Comuni serviti in provincia di Gorizia
 
+Opero abitualmente entro **30 km da Palmanova**, coprendo tutti i principali centri della provincia di Gorizia:
 
-## Perchè scegliermi?
-Ho **prezzi onesti**. Lavoro con **competenza di giardinaggio**. Sono un giardiniere professionista e offro **una gamma di [servizi di giardinaggio](/servizi/ "Scopri i servizi di giardinaggio di giardiniere Potasiepe") a Gorizia a 360 gradi**:
+* **Isontino e Collio:** Capriva del Friuli, Cormons, Farra d'Isonzo, Gorizia, Gradisca d'Isonzo, Mariano del Friuli, Medea, Moraro, Mossa, Romans d'Isonzo, Sagrado, San Lorenzo Isontino, Villesse.
+* **Mandamento di Monfalcone e Laguna:** Fogliano Redipuglia, Grado, Monfalcone, Ronchi dei Legionari, San Canzian d'Isonzo, San Pier d'Isonzo, Staranzano, Turriaco.
+
+---
+
+## Prenota una visita nel tuo giardino
+
+Vuoi fissare un sopralluogo nella provincia di Gorizia per valutare potature o lavori di manutenzione?
+
+[Vai alla pagina Contatti](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**
