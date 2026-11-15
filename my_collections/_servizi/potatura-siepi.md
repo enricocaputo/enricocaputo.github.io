@@ -12,6 +12,8 @@ order: 1
 
 **Siepi dritte, folte e in salute, anche oltre i 6 metri di altezza (entro 30 km da Palmanova)**
 
+Una siepe ben curata protegge la tua privacy, valorizza la casa e mantiene il confine ordinato. Tuttavia, se viene potata nel periodo sbagliato o con attrezzature non adatte, rischia di svuotarsi alla base, ammalarsi o diventare un motivo di discussione con i vicini.
+
 <br>
 <div class="carousel">
 <picture>
@@ -22,7 +24,6 @@ order: 1
 </div>
 <br>
 
-Una siepe ben curata protegge la tua privacy, valorizza la casa e mantiene il confine ordinato. Tuttavia, se viene potata nel periodo sbagliato o con attrezzature non adatte, rischia di svuotarsi alla base, ammalarsi o diventare un motivo di discussione con i vicini.
 
 *Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **potatura di siepi di ogni dimensione e specie** nelle province di **Udine e Gorizia**, garantendo un taglio netto, regolare e rispettoso della salute della pianta.
 
