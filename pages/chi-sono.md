@@ -38,7 +38,7 @@ Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino e sa
 Potrebbe interessarti rendere più efficiente il tuo vecchio sistema di irrigazione, installare un nuovo impianto di irrigazione, rifare un aiuola, sistemare il prato, debellare un'infestazione da cimice asiatica e cocciniglia nera oppure qualcos'altro. Scopri tutti i servizi
 disponibili ritornando alla [home page](/ "Home page") oppure direttamente sulla pagina dei [servizi](/servizi/ "i servizi di giardinaggio offerti da il giardiniere potasiepe").
 
-Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante disponibili") puoi  acquistare fiori e piante. Se se non trovi quello che stai cercando non esitare a farmelo sapere, quasi sicuramente posso accontentarti.
+Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante disponibili") puoi  acquistare fiori e piante. Se non trovi quello che stai cercando non esitare a farmelo sapere, quasi sicuramente posso accontentarti.
 
 Se cerchi consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](/news/ "consigli di giardinagio per un giardino e un orto in salute") e il
 [calendario](/calendario-di-giardinaggio/ "calendario dei lavori in orto e giardino").
