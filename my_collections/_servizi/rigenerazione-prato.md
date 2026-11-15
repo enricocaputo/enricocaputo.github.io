@@ -1,15 +1,24 @@
 ---
 name: Rigenerazione Prato
-subtitle: "Rimetto a nuovo prati diradati, ingialliti o invasi dal muschio."
+subtitle: "Rigenerazione prato a Udine e Gorizia • Arieggiatura e risemina"
 title: Rinnovare e rigenerare il prato a Udine, Gorizia
-excerpt: "Il tuo prato ha bisogno di essere rinnovato?  ✓ Potasiepe è una ditta specializzata in rigenerazione del prato, Udine, Gorizia."
+excerpt: "Prato ingiallito, diradato o invaso dal muschio? Intervengo entro 30 km da Palmanova (UD e GO) con arieggiatura, scarificatura, risemina e concimazione mirata."
 image: /img/servizi/rigenerazione-prato-erpice-rotante.jpg
 webp: /img/servizi/webp/rigenerazione-prato-erpice-rotante.webp
 image_path: /img/servizi/rinnovare-il-prato-400x300.jpg
 carousel: true
 order: 3
 ---
-# Rinnovare il Prato
+
+# Rigenerazione prato a Udine e Gorizia
+
+**Rimetto a nuovo prati diradati, ingialliti o invasi dal muschio (entro 30 km da Palmanova)**
+
+Con il passare degli anni, il caldo estivo, il calpestio o un'irrigazione non ottimale, anche il tappeto erboso più bello tende a perdere vigore: compaiono zone spoglie, muschio, feltro secco e infestanti.
+
+In molti casi **non serve rifare tutto il prato da zero**: con un intervento mirato di **rigenerazione del tappeto erboso**, posso riportare il tuo giardino a essere fitto, verde e resistente in poche settimane.
+
+*Piacere, sono Enrico.* Grazie alla mia formazione in ambito agrario e all'uso di macchine professionali, analizzo lo stato del tuo terreno e intervengo con le tecniche più adatte per far rinascere l'erba.
 
 <br>
 <div class="carousel">
@@ -20,62 +29,37 @@ order: 3
 </div>
 <br><br>
 
-Il tuo prato ha bisogno di essere rinnovato? Forse hai già provato di tutto, semine,
-concimi, diserbi chimici e manuali ma il tuo prato continua a non darti soddisfazioni.
+## Quando conviene rigenerare il prato
 
-Se il tuo prato presenta chiazze, diradamenti e le erbacce imperversano è facile iniziare a temere che il manto erboso non sarà più recuperabile e bisognerà rifarlo da zero.
+Un intervento di rigenerazione è la soluzione ideale se il tuo prato presenta:
 
-**Trasemina o rifacimento completo del prato?**
+* **Feltro e muschio diffusi:** Uno strato di residui secchi che soffoca le radici e impedisce all'acqua e ai nutrienti di penetrare nel terreno.
+* **Zone diradate o ingiallite:** Bordi rovinati dal sole, dal passaggio di animali domestici o da malattie fungine.
+* **Terreno compattato:** Suolo duro dove l'acqua ristagna invece di scendere in profondità.
 
-Per decidere se il prato va rinnovato oppure [rifatto completamente](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/ "rifacimento prato da zero")
-esiste una semplice equazione matematica: se è rimasto più del 40% di erba buona
-è possibile rigenerare il prato; se è rimasto meno del 40% si deve rifare completamente.
+---
 
-## In quale stagione rinnovare il prato
+## Le fasi del mio intervento di rigenerazione
 
-Per rigenerare il prato efficacemente la temperatura del suolo deve essere di almeno 10 gradi Celsius, le stagioni migliori sono la **primavera** e l'**autunno**.
+1. **Taglio basso e pulizia:** Raso l'erba esistente a un'altezza ridotta e rimuovo i residui superficiali per preparare il letto di lavoro.
+2. **Arieggiatura e scarificatura meccanica:** Con un arieggiatore professionale a lame incido leggermente lo strato superficiale del terreno, estraendo il feltro e il muschio senza strappare le radici sane.
+3. **Raccolta completa dei residui:** Rimuovo e smaltisco tutto il materiale estratto, lasciando il prato pulito e pronto a respirare.
+4. **Trasemina con sementi selezionate:** Distribuisco miscugli di sementi professionali scelti in base all'esposizione del tuo giardino (pieno sole, mezz'ombra o ombra) per infoltire le zone spoglie.
+5. **Concimazione starter e rullatura:** Applico un concime a lenta cessione per favorire una radicazione rapida e leggera rullatura per far aderire bene i semi al terreno.
 
-Se optate per il rinnovamento del prato in primavera la regola d'oro è aspettare
-fino a dopo il primo taglio, quando l'erba è diventata verde e si è certi che il
-prato ha ricominciato la ripresa vegetativa.
+---
 
-### L'irrigazione è di fondamentale importanza
+## Il periodo migliore per intervenire
 
-Per ottenere e mantenere una buona riuscita nel rinnovare il prato l'elemento acqua
-è essenziale. Se non disponete di una valida irrigazione del giardino vi consiglio
-vivamente, prima di effettuare la trasemina, di far installare [un buon impianto di irrigazione](/prodotti/irrigazione-giardino/ "irrigazione giardino") oppure di aggiornare quello esistente.
+I momenti ideali per la rigenerazione del prato nelle province di **Udine e Gorizia** sono **la primavera (marzo – aprile)** e **l'inizio dell'autunno (settembre – ottobre)**, quando le temperature miti e l'umidità naturale garantiscono la massima germinazione dei semi.
 
-Vi consiglieremo sui giusti tempi d'irrigazione, in maniera da fortificare
-l'apparato radicale dell'erba buona. Con la giusta irrigazione del prato e la
-corretta altezza di taglio dell'erba è possibile anche un buon controllo delle
-future infestanti.
+---
 
-## Rigenerazione prato, competenza e macchinari professionali
+## Richiedi una valutazione del tuo prato
+
+Vuoi sapere se il tuo prato può essere rigenerato o se conviene rifarlo? Contattami per un **sopralluogo gratuito entro 30 km da Palmanova** (o inviarmi qualche foto su WhatsApp).
+
+[Richiedi un preventivo gratuito](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**
+
 
 <br>
-<picture>
-  <source srcset="{{ page.webp }}" type="image/webp">
-  <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
-</picture>
-<br><br>
-
-Perché dovreste affidare a noi il rinnovamento del vostro prato?
-E' molto semplice: abbiamo un'adeguata competenza tecnica e disponiamo di macchinari professionali!
-
-
-## Quanto costa rinnovare il prato con un intervento di trasemina?
-
-Il prezzo varierà in base alle quantità fornite di **emendanti**, concimi, sementi,
-misurazioni dell'acqua, **analisi del terreno** ecc.
-
-- ✓ Il costo minimo è di € 3,00 al mq IVA inclusa.
-
-- ✓ Il costo massimo è di € 5,00 al mq IVA inclusa.
-
-<br><br>
-<div class="text-center">
-  <p class="h3">CHIAMA CON FIDUCIA!</p>
-  <a title="Chiama adesso e prenota la rigenerazione del tuo prato." href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
-<br><br>
