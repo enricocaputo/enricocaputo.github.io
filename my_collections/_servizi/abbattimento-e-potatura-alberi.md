@@ -143,4 +143,3 @@ Hai un albero da potare o abbattere nella zona di Palmanova, Udine o Gorizia? Co
   <source srcset="/img/servizi/abbattimento-controllato.jpg" type="image/jpg">
   <img src="/img/servizi/abbattimento-controllato.jpg" width="800" height="600" alt="Abbattimento controllato" title="Abbattimento controllato"/>
 </picture>
-<br>
