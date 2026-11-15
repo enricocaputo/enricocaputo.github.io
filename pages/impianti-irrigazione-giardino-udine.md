@@ -24,7 +24,7 @@ Installazione e posa di impianti d'irrigazione per il giardino delle migliori ma
 
 POTASIEPE segue sia la progettazione che l’installazione di impianti di irrigazione automatica per giardini e aree verdi in tutta la provincia di Udine.
 
-Abbiamo installato irrigazioni nei giardini di Udine, Spilimbergo, Aquileia, Codroipo, Fagagna, Latisana, Manzano, Palmanova, San Giovanni al Natisone e in molti comuni della Provincia.
+Abbiamo installato irrigazioni nei giardini di Udine, Aquileia, Codroipo, Fagagna, Latisana, Manzano, Palmanova, San Giovanni al Natisone e in molti comuni della Provincia.
 
 ## Impianti di irrigazione moderni a prestazioni elevate
 
