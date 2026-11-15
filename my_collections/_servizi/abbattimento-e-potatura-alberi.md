@@ -121,13 +121,7 @@ Qual è il periodo migliore per potare gli alberi?
 Come viene calcolato il preventivo?
 : Ogni albero è diverso per altezza, accessibilità e ostacoli circostanti. Per questo motivo offro un **sopralluogo gratuito e senza impegno**: valuto la situazione sul posto e ti fornisco un preventivo chiaro e definitivo.
 
-<br>
-<picture>
-  <source srcset="/img/servizi/webp/abbattimento-controllato.webp" type="image/webp">
-  <source srcset="/img/servizi/abbattimento-controllato.jpg" type="image/jpg">
-  <img src="/img/servizi/abbattimento-controllato.jpg" width="800" height="600" alt="Abbattimento controllato" title="Abbattimento controllato"/>
-</picture>
-<br>
+---
 
 ## Richiedi un sopralluogo gratuito
 
@@ -142,4 +136,11 @@ Hai un albero da potare o abbattere nella zona di Palmanova, Udine o Gorizia? Co
   <br>
   <a title="Contattami ora per un preventivo" href="/contatti/" aria-label="Contattami ora per un preventivo" class="button">Contattami ora per un preventivo</a>
 </div>
+<br>
+
+<picture>
+  <source srcset="/img/servizi/webp/abbattimento-controllato.webp" type="image/webp">
+  <source srcset="/img/servizi/abbattimento-controllato.jpg" type="image/jpg">
+  <img src="/img/servizi/abbattimento-controllato.jpg" width="800" height="600" alt="Abbattimento controllato" title="Abbattimento controllato"/>
+</picture>
 <br>
