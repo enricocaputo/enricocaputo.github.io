@@ -1,6 +1,6 @@
 ---
 name: Realizzazione Giardini
-subtitle: Progetto giardini unici, realizzo giardini da sogno.
+subtitle: "Progetto e realizzo spazi verdi su misura, belli e facili da gestire."
 title: Progettazione giardini, realizzo giardini da sogno!
 excerpt: "Progettazione Giardini: come nasce un giardino, costi, perché scegliere Potasiepe Giardini. Dalla progettazione alla realizzazione di un giardino da sogno."
 image: /img/posts/giardini/giardino-contemporaneo.png

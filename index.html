@@ -61,11 +61,11 @@ last_modified_at: 2022-02-27T8:39
   {% for servizi in servizi %}
 		<li>
       <article>
-      <img src="{% include relative-src.html src=servizi.image_path %}" alt="{{ servizi.url }}" width="400" height="300">
+      <img src="{% include relative-src.html src=servizi.image_path %}" alt="{{ servizi.name  }}" width="400" height="300">
       <div>
       <h2 class="h3">{{ servizi.name }}</h2>
       <p>{{ servizi.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.name }}"><strong>SCOPRI E PRENOTA</strong></a>
+			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.name }}"><strong>SCOPRI IL SERVIZIO</strong></a>
       </div>
       </article>
     </li>

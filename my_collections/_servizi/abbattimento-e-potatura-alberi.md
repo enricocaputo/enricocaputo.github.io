@@ -1,6 +1,6 @@
 ---
 name: Potatura e abbattimento alberi
-subtitle: "Potatura e abbattimento alberi con piattaforma aerea e Tree Climbing."
+subtitle: "Interventi sicuri in quota con piattaforma aerea o Tree Climbing."
 title: "Potatura e Abbattimento Alberi Palmanova, Udine e Gorizia"
 excerpt: "Potatura alberi alto fusto e abbattimenti controllati a Palmanova, Udine e Gorizia. Istruttore qualificato motosega, piattaforma aerea e tree climbing. Sopralluogo gratuito"
 image: /img/servizi/abbattimento-potatura-alberi-PLE.jpg

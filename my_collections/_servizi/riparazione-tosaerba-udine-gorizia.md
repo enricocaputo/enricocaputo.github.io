@@ -1,6 +1,6 @@
 ---
 name: Manutenzione Tosaerba
-subtitle: Affilatura e manutenzione di tagliaerba con motore a scoppio.
+subtitle: "Affilatura lame e tagliandi completi per tagliaerba a scoppio."
 title: "Manutenzione e riparazione tosaerba a Udine, Gorizia"
 excerpt: "Centro di assistenza per la manutenzione di decespugliatori e tosaerba a Udine, Gorizia. Messa a punto e manutenzione di macchine rasaerba con motore a scoppio."
 image: /img/servizi/manutenzione-tosaerba.jpg

@@ -1,6 +1,6 @@
 ---
 name: Rigenerazione Prato
-subtitle: "Il tuo prato ha bisogno di essere rinnovato? Ci pensiamo noi!"
+subtitle: "Rimetto a nuovo prati diradati, ingialliti o invasi dal muschio."
 title: Rinnovare e rigenerare il prato a Udine, Gorizia
 excerpt: "Il tuo prato ha bisogno di essere rinnovato?  ✓ Potasiepe è una ditta specializzata in rigenerazione del prato, Udine, Gorizia."
 image: /img/servizi/rigenerazione-prato-erpice-rotante.jpg

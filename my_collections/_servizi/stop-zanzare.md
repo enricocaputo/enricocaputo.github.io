@@ -1,6 +1,6 @@
 ---
 name: Stop Zanzare
-subtitle: Liberati dalle zanzare, proteggi le tue piante dagli insetti.
+subtitle: "Trattamenti mirati per liberare il giardino da zanzare e insetti."
 title: Disinfestazioni zanzare a Udine, e Gorizia
 excerpt: "Stop zanzare a Udine e Gorizia! Trattamento antizanzare super efficace ad effetto immediato con lunga durata. Disinfestazione insetti."
 image: /img/servizi/stop-zanzare.jpg

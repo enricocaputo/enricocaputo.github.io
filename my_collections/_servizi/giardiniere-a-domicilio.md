@@ -1,6 +1,6 @@
 ---
 name: Giardiniere a Domicilio
-subtitle: Rivolgiti a un professionista altamente qualificato che lavora in sicurezza.
+subtitle: "Cura ordinaria e straordinaria del verde con attrezzature silenziose."
 title: Giardiniere a domicilio a Udine e Gorizia
 excerpt: "Giardiniere a domicilio a Udine e Gorizia. Che si tratti di terrazzo, balcone o giardino Potasiepe ti aiuta a progettare e mantenere il tuo spazio verde."
 image: /img/servizi/servizi-giardinaggio.jpg

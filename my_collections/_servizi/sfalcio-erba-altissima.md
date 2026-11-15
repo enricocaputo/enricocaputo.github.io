@@ -1,6 +1,6 @@
 ---
 name: Sfalci Erba Altissima
-subtitle: "Hai un appezzamento di terra che non curi da tempo? Chiama ora!"
+subtitle: "Pulizia rapida di terreni incolti, parchi e aree abbandonate."
 title: Sfalci erba altissima a Udine, Gorizia
 excerpt: "Sfalci erba altissima, Udine, Gorizia. Taglio di erbacce, rovi, canneti ed erba molto alta e tenace, con trinciatrice. Prezzo e tariffa oraria, costo € 50/h."
 image: /img/servizi/taglio-erba-molto-alta.jpg
