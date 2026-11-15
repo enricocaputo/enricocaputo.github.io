@@ -1,14 +1,58 @@
 ---
 name: Irrigazione Giardino
 subtitle: "Impianti di irrigazione moderni a prestazioni elevate e basso consumo idrico."
-title: Irrigazione giardino
-excerpt: "Manutenzione e posa di impianti irrigazione in giardino a Udine, Gorizia. Irrigazione a goccia, irrigazione interrata automatica delle marche Hunter e Rain-Bird"
+title: Impianti di irrigazione giardino a Udine e Gorizia
+excerpt: "Progettazione, installazione e manutenzione di impianti di irrigazione automatici entro 30 km da Palmanova (UD e GO). Scavi stretti senza rovinare il prato."
 image: /img/prodotti/pozzetto-irrigazione.jpg
 webp: /img/prodotti/webp/pozzetto-irrigazione.webp
 image_path: /img/prodotti/scavo-irrigazione-giardino-4x3.jpg
 order: 3
 ---
-# Irrigazione Giardino
+
+# Impianti di irrigazione giardino a Udine e Gorizia
+
+**Progettazione, installazione e manutenzione di sistemi automatici su misura (entro 30 km da Palmanova)**
+
+Un impianto di irrigazione ben progettato ti libera dall'impegno quotidiano di bagnare a mano, **riduce gli sprechi d'acqua fino al 40–50%** e mantiene il prato e le piante sempre verdi anche durante le estati più calde.
+
+<br>
+![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")
+<br>
+
+*Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **realizzazione, riparazione e manutenzione di impianti di irrigazione** per giardini privati, terrazzi e aziende nelle province di **Udine e Gorizia**.
+
+---
+
+## Tipologie di impianti che realizzo
+
+* **Irrigazione interrata a scomparsa per prati:** Irrigatori dinamici e statici calibrati per coprire ogni angolo del tappeto erboso in modo uniforme, senza zone secche né ristagni d'acqua.
+* **Irrigazione a goccia per siepi, aiuole e orti:** Ala gocciolante mirata alle radici che nutre siepi e fioriere senza bagnare le foglie, prevenendo così malattie fungine e consumando pochissima acqua.
+* **Sistemi per terrazzi e fioriere:** Impianti discreti e automatizzati per mantenere rigogliose le piante in vaso anche quando sei in vacanza.
+* **Centraline intelligenti e sensori pioggia:** Programmatori facili da usare (anche gestibili da smartphone) collegati a sensori pioggia o umidità che bloccano automaticamente l'irrigazione quando non serve.
+
+<br>
+<picture>
+  <source srcset="/img/prodotti/webp/scavo-irrigazione-giardino.webp" type="image/webp">
+  <source srcset="/img/prodotti/scavo-irrigazione-giardino.jpg" type="image/jpeg">
+  <img src="/img/prodotti/scavo-irrigazione-giardino.jpg" width="800" height="600" alt="scavi impianto d'irrigazione in giardino" title="scavi impianti irrigazione giardino"/>
+</picture>
+<br>
+
+## Il vantaggio Potasiepe: scavi puliti senza rovinare il giardino
+
+Uno dei timori più frequenti di chi ha già un bel giardino è che lo scavo per i tubi distrugga il prato. Grazie all'utilizzo di una **catenaria professionale**, realizzo **trincee strette, profonde e precisissime**, riducendo al minimo l'impatto sul tappeto erboso e ripristinando subito il livello del terreno a fine posa.
+
+Inoltre, seleziono esclusivamente **componenti affidabili dei migliori marchi del settore**, facili da manutenere e progettati per durare negli anni.
+
+---
+
+## Manutenzione stagionale e riparazioni
+
+Oltre a realizzare impianti nuovi, intervengo anche su impianti esistenti per:
+
+* **Apertura primaverile:** Controllo pressione, pulizia filtri, regolazione degli ugelli e programmazione della centralina.
+* **Chiusura e svuotamento autunnale:** Messa in sicurezza dell'impianto prima delle gelate invernali per evitare rotture di tubi ed elettrovalvole.
+* **Ricerca guasti e riparazioni:** Sostituzione di irrigatori danneggiati, elettrovalvole bloccate, perdite lungo le linee o centraline guaste.
 
 <br>
 <div class="carousel">
@@ -21,79 +65,8 @@ order: 3
 </div>
 <br>
 
-Irrigazione giardino a **basso consumo idrico** delle migliori marche, come
-<a href="https://www.hunterindustries.com/it" title="Potasiepe è installatore irrigazione giardino autorizzato *hunterindustries*" target="_blank" rel="noopener noreferrer"><strong>HUNTER</strong></a> e
-<a href="https://www.rainbird.com/it/eur" title="Potasiepe è installatore irrigazione giardino autorizzato *rainbird*" target="_blank" rel="noopener noreferrer"><strong>RAIN BIRD</strong></a>.
+## Richiedi un sopralluogo gratuito
 
-## Facciamo acqua da tutte le parti!
+Vuoi installare un impianto di irrigazione o far controllare quello che hai già? Contattami per un **sopralluogo gratuito entro 30 km da Palmanova**: valuteremo insieme la portata d'acqua disponibile e la soluzione più adatta al tuo giardino.
 
-Installiamo impianti d'irrigazione a [Udine e in tutta la provincia](/impianti-irrigazione-giardino-udine/ "impianti irrigazione giardino Udine").
-
-Posa impianti irrigazione a [Gorizia e in tutta la provincia](/impianti-irrigazione-giardino-gorizia/ "impianti irrigazione giardino Gorizia").
-
-## Impianti di irrigazione moderni a prestazioni elevate
-
-Potasiepe è una realtà innovativa che propone l’utilizzo di componenti a prestazioni elevate per l'irrigazione del giardino.
-
-Siamo tra i pochi in Friuli-venezia-giulia a installare impianti di irrigazione di tipo moderno con **staffe e tubi  innovativi e di lunghissima durata**. L'irrigazione di tipo moderno consente di alzare, abbassare, spostare, eliminare e aggiungere irrigatori senza difficoltà.   
-
-Grazie all'installazione di impianti d'irrigazione progettati da un professionista potrai evitare i più comuni problemi di inutile spreco d'acqua. Negli impianti di tipo tradizionale (posati dalla maggioranza degli installatori) l'acqua non raggiunge l'obiettivo e viene dispersa a causa dei fenomeni di deflusso, ruscellamento, evaporazione e irrigazione profonda al di sotto della zona della radice.
-
-Esperienza decennale in impianti d'irrigazione. Grazie alla professionalità di [*Giardiniere Potasiepe*](/chi-sono/ "chi-sono") la posa richiederà poco tempo e in men che non si dica vedrai in funzione l'irrigazione del giardino. Il prato e le piante ti ringrazieranno!
-
-<br>
-<picture>
-  <source srcset="/img/prodotti/webp/scavo-irrigazione-giardino.webp" type="image/webp">
-  <source srcset="/img/prodotti/scavo-irrigazione-giardino.jpg" type="image/jpeg">
-  <img src="/img/prodotti/scavo-irrigazione-giardino.jpg" width="800" height="600" alt="scavi impianto d'irrigazione in giardino" title="scavi impianti irrigazione giardino"/>
-</picture>
-<br>
-
-## Sistemi di irrigazione totalmente automatizzati
-
-Le adeguate conoscenze botaniche e la specifica esperienza sono elementi indispensabili per la progettazione e realizzazione di un efficace, affidabile, sistema di irrigazione del giardino.
-
-<br>
-<div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
-</div>
-<br>
-
-## Vantaggi irrigazione interrata automatica
-
-I vantaggi di avere un impianto di irrigazione interrato automatico sono molti:
-
-- &#10004; aumento del valore della vostra proprietà immobiliare
-- &#10004; comodità di irrigare automaticamente il giardino anche quando siete in vacanza
-- &#10004; certezza che ogni zona del giardino riceva la giusta quantità d’acqua senza sprechi
-- &#10004; piacevolezza estetica dei giochi d'acqua, nessuna tubazione fuori terra
-- &#10004; facilità di tagliare il prato, terminato il ciclo di irrigazione gli irrigatori scompaiono
-
-[**Bonus Verde 2023: detrazione IRPEF 36% per gli impianti d'irrigazione**](/news/bonus-verde "Bonus Verde 2023").
-
-## Il tuo impianto di irrigazione in giardino non funziona?
-
-[Potasiepe](/chi-sono/ "chi-sono") ripara anche i guasti improvvisi dei vecchi impianti d'irrigazione!
-
-Per un'irrigazione sempre efficiente vi **consigliamo un *check-up* ogni 2 anni**.
-
-La manutenzione ordinaria (*check-up*) ha un **costo variabile da 50 a 100 euro** e prevede:
-
-- &#10004; Pulizia testine, ugelli, di tutti gli irrigatori
-- &#10004; Ispezione del programmatore, centralina
-- &#10004; Sostituzione della batteria tampone
-- &#10004; Controllo sensore pioggia
-- &#10004; Controllo elettrovalvole
-- &#10004; Aggiornamento ora e data
-- &#10004; Programmazione zone
-- &#10004; Test finale
-
-<br>
-<div class="text-center">
-  <p class="h3">Prenota il <em>check-up</em> del tuo impianto d'irrigazione</p>
-  <a title="Prenota ora" href="/contatti/" class="button">PRENOTA ORA</a>
-</div>
-<br><br>
-
-![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")
+[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
