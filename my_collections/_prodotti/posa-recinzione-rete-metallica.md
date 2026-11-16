@@ -42,7 +42,6 @@ Di seguito una tabella indicativa di costo per recinzione rete metallica:
 
 I prezzi si riferiscono alla fornitura di una recinzione in rete metallica plastificata elettrosaldata dello spessore di 2.5 mm e relativa posa su una superficie livellata dove sono già presenti i pali di sostegno.
 
-[**Bonus Verde 2023: detrazione IRPEF 36% per le spese di recinzione**](/news/bonus-verde "Bonus Verde 2023").
 
 <br>
 <div class="text-center">
@@ -88,7 +87,7 @@ Posa recinzioni in rete plastica (con pali in ferro o legno), una rete con magli
 
 ## Zona servita
 
-Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giulia, in un raggio di 40Km da Cervignano del Friuli (UD).
+Installiamo reti e recinzioni a Udine e Gorizia e in tutto il Friuli-Venezia Giulia, in un raggio di 30 Km da Palmanova (UD).
 
 <br>
 <div class="carousel">
