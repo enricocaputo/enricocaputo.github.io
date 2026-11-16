@@ -5,7 +5,7 @@ excerpt: "Impresa del verde operante in provincia di Udine ricerca un operaio gi
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
-last_modified_at: 2022-09-28T13:46
+last_modified_at: 2026-11-16T8:39
 ---
 # Lavora con noi
 

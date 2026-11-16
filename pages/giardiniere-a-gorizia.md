@@ -5,7 +5,7 @@ excerpt: "Manutenzione giardini, potatura siepi e alberi a Monfalcone, Grado, Gr
 image: /img/gorizia.jpg
 webp: /img/webp/gorizia.webp
 permalink: /giardiniere-a-gorizia/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-16T8:42
 ---
 
 # Giardiniere a Gorizia e provincia

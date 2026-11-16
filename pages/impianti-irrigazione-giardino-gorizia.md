@@ -3,7 +3,7 @@ title: "Impianti di irrigazione giardino a Gorizia e Monfalcone"
 excerpt: "Progettazione, installazione e riparazione impianti di irrigazione a Gorizia, Monfalcone, Grado, Gradisca e Cormons (entro 30 km da Palmanova). Sopralluogo gratuito."
 permalink: /impianti-irrigazione-giardino-gorizia/
 image: /img/prodotti/pozzetto-irrigazione-2.jpg
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-16T8:50
 ---
 
 # Impianti di irrigazione giardino a Gorizia e provincia

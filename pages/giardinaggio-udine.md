@@ -5,7 +5,7 @@ excerpt: "Cerchi un giardiniere a Udine, Codroipo, Tavagnacco o Cividale? Potasi
 image: /img/udine.jpg
 webp: /img/webp/udine.webp
 permalink: /giardinaggio-udine/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-16T8:39
 ---
 # Giardinaggio in provincia di Udine
 **Servizio professionale entro 30 km da Palmanova**

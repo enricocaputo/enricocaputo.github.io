@@ -3,7 +3,7 @@ title: "Impianti di irrigazione giardino a Udine e provincia"
 excerpt: "Installazione e manutenzione impianti di irrigazione giardino a Udine, Codroipo, Tavagnacco e Cividale (entro 30 km da Palmanova). Scavi stretti con catenaria."
 permalink: /impianti-irrigazione-giardino-udine/
 image: /img/prodotti/pozzetto-irrigazione-2.jpg
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-16T8:53
 ---
 
 # Impianti di irrigazione giardino a Udine e provincia

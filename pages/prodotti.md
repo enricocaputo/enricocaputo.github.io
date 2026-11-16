@@ -4,7 +4,7 @@ title: "I nostri prodotti"
 excerpt: "Elenco dei prodotti offerti"
 image: /img/prodotti/prato-armato.jpg
 permalink: /prodotti/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-16T9:39
 ---
 <script type="application/ld+json">{"@context":"https://schema.org/","@type":"CollectionPage","url":"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"}</script>
 # Prodotti garantiti e sostenibili
