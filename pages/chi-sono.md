@@ -1,60 +1,62 @@
 ---
 layout: page
-title: "Scopri di più sul Giardiniere Potasiepe"
-excerpt: "Sono un giardiniere professionista, realizzo giardini e impianti di irrigazione, mi occupo della manutenzione del verde con la massima serietà e puntualità."
+title: "Chi sono • Enrico, Il Giardiniere Potasiepe a Udine e Gorizia"
+excerpt: "Sono Enrico, giardiniere laureato e certificato: curo giardini, siepi, alberi e impianti di irrigazione nelle province di Udine e Gorizia con competenza e puntualità."
 image: /img/enrico.jpg
-web: /img/webp/enrico.webp
+webp: /img/webp/enrico.webp
 permalink: /chi-sono/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-16T15:30
 ---
+
 # Chi sono
 
 <br>
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="500" height="473" style="border-radius: 35% 0 5% 5%;" alt="Enrico" title="Enrico"/>
+  <img src="{{ page.image }}" width="500" height="473" style="border-radius: 35% 0 5% 5%;" alt="Enrico, il Giardiniere Potasiepe" title="Enrico - Il Giardiniere Potasiepe"/>
 </picture>
-
 <br>
-Mi chiamo Enrico, di lavoro **curo gli spazi verdi**. Quando un cliente mi affida un incarico so di avere due grandi responsabilità: il benessere delle piante e la custodia della proprietà in cui ho accesso.
 
-So quanto sia importante potersi fidare di chi entra nella propria proprietà: per questo garantisco **puntualità assoluta, preventivi chiari e il giardino lasciato perfettamente pulito a fine lavoro**.
+Mi chiamo Enrico e di lavoro **curo e valorizzo gli spazi verdi** nelle province di **Udine e Gorizia** (entro 30 km da Palmanova). Quando un cliente mi affida il proprio giardino so di avere due grandi responsabilità: **il benessere delle piante** e **il rispetto della proprietà** in cui entro.
 
-Credo fermamente che la serietà e la **puntualità** siano doti indispensabili di un giardiniere professionista tanto quanto la preparazione e la **competenza**. Per questi motivi mi impegno a svolgere i lavori con la massima accuratezza e non dormo sugli allori del diploma di laurea ma dedico molto del mio tempo libero allo studio delle piante.
+So quanto sia importante potersi fidare di chi lavora a casa tua: per questo garantisco **puntualità, preventivi chiari e un giardino lasciato perfettamente pulito** a fine intervento.
 
-Sono un istruttore certificato nell'uso della motosega e abilitato per i lavori in quota Per te significa avere in giardino un professionista che applica i più alti standard di sicurezza e precisione di taglio, azzerando i rischi per la tua proprietà.
+### Formazione, sicurezza e abilitazioni
+Credo che la serietà e l'organizzazione contino quanto la preparazione tecnica. Per questo motivo non mi fermo alla mia **laurea in ambito agrario**, ma dedico costantemente tempo allo studio della salute delle piante e all'aggiornamento professionale:
 
-Ho il patentino fitosanitario e ti potrò consigliare per mantenere le tue piante in salute o su come intervenire efficacemente se vedrò le tue piante sofferenti.
+* **Istruttore certificato nell'uso della motosega e abilitato ai lavori in quota:** Per te significa avere in giardino un professionista che applica i più alti standard di sicurezza e precisione di taglio, azzerando i rischi per te e per la tua proprietà.
+* **Patentino fitosanitario:** Sono abilitato all'acquisto e all'impiego di prodotti fitosanitari professionali, così posso consigliarti in modo mirato per prevenire malattie e salvare le tue piante quando mostrano segni di sofferenza.
+
+---
 
 ## Come lavoro
 
-Propongo soluzioni creative tenendo d'occhio i prezzi, nel rispetto del budget e delle scelte dei miei clienti: **i miei progetti sono originali, belli da vedere e unici** perché risolvono problemi diversi di persone diverse, sono soluzioni che tengono conto del contesto in cui sono inseriti e delle esigenze che ogni cliente ha.
+Propongo soluzioni su misura tenendo d'occhio il budget e le tue reali esigenze di gestione: **ogni progetto è pensato per durare nel tempo**, rispettando il contesto architettonico e il clima del Friuli Venezia Giulia.
 
-Per la manutenzione del verde **mi avvalgo di macchine moderne ed efficienti**. Decespugliatore, tagliaerba, trattorino ecc. hanno un **motore a quattro tempi** in regola con le nuove normative sull'inquinamento. Quando lavoro nei centri urbani mi preoccupo anche dell'inquinamento acustico e utilizzo **attrezzature a batteria**.
+Per la manutenzione del verde utilizzo **attrezzature moderne, sicure e rispettose dell'ambiente**:
 
-Dispongo di **biotrituratore** per macinare i residui delle potature, li trasformo in pacciamatura in maniera ecosostenibile nel rispetto dell'ambiente.
+* **Silenzio e zero fumi nei centri abitati:** Quando lavoro vicino alle abitazioni uso macchine professionali **a batteria**, riducendo al minimo il rumore e il disturbo per te e per i vicini.
+* **Motori a basse emissioni e filo biodegradabile:** Per gli interventi più gravosi utilizzo mezzi con motore a quattro tempi a norma antinquinamento e un **filo per decespugliatore in fibra di mais biodegradabile al 100%** e silenzioso.
+* **Economia circolare con biotrituratore:** Quando richiesto, macino i residui delle potature direttamente sul posto per trasformarli in pacciamatura naturale utile a proteggere le tue aiuole.
 
-Per i miei decespugliatori utilizzo un **filo in fibra di mais biodegrabile al 100%** e molto silenzioso.
+---
 
-## Camminiamo insieme
+## Esplora il sito e scopri come posso aiutarti
 
-Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino e sarò felice di ascoltare i tuoi desideri e le tue esigenze. Nel frattempo lascia che sia io a guidarti nel mio sito web.
+Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino per ascoltare le tue idee. Nel frattempo, puoi approfondire qui i diversi ambiti del mio lavoro:
 
-Potrebbe interessarti rendere più efficiente il tuo vecchio sistema di irrigazione, installare un nuovo impianto di irrigazione, rifare un aiuola, sistemare il prato, debellare un'infestazione da cimice asiatica e cocciniglia nera oppure qualcos'altro. Scopri tutti i servizi
-disponibili ritornando alla [home page](/ "Home page") oppure direttamente sulla pagina dei [servizi](/servizi/ "i servizi di giardinaggio offerti da il giardiniere potasiepe").
-
-Nella sezione [vivaio](/vivaio/ "nella sezione vivaio trovi i fiori e le piante disponibili") puoi  acquistare fiori e piante. Se non trovi quello che stai cercando non esitare a farmelo sapere, quasi sicuramente posso accontentarti.
-
-Se cerchi consigli, suggerimenti e un piccolo regalo puoi provare con il [blog](/news/ "consigli di giardinagio per un giardino e un orto in salute") e il
-[calendario](/calendario-di-giardinaggio/ "calendario dei lavori in orto e giardino").
-Nel corso degli anni ho svolto un gran numero di progetti di giardini e terrazze, manutenzioni del verde, installazione di impianti di irrigazione, qui trovi una [galleria](/gallery/ "qui trovi una galleria di immagini di alcuni miei progetti di giardini e terrazze") di immagini.
-Infine, se vuoi conoscere i costi visita la pagina [prezzi](/prezzi/ "prezzi") oppure [scrivimi](/contatti/ "contatti") per un sopralluogo gratuito e senza impegno.
+* **Cura e progettazione:** Scopri tutti gli interventi nella pagina dei [servizi di giardinaggio](/servizi/ "I servizi di giardinaggio offerti da Il Giardiniere Potasiepe") oppure guarda alcuni lavori realizzati nella [galleria fotografica](/gallery/ "Galleria di progetti di giardini e terrazze").
+* **Piante e fiori:** Visita la sezione [vivaio](/vivaio/ "Scopri le piante e i fiori disponibili") per conoscere le varietà disponibili o chiedermi una pianta specifica.
+* **Consigli pratici:** Consulta gli articoli del [blog](/news/ "Consigli per un giardino e un orto in salute") e il [calendario di giardinaggio](/calendario-di-giardinaggio/ "Calendario dei lavori in orto e giardino").
+* **Trasparenza sui costi:** Dai un'occhiata ai riferimenti nella pagina [prezzi](/prezzi/ "Listino prezzi indicativo").
 
 <br>
 <div class="text-center">
-  <p class="h3">PREVENTIVO GRATUITO</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">&#9742; 388 9005888</a>
+  <p class="h3">PREVENTIVO E SOPRALLUOGO GRATUITO</p>
+  <p>Opero entro 30 km da Palmanova (province di Udine e Gorizia).</p>
+  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">☎ 388 9005888</a>
+  <p><br><a href="https://wa.me"><strong>Scrivimi su WhatsApp</strong></a> | <a href="/contatti/"><strong>Compila il modulo contatti</strong></a></p>
 </div>
 <br><br>
 
@@ -62,22 +64,22 @@ Infine, se vuoi conoscere i costi visita la pagina [prezzi](/prezzi/ "prezzi") o
 <p class="h3">Il Giardiniere Potasiepe</p>
 Via Ialmicco, Palmanova UD
 
-<span class="rtng">4,7</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 29 recensioni Google
+<span class="rtng">4,7</span> <img src="/img/5-stars.png" class="img-inline" alt="Valutazione 4,7 su 5 stelle" title="5 stelle recensioni Google"/> 29 recensioni Google
 
 <hr/>
 
-<img src="/img/user.jpg" class="img-inline" alt="avatar cliente 1" title="avatar cliente"/> **Irma Simona Guarracino**
-- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
+<img src="/img/user.jpg" class="img-inline" alt="Foto profilo cliente Irma Simona Guarracino" title="Irma Simona Guarracino"/> **Irma Simona Guarracino**
+- <img src="/img/5-stars.png" class="img-inline" alt="Recensione a 5 stelle" title="Recensione a 5 stelle"/>
 - "Precisissimo, puntuale, veloce, competente! Il lavoro di potatura è stato eseguito benissimo, Enrico ha lasciato il giardino in ordine e ci ha dato tantissimi consigli su come sistemarlo al meglio! Consigliatissimo. Noi sicuramente ci rivolgeremo ancora a lui! Grazie Enrico!"
 
-<img src="/img/user1.jpg" class="img-inline" alt="avatar cliente 2" title="avatar cliente"/> **Xenia Mosetti**
-- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
-- "Dopo una serie di brutte esperienze, finalmente ho trovato un serio professionista.Ho visitato il suo sito, dove è ben chiaro anche un listino prezzi!!! ho chiamato e sono state ricontattata subito!E’ organizzato e puntuale, ma soprattutto molto preparato, su potature, trattamenti, prodotti.....davvero molto bravo!!!!!"
+<img src="/img/user1.jpg" class="img-inline" alt="Foto profilo cliente Xenia Mosetti" title="Xenia Mosetti"/> **Xenia Mosetti**
+- <img src="/img/5-stars.png" class="img-inline" alt="Recensione a 5 stelle" title="Recensione a 5 stelle"/>
+- "Dopo una serie di brutte esperienze, finalmente ho trovato un serio professionista. Ho visitato il suo sito, dove è ben chiaro anche un listino prezzi!!! Ho chiamato e sono stata ricontattata subito! È organizzato e puntuale, ma soprattutto molto preparato, su potature, trattamenti, prodotti.....davvero molto bravo!!!!!"
 
-<img src="/img/user2.jpg" class="img-inline" alt="avatar cliente 3" title="avatar cliente"/> **Marco Butelli**
-- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
+<img src="/img/user2.jpg" class="img-inline" alt="Foto profilo cliente Marco Butelli" title="Marco Butelli"/> **Marco Butelli**
+- <img src="/img/5-stars.png" class="img-inline" alt="Recensione a 5 stelle" title="Recensione a 5 stelle"/>
 - "Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!"
 
 <br>
 
-<a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="recensioni Google" target="_blank" rel="noopener"> Visualizza le altre recensioni </a>
+<a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="Leggi tutte le recensioni su Google" target="_blank" rel="noopener">Visualizza le altre recensioni su Google</a>
