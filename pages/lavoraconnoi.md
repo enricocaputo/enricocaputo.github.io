@@ -64,7 +64,7 @@ Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessari
      "jobLocation": {
      "@type": "Place",
        "address": {
-       "@type":"PostalAddress","streetAddress":"Viale Stazione, 28","postalCode":"33052","addressLocality":"Cervignano del Friuli","addressRegion":"UD","addressCountry":"IT"
+       "@type":"PostalAddress","streetAddress":"Via Ialmicco","postalCode":"33057","addressLocality":"Palmanova","addressRegion":"UD","addressCountry":"IT"
      }
    },
      "baseSalary": {

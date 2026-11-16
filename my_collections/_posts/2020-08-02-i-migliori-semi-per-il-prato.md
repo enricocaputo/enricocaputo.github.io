@@ -80,5 +80,3 @@ Appartenente alle campanulacee, la ***Dichondra repens*** si differenzia dalle g
 
 ## Prato in zolla a rotolo: uno dei migliori tipi di prato!
 Il [**prato a rotoli**](/prodotti/prato-a-rotoli/ "Prato a rotoli: uno dei migliori tipi di prato") in zolla è un prato vero a pronto effetto. I vantaggi del tappeto erboso in zolla rispetto a un semina sono davvero tanti. In primo luogo, il prato sarà immediatamente calpestabile. In secondo luogo è esente da erbacce. In terzo luogo è un prato adulto e stabile con radici ben sviluppate che è stato curato, nutrito e rasato a giorni alterni durante gli ultimi otto / dodici mesi. Quarto, si può realizzare tutto l'anno. Infine, il costo non è molto più elevato di un prato seminato, il risultato è garantito e l'effetto di un bel prato verde è immediato.
-
-**Forse ti interessa anche [Bonus Verde 2020: detrazione IRPEF 36% del costo di rifacimento del prato](/news/bonus-verde "Bonus Verde 2020").**
