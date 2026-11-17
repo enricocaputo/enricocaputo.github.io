@@ -26,7 +26,7 @@ Un bel giardino non nasce mettendo a dimora qualche pianta a caso: perché resti
 
 1. **Sopralluogo e ascolto delle tue esigenze:** Camminiamo insieme nel tuo spazio verde per valutare esposizione, pendenze, punti d'acqua, privacy rispetto ai vicini e lo stile che desideri (moderno, mediterraneo, fiorito o a bassa manutenzione).
 2. **Scelta botanica mirata:** Seleziono alberi, arbusti, siepi e fioriture realmente adatti al clima e al terreno del Friuli Venezia Giulia e dell'Isontino, evitando specie troppo delicate o sproporzionate per lo spazio disponibile.
-3. **Preparazione del terreno e impianti:** Prima ancora di piantare, preparo il suolo in profondità, realizzo eventuali [impianti di irrigazione automatica](/irrigazione/) con scavi stretti e installo bordure pulite per delimitare aiuole e camminamenti.
+3. **Preparazione del terreno e impianti:** Prima ancora di piantare, preparo il suolo in profondità, realizzo eventuali [impianti di irrigazione automatica](/prodotti/irrigazione-giardino/) con scavi stretti e installo bordure pulite per delimitare aiuole e camminamenti.
 4. **Messa a dimora e pacciamatura:** Pianto le essenze selezionate con le corrette distanze di crescita e rifinisco le aiuole con **pacciamatura naturale** (corteccia, cippato o lapillo) per trattenere l'umidità e ridurre la crescita delle erbacce.
 5. **Formazione del prato:** Completo il lavoro con la [semina o la posa di prato a rotoli](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/) per consegnarti un giardino subito ordinato e pronto da vivere.
 

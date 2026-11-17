@@ -26,7 +26,7 @@ Con sede a **Palmanova**, intervengo personalmente con puntualità, competenza t
 * **[Potatura e abbattimento alberi](/servizi/abbattimento-e-potatura-alberi/):** Interventi in quota con piattaforma aerea o Tree Climbing per mettere in sicurezza alberi pericolanti o malati.
 * **[Giardiniere a domicilio](/servizi/giardiniere-a-domicilio/):** Manutenzione ordinaria, pulizia aiuole, concimazioni e cura stagionale del verde.
 * **[Formazione e rigenerazione prato](/servizi/rigenerazione-prato/):** Arieggiatura, risemina, posa di prato a rotoli e creazione di nuovi tappeti erbosi.
-* **[Impianti di irrigazione](/irrigazione/):** Progettazione, installazione e manutenzione di sistemi automatici interrati o fuori terra.
+* **[Impianti di irrigazione](/prodotti/irrigazione-giardino/):** Progettazione, installazione e manutenzione di sistemi automatici interrati o fuori terra.
 * **[Lotta alla processionaria](/servizi/lotta-alla-processionaria/) e [Stop zanzare](/servizi/stop-zanzare/):** Trattamenti fitosanitari mirati ed endoterapia certificata.
 
 ---
