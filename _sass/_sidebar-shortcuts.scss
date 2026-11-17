@@ -44,7 +44,8 @@
       opacity: 1;
     }
   }
-  .whatsapp {
+  /* Nasconde il telefono su desktop mantenendo visibili E-Mail e WhatsApp */
+  .phone {
     display: none;
   }
 }
@@ -93,7 +94,9 @@
           background: transparent;
         }
       }
+      /* Riattiva il pulsante telefono su smartphone */
       .phone {
+        display: block;
         float: left;
       }
       .mail {

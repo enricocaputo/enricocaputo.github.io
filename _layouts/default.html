@@ -26,5 +26,14 @@ layout: compress
 <script>
    if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('/sw.js')})}
 </script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    var waLink = document.querySelector('.sidebarShortcuts a.whatsapp');
+    if (!isMobile && waLink && waLink.dataset.desktopHref) {
+      waLink.href = waLink.dataset.desktopHref;
+    }
+  });
+</script>
 </body>
 </html>
