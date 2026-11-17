@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Lavora con noi
-excerpt: "Impresa del verde operante in provincia di Udine ricerca un operaio giardiniere. Si usano motosega e decespugliatore. Automunito, prestanza fisica e puntualità."
+title: Lavora con me
+excerpt: "Cerco un aiutante giardiniere nella zona di Palmanova (UD). Richiesta passione per il verde, buona prestanza fisica, uso di decespugliatore e motosega, patente B."
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
-last_modified_at: 2026-11-16T8:39
+last_modified_at: 2026-11-17T14:50:00+01:00
 ---
-# Lavora con noi
+# Lavora con me
 
 <div class="carousel">
 <picture>
@@ -17,44 +17,54 @@ last_modified_at: 2026-11-16T8:39
 </picture>
 </div>
 
-## Opportunità di lavoro
+## Cerco un aiutante per la cura dei giardini a Palmanova e dintorni
 
-**Cerchiamo persone dinamiche e brillanti** per garantire la migliore qualità di servizio in termini di affidabilità, puntualità, creatività e pulizia. Il Cliente è sempre al centro di ogni nostra decisione.
+Ciao, sono Enrico. Il lavoro cresce e **sto cercando un ragazzo o una ragazza della zona** da affiancare a me nella manutenzione e realizzazione di giardini privati e aziendali nelle province di **Udine e Gorizia**.
 
-## I nostri valori
+Non sono una grande impresa anonima, ma un professionista che lavora sul campo ogni giorno. Cerco una persona affidabile con cui costruire una collaborazione seria, lavorare bene all'aria aperta e lasciare ogni cliente soddisfatto.
 
-Potasiepe è sinonimo di **custode del giardino**. Chi lavora in Potasiepe vive un ambiente dinamico, organizzato ed in costante crescita. Ogni giorno è diverso dal precedente ed ogni giorno costruiamo la soddisfazione dei nostri Clienti ed il nostro futuro.
+## Chi sto cercando
 
-## Potasiepe crede nel valore e nel potenziale umano
+Il giardinaggio è un mestiere bellissimo ma richiede impegno fisico, attenzione e precisione. Per questo motivo do la precedenza a chi possiede questi requisiti:
 
-Ci impegniamo nella formazione delle persone che lavorano con noi e ad accrescere le loro competenze di giardinaggio.
+* **Residenza in zona:** Abiti a **Palmanova o nei comuni vicini** (entro 20-25 km), così da raggiungere facilmente il punto di ritrovo al mattino.
+* **Automunito/a:** Hai la patente B e un mezzo tuo per gli spostamenti casa-lavoro.
+* **Prestanza fisica e voglia di fare:** Il lavoro si svolge all'aperto e richiede resistenza fisica. Utilizziamo regolarmente **decespugliatore, motosega, trattorino rasaerba, motocoltivatore** e attrezzature professionali a batteria.
+* **Passione ed esperienza (o studi agrari):** È preferibile un **diploma in agraria** o una minima esperienza pratica nella cura del verde e nell'uso delle macchine da giardino. Se però hai tanta voglia di imparare e passione per questo mestiere, ti insegnerò io sul campo.
+* **Puntualità e cura dei dettagli:** Rispetto per gli orari, per le attrezzature e pulizia impeccabile a fine lavoro.
+
+*Nota: valutiamo esclusivamente candidati già residenti e domiciliati in Friuli Venezia Giulia.*
 
 ## Posizioni aperte
 
-Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessariamente bisogno di qualifiche precedenti. La **passione per il giardinaggio** invece è **indispensabile**.
+✔ **Aiutante Giardiniere / Manutentore del verde**: Affiancamento nelle attività quotidiane di potatura siepi, sfalcio erba, rigenerazione prati, pulizia terreni e piccoli impianti di irrigazione.
 
-&#10004; **Manutentore del verde**: Potasiepe, Impresa del verde operante in provincia di Udine e Gorizia, ricerca un operaio giardiniere. Si usano motosega e decespugliatore. Automunito, richieste prestanza fisica e puntualità. Inviare curriculum vitae completo di fotografia;
+✔ **Stagista / Collaborazione stagionale**: Cerco anche studenti di **scuole agrarie** (maggiori di 16 anni) interessati a uno stage formativo o a un lavoro part-time / estivo per fare esperienza pratica sul campo.
 
-&#10004; **Stagista / Aiuto giardiniere**: studenti della scuola agraria, maggiori di 16 anni di età, part time oppure volenterosi in cerca di lavoro durante le vacanze estive.
+## Come candidarsi
 
-## Autocandidatura
+Se ti rispecchi in questa descrizione e hai voglia di metterti in gioco, mi farebbe davvero piacere conoscerti.
 
-**Invia una mail** a giardiniere @ potasiepe.com specificando come **oggetto: autocandidatura**. Allega il tuo **curriculum vitae**, una **fotografia** e non dimenticarti di fornire il **consenso al trattamento dei dati personali**.
+1. **Invia una mail** a **giardiniere@potasiepe.com** con oggetto: **Candidatura Aiutante Giardiniere - [Tuo Nome e Comune]**.
+2. Allega il tuo **Curriculum Vitae** aggiornato (meglio se con foto) e raccontami in due righe che esperienza hai con le attrezzature da giardino e dove abiti.
+3. Ricorda di inserire nel CV l'autorizzazione al trattamento dei dati personali (GDPR).
+
+In alternativa, per una prima chiacchierata conoscitiva veloce, puoi scrivermi anche su **WhatsApp al 388 9005888** presentandoti brevemente.
 
 <script type="application/ld+json">
    {
      "@context" : "https://schema.org/",
      "@type" : "JobPosting",
-     "title" : "Operaio Giardiniere",
-     "description" : "<p>Impresa del verde operante in provincia di Udine ricerca un operaio giardiniere. Si usano motosega e decespugliatore. Automunito, prestanza fisica e puntualità.</p>",
+     "title" : "Aiutante Giardiniere / Manutentore del Verde",
+     "description" : "<p>Cerco un ragazzo o una ragazza residente vicino a Palmanova (UD) come aiutante giardiniere. Richiesta passione per il verde, buona prestanza fisica e utilizzo di attrezzi come decespugliatore, motosega, trattorino rasaerba e motocoltivatore. Preferibile diploma in agraria o minima esperienza. Patente B e automunito.</p>",
      "identifier": {
        "@type": "PropertyValue",
-       "name": "Google",
-       "value": "1234567"
+       "name": "Potasiepe",
+       "value": "POTASIEPE-2026-01"
      },
-     "datePosted" : "2023-01-01",
-     "validThrough" : "2023-12-31",
-     "employmentType" : "CONTRACTOR",
+     "datePosted" : "2026-11-17",
+     "validThrough" : "2027-06-30",
+     "employmentType" : ["FULL_TIME", "PART_TIME"],
      "hiringOrganization" : {
        "@type" : "Organization",
        "name" : "Potasiepe",
@@ -62,11 +72,20 @@ Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessari
        "logo" : "https://www.potasiepe.it/img/potasiepe1x1.jpg"
      },
      "jobLocation": {
-     "@type": "Place",
+       "@type": "Place",
        "address": {
-       "@type":"PostalAddress","streetAddress":"Via Ialmicco","postalCode":"33057","addressLocality":"Palmanova","addressRegion":"UD","addressCountry":"IT"
-     }
-   },
+         "@type": "PostalAddress",
+         "streetAddress": "Via Ialmicco",
+         "postalCode": "33057",
+         "addressLocality": "Palmanova",
+         "addressRegion": "UD",
+         "addressCountry": "IT"
+       }
+     },
+     "applicantLocationRequirements": {
+       "@type": "Country",
+       "name": "IT"
+     },
      "baseSalary": {
        "@type": "MonetaryAmount",
        "currency": "EUR",
@@ -77,6 +96,6 @@ Inviaci il tuo curriculum vitae, lavora con noi, i candidati non hanno necessari
          "unitText": "HOUR"
        }
      },
-     "directApply": "https://www.potasiepe.it/lavora-con-noi/"
+     "directApply": true
    }
-   </script>
+</script>
