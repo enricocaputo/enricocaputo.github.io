@@ -23,7 +23,7 @@ order: 7
 </div>
 <br>
 
-La processionaria del pino (*Thaumetopoea pityocampa*) non è solo un problema estético per le piante: i suoi peli urticanti rappresentano un **serio pericolo per la salute di persone, bambini e soprattutto cani e gatti**, che rischiano gravi reazioni allergiche o necrosi della lingua anche solo annusando il terreno.
+La processionaria del pino (*Thaumetopoea pityocampa*) non è solo un problema estetico per le piante: i suoi peli urticanti rappresentano un **serio pericolo per la salute di persone, bambini e soprattutto cani e gatti**, che rischiano gravi reazioni allergiche o necrosi della lingua anche solo annusando il terreno.
 
 Inoltre, in Italia **la lotta alla processionaria è obbligatoria per legge** (D.M. 30 ottobre 2007) per tutti i proprietari di aree verdi in cui siano presenti pini o cedri infestati.
 
@@ -41,22 +41,16 @@ Per eliminare la processionaria senza disperdere sostanze chimiche nell'aria del
 * **Efficace anche su alberi molto alti:** Non serve raggiungere la cima della chioma con getti ad alta pressione che spesso non arrivano in alto o vengono deviati dal vento.
 
 <br>
+<div class="carousel">
 <picture>
   <source srcset="/img/servizi/webp/rimozione-nidi-processionaria-alberi.webp" type="image/webp">
-  <source srcset="(/img/servizi/rimozione-nidi-processionaria-alberi.jpg" type="image/jpeg">
+  <source srcset="/img/servizi/rimozione-nidi-processionaria-alberi.jpg" type="image/jpeg">
   <img src="/img/servizi/rimozione-nidi-processionaria-alberi.jpg" width="800" height="600" alt="Rimozione nidi di processionaria dagli alberi" title="Rimozione nidi di processionaria del pino">
 </picture>
+</div>
 <br>
 
 ## Quando intervenire
 
 * **Prevenzione con endoterapia (estate – autunno, da luglio a ottobre):** È il momento migliore e più risolutivo. Il trattamento colpisce le giovani larve fin dalla nascita, impedendo la formazione dei nidi invernali e la pericolosa discesa primaverile lungo il tronco.
 * **Rimozione meccanica dei nidi (inverno):** Se i nidi bianchi sono già presenti sui rami, intervengo in quota con piattaforma aerea e dispositivi di protezione per asportarli e distruggerli in sicurezza prima che le larve scendano a terra.
-
----
-
-## Richiedi un intervento sicuro per il tuo giardino
-
-Hai pini o cedri in giardino e vuoi metterli in sicurezza prima della primavera? Contattami per un **sopralluogo gratuito entro 30 km da Palmanova**.
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)

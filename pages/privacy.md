@@ -4,51 +4,45 @@ title: Privacy
 excerpt: "Potasiepe non raccoglie né condivide informazioni personali. Il presente sito utilizza esclusivamente cookie tecnici."
 image: /img/amp-logo-60x600px.png
 permalink: /privacy/
-last_modified_at: 2022-02-27T8:39
+no_cta: true
 ---
-# Potasiepe non raccoglie né condivide informazioni personali
-![green cookie](/img/cookie.png  "green cookie")
+# Privacy e Cookie Policy
 
-Ci impegniamo a rispettare e proteggere la riservatezza di tutte le persone con cui abbiamo rapporti. Come parte di questo impegno, cerchiamo di fornirvi informazioni chiare e il controllo sulle vostre informazioni personali in nostro possesso nonché su altri dati non personali che possiamo raccogliere e usare quando visitate il presente sito.
+![green cookie](/img/cookie.png "green cookie")
 
-## Le vostre informazioni personali
+Mi impegno a rispettare e proteggere la riservatezza di tutte le persone che visitano questo sito o mi contattano. Qui trovi informazioni chiare su come vengono gestiti i tuoi dati personali e i cookie durante la navigazione.
 
-Quando ci inviate dei feedback attraverso strumenti messi a vostra disposizione sul sito, possiamo raccogliere e trattare le vostre informazioni personali come nome, indirizzo e-mail e numero di telefono. Queste informazioni saranno usate solo per gestire i vostri feedback. Nessuna informazione personale sarà trasmessa ad altri terzi.  
+## Le tue informazioni personali
 
-Se desiderate esercitare il diritto di accesso alle vostre informazioni personali o se volete modificare le vostre informazioni, potete contattarci all’indirizzo posto in calce alla presente Informativa sulla privacy.
+Quando mi invii una richiesta tramite il modulo contatti, per email o su WhatsApp, raccolgo e tratto esclusivamente i dati che scegli di fornirmi (come nome, indirizzo email, numero di telefono e comune di residenza). **Queste informazioni vengono usate unicamente per rispondere alla tua richiesta e preparare il preventivo.** Nessun dato personale viene venduto, ceduto o condiviso con terzi per scopi commerciali.
+
+Puoi chiedermi in qualsiasi momento l'accesso, la modifica o la cancellazione dei tuoi dati scrivendo ai recapiti indicati in fondo a questa pagina.
 
 ## Cookie
 
-I cookie sono piccoli pacchetti di informazioni archiviati dal vostro browser web. Sono inseriti nel vostro browser web dai siti internet che visitate. Se non volete che siano usati i cookie, siete pregati di leggere più avanti per avere maggiori informazioni su come gestire o disabilitare i cookie nelle impostazioni sulla privacy del vostro browser web. Se si sceglie di disabilitare i cookie, lo strumento di controllo non funzionerà più correttamente e ciò influirà negativamente sull’esperienza di navigazione in generale.
+I cookie sono piccoli file di testo salvati dal browser sul tuo dispositivo mentre navighi. Puoi disabilitare o cancellare i cookie in qualsiasi momento dalle impostazioni del tuo browser, tenendo presente che alcune funzionalità del sito potrebbero risultare limitate.
 
-Il presente sito utilizza le seguenti tipologie di cookie:
+Questo sito utilizza esclusivamente **cookie tecnici**:
 
-### COOKIE TECNICI
+* **Cookie di navigazione o sessione:** strettamente necessari per il corretto funzionamento e la sicurezza delle pagine.
+* **Cookie di funzionalità:** servono a ricordare le tue preferenze di navigazione (ad esempio la chiusura dell'avviso sui cookie).
 
-Quei cookie strettamente necessari per permettere:
+Trattandosi esclusivamente di cookie tecnici necessari al funzionamento del sito, la loro installazione non richiede il consenso preventivo.
 
-+ La navigazione e fruizione del sito web (permettendo, ad esempio, di realizzare un acquisto o autenticarsi per accedere ad aree riservate, "cookie di navigazione o di sessione");
-+ La raccolta di informazioni, in forma aggregata, sul numero degli utenti e su come questi visitano il sito stesso ("cookie analytics");
-+ La navigazione in funzione di una serie di criteri selezionati (ad esempio, la lingua, i prodotti selezionati per l'acquisto, "cookie di funzionalità") al fine di migliorare il servizio reso allo stesso.
+## Come gestire i cookie dal tuo browser
 
-Tali cookie sono installati direttamente da Giardiniere Potasiepe e, poiché non vengono utilizzati per scopi ulteriori rispetto a quelli funzionali sopra descritti la loro installazione, non richiedono il vostro consenso.
+Puoi controllare, bloccare o eliminare i cookie direttamente dalle impostazioni del programma che usi per navigare. Qui trovi le guide ufficiali dei principali browser:
 
-## Come posso gestire l’uso dei cookie su questo sito?
+* [Google Chrome](https://google.com){:target="_blank" rel="noopener"}
+* [Mozilla Firefox](https://mozilla.org){:target="_blank" rel="noopener"}
+* [Microsoft Edge](https://microsoft.com){:target="_blank" rel="noopener"}
+* [Apple Safari](https://apple.com){:target="_blank" rel="noopener"}
 
-Tutte le tecnologie di navigazione vi permettono di gestire i cookie nella cartella dei cookie del vostro browser web. Ciò significa che è possibile cancellare i cookie dalla vostra cartella dei cookie al termine della visita al nostro sito oppure è possibile impostare le vostre preferenze sull’uso dei cookie prima di iniziare a navigare sul nostro sito. Come già indicato, la cancellazione o il rifiuto dei cookie può influire negativamente sulla vostra esperienza di navigazione nel nostro sito.
+## Titolare del trattamento e contatti
 
-Per ulteriori informazioni visitare la pagina specifica del browser web che si sta utilizzando:
+Per qualsiasi domanda sulla gestione dei tuoi dati personali o per esercitare i tuoi diritti ai sensi del GDPR, puoi contattarmi direttamente:
 
-<ul>
-<li><a href="http://www.google.com/intl/en/chrome/browser/privacy/" target="_blank" rel="noopener" aria-label="Google">Google</a></li>
-<li><a href="http://support.mozilla.com/en-US/kb/Cookies#w_cookie-settings" target="_blank" rel="noopener" aria-label="Firefox" rel="noopener">Firefox</a></li>
-<li><a href="http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies" target="_blank" rel="noopener" aria-label="Windows">Windows</a></li>
-<li><a href="http://www.apple.com/safari/features.html#security" target="_blank" rel="noopener" aria-label="Safari">Safari</a></li>
-</ul>
-
-## Contatti
-
-Se avete altre domande su come trattiamo le vostre informazioni personali o se intendete esercitare i vostri diritti previsti dalla presente informativa, potete contattarci ai seguenti recapiti:
-
-Tel. (+39) 388 9005888 <br>
-giardiniere &#64; potasiepe.com
+**Enrico Caputo – Il Giardiniere Potasiepe**  
+Via Ialmicco, Palmanova (UD)  
+Telefono / WhatsApp: **(+39) 388 9005888**  
+Email: **giardiniere@potasiepe.com**

@@ -5,7 +5,6 @@ excerpt: "Prezzi onesti e trasparenti per giardinaggio entro 30 km da Palmanova 
 image: /img/porcellino.png
 webp: /img/webp/porcellino.webp
 permalink: /prezzi/
-last_modified_at: 2026-11-16T8:58
 ---
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
@@ -38,7 +37,7 @@ Quando affidi un lavoro a **Potasiepe**, il prezzo concordato include:
 ## Listino orientativo dei principali interventi
 
 * **Potatura siepi (altezza fino a 2,5 m):** a partire da **€ 4,00 – € 6,00** al metro lineare *(in base allo spessore e allo sviluppo su uno o più lati)*.
-* **Potatura siepi alte (oltre 2,5 m fino a 6-8 m):** a partire da **€ 7,00 – € 12,00** al metro lineare *(con trabattello, scale professionali o piattaforma aerea)*.
+* **Potatura siepi alte (oltre 2,5 m e oltre i 6 m):** a partire da **€ 7,00 – € 12,00** al metro lineare *(con trabattello, scale professionali o piattaforma aerea)*.
 * **Taglio erba e manutenzione ordinaria giardino:** a partire da **€ 0,30 – € 0,60** al mq *(in base alla superficie e alla frequenza dei tagli)*.
 * **Sfalcio erba altissima e pulizia terreni incolti:** a partire da **€ 0,50 – € 1,20** al mq *(con decespugliatore forestale o trinciaerba)*.
 * **Arieggiatura e rigenerazione prato:** a partire da **€ 1,50 – € 3,00** al mq *(scarificatura, pulizia feltro, risemina e concimazione)*.
@@ -53,11 +52,3 @@ Quando affidi un lavoro a **Potasiepe**, il prezzo concordato include:
 
 * **Entro 30 km da Palmanova:** Sopralluogo e preventivo **gratuiti e senza impegno**.
 * **Interventi fuori zona (oltre 30 km):** Viene concordato in anticipo un rimborso chilometrico chiaro in base alla distanza.
-
----
-
-## Vuoi un preventivo preciso per il tuo giardino?
-
-Chiamami o scrivimi su WhatsApp inviando anche **qualche foto della siepe, dell'albero o del prato**: ti risponderò rapidamente con una prima stima o fisseremo un sopralluogo.
-
-[Vai alla pagina Contatti](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**

@@ -24,7 +24,7 @@ order: 8
 
 Durante la bella stagione, zanzara comune e zanzara tigre possono rendere impossibile cenare in giardino, far giocare i bambini sull'erba o rilassarsi sul terrazzo. I comuni spray o le candele spesso offrono solo un sollievo temporaneo perché non agiscono nei punti in cui le zanzare si riproducono e si nascondono.
 
-*Piacere, sono Enrico.* In possesso di **patentino fitosanitario abilitante**, eseguo trattamenti professionali **Stop Zanzare** per giardini privati, condomini, ristoranti e aziende nelle province di **Udine e Gorizia**.
+*Piacere, sono Enrico.* In possesso di **patentino fitosanitario abilitante**, eseguo trattamenti professionali **Stop Zanzare** per giardini privati, ristoranti, hotel e aziende nelle province di **Udine e Gorizia**.
 
 ---
 
@@ -55,10 +55,3 @@ Per mantenere il giardino protetto tutta l'estate, consiglio di iniziare tra **a
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="970" height="300" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br><br>
-
-## Prenota il trattamento per il tuo giardino
-
-Vuoi liberare il tuo giardino dalle zanzare questa stagione? Contattami per una valutazione gratuita **entro 30 km da Palmanova**.
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)

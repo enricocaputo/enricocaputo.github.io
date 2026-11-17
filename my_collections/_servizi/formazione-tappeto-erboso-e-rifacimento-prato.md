@@ -17,7 +17,7 @@ order: 4
 <br>
 <div class="carousel">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/nuovo-prato-finito.jpg" alt="un nuovo prato finito" title="un nuovo prato finito">
-  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/rimozione-ceppo-e-radici.jpg" alt="eliminazione di vecchi ceppi e radici" title="eliminazione di ceppi e radici">
+  <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/rimozione-ceppo-e-radici.jpg" alt="eliminazione di vecchi ceppi e radici" title="eliminazione di vecchi ceppi e radici">
   <img class="mySlides" width ="800" height="600" src="{{ site.baseurl }}/img/servizi/preparazione-letto-di-semina.jpg" alt="preparazione del letto di semina per un nuovo prato" title="letto di semina prato">
 </div>
 <br>
@@ -44,7 +44,7 @@ Un bel prato verde e uniforme è la cornice che valorizza tutta la casa. Per ott
 4. **Livellamento e rullatura:** Modellazione delle pendenze per evitare ristagni d'acqua e creazione di un piano uniforme.
 5. **Semina o posa dei rotoli e concimazione:** Distribuzione uniforme del seme (o posa accurata delle zolle), concimazione di avvio e prima irrigazione.
 
-*(Nota: se non hai ancora un sistema di irrigazione automatico, possiamo progettarlo e installarlo prima della semina per proteggere il tuo investimento fin dal primo giorno).*
+*(Nota: se non hai ancora un [sistema di irrigazione automatico](/prodotti/irrigazione-giardino/), posso progettarlo e installarlo prima della semina per proteggere il tuo investimento fin dal primo giorno).*
 
 <br>
 <div class="carousel">
@@ -55,12 +55,3 @@ Un bel prato verde e uniforme è la cornice che valorizza tutta la casa. Per ott
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br>
-
-## Sopralluogo e preventivo senza impegno
-
-Ogni terreno ha esigenze diverse. Contattami per fissare un **sopralluogo gratuito entro 30 km da Palmanova**: valuteremo insieme la soluzione migliore e ti fornirò un preventivo chiaro e dettagliato.
-
-**[Contattami per un sopralluogo](/contatti/)** | **[Scrivi su WhatsApp](https://wa.me/393889005888)**
-
-<br>

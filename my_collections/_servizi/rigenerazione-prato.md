@@ -52,14 +52,3 @@ Un intervento di rigenerazione è la soluzione ideale se il tuo prato presenta:
 ## Il periodo migliore per intervenire
 
 I momenti ideali per la rigenerazione del prato nelle province di **Udine e Gorizia** sono **la primavera (marzo – aprile)** e **l'inizio dell'autunno (settembre – ottobre)**, quando le temperature miti e l'umidità naturale garantiscono la massima germinazione dei semi.
-
----
-
-## Richiedi una valutazione del tuo prato
-
-Vuoi sapere se il tuo prato può essere rigenerato o se conviene rifarlo? Contattami per un **sopralluogo gratuito entro 30 km da Palmanova** (o inviarmi qualche foto su WhatsApp).
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**
-
-
-<br>

@@ -1,21 +1,21 @@
 ---
 name: Noleggio Catenaria
 subtitle: "Scavi stretti e precisi per impianti senza rovinare il prato."
-title: "Noleggio catenaria per scavi stretti a Udine e Gorizia"
-excerpt: "Noleggio catenaria (scavatrincea) a freddo o con operatore entro 30 km da Palmanova (UD e GO) per posa impianti di irrigazione, cavi elettrici e tubazioni."
+title: "Scavi con catenaria e operatore a Udine e Gorizia"
+excerpt: "Servizio di scavo con catenaria (scavatrincea) e operatore entro 30 km da Palmanova (UD e GO) per impianti di irrigazione e cavi. Tariffa chiara: € 50 trasporto + € 5/m."
 image: /img/servizi/noleggio-catenaria-scavi-irrigazione.jpg
 webp: /img/servizi/webp/noleggio-catenaria-scavi-irrigazione.webp
 image_path: /img/servizi/noleggio-catenaria-scavi-400x300.jpg
 order: 11
 ---
 
-# Noleggio catenaria per scavi stretti
+# Scavi con catenaria e operatore
 
 **Scavatrincea compatta per impianti di irrigazione, cavi e tubazioni senza rovinare il prato (entro 30 km da Palmanova)**
 
 Devi posare tubi per l'irrigazione, cavi elettrici per l'illuminazione del giardino o piccole condotte interrate e non vuoi distruggere il prato con un miniescavatore? La **catenaria (scavatrincea)** è la soluzione più rapida, pulita ed economica.
 
-*Piacere, sono Enrico.* Metto a disposizione la mia **catenaria professionale** per privati e imprese nelle province di **Udine e Gorizia**, sia con **noleggio a freddo** (solo macchina) sia con **servizio completo con operatore**.
+*Piacere, sono Enrico.* Metto a disposizione la mia **catenaria professionale esclusivamente con servizio di scavo con operatore** per privati e imprese nelle province di **Udine e Gorizia**. Vengo direttamente io con la macchina e realizzo la trincea secondo il tracciato che hai stabilito: così non devi preoccuparti di trasporti, cauzioni o del funzionamento del mezzo.
 
 <br>
 <div class="carousel">
@@ -36,16 +36,11 @@ Devi posare tubi per l'irrigazione, cavi elettrici per l'illuminazione del giard
 
 ---
 
-## Modalità di noleggio
+## Tariffe chiare per il servizio con operatore
 
-* **Noleggio a freddo (solo macchina):** Ritiro o consegna concordata entro 30 km da Palmanova, con spiegazione pratica sull'utilizzo sicuro della macchina.
-* **Scavo con operatore:** Se preferisci non occupartene personalmente, vengo direttamente io a eseguire lo scavo secondo il tracciato che hai stabilito.
+Per offrirti la massima trasparenza fin da subito, il servizio di scavo con catenaria e operatore prevede una tariffa semplice e senza sorprese:
 
----
+* **Diritto fisso di uscita:** **€ 50,00** per il trasporto, lo scarico e il carico della macchina presso il tuo domicilio (entro 30 km da Palmanova).
+* **Costo dello scavo:** **€ 5,00 al metro lineare** realizzato.
 
-## Verifica disponibilità e tariffe
-
-Vuoi conoscere la disponibilità della catenaria o richiedere un preventivo per lo scavo nel tuo giardino?
-
-[Richiedi informazioni](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
-<br>
+*(Nota: non effettuo noleggio a freddo senza operatore. Intervenendo personalmente garantisco uno scavo preciso, rapido e in totale sicurezza per il tuo giardino e gli impianti esistenti).*

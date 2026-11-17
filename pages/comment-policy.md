@@ -1,21 +1,18 @@
 ---
 layout: page
 title: Moderazione dei commenti
-excerpt: Comment policy del sito Potasiepe
+excerpt: Regole di comportamento e moderazione dei commenti sul blog di Potasiepe.
 image: /img/amp-logo-60x600px.png
 permalink: /comment-policy/
-last_modified_at: 2022-02-27T8:39
+no_cta: true
 ---
-#Moderazione dei commenti - POTASIEPE
+# Moderazione dei commenti
 
-Benvenuto nella Community di PotaSiepe - Noi ci impegniamo per mantenere una community rispettosa e attivamente impegnata in vivaci dibattiti su notizie e post pubblicati su blog. Tuttavia, La preghiamo di tenere presente quanto segue prima di scrivere i Suoi commenti.
+Benvenuto nel blog di **Potasiepe**. Mi impegno a mantenere questo spazio aperto, utile e rispettoso per tutti i lettori che vogliono confrontarsi su giardinaggio, orto e cura del verde. Prima di pubblicare un commento sotto agli articoli, ti chiedo di tenere presenti queste semplici regole:
 
-Rispetti gli altri - La preghiamo di comportarsi educatamente con tutti i membri della nostra Community, comprese le altre persone che scrivono commenti e gli autori e i soggetti che costituiscono l'argomento degli articoli. Ricordi inoltre che i Suoi commenti vengono letti da persone reali.
+* **Rispetta gli altri:** Comportati in modo educato e costruttivo con gli altri lettori e con chi scrive. Ricorda che dietro ogni commento ci sono persone reali.
+* **Spazio accogliente e sicuro:** Voglio che il blog resti un luogo piacevole per tutti. Per questo motivo mi riservo il diritto di rimuovere commenti volgari, offensivi, diffamatori, aggressivi o contenenti spam e pubblicità non autorizzata.
+* **Moderazione preventiva:** Per evitare messaggi indesiderati o fuori tema, i commenti possono essere sottoposti a verifica prima della pubblicazione. Se vedi l'avviso che il tuo commento è in attesa di approvazione, porta un po' di pazienza: lo leggerò e approverò il prima possibile.
+* **Segnalazioni:** Se noti un commento inappropriato o offensivo, puoi segnalarmelo direttamente.
 
-Spazio sicuro - In particolar modo, noi siamo fortemente convinti che la Community di PotaSiepe debba essere uno spazio sicuro e inclusivo per tutti i singoli individui, i gruppi e le loro idee. Pertanto, ci riserviamo il diritto di eliminare qualsiasi affermazione volgare, denigratoria, astiosa, ostile o negativa.
-
-Moderazione - Al fine di garantire uno spazio sicuro per la nostra community, molti commenti vengono sottoposti a una moderazione preventiva dal nostro sistema di moderazione, pertanto Lei potrebbe vedere un messaggio che spiega che il Suo commento è in attesa di approvazione. In alcuni casi il completamento della procedura di moderazione dei commenti può richiedere più tempo. La preghiamo di essere paziente in quanto prenderemo visione del Suo commento il prima possibile.
-
-Segnalazioni- Se desidera collaborare per far sì che la Community di PotaSiepe rimanga un luogo straordinario a cui prendere parte, può segnalare eventuali commenti inappropriati o utenti che rilasciano costantemente commenti negativi, minatori o che molestano altre persone.
-
-Ha altre domande? Può scrivere a potasiepe@gmail.com.
+Hai domande o vuoi segnalare qualcosa? Puoi scrivermi a **giardiniere@potasiepe.com**.

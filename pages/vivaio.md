@@ -1,23 +1,21 @@
 ---
 layout: page
 title: "Vivaio: aceri, ulivi, e piante da siepe"
-excerpt: "Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai, e piante da siepe. Piante sane, nutrite, e protette."
+excerpt: "Vendita e fornitura di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai e piante da siepe. Piante sane, nutrite e protette."
 image: /img/vivai-potasiepe.jpg
 permalink: /vivaio/
-last_modified_at: 2026-11-16T9:01
 ---
 <script type="application/ld+json">{"@context":"https://schema.org/","@type":"CollectionPage","url":"{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"}</script>
 # Vivaio: aceri, ulivi, e piante da siepe
 
 <br>
 
-Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai, e piante da siepe. Piante sane, nutrite, e protette.
+Seleziono e fornisco piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi secolari, ulivi bonsai e piante da siepe: **piante sane, ben nutrite e protette**, pronte per essere messe a dimora nel tuo giardino.
 
 <br>
 
 ![POTASIEPE vendita piante online](/img/vivai-potasiepe.jpg "vendita piante online")
 
-<br>
 <br><br>
 <h2 class="text-center" id="aceri">Aceri giapponesi</h2>
 
@@ -63,13 +61,8 @@ Vendita online di piante di acero, aceri rossi, aceri giapponesi, olivi, ulivi s
 </ul>
 </div>
 
-
 <h2 class="text-center">Piante da siepe</h2>
 
-Disponiamo di un vasto assortimento di piante da siepe in vaso: **fotinia**, **fillirea**, **piante sempreverdi** a crescita lenta, come il **tasso** (Taxus baccata), il **bosso** (Buxus sempervirens), l'**agrifoglio** (Ilex aquifolium) e il **leccio** (Quercus ilex), e **gelsomini** grandi e piccoli. Inoltre, **osmanto**, **euonimus**, **lonicera**, **ligustro**, e **lauroceraso**.
+Fornisco un vasto assortimento di piante da siepe in vaso: **fotinia**, **fillirea**, **piante sempreverdi** a crescita lenta, come il **tasso** (*Taxus baccata*), il **bosso** (*Buxus sempervirens*), l'**agrifoglio** (*Ilex aquifolium*) e il **leccio** (*Quercus ilex*), oltre a **gelsomini** grandi e piccoli, **osmanto**, **euonimus**, **lonicera**, **ligustro** e **lauroceraso**.
 
-Scopri di più &#10140; [Piante da siepe: quale scegliere](/news/siepe-quale-scegliere/ "Piante da siepe: quale scegliere")
-
-<h2 class="text-center">Per ordini e informazioni</h2>
-
-Inviaci una richiesta &#10140; [Contatti](/contatti/ "contatta POTASIEPE")
+Scopri di più ➜ [Piante da siepe: quale scegliere](/news/siepe-quale-scegliere/ "Piante da siepe: quale scegliere")

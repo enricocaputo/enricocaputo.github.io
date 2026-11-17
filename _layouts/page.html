@@ -4,5 +4,8 @@ layout: default
 <div class="page">
   <div class="page-content">
     {{ content }}
+    {% if page.layout != 'product' and page.no_cta != true %}
+      {% include cta-contatti.html %}
+    {% endif %}
   </div>
 </div>

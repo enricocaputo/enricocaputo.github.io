@@ -24,7 +24,6 @@ Una siepe ben curata protegge la tua privacy, valorizza la casa e mantiene il co
 </div>
 <br>
 
-
 *Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **potatura di siepi di ogni dimensione e specie** nelle province di **Udine e Gorizia**, garantendo un taglio netto, regolare e rispettoso della salute della pianta.
 
 ---
@@ -54,12 +53,6 @@ In genere consiglio **due interventi all'anno**:
 1. **Tarda primavera (maggio – giugno):** per contenere la forte spinta vegetativa primaverile e dare forma compatta alla siepe.
 2. **Fine estate / inizio autunno (settembre – ottobre):** per riordinare la chioma prima dell'inverno e mantenerla perfetta per tutta la stagione fredda.
 
-![Potatura di siepe, prima e dopo](/img/prima-e-dopo-la-potatura.jpg  "Potatura di siepe, prima e dopo")
+![Potatura di siepe, prima e dopo](/img/prima-e-dopo-la-potatura.jpg "Potatura di siepe, prima e dopo")
 
-## Prezzi e sopralluogo gratuito
-
-Puoi consultare subito le tariffe indicative al metro lineare nella mia pagina [Prezzi onesti](/prezzi/). Per una stima esatta, contattami: verrò da te **entro 30 km da Palmanova** per un **sopralluogo gratuito e senza impegno**.
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**
-
-<br><br>
+Vuoi farti un'idea dei costi al metro lineare? Consulta subito le tariffe indicative nella mia pagina [Prezzi onesti](/prezzi/).

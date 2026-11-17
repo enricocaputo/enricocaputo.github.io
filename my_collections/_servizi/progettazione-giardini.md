@@ -42,17 +42,7 @@ Un bel giardino non nasce mettendo a dimora qualche pianta a caso: perché resti
 * **Progettazione pensata per durare:** Studio combinazioni di piante che garantiscono colore e interesse in ogni stagione, riducendo al minimo gli interventi straordinari e gli sprechi d'acqua.
 * **Trasparenza su tempi e costi:** Prima di iniziare i lavori ricevi un preventivo chiaro e dettagliato con tutte le voci di spesa.
 
----
-
-## Hai un giardino da creare o rinnovare da zero?
-
-Che si tratti di una nuova abitazione o di un giardino esistente da ripensare, contattami per un **sopralluogo gratuito entro 30 km da Palmanova**: trasformeremo insieme il tuo spazio esterno.
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
-
-
-<br><br>
-
+<br>
 <div class="YouTube">
 <iframe class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=418fbc16-9169-11ec-a554-13fc6baea232"></iframe>
 </div>
@@ -61,11 +51,11 @@ Che si tratti di una nuova abitazione o di un giardino esistente da ripensare, c
 var videos = document.querySelectorAll('.video');
 
 for (var i = 0; i < videos.length; i++) {
-    videos[i].addEventListener('click', function() {
+    videos[i].addEventListener('click', function(event) {
         var iframe = document.createElement('iframe');
         iframe.setAttribute('allowfullscreen', '');
         iframe.setAttribute('allow', 'autoplay; fullscreen');
-         iframe.setAttribute('src', 'https://www.youtube.com/embed/'+ this.dataset.videoid +'?autoplay=1');
+        iframe.setAttribute('src', 'https://www.youtube.com/embed/'+ this.dataset.videoid +'?autoplay=1');
         this.innerHTML = '';
         this.appendChild(iframe);
         event.preventDefault();

@@ -45,17 +45,6 @@ Per darti un riferimento chiaro fin da subito, ecco una tabella indicativa di co
 
 *Nota: se servono anche la fornitura e la posa dei pali (in ferro o legno), lo spianamento o la rimozione di una vecchia rete, definiamo ogni voce in modo chiaro durante il sopralluogo.*
 
-<br>
-<div class="text-center">
-  <h3 class="h2">Desideri un preventivo o maggiori informazioni?</h3>
-  <p>Contattami per un <strong>sopralluogo gratuito entro 30 km da Palmanova</strong>.<br>
-  Se mi scrivi, indicami pure la fascia oraria in cui preferisci essere richiamato.</p>
-  <br>
-  <a title="Richiedi un preventivo gratuito" href="/contatti/" aria-label="Vai alla pagina contatti per richiedere un preventivo" class="button">RICHIEDI PREVENTIVO</a>
-  <p><br>Oppure chiama subito: <a href="tel:+393889005888"><strong>388 9005888</strong></a> | <a href="https://wa.me"><strong>Scrivimi su WhatsApp</strong></a></p>
-</div>
-<br>
-
 ---
 
 ## Tipologie di recinzioni e interventi che realizzo
@@ -67,11 +56,13 @@ Installo recinzioni nuove posando pali in ferro o legno e tendendo la rete a reg
 Realizzo recinzioni con **rete in plastica ad alta resistenza** (maglia 33 × 48 mm) montata su pali in ferro o legno. Nata per non interferire con i campi elettromagnetici negli aeroporti, questa rete ha un aspetto molto simile al metallo e un'altissima resistenza a trazione, strappo e sfondamento.
 
 <br>
+<div class="carousel">
 <picture>
   <source srcset="/img/prodotti/webp/recinzione-rete-plastica-verde.webp" type="image/webp">
-  <source srcset="/img/prodotti/webp/recinzione-rete-plastica-verde.jpg" type="image/jpeg">
+  <source srcset="/img/prodotti/recinzione-rete-plastica-verde.jpg" type="image/jpeg">
   <img src="/img/prodotti/recinzione-rete-plastica-verde.jpg" width="800" height="600" alt="Recinzione in rete di plastica verde ad alta resistenza con pali" title="Recinzione in rete plastica"/>
 </picture>
+</div>
 <br>
 
 **Costa meno di una recinzione in ferro** ed è la scelta ideale soprattutto nelle **zone di mare** (come Grado, Monfalcone o Lignano), perché è completamente inerte alla corrosione della salsedine.
@@ -89,18 +80,15 @@ Al contrario, la realizzazione di **muri di cinta, cordoli in calcestruzzo o bas
 
 ---
 
-## Zona servita e contatto diretto
+## Zona servita
 
-Installo reti, cancelli pedonali e staccionate nelle province di **Udine e Gorizia**, operando entro un **raggio di 30 km da Palmanova**.
+Installo reti, cancelli pedonali e staccionate nelle province di **Udine e Gorizia**, nel **raggio di 30 km da Palmanova**.
 
 <br>
 <div class="carousel">
 <picture>
   <source srcset="/img/prodotti/webp/recinzione-posa-cancello-giardino.webp" type="image/webp">
-  <source srcset="/img/prodotti/webp/recinzione-posa-cancello-giardino.jpg" type="image/jpeg">
+  <source srcset="/img/prodotti/recinzione-posa-cancello-giardino.jpg" type="image/jpeg">
   <img src="/img/prodotti/recinzione-posa-cancello-giardino.jpg" width="800" height="600" alt="Recinzione in rete metallica e posa cancello pedonale da giardino" title="Recinzione e posa cancello pedonale da giardino"/>
 </picture>
 </div>
-<br>
-
-Hai un confine da delimitare o una vecchia rete da sostituire? [Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me)

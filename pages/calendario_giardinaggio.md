@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Il calendario del giardiniere
-excerpt: "Calendario giardinaggio 2024: tutti i lavori in orto e giardino mese per mese, calendario lunare, consigli per semina, trapianto e potatura - Calendario in PDF."
+excerpt: "Calendario giardinaggio 2026: tutti i lavori in orto e giardino mese per mese, calendario lunare, consigli per semina, trapianto e potatura - Calendario in PDF."
 image: /img/posts/calendario2024.jpg
 permalink: /calendario-di-giardinaggio/
-last_modified_at: 2026-08-14T21:50
+no_cta: true
 ---
 # Calendario Giardinaggio 2026
 
-**Calendario giardinaggio 2026**: tutti i lavori di giardinaggio in orto e giardino, calendario lunare, consigli per semina, trapianto, potatura. I segreti del mestiere e le cure da riservare alle piante, agli alberi e al prato.
+**Calendario giardinaggio 2026**: tutti i lavori di giardinaggio in orto e giardino mese per mese, calendario lunare e i miei consigli pratici per semina, trapianto, potatura e cura di piante, alberi e prato.
 
 ___
 
@@ -21,7 +21,7 @@ ___
 
 <br>
 
-ISCRIVITI alla **Newsletter** per ricevere il **Calendario Giardinaggio 2026** stampato a colori in formato PDF.
+Iscriviti alla **Newsletter** qui sotto per ricevere gratuitamente il **Calendario Giardinaggio 2026** a colori in formato PDF.
 
 <br>
 <div class="text-center">
@@ -30,7 +30,6 @@ ISCRIVITI alla **Newsletter** per ricevere il **Calendario Giardinaggio 2026** s
 <br><br>
 
 ___
-
 
 <div class="list-collection">
 <ul>

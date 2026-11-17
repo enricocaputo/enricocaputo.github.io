@@ -17,13 +17,15 @@ Un tagliaerba con la lama smussata o il motore trascurato non solo fatica ad avv
 
 *Piacere, sono Enrico.* Oltre a curare i giardini nelle province di **Udine e Gorizia**, offro un servizio di **manutenzione ordinaria e messa a punto per tagliaerba a scoppio** dei principali marchi, per mantenere la tua macchina sempre efficiente e pronta all'uso.
 
-<br><br>
+<br>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
-<br><br>
+</div>
+<br>
 
 ## Cosa comprende il tagliando completo del tosaerba
 
@@ -37,13 +39,3 @@ Un tagliaerba con la lama smussata o il motore trascurato non solo fatica ad avv
 ## Quando conviene fare la manutenzione
 
 Il momento ideale per il tagliando è **a fine stagione (autunno-inverno)**, prima di riporre il tagliaerba in garage, oppure **a inizio primavera** prima dei primi tagli. In questo modo eviti attese e hai la macchina perfettamente efficiente quando l'erba inizia a crescere.
-
----
-
-## Prenota il tagliando del tuo tagliaerba
-
-Hai bisogno di affilare la lama o fare il tagliando al tuo tosaerba **entro 30 km da Palmanova**? Contattami per accordarci su tempi e costi.
-
-[Contattami ora](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
-
-<br>

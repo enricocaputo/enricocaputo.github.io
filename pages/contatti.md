@@ -4,7 +4,7 @@ title: "Contatti e richiesta sopralluogo"
 excerpt: "Parla direttamente con Enrico al 388 9005888 (anche WhatsApp) per un sopralluogo gratuito e un preventivo nelle province di Udine e Gorizia."
 image: /img/contatti.jpg
 permalink: /contatti/
-last_modified_at: 2026-11-15T17:06
+no_cta: true
 ---
 
 
@@ -82,4 +82,7 @@ Compila il modulo qui sotto indicando il **comune in cui si trova il giardino** 
 ## Sede operativa
 
 **Il Giardiniere Potasiepe**
-Palmanova (UD) – Operativo nelle province di **Udine e Gorizia** (raggio di 30 km).
+
+Via Ialmicco, Palmanova, UD
+
+Operativo nelle province di **Udine e Gorizia** (raggio d'azione 30 km).

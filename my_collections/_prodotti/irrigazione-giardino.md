@@ -31,11 +31,13 @@ Un impianto di irrigazione ben progettato ti libera dall'impegno quotidiano di b
 * **Centraline intelligenti e sensori pioggia:** Programmatori facili da usare (anche gestibili da smartphone) collegati a sensori pioggia o umidità che bloccano automaticamente l'irrigazione quando non serve.
 
 <br>
+<div class="carousel">
 <picture>
   <source srcset="/img/prodotti/webp/scavo-irrigazione-giardino.webp" type="image/webp">
   <source srcset="/img/prodotti/scavo-irrigazione-giardino.jpg" type="image/jpeg">
   <img src="/img/prodotti/scavo-irrigazione-giardino.jpg" width="800" height="600" alt="scavi impianto d'irrigazione in giardino" title="scavi impianti irrigazione giardino"/>
 </picture>
+</div>
 <br>
 
 ## Il vantaggio Potasiepe: scavi puliti senza rovinare il giardino
@@ -50,7 +52,7 @@ Oltre a realizzare impianti nuovi, intervengo anche su impianti esistenti per **
 
 ---
 
-## Dove opero
+## Dove lavoro
 
 Realizzo e riparo impianti di irrigazione entro **30 km da Palmanova**, nelle province di [Udine](/impianti-irrigazione-giardino-udine/) e [Gorizia](/impianti-irrigazione-giardino-gorizia/).
 
@@ -63,12 +65,3 @@ Realizzo e riparo impianti di irrigazione entro **30 km da Palmanova**, nelle pr
   <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
-<br>
-
-## Richiedi un sopralluogo gratuito
-
-Vuoi installare un impianto di irrigazione o far controllare quello che hai già? Contattami per un **sopralluogo gratuito**: valuteremo insieme la portata d'acqua disponibile e la soluzione più adatta al tuo giardino.
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
-
-<br>

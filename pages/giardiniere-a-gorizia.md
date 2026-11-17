@@ -5,22 +5,25 @@ excerpt: "Manutenzione giardini, potatura siepi e alberi a Monfalcone, Grado, Gr
 image: /img/gorizia.jpg
 webp: /img/webp/gorizia.webp
 permalink: /giardiniere-a-gorizia/
-last_modified_at: 2026-11-16T8:42
 ---
 
 # Giardiniere a Gorizia e provincia
 
 **Cura del verde, potature e manutenzione giardini entro 30 km da Palmanova**
 
-Cerchi un giardiniere affidabile tra **Monfalcone, Grado, Gradisca d'Isonzo, Cormons e Gorizia**? Sono **Enrico**, titolare di **Potasiepe**, e mi occupo personalmente della cura degli spazi verdi per famiglie, condomini e aziende in tutta la provincia di Gorizia.
+Cerchi un giardiniere affidabile tra **Monfalcone, Grado, Gradisca d'Isonzo, Cormons e Gorizia**? Sono **Enrico**, titolare di **Potasiepe**, e mi occupo personalmente della cura degli spazi verdi per famiglie, strutture ricettive e aziende in tutta la provincia di Gorizia.
 
 Grazie alla posizione strategica della mia sede a **Palmanova**, raggiungo rapidamente tutto il territorio isontino e il mandamento di Monfalcone, offrendo interventi puntuali, prezzi trasparenti e massima pulizia a fine lavoro.
 
+<br>
+<div class="carousel">
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
   <img src="{{ page.image }}" width="800" height="456" alt="{{ page.title }}" title="{{ page.title }}"/>
 </picture>
+</div>
+<br>
 
 ## Cosa posso fare per il tuo spazio verde
 
@@ -35,22 +38,14 @@ Grazie alla posizione strategica della mia sede a **Palmanova**, raggiungo rapid
 ## Il metodo di lavoro Potasiepe
 
 * **Competenza certificata:** Formazione universitaria in ambito agrario e abilitazioni aggiornate per lavori in quota e trattamenti fitosanitari.
-* **Zero disturbo per il vicinato:** Uso macchine professionali **a batteria** silenziose e senza fumi, perfette per giardini residenziali e condomini.
+* **Zero disturbo per il vicinato:** Uso macchine professionali **a batteria** silenziose e senza fumi, perfette per giardini residenziali e centri abitati.
 * **Trasparenza totale:** Prima di iniziare ogni lavoro effettuo un sopralluogo gratuito per valutare insieme le soluzioni migliori e fornirti un preventivo chiaro, affiancato dal mio [listino prezzi online](/prezzi/).
 
 ---
 
 ## Comuni serviti in provincia di Gorizia
 
-Opero abitualmente entro **30 km da Palmanova**, coprendo tutti i principali centri della provincia di Gorizia:
+Lavoro abitualmente entro **30 km da Palmanova**, coprendo tutti i principali centri della provincia di Gorizia:
 
 * **Isontino e Collio:** Capriva del Friuli, Cormons, Farra d'Isonzo, Gorizia, Gradisca d'Isonzo, Mariano del Friuli, Medea, Moraro, Mossa, Romans d'Isonzo, Sagrado, San Lorenzo Isontino, Villesse.
 * **Mandamento di Monfalcone e Laguna:** Fogliano Redipuglia, Grado, Monfalcone, Ronchi dei Legionari, San Canzian d'Isonzo, San Pier d'Isonzo, Staranzano, Turriaco.
-
----
-
-## Prenota una visita nel tuo giardino
-
-Vuoi fissare un sopralluogo nella provincia di Gorizia per valutare potature o lavori di manutenzione?
-
-[Vai alla pagina Contatti](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**

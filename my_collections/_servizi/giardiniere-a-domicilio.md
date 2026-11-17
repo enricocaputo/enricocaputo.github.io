@@ -41,13 +41,3 @@ Intervengo personalmente nelle province di **Udine e Gorizia** per singoli inter
 * **Un unico interlocutore:** Parli e lavori sempre direttamente con me, **Enrico**, con la garanzia di competenza tecnica (laurea e aggiornamento continuo).
 * **Zero fastidi per te e per i vicini:** Nei contesti residenziali utilizzo attrezzature **a batteria silenziose** e **filo biodegradabile in fibra di mais**.
 * **Giardino sempre pulito:** A fine giornata porto via tutti gli sfalci e i residui vegetali, lasciando il cortile e i vialetti perfettamente spazzati.
-
----
-
-## Prenota un intervento o un sopralluogo
-
-Hai bisogno di una sistemata generale al giardino o vuoi organizzare una manutenzione periodica?
-
-[Contattami per un sopralluogo gratuito](/contatti/) | Chiama o scrivi su WhatsApp: **388 9005888**
-
-<br>

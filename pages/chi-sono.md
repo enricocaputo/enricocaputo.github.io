@@ -5,7 +5,6 @@ excerpt: "Sono Enrico, giardiniere laureato e certificato: curo giardini, siepi,
 image: /img/enrico.jpg
 webp: /img/webp/enrico.webp
 permalink: /chi-sono/
-last_modified_at: 2026-11-16T15:30
 ---
 
 # Chi sono
@@ -22,7 +21,8 @@ Mi chiamo Enrico e di lavoro **curo e valorizzo gli spazi verdi** nelle province
 
 So quanto sia importante potersi fidare di chi lavora a casa tua: per questo garantisco **puntualità, preventivi chiari e un giardino lasciato perfettamente pulito** a fine intervento.
 
-### Formazione, sicurezza e abilitazioni
+## Formazione, sicurezza e abilitazioni
+
 Credo che la serietà e l'organizzazione contino quanto la preparazione tecnica. Per questo motivo non mi fermo alla mia **laurea in ambito agrario**, ma dedico costantemente tempo allo studio della salute delle piante e all'aggiornamento professionale:
 
 * **Istruttore certificato nell'uso della motosega e abilitato ai lavori in quota:** Per te significa avere in giardino un professionista che applica i più alti standard di sicurezza e precisione di taglio, azzerando i rischi per te e per la tua proprietà.
@@ -51,14 +51,7 @@ Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino per 
 * **Consigli pratici:** Consulta gli articoli del [blog](/news/ "Consigli per un giardino e un orto in salute") e il [calendario di giardinaggio](/calendario-di-giardinaggio/ "Calendario dei lavori in orto e giardino").
 * **Trasparenza sui costi:** Dai un'occhiata ai riferimenti nella pagina [prezzi](/prezzi/ "Listino prezzi indicativo").
 
-<br>
-<div class="text-center">
-  <p class="h3">PREVENTIVO E SOPRALLUOGO GRATUITO</p>
-  <p>Opero entro 30 km da Palmanova (province di Udine e Gorizia).</p>
-  <a title="Chiama adesso per un preventivo gratuito e senza impegno" href="tel:+393889005888" class="button">☎ 388 9005888</a>
-  <p><br><a href="https://wa.me"><strong>Scrivimi su WhatsApp</strong></a> | <a href="/contatti/"><strong>Compila il modulo contatti</strong></a></p>
-</div>
-<br><br>
+---
 
 ## Le opinioni dei clienti
 <p class="h3">Il Giardiniere Potasiepe</p>

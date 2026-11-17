@@ -1,14 +1,16 @@
 ---
 name: Prato in Zolla
-subtitle: "Esperienza decennale nella posa del prato pronto. Risparmierete tempo e denaro!"
+subtitle: "Un prato subito verde, fitto e calpestabile in pochi giorni."
 title: Prato a Rotoli a Udine e Gorizia
-excerpt: "Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli."
+excerpt: "Vendita e posa prato a rotoli (prato in zolla pronto) a Udine e Gorizia entro 30 km da Palmanova. Scopri i prezzi al mq per posa completa chiavi in mano o sola fornitura."
 image: /img/prato/prato4x3.jpg
 image_path: /img/prato/posa-prato-pronto-400x300.jpg
 carousel: true
 order: 2
 ---
 # Prato a Rotoli a Udine e Gorizia
+
+**Vendita e posa di tappeto erboso in zolla pronto effetto (entro 30 km da Palmanova)**
 
 <br>
 
@@ -27,24 +29,23 @@ order: 2
   </picture>
 </div>
 
-<br><br>
+<br>
 
-Vendita Prato a Rotoli a Udine e Gorizia, azienda specializzata in posa prato in zolla, prato pronto, esperienza decennale nei migliori tipi di prato a rotoli.
+*Piacere, sono Enrico.* Con **Potasiepe** mi occupo della **fornitura e posa completa di prato a rotoli** nelle province di **Udine e Gorizia**, selezionando zolle mature e resistenti per trasformare il tuo giardino in un tappeto verde uniforme in una sola giornata.
 
 ## Costo prato a rotoli
 
-Di seguito i **prezzi del prato a rotoli** riferiti a un lavoro di **posa completa** di: &#10004; Dissodamento terreno &#10004; Smaltimento del materiale di risulta &#10004; Livellamento del piano &#10004; Rullatura &#10004; Concimazione &#10004; Fornitura prato a rotoli &#10004; Posa.
+Di seguito i **prezzi indicativi del prato a rotoli** riferiti a un lavoro di **posa completa chiavi in mano**, comprensivo di:
+✔ Dissodamento del terreno ✔ Smaltimento del materiale di risulta ✔ Livellamento del piano ✔ Rullatura ✔ Concimazione starter ✔ Fornitura prato a rotoli ✔ Posa.
 
-| Dimensione giardino mq   | Costo prato a rotoli |
-| -----------------------  | -------------------- |
-| fino a 100 m²            | € 25,00              |
-| 100 - 500 m²             | € 21,00              |
-| a partire da 501 m²      | prezzo da concordare |
+| Dimensione giardino mq | Costo posa completa al mq |
+| :--- | :--- |
+| **Fino a 100 m²** | € 25,00 / m² |
+| **Da 100 a 500 m²** | € 21,00 / m² |
+| **Oltre 500 m²** | Prezzo da concordare |
 
-Sola fornitura (trasporto e posa esclusi): **prezzo prato a rotoli** è di **€ 11,00** al mq.
-Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 15 mq.
-
-
+* **Sola fornitura (trasporto e posa esclusi):** **€ 11,00 al m²** (ordine minimo 15 m²).
+* **Dimensioni singolo rotolo:** 112 cm × 45 cm × 3 cm (circa 0,5 m² a rotolo).
 
 <script type="application/ld+json">
     {
@@ -56,7 +57,7 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 15 mq.
         "https://www.potasiepe.it/img/prato/prato4x3.jpg",
         "https://www.potasiepe.it/img/prato/prato16x9.jpg"
        ],
-      "description": "Prato a rotoli, vendita di vero tappeto erboso in zolla, prato pronto effetto, esperienza decennale nei migliori tipi di prato in rotolo.",
+      "description": "Vendita e posa di prato a rotoli (tappeto erboso in zolla pronto effetto) nelle province di Udine e Gorizia entro 30 km da Palmanova.",
       "sku": "prato_mix_festuche",
       "mpn": "prato_1",
       "brand": {
@@ -86,8 +87,8 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 15 mq.
         "@type": "Offer",
         "url": "https://www.potasiepe.it/prodotti/prato-a-rotoli/",
         "priceCurrency": "EUR",
-        "price": "5",
-        "priceValidUntil": "2021-12-31",
+        "price": "11.00",
+        "priceValidUntil": "2027-12-31",
         "itemCondition": "https://schema.org/NewCondition",
         "availability": "https://schema.org/InStock",
         "seller": {
@@ -96,32 +97,29 @@ Dimensioni rotolo (L x W x H): 112cm x 45cm x 3cm. Acquisto minimo 15 mq.
         }
       }
     }
-    </script>
+</script>
 
-## Vantaggi prato a rotoli
+## I vantaggi del prato a rotoli
 
-Il prato a rotoli è uno dei migliori [tipi di prato](/news/i-migliori-semi-per-il-prato/ "tipi di prato"). I vantaggi del tappeto erboso in zolla rispetto a un semina sono davvero tanti. In primo luogo, il prato sarà immediatamente calpestabile. In secondo luogo è esente da erbacce. In terzo luogo è un prato adulto e stabile con radici ben sviluppate che è stato curato, nutrito e rasato a giorni alterni durante gli ultimi otto / dodici mesi. Infine, si può realizzare tutto l'anno, **il costo non è molto più elevato di quello di un prato seminato**, il risultato è garantito e l'effetto di un bel prato verde è immediato.
+Il prato a rotoli è uno dei migliori [tipi di prato](/news/i-migliori-semi-per-il-prato/ "tipi di prato") per chi desidera un risultato immediato e sicuro. I vantaggi del tappeto erboso in zolla rispetto a una semina tradizionale sono molti:
 
+* **Immediatamente calpestabile:** Appena terminata la posa hai subito un giardino fruibile e ordinato, senza dover attendere mesi evitando di camminarci sopra.
+* **Privo di erbacce:** Si tratta di un prato adulto e folto, coltivato in vivaio per 8–12 mesi con tagli e concimazioni regolari, che soffoca sul nascere le infestanti.
+* **Posabile quasi tutto l'anno:** A differenza della semina, legata strettamente alla primavera e all'autunno, le zolle possono essere posate in gran parte dell'anno (esclusi i periodi di gelo intenso).
 
-## Cura, concimazione e irrigazione del prato in rotoli
+## Cura, concimazione e irrigazione dopo la posa
 
-Appena installato e per le prime due settimane il prato a rotoli va annaffiato molto abbondantemente per due volte al giorno.
+Per far radicare velocemente le zolle nel nuovo terreno ti consiglio di seguire questi semplici passaggi:
 
-Dopo due o tre settimane si procede con il primo taglio.
-
-A distanza di un mese il prato va concimato e si può iniziare ad irrigare una volta al giorno solamente.
+1. **Prime due settimane:** Annaffia abbondantemente **due volte al giorno** per mantenere sempre umido lo strato radicale.
+2. **Dopo 2–3 settimane:** Esegui il **primo taglio** regolando il tagliaerba su un'altezza medio-alta.
+3. **Dopo un mese:** Distribuisci una concimazione di mantenimento e riduci l'[irrigazione](/prodotti/irrigazione-giardino/) a **una volta al giorno** (o secondo la stagione).
 
 <br>
-
-<div class="text-center">
-  <h2>Vuoi acquistare il tuo prato a rotoli?</h2>
-  <a title="Prenota adesso il tuo prato a  rotoli" href="/contatti/" class="button">PRENOTA ORA</a>
-</div>
-
-<br><br>
-
+<div class="carousel">
 <picture>
   <source srcset="/img/prato/webp/cura-prato-a-rotoli.webp" type="image/webp">
   <source srcset="/img/prato/cura-prato-a-rotoli.jpg" type="image/jpeg">
   <img src="/img/prato/cura-prato-a-rotoli.jpg" width="800" height="450" alt="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle" title="POTASIEPE è vendita di prato a rotoli, cure e manutenzioni del tappeto erboso in zolle">
 </picture>
+</div>

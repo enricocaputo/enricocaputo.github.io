@@ -5,7 +5,7 @@ excerpt: "Cerco un aiutante giardiniere nella zona di Palmanova (UD). Richiesta 
 image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
-last_modified_at: 2026-11-17T14:50:00+01:00
+no_cta: true
 ---
 # Lavora con me
 
@@ -33,7 +33,7 @@ Il giardinaggio è un mestiere bellissimo ma richiede impegno fisico, attenzione
 * **Passione ed esperienza (o studi agrari):** È preferibile un **diploma in agraria** o una minima esperienza pratica nella cura del verde e nell'uso delle macchine da giardino. Se però hai tanta voglia di imparare e passione per questo mestiere, ti insegnerò io sul campo.
 * **Puntualità e cura dei dettagli:** Rispetto per gli orari, per le attrezzature e pulizia impeccabile a fine lavoro.
 
-*Nota: valutiamo esclusivamente candidati già residenti e domiciliati in Friuli Venezia Giulia.*
+*Nota: valuto esclusivamente candidati già residenti e domiciliati in Friuli Venezia Giulia.*
 
 ## Posizioni aperte
 
@@ -66,10 +66,10 @@ In alternativa, per una prima chiacchierata conoscitiva veloce, puoi scrivermi a
      "validThrough" : "2027-06-30",
      "employmentType" : ["FULL_TIME", "PART_TIME"],
      "hiringOrganization" : {
-       "@type" : "Organization",
-       "name" : "Potasiepe",
-       "sameAs" : "https://www.potasiepe.it",
-       "logo" : "https://www.potasiepe.it/img/potasiepe1x1.jpg"
+       "@type": "Organization",
+       "name": "Potasiepe",
+       "sameAs": "https://www.potasiepe.it",
+       "logo": "https://www.potasiepe.it/img/potasiepe1x1.jpg"
      },
      "jobLocation": {
        "@type": "Place",

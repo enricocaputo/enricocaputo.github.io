@@ -9,7 +9,6 @@ image_path: /img/servizi/taglio-erba-altissima-400x300.jpg
 order: 5
 ---
 
-
 # Sfalcio erba altissima e pulizia terreni incolti
 
 **Bonifica rapida di terreni abbandonati, parchi, frutteti e aree artigianali (entro 30 km da Palmanova)**
@@ -21,7 +20,7 @@ Quando un terreno o un giardino resta fermo per mesi, erba alta, rovi e sterpagl
 <picture>
   <source srcset="{{ page.webp }}" type="image/webp">
   <source srcset="{{ page.image }}" type="image/jpeg">
-  <img src="{{ page.image }}" width="800" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
+  <img src="{{ page.image }}" width="800" height="600" alt="{{ page.name }}" title="{{ page.name }}"/>
 </picture>
 </div>
 <br>
@@ -46,13 +45,3 @@ In base alle tue esigenze e alla destinazione del terreno, puoi scegliere tra:
 
 * **Trinciatura sul posto (mulching rustico):** L'erba sminuzzata resta al suolo, decomponendosi rapidamente e restituendo sostanza organica al terreno senza costi di trasporto.
 * **Raccolta e smaltimento completo:** Se si tratta di un giardino residenziale da rimettere a nuovo, raccolgo e porto via tutto il materiale tagliato lasciando l'area completamente libera.
-
----
-
-## Richiedi un preventivo rapido (anche via WhatsApp)
-
-Hai un terreno o un giardino da ripulire **entro 30 km da Palmanova**? Inviami **2 o 3 foto su WhatsApp** indicando la superficie approssimativa: ti risponderò subito con una prima stima o fisseremo un sopralluogo gratuito.
-
-[Richiedi un preventivo gratuito](/contatti/) | Chiama: [**388 9005888**](tel:+393889005888) | [**Scrivimi su WhatsApp**](https://wa.me/393889005888)
-
-<br>
