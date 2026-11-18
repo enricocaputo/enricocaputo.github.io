@@ -9,140 +9,133 @@ last_modified_at: 2026-11-18T07:06:00+01:00
 ---
 <div id="logo"></div>
 <h1>Il Giardiniere Potasiepe</h1>
-<p class="text-center"><strong>Opero in un raggio di 30 km da Palmanova, UD </strong></p>
+<p class="text-center"><strong>Opero in un raggio di 30 km da Palmanova, UD</strong></p>
 <br>
-<div class="carousel" >
+<div class="carousel">
   <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide1.jpg">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide1.jpg" width="800" height="533"  alt="Potatura in altezza di piante da siepe" >
+    <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide1.jpg">
+    <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide1.jpg" width="800" height="533" alt="Potatura in altezza di piante da siepe">
   </picture>
   <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide2.jpg">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide2.jpg" width="800" height="533" alt="Piante per siepi in fioriera">
+    <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide2.jpg">
+    <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide2.jpg" width="800" height="533" alt="Piante per siepi in fioriera">
   </picture>
   <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide3.jpg">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide3.jpg" width="800" height="533" alt="Siepe sempreverde di ligustro">
+    <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide3.jpg">
+    <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide3.jpg" width="800" height="533" alt="Siepe sempreverde di ligustro">
   </picture>
   <picture>
-  <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide4.jpg">
-  <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide4.jpg" width="800" height="533" alt="Fotinia: piante da siepe a crescita veloce">
+    <source media="(max-width:460px)" srcset="{{ site.baseurl }}/img/slides/400x300/slide4.jpg">
+    <img class="mySlides" src="{{ site.baseurl }}/img/slides/slide4.jpg" width="800" height="533" alt="Fotinia: piante da siepe a crescita veloce">
   </picture>
 </div>
 
-  <div class="page-content">
-<br>
+<div class="page-content">
+  <br>
   <h2>Il tuo giardino in mani esperte</h2>
-    <i><span class="name">Piacere, sono Enrico</span></i>
-    <p>Di lavoro <strong>curo e valorizzo gli spazi verdi</strong> di privati e aziende nelle province di
-      <strong>Udine e Gorizia</strong>. Che tu abbia bisogno di potare una siepe alta, mettere in sicurezza un albero o
-      rinnovare il prato, intervengo personalmente con <strong>competenza tecnica</strong>, <strong>puntualità</strong> e
-      <strong>attrezzature moderne</strong>.</p>
+  <i><span class="name">Piacere, sono Enrico</span></i>
+  <p>Di lavoro <strong>curo e valorizzo gli spazi verdi</strong> di privati e aziende nelle province di
+    <strong>Udine e Gorizia</strong>. Che tu abbia bisogno di potare una siepe alta, mettere in sicurezza un albero o
+    rinnovare il prato, intervengo personalmente con <strong>competenza tecnica</strong>, <strong>puntualità</strong> e
+    <strong>attrezzature moderne</strong>.</p>
 
-      <p>Perché i clienti della zona si affidano a me:</p>
-      <ul>
-        <li><strong>Formazione e abilitazioni:</strong> Laureato e costantemente aggiornato sulla salute delle piante, opero in regola per lavori in quota, piattaforme aeree e trattamenti fitosanitari.</li>
-        <li><strong>Rispetto per te e per i vicini:</strong> Nei centri abitati utilizzo attrezzature professionali <strong>a batteria, silenziose e senza fumi</strong>, e taglio con filo biodegradabile.</li>
-        <li><strong>Pulizia impeccabile:</strong> A fine lavoro raccolgo e smaltisco ogni residuo vegetale, lasciando il tuo giardino più pulito di come l'ho trovato.</li>
-      </ul>
+  <p>Perché i clienti della zona si affidano a me:</p>
+  <ul>
+    <li><strong>Formazione e abilitazioni:</strong> Laureato e costantemente aggiornato sulla salute delle piante, opero in regola per lavori in quota, piattaforme aeree e trattamenti fitosanitari.</li>
+    <li><strong>Rispetto per te e per i vicini:</strong> Nei centri abitati utilizzo attrezzature professionali <strong>a batteria, silenziose e senza fumi</strong>, e taglio con filo biodegradabile.</li>
+    <li><strong>Pulizia impeccabile:</strong> A fine lavoro raccolgo e smaltisco ogni residuo vegetale, lasciando il tuo giardino più pulito di come l'ho trovato.</li>
+  </ul>
 
-      <p>
-        <a href="/contatti/" aria-label="Contatti">Chiedi un sopralluogo gratuito</a> |
-        <a href="/prezzi/" aria-label="Prezzi">Guarda i prezzi indicativi</a>
-      </p>
+  <p>
+    <a href="/contatti/" aria-label="Contatti">Chiedi un sopralluogo gratuito</a> |
+    <a href="/prezzi/" aria-label="Prezzi">Guarda i prezzi indicativi</a>
+  </p>
 
-      <hr>
+  <hr>
 
-    <h2>I miei servizi di giardinaggio</h2>
+  <h2>I miei servizi di giardinaggio</h2>
 
-<div class="list-collection">
-<ul>
-  {% assign servizi = site.servizi | sort: 'order' %}
-  {% for servizi in servizi %}
-		<li>
-      <article>
-      <img src="{% include relative-src.html src=servizi.image_path %}" alt="{{ servizi.name  }}" width="400" height="300">
-      <div>
-      <h2 class="h3">{{ servizi.name }}</h2>
-      <p>{{ servizi.subtitle }}</p>
-			<a href="{{ site.baseurl }}{{ servizi.url }}" title="{{ servizi.name }}"><strong>SCOPRI IL SERVIZIO</strong></a>
-      </div>
-      </article>
-    </li>
-	{% endfor %}
-</ul>
-</div>
+  <div class="list-collection">
+    <ul>
+      {% assign servizi = site.servizi | sort: 'order' %}
+      {% for servizio in servizi %}
+        <li>
+          <article>
+            <img src="{% include relative-src.html src=servizio.image_path %}" alt="{{ servizio.name }}" width="400" height="300">
+            <div>
+              <h2 class="h3">{{ servizio.name }}</h2>
+              <p>{{ servizio.subtitle }}</p>
+              <a href="{{ site.baseurl }}{{ servizio.url }}" title="{{ servizio.name }}"><strong>SCOPRI IL SERVIZIO</strong></a>
+            </div>
+          </article>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 
-<div class="hero">
-  <picture>
-    <source srcset="img/webp/vivaio-potasiepe-alberi-piante.webp" type="image/webp">
-    <source srcset="img/vivaio-potasiepe-alberi-piante.jpg" type="image/jpeg">
-    <img src="img/vivaio-potasiepe-alberi-piante.jpg" width="800" height="450" alt="Vivaio Alberi Piante Fiori">
-  </picture>
+  <div class="hero">
+    <picture>
+      <source srcset="img/webp/vivaio-potasiepe-alberi-piante.webp" type="image/webp">
+      <source srcset="img/vivaio-potasiepe-alberi-piante.jpg" type="image/jpeg">
+      <img src="img/vivaio-potasiepe-alberi-piante.jpg" width="800" height="450" alt="Vivaio Alberi Piante Fiori">
+    </picture>
     <div class="centered">
-      <h2 class="h3">Vendita aceri, ulivi, e piante da siepe</h2>
+      <h2 class="h3">Vendita aceri, ulivi e piante da siepe</h2>
       <br>
       <p>
-      <a href="/vivaio/" aria-label="vendita piante da siepe e olivi secolari"><strong>VIVAIO</strong></a>
+        <a href="/vivaio/" aria-label="vendita piante da siepe e olivi secolari"><strong>VIVAIO</strong></a>
       </p>
     </div>
-</div>
+  </div>
 
-<br>
+  <br>
 
-<h2>Giardiniere a Udine e Gorizia</h2>
+  <h2>Giardiniere a Udine e Gorizia</h2>
 
-<p>Lavoro entro <strong>30 km da Palmanova</strong>, raggiungendo regolarmente i principali comuni delle province di Udine e Gorizia:</p>
+  <p>Lavoro entro <strong>30 km da Palmanova</strong>, raggiungendo regolarmente i principali comuni delle province di Udine e Gorizia:</p>
 
-<ul>
-  <li><strong>Provincia di Udine:</strong> Udine, Codroipo, Tavagnacco, Cervignano del Friuli, Cividale del Friuli,
-    Pasian di Prato, Campoformido, San Giorgio di Nogaro, Pozzuolo del Friuli, Manzano, San Giovanni al Natisone, Pavia di Udine,
-    Palmanova, Gonars.</li>
-  <li><strong>Provincia di Gorizia:</strong> Monfalcone, Ronchi dei Legionari, Grado, Staranzano, Cormons, Gradisca d'Isonzo,
-    San Canzian d'Isonzo, Romans d'Isonzo.</li>
-</ul>
-
-<p>Scopri tutti i comuni serviti nelle province di <a href="/giardinaggio-udine/"> Udine</a> e <a href="/giardiniere-a-gorizia/"> Gorizia</a></p>
-
-<h2>Le opinioni dei clienti</h2>
-<p class="h3">Il Giardiniere Potasiepe</p>
-Via Ialmicco, Palmanova UD
-
-<span class="rtng">4,7</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"/> 29 recensioni Google
-
-<hr/>
-
-<img src="/img/user.jpg" class="img-inline" alt="avatar cliente 1" title="avatar cliente"/> **Irma Simona Guarracino**
-- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
-- "Precisissimo, puntuale, veloce, competente! Il lavoro di potatura è stato eseguito benissimo, Enrico ha lasciato il giardino in ordine e ci ha dato tantissimi consigli su come sistemarlo al meglio! Consigliatissimo. Noi sicuramente ci rivolgeremo ancora a lui! Grazie Enrico!"
-<br>
-<img src="/img/user1.jpg" class="img-inline" alt="avatar cliente 2" title="avatar cliente"/> **Xenia Mosetti**
-- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
-- "Dopo una serie di brutte esperienze, finalmente ho trovato un serio professionista.Ho visitato il suo sito, dove è ben chiaro anche un listino prezzi!!! ho chiamato e sono state ricontattata subito!E’ organizzato e puntuale, ma soprattutto molto preparato, su potature, trattamenti, prodotti.....davvero molto bravo!!!!!"
-<br>
-<img src="/img/user2.jpg" class="img-inline" alt="avatar cliente 3" title="avatar cliente"/> **Marco Butelli**
-- <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"/>
-- "Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!"
-
-<br>
-
-<a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="recensioni Google" target="_blank" rel="noopener"> Visualizza le altre recensioni </a>
-<br>
-
-<div>
-  <h2>Il mio <a href="/news/" title="blog di giardinaggio, orto e giardino">blog</a>:</h2>
-
-
-  <ul class="post-list">
-    {% for post in site.posts limit: 5 %}
-      <li>
-        <h3>
-          &#9752; <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> <br>.. LEGGI </a>
-        </h3>
-      </li>
-    {% endfor %}
+  <ul>
+    <li><strong>Provincia di Udine:</strong> Udine, Codroipo, Tavagnacco, Cervignano del Friuli, Cividale del Friuli,
+      Pasian di Prato, Campoformido, San Giorgio di Nogaro, Pozzuolo del Friuli, Manzano, San Giovanni al Natisone, Pavia di Udine,
+      Palmanova, Gonars.</li>
+    <li><strong>Provincia di Gorizia:</strong> Monfalcone, Ronchi dei Legionari, Grado, Staranzano, Cormons, Gradisca d'Isonzo,
+      San Canzian d'Isonzo, Romans d'Isonzo.</li>
   </ul>
-</div>
+
+  <p>Scopri tutti i comuni serviti nelle province di <a href="/giardinaggio-udine/">Udine</a> e <a href="/giardiniere-a-gorizia/">Gorizia</a>.</p>
+
+  <h2>Le opinioni dei clienti</h2>
+  <p class="h3">Il Giardiniere Potasiepe</p>
+  <p>Via Ialmicco, Palmanova UD</p>
+
+  <p><span class="rtng">4,6</span> <img src="/img/5-stars.png" class="img-inline" alt="5 stelle recensioni clienti" title="5 stelle recensioni Google"> 35 recensioni Google</p>
+
+  <hr>
+
+  <p><img src="/img/user.jpg" class="img-inline" alt="avatar cliente 1" title="avatar cliente"> <strong>Irma Simona Guarracino</strong> <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"></p>
+  <p>"Precisissimo, puntuale, veloce, competente! Il lavoro di potatura è stato eseguito benissimo, Enrico ha lasciato il giardino in ordine e ci ha dato tantissimi consigli su come sistemarlo al meglio! Consigliatissimo. Noi sicuramente ci rivolgeremo ancora a lui! Grazie Enrico!"</p>
+
+  <p><img src="/img/user1.jpg" class="img-inline" alt="avatar cliente 2" title="avatar cliente"> <strong>Xenia Mosetti</strong> <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"></p>
+  <p>"Dopo una serie di brutte esperienze, finalmente ho trovato un serio professionista.Ho visitato il suo sito, dove è ben chiaro anche un listino prezzi!!! ho chiamato e sono state ricontattata subito!E’ organizzato e puntuale, ma soprattutto molto preparato, su potature, trattamenti, prodotti.....davvero molto bravo!!!!!"</p>
+
+  <p><img src="/img/user2.jpg" class="img-inline" alt="avatar cliente 3" title="avatar cliente"> <strong>Marco Butelli</strong> <img src="/img/5-stars.png" class="img-inline" alt="recensione a 5 stelle" title="recensione a 5 stelle"></p>
+  <p>"Persona seria, affidabile e molto scrupolosa nel lavoro. Prezzi più che onesti per il servizio professionale che offre. Lo consiglio vivamente a tutti, basta chiamare e arriva. Top!"</p>
+
+  <p><a href="https://www.google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595" aria-label="recensioni Google" target="_blank" rel="noopener">Visualizza le altre recensioni</a></p>
+
+  <div>
+    <h2>Il mio <a href="/news/" title="blog di giardinaggio, orto e giardino">blog</a>:</h2>
+    <ul class="post-list">
+      {% assign post_scelti = site.posts | where_exp: "post", "post.ordine_home != nil" | sort: "ordine_home" %}
+      {% for post in post_scelti limit: 3 %}
+        <li>
+          <h3>
+            ☘ <mark>{{ post.title }}</mark> <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><br>.. LEGGI</a>
+          </h3>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% comment %}
 <br><hr><br>

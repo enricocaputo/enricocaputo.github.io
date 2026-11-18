@@ -57,7 +57,7 @@ Quando mi chiamerai per il sopralluogo cammineremo insieme nel tuo giardino per 
 <p class="h3">Il Giardiniere Potasiepe</p>
 Via Ialmicco, Palmanova UD
 
-<span class="rtng">4,7</span> <img src="/img/5-stars.png" class="img-inline" alt="Valutazione 4,7 su 5 stelle" title="5 stelle recensioni Google"/> 29 recensioni Google
+<span class="rtng">4,6</span> <img src="/img/5-stars.png" class="img-inline" alt="Valutazione 4,6 su 5 stelle" title="5 stelle recensioni Google"/> 35 recensioni Google
 
 <hr/>
 

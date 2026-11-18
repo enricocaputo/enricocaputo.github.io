@@ -3,6 +3,8 @@ title: "Piante da siepe: quale scegliere per il tuo giardino"
 excerpt: "Guida completa alla scelta della siepe perfetta: consigli pratici sulle migliori piante sempreverdi, profumate, fiorite e antintrusione per i giardini del Friuli."
 image: /img/posts/siepi/quale-siepe-scegliere.jpg
 image_featured: true
+in_evidenza: true
+ordine_home: 3
 last_modified_at: 2026-11-18T09:00:00+01:00
 ---
 

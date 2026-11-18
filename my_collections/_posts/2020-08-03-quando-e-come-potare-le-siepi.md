@@ -3,7 +3,9 @@ title: "Quando e come potare le siepi: la guida completa del giardiniere"
 excerpt: "Scopri i periodi migliori e le tecniche professionali per potare siepi sempreverdi, fiorite, conifere e caducifoglie senza rovinare le piante né svuotarle alla base."
 image: /img/blog/siepe/potatura.jpg
 image_featured: true
-last_modified_at: 2026-11-18T09:30:00+01:00
+in_evidenza: true
+ordine_home: 1
+last_modified_at: 2026-11-18T14:30:00+01:00
 ---
 
 Potare una siepe può sembrare un lavoro semplice, quasi meccanico: si accende il tagliasiepi e si va dritti lungo il filo. In realtà, dietro una siepe folta, verde fino a terra e sana per decenni ci sono **conoscenze botaniche precise, tempistiche giuste e piccoli accorgimenti tecnici** che fanno tutta la differenza.

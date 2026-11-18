@@ -1,78 +1,10 @@
 ---
-title: "Come progettare un giardino"
-excerpt: "Come progettare un giardino: dividere gli spazi, scegliere e coltivare alberi e piante, creare un arredo verde per ottenere il massimo effetto decorativo."
-image: /img/posts/giardini/progettazione-giardini-contemporanei.jpg
-image_featured: true
-last_modified_at: 2022-02-14T8:00
----
-## Stili di giardini
-Esistono molti stili di giardini ma per [ottenere il massimo](/servizi/progettazione-giardini/ "progettazione giardini - garden designer") dai vostri spazi verdi dovete scegliere
-quello che meglio si adatta al vostro stile di vita e alla vostra casa.
-
-### Stile giardino formale
-![Giardino formale all'italiana](/img/posts/siepi/quale-siepe-scegliere.jpg "Giardino formale all'italiana")
-
-Lo stile formale, tipico dei **giardini all'italiana**, presenta simmetrie e geometrie ben equilibrate. La vegetazione è disciplinata lungo le linee rigorose di muri, viali e terrazze. Tradizionalmente vengono impiegate poche piante diverse, usate però in abbondanza per ottenere uniformità nella tessitura e nei colori.
-
-### Stile giardino informale
-![Cottage garden](/img/posts/giardini/cottage-garden.jpg "Cottage garden")
-
-I giardini informali danno l'impressione di essere stati creati spontaneamente dalla natura. Le linee irregolari e morbide conferiscono a questi giardini un aria vagamente "spettinata". In realtà, la loro bellezza dipende da un progetto ben studiato e dalla capacità del giardiniere di mantenere l'ordine nella composizione. I **cottage garden** delle campagne inglesi ne sono un classico esempio.
-
-### Giardini mediterranei
-![Giardino mediterraneo](/img/posts/giardini/giardino-mediterraneo.jpg "Giardino mediterraneo")
-
-I giardini mediterranei possono essere creati sia in stile formale che informale.
-
-In quelli formali saranno presenti acqua e pietre ma anche siepi potate ed esemplari unici di alberi, ad esempio cipressi e ulivi. In alcuni giardini della Spagna, come l'Alhambra a Granada, la forte influenza moresca si riflette in cortili formali ed elementi acquatici.
-
-Lo stile più accessibile per un giardino mediterraneo ha però una struttura informale e un'atmosfera rilassata. Il principale materiale duro è la ghiaia, usata per collegare fra loro aiuole e vialetti. Spesso le piante hanno foglie argentate, verde salvia e sfumate di azzurro, che riflettono il forte sole estivo. Piante comuni sono gli olivi, gli agrumi, i fichi, la vite, le santoline e le artemisie, ma anche piante aromatiche come timo, salvia, lavanda e rosmarino.
-
-### Giardini rocciosi
-![Giardino roccioso](/img/posts/giardini/giardino-roccioso.jpg "Giardino roccioso")
-
-Gli appassionati di giardinaggio che desiderano coltivare un'ampia varietà di piante in uno spazio limitato o che vivono in una zona poco piovosa, potrebbero voler creare un giardino particolare con rocce e pietre.
-
-Molti di questi giardini imitano la natura d'alta montagna o il terreno cotto dal sole del deserto. Che si tratti di un classico giardino roccioso, di un'aiuola di ghiaia o di un'area pavimentata costellata di piante striscianti aromatiche e succulente, le soddisfazioni per gli appassionati sono assicurate.
-
-### Giardini giapponesi
-![Giardino giapponese](/img/posts/giardini/giardino-giapponese.jpg "Giardino giapponese")
-
-Il giardino in <a href="https://it.wikipedia.org/wiki/Giardino_giapponese" aria-label="approfondisci l'argomento giardino giapponese su Wikipedia" target="_blank" rel="nofollow noopener">stile giapponese</a> è progettato per creare spazi tranquilli, contemplativi, che rispecchiano il paesaggio naturale con un numero limitato di piante. Il segreto per realizzare uno schema del genere è valutare il rapporto reciproco fra gli elementi principali - massi, ghiaia e piante - e la loro connessione simbolica e spirituale con il mondo naturale.
-
-Le composizioni sempreverdi sono spruzzate di colori stagionali: ciliegi in fiore e camelie in primavera, eleganti iris estivi e chiome di aceri fiammeggianti in autunno.
-
-### Giardini contemporanei
-![Giardino contemporaneo](/img/posts/giardini/giardino-contemporaneo.png "Giardino contemporaneo")
-
-I giardini moderni e urbani possono assumere diversi ruoli: uno spazio dove far crescere le piante, rilassarsi, giocare e divertirsi. Sono spazi funzionali in cui prevalgono le superfici solide e l'arredamento, gli effetti luce e gli elementi acquatici.
-
-La configurazione di un giardino urbano si basa di solito su linee semplici, spesso a pianta asimmetrica, con materiali naturali che si combinano con quelli artificiali, come cemento, vetro, plastica, plexiglas e acciaio che forniscono interesse strutturale.
-
-L'arredamento consiste in panche integrali, coordinate elegantemente a tavoli, sedie e sdraio, mentre le sculture, talora abbinate all'acqua, costituiscono punti focali. Sono comuni zampilli e cascate ma anche specchi d'acqua ferma.
-
-Negli schemi contemporanei sono comuni graminacee, bambù e piante a foglia larga. Come punti focali si possono usare contenitori d'effetto che ospitano il bosso topiario, l'alloro e l'agrifoglio giapponese. Alberi a spalliera piantati lungo i confini riparano alla vista i piani superiori.
-
-### Giardini acquatici
-![Giardino acquatico](/img/posts/giardini/giardino-acquatico.jpg "Giardino acquatico")
-
-Potreste voler popolare di piante una minuscola vasca in un patio oppure un laghetto artificiale. Le piante acquatiche sono quelle piante che crescono con le radici nell'acqua, sommerse o galleggianti.
-
-L'ideale sarebbe creare profondità differenti e inserire le piante in cestini riempiti con terriccio per acquatiche. Va introdotta una varietà equilibrata di piante acquatiche e palustri per regolare la quantità di luce, ossigeno e nutrienti, mantenendo così l'acqua pulita.
-
-Le piante sommerse come il *ceratofillo* sono chiamate "ossigenatori". Essi purificano l'acqua consumendo i nutrienti e schermando la luce, che provoca la crescita delle alghe. Anche le piante galleggianti in superficie, come il giacinto d'acqua, riducono la concentrazione di nutrienti assorbendoli con le radici sottili. Oltre a essere belle da vedere, le piante da acque profonde, come *Nuphar* e ninfee, con le radici sul fondo dello stagno e fiori e foglie in superficie, forniscono riparo agli animali che vivono nello stagno e limitano la crescita delle alghe.
-
-## Valutare la posizione e il terreno
-Prima di iniziare a progettare e mettere a dimora le piante, è importante analizzare il terreno e valutare quanto sole e ombra riceve il giardino.
-
-### Capire l'esposizione
-Usate una bussola per calcolare il punto cardinale verso cui sono rivolti gli spazi e le bordure: quelli a sud avranno il sole per la maggior parte della giornata, quelli a nord, invece, saranno in ombra; le zone rivolte a est hanno il sole la mattina e ombra la sera, quelli a ovest il contrario.
-
----
 title: "Come progettare un giardino: idee, stili e consigli pratici"
 excerpt: "Sogni un giardino bello da vivere tutto l'anno? Scopri come scegliere lo stile giusto, valutare sole e terreno e trasformare le tue idee (anche da app o IA) in un progetto reale."
 image: /img/posts/giardini/progettazione-giardini-contemporanei.jpg
 image_featured: true
+in_evidenza: true
+ordine_home: 2
 last_modified_at: 2026-11-18T08:30:00+01:00
 ---
 
@@ -92,8 +24,8 @@ Non serve essere architetti paesaggisti per iniziare a sognare il proprio giardi
 
 Se vuoi vedere con i tuoi occhi come prendono forma queste idee sul campo, guarda questo breve video su come nasce un giardino:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1.5rem 0;">
-  <iframe src="https://youtube.com" title="Come nasce un giardino - Potasiepe" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video YouTube carousel" data-videoid="AuOMG8RhZsA">
+  <a href="https://www.youtube.com/watch?v=AuOMG8RhZsA" target="_blank" rel="noopener"><img src="/img/servizi/miniatura-come-nasce-un-giardino-YouTube.jpg" width="900" height="506" alt="Come nasce un giardino"></a>
 </div>
 
 ---
@@ -166,3 +98,19 @@ Il colore dei fiori e delle foglie non serve solo a decorare, ma guida l'occhio 
 Che tu abbia già una bozza disegnata da te o solo tanta voglia di rinnovare lo spazio intorno a casa, posso aiutarti a progettare e realizzare un giardino su misura, completo di impianto di irrigazione, pacciamatura anti-erbacce e prato pronto da vivere.
 
 Scopri come lavoro nella pagina dedicata al servizio di [progettazione e realizzazione giardini a Udine e Gorizia](/servizi/progettazione-giardini/) oppure [contattami per un sopralluogo gratuito](/contatti/): cammineremo insieme nel tuo giardino per trovare la soluzione più bella e pratica per te.
+
+<script>
+var videos = document.querySelectorAll('.video');
+
+for (var i = 0; i < videos.length; i++) {
+    videos[i].addEventListener('click', function(event) {
+        var iframe = document.createElement('iframe');
+        iframe.setAttribute('allowfullscreen', '');
+        iframe.setAttribute('allow', 'autoplay; fullscreen');
+        iframe.setAttribute('src', 'https://www.youtube.com/embed/'+ this.dataset.videoid +'?autoplay=1');
+        this.innerHTML = '';
+        this.appendChild(iframe);
+        event.preventDefault();
+    });
+};
+</script>
