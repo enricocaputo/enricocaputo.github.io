@@ -4,7 +4,7 @@ title: "Brand"
 excerpt: "Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe, e il logo del giardiniere aitante che impugna il tosasiepi: simboli di eccezionale perizia"
 image: /img/potasiepe-logo-557x500.png
 permalink: /brand/
-last_modified_at: 2022-02-27T8:39
+last_modified_at: 2026-11-18T07:19:22+01:00
 ---
 # Linee guida per l'utilizzo del brand Potasiepe
 
@@ -56,14 +56,16 @@ Le proporzioni sono 1:1, la dimensione minima per la stampa è 4 cm.
 
 ## I siti web di Potasiepe
 
-<a href="http://www.potasiepe.it" title="Potasiepe.it" target="_blank" rel="noopener">Potasiepe.it</a>
+<a href="https://www.potasiepe.it" title="Potasiepe.it" target="_blank" rel="noopener">Potasiepe.it</a>
 
 <a href="http://www.potasiepe.com" title="Potasiepe.com" target="_blank" rel="noopener">Potasiepe.com</a>
 
-<a href="http://www.giardinierepotasiepe.it" title="Giardinierepotasiepe.it" target="_blank" rel="noopener">Giardinierepotasiepe.it</a>
+<a href="https://www.potaalberi.it" title="Potaalberi.it" target="_blank" rel="noopener">Potasiepe.com</a>
+
+<a href="https://www.giardinierepotasiepe.it" title="Giardinierepotasiepe.it" target="_blank" rel="noopener">Giardinierepotasiepe.it</a>
 
 <a href="http://www.giardinierepotasiepe.com" title="Giardinierepotasiepe.com" target="_blank" rel="noopener">Giardinierepotasiepe.com</a>
 
-<a href="http://www.potasiepegiardiniere.it" title="Potasiepegiardiniere.it" target="_blank" rel="noopener">Potasiepegiardiniere.it</a>
+<a href="https://www.potasiepegiardiniere.it" title="Potasiepegiardiniere.it" target="_blank" rel="noopener">Potasiepegiardiniere.it</a>
 
 <a href="http://www.potasiepegiardiniere.com" title="Potasiepegiardiniere.com" target="_blank" rel="noopener">Potasiepegiardiniere.com</a>
