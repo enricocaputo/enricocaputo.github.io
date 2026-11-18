@@ -10,14 +10,13 @@ encoding: UTF-8
 lang: it-IT
 name: "Potasiepe"
 logo: "/img/amp-logo-60x600px.png"
-twitter:
-  username: potasiepe
-  card: summary
 social:
   links:
-    - https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html
+    - https://google.com/maps/place/Il+Giardiniere+Potasiepe/@45.8232958,13.3407708,17z/data=!3m1!4b1!4m5!3m4!1s0x477ba4bc0a323cfb:0x1bdade2ecb278885!8m2!3d45.8232958!4d13.3429595
+    - https://www.instagram.com/potasiepe/
+    - https://www.youtube.com/c/Potasiepe
     - https://www.facebook.com/giardiniere.potasiepe/
-    - https://x.com/potasiepe
+    - https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html
     - https://www.paginegialle.it/giardinierepotasiepe_baildd
     - https://www.paginebianche.it/cervignano-del-friuli/giardiniere-potasiepe.11997753
     - https://www.yelp.it/biz/potasiepe-cervignano-del-friuli
@@ -87,7 +86,7 @@ markdown: kramdown
 
 social_icons:
   - Facebook
-  - Twitter
+  - Google
   - RSS
 exclude:
   - ".gitignore"
