@@ -44,15 +44,39 @@ Intervengo su tutte le principali specie presenti nei giardini friulani e isonti
 
 * **Siepi sempreverdi:** Lauroceraso, Fotinia (*Photinia red robin*), Leylandii, Tuia, Ligustro, Bosso, Viburno, Eleagno e Tasso.
 * **Siepi spoglianti e fiorite:** Carpino, Biancospino, Ibisco, Forsizia, Spirea e siepi miste informali.
+* **Rampicanti su rete o grigliato:** Rincospermo (*falso gelsomino*), edera e gelsomino.
 
 ---
 
 ## Quando conviene potare la siepe
 
-In genere consiglio **due interventi all'anno**:
+Per un singolo intervento annuale o semestrale, i due momenti principali sono:
 1. **Tarda primavera (maggio – giugno):** per contenere la forte spinta vegetativa primaverile e dare forma compatta alla siepe.
 2. **Fine estate / inizio autunno (settembre – ottobre):** per riordinare la chioma prima dell'inverno e mantenerla perfetta per tutta la stagione fredda.
 
+---
+
+<div style="border: 2px solid #2e6f40; border-radius: 10px; padding: 1.5rem; margin: 2rem 0; background-color: #f7fbf8;">
+
+<h2>⭐ Novità: il "Protocollo Siepe Stellare" (Programma Annuale)</h2>
+
+<p>Vivere a <strong>Palmanova</strong>, la città-fortezza a stella progettata da Giulio Savorgnan, insegna che la vera bellezza nasce dalla geometria perfetta. Proprio come gli storici bastioni venivano costruiti con pareti inclinate ("a scarpa") per garantire solidità e resistenza, così una siepe perfetta richiede <strong>piani di taglio trapezoidali calibrati</strong> per far arrivare la luce fino a terra ed evitare che si svuoti alla base.</p>
+
+<p>Per chi desidera una <strong>siepe impeccabile 365 giorni l'anno senza doversi più ricordare di chiamare il giardiniere</strong>, ho ideato un programma annuale strutturato in <strong>3 interventi strategici</strong> pianificati nei momenti botanici ideali:</p>
+
+<ul>
+  <li><strong>Fase 1 – Taglio Chirurgico e Sanificazione (Maggio / Giugno):</strong> Potatura geometrica di precisione con lame disinfettate e affilate per un taglio netto, evitando l'effetto "bordo foglia bruciato" tipico del lauroceraso.</li>
+  <li><strong>Fase 2 – Mantenimento e Stimolazione del Colore (Agosto / Settembre):</strong> Secondo taglio di contenimento per mantenere linee nette e, su specie come la Fotinia, stimolare una nuova spettacolare cacciata di foglie rosse.</li>
+  <li><strong>Fase 3 – Rifinitura Invernale e Biostimolazione (Ottobre / Novembre):</strong> Ultimo riordino prima del riposo vegetativo accompagnato da un trattamento naturale rinvigorente per aiutare la siepe a superare l'inverno friulano in piena salute.</li>
+</ul>
+
+<p><strong>🌿 Modulo Speciale Rampicanti (Falso Gelsomino / Rincospermo):</strong><br>
+Hai una rete ricoperta di rincospermo? A differenza delle siepi tradizionali, questo rampicante tende ad aggrovigliarsi in alto, svuotarsi in basso e perdere la fioritura se tagliato nel mese sbagliato. Nel Protocollo Siepe Stellare è previsto un percorso dedicato per mantenerlo folto dalla base, ordinato lungo la recinzione e ricco di fiori profumati in primavera.</p>
+
+<p style="margin-bottom: 0;"><strong>Sempre incluso nel programma:</strong> prezzo annuale bloccato, monitoraggio costante dello stato di salute delle piante a ogni visita, raccolta e smaltimento completo di tutti i residui di potatura.</p>
+
+</div>
+
 ![Potatura di siepe, prima e dopo](/img/prima-e-dopo-la-potatura.jpg "Potatura di siepe, prima e dopo")
 
-Vuoi farti un'idea dei costi al metro lineare? Consulta subito le tariffe indicative nella mia pagina [Prezzi onesti](/prezzi/).
+Preferisci un intervento singolo? Consulta le tariffe indicative al metro lineare nella pagina [Prezzi onesti](/prezzi/), oppure chiedimi un sopralluogo per attivare il **Protocollo Siepe Stellare** sul tuo giardino.
