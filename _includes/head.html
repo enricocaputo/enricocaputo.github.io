@@ -23,22 +23,25 @@
   <title>{% if page.title == 'Potasiepe • Il Giardiniere a Udine, Gorizia' %}{{ page.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  {% assign share_image = "https://www.potasiepe.it/img/share-potasiepe-v2.jpg" %}
+  {% if page.image %}
+    {% assign share_image = page.image | prepend: site.baseurl | prepend: site.url %}
+  {% endif %}
+
   <meta property="og:locale" content="it_IT">
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:site_name" content="Potasiepe">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:image" content="https://www.potasiepe.it/img/share-potasiepe-v2.jpg">
-  <meta name="twitter:site" content="@potasiepe">
+  <meta property="og:image" content="{{ share_image }}">
+
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:title" content="{% if page.title == 'Potasiepe • Il Giardiniere a Udine, Gorizia' %}{{ page.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
-  <meta name="twitter:image" content="https://www.potasiepe.it/img/share-potasiepe-v2.jpg">
+  <meta name="twitter:title" content="{% if page.title == 'Potasiepe • Il Giardiniere a Udine, Gorizia' %}{{ page.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}">
+  <meta name="twitter:image" content="{{ share_image }}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}">
-  {% if page.layout != 'post' %}
-  <script type="application/ld+json">{"@context":"https://schema.org/","@type":"LocalBusiness","url":"https://www.potasiepe.it","sameAs":["https://g.page/potasiepe?share","https://www.misterimprese.it/friuli-venezia-giulia/udine/cervignano-del-friuli/giardinaggio-servizi/2571124.html","https://www.instagram.com/potasiepe/","https://www.youtube.com/c/Potasiepe","https://x.com/potasiepe","https://www.paginegialle.it/giardinierepotasiepe_baildd","https://www.paginebianche.it/cervignano-del-friuli/giardiniere-potasiepe.11997753","https://www.yelp.it/biz/potasiepe-cervignano-del-friuli"], "Brand":"Potasiepe","logo":"https://www.potasiepe.it/img/potasiepe1x1.jpg","image":["https://www.potasiepe.it/img/potasiepe1x1.jpg","https://www.potasiepe.it/img/potasiepe4x3.jpg","https://www.potasiepe.it/img/potasiepe16x9.jpg"],"telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Via Ialmicco","postalCode":"33057","addressLocality":"Palmanova","addressRegion":"UD","addressCountry":"IT"},"openingHours":"Lu-Sa 8:00 - 20:00","priceRange":"€18-50/h","contactPoint":[{"@type":"ContactPoint","telephone":"+39-3889005888","email":"giardiniere@potasiepe.com","contactType":"customer service"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","bestRating":"5","ratingCount":"35"},"name":"Il Giardiniere POTASIEPE"}</script>
-  {% else %}
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"ReadAction","agent":{"@type":"Person","name":"Enrico Potasiepe","image":{"@type":"ImageObject","url":"https://www.potasiepe.it/img/team/enrico.png","caption":"Enrico Potasiepe"},"url":"https://www.potasiepe.it/chi-sono/"},"object":{"@type":"WebPage","name":"{{ page.title }}"}}</script>
-  {% endif %}
+
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","url":"https://www.potasiepe.it","sameAs":{{ site.social.links | jsonify }},"logo":"https://www.potasiepe.it/img/potasiepe1x1.jpg","image":["https://www.potasiepe.it/img/potasiepe1x1.jpg","https://www.potasiepe.it/img/potasiepe4x3.jpg","https://www.potasiepe.it/img/potasiepe16x9.jpg"],"telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Via Ialmicco","postalCode":"33057","addressLocality":"Palmanova","addressRegion":"UD","addressCountry":"IT"},"openingHours":"Mo-Sa 08:00-20:00","priceRange":"€18-50/h","contactPoint":[{"@type":"ContactPoint","telephone":"+39-3889005888","email":"giardiniere@potasiepe.com","contactType":"customer service"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","bestRating":"5","ratingCount":"35"},"name":"Il Giardiniere POTASIEPE"}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://www.potasiepe.it/","potentialAction":{"@type":"SearchAction","target":"https://www.potasiepe.it/cerca/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
 </head>
