@@ -2,7 +2,7 @@
 name: Irrigazione Giardino
 subtitle: "Impianti di irrigazione moderni a prestazioni elevate e basso consumo idrico."
 title: Impianti di irrigazione giardino a Udine e Gorizia
-excerpt: "Progettazione, installazione e manutenzione di impianti di irrigazione automatici entro 30 km da Palmanova (UD e GO). Scavi stretti senza rovinare il prato."
+excerpt: "Progettazione, installazione e manutenzione di impianti di irrigazione automatici entro 30 km da Palmanova (UD e GO). Pozzetti ispezionabili e scavi stretti senza rovinare il prato."
 image: /img/prodotti/pozzetto-irrigazione.jpg
 webp: /img/prodotti/webp/pozzetto-irrigazione.webp
 image_path: /img/prodotti/scavo-irrigazione-giardino-4x3.jpg
@@ -19,7 +19,20 @@ Un impianto di irrigazione ben progettato ti libera dall'impegno quotidiano di b
 ![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")
 <br>
 
-*Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **realizzazione, riparazione e manutenzione di impianti di irrigazione** per giardini privati, terrazzi e aziende nelle province di **Udine e Gorizia**, utilizzando esclusivamente componenti professionali **Hunter e Rain Bird**.
+*Piacere, sono Enrico.* Con **Potasiepe** mi occupo personalmente della **realizzazione, riparazione e manutenzione di impianti di irrigazione** per giardini privati, terrazzi e aziende nelle province di **Udine e Gorizia**.
+
+Per garantirti durata e affidabilità nel tempo, utilizzo esclusivamente componenti professionali **Hunter e Rain Bird**. Mi aggiorno costantemente tramite webinar tecnici sui nuovi prodotti e partecipo ogni anno a corsi pratici sul campo insieme ad altri colleghi giardinieri e idraulici, testando dal vivo le ultime novità su centraline, elettrovalvole, irrigatori e raccordi.
+
+---
+
+## Perché affidarsi a uno specialista del verde e dell'idraulica
+
+In molti anni di interventi su impianti realizzati da altri, ho riscontrato spesso due problemi opposti:
+
+* **Impianti fatti da soli idraulici:** pur essendo ben collegati dal punto di vista idraulico, spesso non tengono conto delle diverse esigenze idriche tra prato, siepi e alberi, né dell'esposizione al sole o all'ombra delle varie zone del giardino.
+* **Impianti fatti da giardinieri improvvisati:** vengono spesso montati in modo approssimativo, senza un corretto calcolo di pressioni e portate, causando zone secche o ristagni d'acqua.
+
+Un impianto davvero efficace nasce solo dall'unione tra **competenze idrauliche** e **conoscenze botaniche e agronomiche**: ogni specie vegetale riceve esattamente la quantità d'acqua di cui ha bisogno, nel momento migliore della giornata.
 
 ---
 
@@ -40,9 +53,11 @@ Un impianto di irrigazione ben progettato ti libera dall'impegno quotidiano di b
 </div>
 <br>
 
-## Il vantaggio Potasiepe: scavi puliti senza rovinare il giardino
+## Scavi puliti e pozzetti costruiti per durare nel tempo
 
 Uno dei timori più frequenti di chi ha già un bel giardino è che lo scavo per i tubi distrugga il prato. Grazie all'utilizzo di una **catenaria professionale**, realizzo **trincee strette, profonde e precisissime**, riducendo al minimo l'impatto sul tappeto erboso e ripristinando subito il livello del terreno a fine posa.
+
+Inoltre, dedico una cura particolare alla **realizzazione dei pozzetti delle elettrovalvole**: troppo spesso vedo pozzetti chiusi o interrati in modo tale da rendere impossibile una futura manutenzione senza dover demolire e scavare tutto intorno. Realizzare un pozzetto a regola d'arte e facilmente ispezionabile **costa uguale in fase di installazione**, ma ti permette di sostituire un componente in pochi minuti e con una spesa minima negli anni a venire.
 
 ---
 

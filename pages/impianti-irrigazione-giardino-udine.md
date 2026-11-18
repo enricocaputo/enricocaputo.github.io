@@ -8,11 +8,11 @@ image: /img/prodotti/pozzetto-irrigazione-2.jpg
 
 # Impianti di irrigazione giardino a Udine e provincia
 
-**Realizzazione e manutenzione sistemi automatici interrati e a goccia (entro 30 km da Palmanova)**
+**Progettazione, installazione e manutenzione sistemi automatici interrati e a goccia (entro 30 km da Palmanova)**
 
-Cerchi un professionista per installare o rimettere in funzione un **impianto di irrigazione in provincia di Udine**? Sono **Enrico**, titolare di **Potasiepe**, e mi occupo personalmente di progettare, installare e manutenere impianti automatici per giardini residenziali, strutture ricettive e aziende.
+Cerchi un professionista per installare da zero o rimettere in sesto un **impianto di irrigazione in provincia di Udine**? Sono **Enrico**, titolare di **Potasiepe**, e mi occupo personalmente di progettare, realizzare e manutenere impianti automatici per giardini privati, strutture ricettive e aree verdi aziendali.
 
-Con sede a **Palmanova**, intervengo rapidamente in gran parte della provincia di Udine — tra cui **Udine, Tavagnacco, Campoformido, Pasian di Prato, Codroipo, Cervignano del Friuli, Cividale del Friuli, Manzano e San Giorgio di Nogaro**.
+Partendo dalla mia sede di **Palmanova**, raggiungo comodamente gran parte della provincia — tra cui **Udine, Tavagnacco, Campoformido, Pasian di Prato, Codroipo, Cervignano del Friuli, Cividale del Friuli, Manzano e San Giorgio di Nogaro**.
 
 <br>
 <div class="carousel">
@@ -23,19 +23,23 @@ Con sede a **Palmanova**, intervengo rapidamente in gran parte della provincia d
 </div>
 <br>
 
-## Impianti affidabili e su misura per i giardini friulani
+## Un impianto progettato su misura per i terreni del Friuli
 
-Ogni giardino ha esigenze idriche diverse in base al tipo di terreno (più drenante nell'alta pianura o più argilloso nella Bassa Friulana) e all'esposizione al sole. Per questo progetto ogni impianto partendo dalla misurazione reale di **pressione e portata dell'acqua**:
+Nella provincia di Udine la composizione del suolo cambia molto da zona a zona: dai terreni più ghiaiosi e drenanti tra Udine, Campoformido e Codroipo, fino ai suoli più compatti della Bassa Friulana verso Cervignano e San Giorgio di Nogaro.
 
-* **Irrigatori a scomparsa Hunter e Rain Bird:** Copertura uniforme del prato senza sprechi né zone ingiallite.
-* **Linee a goccia per siepi e aiuole:** Ideali per siepi di fotinia, lauroceraso e fioriere, bagnano direttamente alle radici riducendo i consumi idrici.
-* **Centraline con sensore pioggia:** Programmatori intuitivi che sospendono automaticamente l'irrigazione in caso di maltempo.
+Per questo motivo non realizzo mai impianti standardizzati, ma unisco la **misurazione reale di pressione e portata** alle esigenze botaniche di ogni singola pianta:
+
+* **Irrigatori a scomparsa Hunter e Rain Bird:** Calibrati con ugelli ad alta efficienza per bagnare il tappeto erboso in modo uniforme, evitando sia le macchie gialle da siccità sia i ristagni che favoriscono i funghi del prato.
+* **Linee a goccia per siepi, alberi e aiuole:** Perfette per siepi di fotinia, lauroceraso, carpino e bordure fiorite; portano l'acqua direttamente alle radici senza sprechi per evaporazione.
+* **Centraline smart e sensori pioggia:** Programmatori intuitivi (anche gestibili da smartphone) che sospendono automaticamente i cicli di irrigazione quando piove.
 
 ---
 
-## Scavi stretti con catenaria: il tuo prato resta intatto
+## Scavi stretti con catenaria e pozzetti ispezionabili
 
-Anche se hai già un prato formato, posso installare l'impianto interrato senza rovinare il giardino: grazie alla **catenaria professionale**, eseguo scavi stretti e puliti che si richiudono facilmente senza lasciare solchi evidenti.
+Anche se il tuo giardino è già finito e il prato è avviato, posso posare l'intero impianto senza creare disagi: grazie alla **catenaria professionale**, realizzo trincee strette e pulite che si richiudono con facilità senza rovinare il manto erboso.
+
+Inoltre, curo in modo maniacale la costruzione dei **pozzetti delle elettrovalvole**. In tanti anni di assistenza mi è capitato troppo spesso di dover scavare e demolire pozzetti interrati male da altri per sostituire una semplice valvola: realizzare un pozzetto ordinato e accessibile fin dall'inizio **ha lo stesso identico costo**, ma ti mette al riparo da spese inutili e tempi lunghi in caso di future riparazioni.
 
 <br>
 <div class="carousel">
@@ -47,9 +51,11 @@ Anche se hai già un prato formato, posso installare l'impianto interrato senza 
 </div>
 <br>
 
-## Apertura, chiusura invernale e riparazioni a Udine
+## Manutenzione, svuotamento antigelo e riparazioni a Udine
 
-Eseguo interventi di **manutenzione e check-up completo** su impianti esistenti (controllo elettrovalvole, pulizia filtri, taratura irrigatori e svuotamento autunnale antigelo) con tariffe trasparenti tra **50 € e 100 €**.
+Gli inverni friulani possono portare gelate improvvise che rischiano di spaccare tubi, irrigatori ed elettrovalvole. Per questo motivo offro un servizio completo di **apertura primaverile, taratura ugelli, ricerca guasti e chiusura invernale antigelo** con tariffe chiare comprese tra **50 € e 100 €** in base alla grandezza dell'impianto.
+
+Vuoi approfondire il mio metodo di lavoro e vedere perché l'unione tra competenze botaniche e aggiornamento tecnico fa la differenza? Scopri di più nella pagina principale dedicata agli [impianti di irrigazione per giardino](/prodotti/irrigazione-giardino/).
 
 <br>
 ![Impianti d'irrigazione a Udine e Gorizia](/img/prodotti/irrigazione.png "Impianti d'irrigazione a Udine e Gorizia")

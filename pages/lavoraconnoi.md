@@ -6,6 +6,7 @@ image: /img/lavoraconnoi.jpg
 webp: /img/webp/lavoraconnoi.webp
 permalink: /lavora-con-noi/
 no_cta: true
+last_modified_at: 2026-11-18T07:06:00+01:00
 ---
 # Lavora con me
 
