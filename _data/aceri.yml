@@ -5,7 +5,7 @@ items:
   link: acero-dissectum-garnet
   image: /img/vivaio/aceri/acer-dissctum-garnet.jpg
   brand: Potasiepe
-  price: 130
+  price: 180
   ratingValue: 5
   reviewCount: 4
   availability: InStock
@@ -16,7 +16,7 @@ items:
   link: acero-dissectum-viridis
   image: /img/vivaio/aceri/acer-dissectum-viridis.jpg
   brand: Potasiepe
-  price: 130
+  price: 180
   ratingValue: 4.8
   reviewCount: 5
   availability: InStock
@@ -27,7 +27,7 @@ items:
   link: acero-palmatum-bloodgood
   image: /img/vivaio/aceri/acer-palmatum-bloodgood.jpg
   brand: Potasiepe
-  price: 130
+  price: 180
   ratingValue: 4.7
   reviewCount: 6
   availability: InStock
@@ -38,7 +38,7 @@ items:
   link: acero-palmatum-shishigashira
   image: /img/vivaio/aceri/acer-palmatum-shishigashira.jpg
   brand: Potasiepe
-  price: 130
+  price: 180
   ratingValue: 4.6
   reviewCount: 7
   availability: InStock
