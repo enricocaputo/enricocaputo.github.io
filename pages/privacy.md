@@ -4,6 +4,8 @@ title: Privacy
 excerpt: "Potasiepe non raccoglie né condivide informazioni personali. Il presente sito utilizza esclusivamente cookie tecnici."
 image: /img/amp-logo-60x600px.png
 permalink: /privacy/
+sitemap: false
+noindex: true
 no_cta: true
 ---
 # Privacy e Cookie Policy

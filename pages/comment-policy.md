@@ -5,6 +5,7 @@ excerpt: Regole di comportamento e moderazione dei commenti sul blog di Potasiep
 image: /img/amp-logo-60x600px.png
 permalink: /comment-policy/
 sitemap: false
+noindex: true
 no_cta: true
 ---
 # Moderazione dei commenti

@@ -4,6 +4,7 @@ title: "Cerca: come posso aiutarti?"
 excerpt: "Cerca all'interno del sito potasiepe.it, assistenza per trovare prodotti e servizi di giardinaggio offerti da POTASIEPE, ricerca personalizzata."
 image: /img/amp-logo-60x600px.png
 sitemap: false
+noindex: true
 permalink: /cerca/
 ---
 # Come possiamo aiutarti?

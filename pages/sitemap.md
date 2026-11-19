@@ -3,6 +3,8 @@ layout: default
 title: Sitemap www.potasiepe.it
 excerpt: "Per trovare tutto e subito, usa la mappa per orientarti all'interno del sito web potasiepe.it"
 permalink: /sitemap/
+sitemap: false
+noindex: true
 ---
 # Sitemap
 

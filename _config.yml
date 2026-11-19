@@ -46,6 +46,11 @@ defaults:
     values:
       sitemap: false
   - scope:
+      path: "news/page*"
+    values:
+      sitemap: false
+      noindex: true
+  - scope:
       path: "_calendario"
     values:
       layout: "post"

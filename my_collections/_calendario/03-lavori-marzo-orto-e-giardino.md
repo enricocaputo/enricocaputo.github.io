@@ -1,129 +1,41 @@
 ---
-title: "Marzo nell'orto e in giardino"
-excerpt: "I principali lavori che il giardiniere deve compiere nel mese di marzo in giardino, nell'orto e nel frutteto per ottenere un buon raccolto e ottimi risultati."
+title: "Lavori in giardino a marzo: prato, siepi e orto in Friuli"
+excerpt: "Cosa fare in giardino a marzo tra Udine e Gorizia: arieggiatura del prato, ultime potature prima della ripresa vegetativa, irrigazione e semine nell'orto."
 image: /img/calendario/marzo.png
 date: 2019-01-01T05:03:00+00:00
-last_modified_at: 2022-02-14T8:00
+last_modified_at: 2026-11-19T18:00:00+01:00
 comments: false
 ---
-## Nel giardino
-È bene iniziare le lavorazioni primaverili di
-**pulizia delle aiuole** e mettere
-a dimora i **bulbi primaverili** che
-fioriranno durante l’estate. Si possono
-piantare, nelle zone a clima più mite,
-anche tutte le piante da fiore tipiche
-dell’estate.
 
-## Nel prato
-Oltre alla normale cura del prato, pulizia dalle erbe e
-taglio, effettuare una **arieggiatura** ed una buona **concimazione**.
-Per i nuovi impianti preparare il terreno e procedere, se il clima lo consente,
-alla semina.
+Marzo è il mese in cui il giardino si risveglia davvero. Nelle province di **Udine e Gorizia**, le giornate si allungano ma bisogna ancora fare attenzione agli ultimi ritorni di freddo notturno. È il momento giusto per intervenire su prato, siepi e impianti prima che la vegetazione parta a pieno ritmo.
 
-## In cantina
-Prima di ogni imbottigliamento, è consigliabile
-effettuare un travaso o meglio ancora una **filtrazione**. Controllare
-le attrezzature che si utilizzeranno durante la stagione.
-Nel vigneto terminare le operazioni di potatura.
+*Piacere, sono Enrico.* Ecco la mia scaletta pratica dei lavori da programmare a marzo per preparare il tuo spazio verde alla bella stagione.
+
+## Nel prato: primo taglio e arieggiatura
+Con l'aumento delle temperature, l'erba riprende a crescere e torna visibile anche il feltro accumulato durante l'inverno.
+* **Primo taglio e pulizia:** Rimuovi rami, foglie residue e fai una prima rasatura leggera senza abbassare troppo il taglio.
+* **Arieggiatura e concimazione:** Se il tappeto erboso è ingiallito o soffocato dal muschio, marzo è il mese ideale per una [rigenerazione del prato](/servizi/rigenerazione-prato/) con arieggiatura, trasemina e concimazione di ripresa.
+* **Nuovi prati:** Se devi rifare il giardino da zero, puoi iniziare a preparare il terreno per la [semina o la posa del prato a rotoli](/servizi/formazione-tappeto-erboso-e-rifacimento-prato/) non appena le temperature del suolo si stabilizzano.
+
+## Siepi, alberi e impianto di irrigazione
+Prima che sboccino le nuove gemme, hai ancora una finestra preziosa per mettere in ordine la struttura del giardino.
+* **Ultime potature:** Completa la [potatura delle siepi](/servizi/potatura-siepi/) sempreverdi e gli interventi di [potatura degli alberi](/servizi/abbattimento-e-potatura-alberi/) prima della piena ripresa vegetativa.
+* **Controllo dell'irrigazione:** Riattiva l'[impianto di irrigazione](/prodotti/irrigazione-giardino/), verifica che gli irrigatori non siano ostruiti e controlla eventuali perdite dovute al gelo invernale.
+* **Aiuole e fioriture:** Pulisci le bordure dalle infestanti, smuovi leggermente il terreno e metti a dimora i bulbi a fioritura estiva.
 
 ## Nell'orto
-Marzo è un mese che ci permette di aumentare il tempo dedicato al nostro orto.
-Le temperature sono ancora instabili con la possibilità di sbalzi termici e
-per questo motivo si deve prestare attenzione alla
-tipologia di ortaggi scelti per la semina.
-I lavori da fare sono l’**arieggiatura delle serre e dei tunnel** durante le ore
-più calde del giorno e l’**eliminazione delle erbe infestanti** presenti sul terreno.
-In caso di giornate soleggiate e con
-temperature più alte rispetto alla media
-stagionale è meglio prestare attenzione
-a spinaci, rucole e ravanelli seminati
-all’aperto in quanto le giovani piantine
-potrebbero essere attaccate dall’**Altica**
-e richiedere quindi dei trattamenti. Se
-la vostra zona è soggetta ad attacchi
-da parte di questo insetto l’ideale è
-proteggere le piantine fin dal momento
-della semina con **tessuto non tessuto** (*TNT*)
-avendo cura di lasciarlo finché le piante
-non raggiungono medie dimensioni.
-Nel Nord Italia, caratterizzato da un
-clima più rigido, è meglio procedere alle
-semine nella seconda metà del mese,
-mentre al Centro e Sud Italia si può
-seminare già da inizio mese.
+Nel nostro territorio, a marzo conviene procedere con gradualità per non farsi sorprendere dagli sbalzi termici.
+* **Serre e tunnel:** Arieggia nelle ore più calde della giornata per evitare condensa e muffe.
+* **Protezione delle semine:** Nella prima metà del mese proteggi le giovani piantine all'aperto (spinaci, rucole, ravanelli) con **tessuto non tessuto (TNT)** per difenderle sia dal freddo notturno sia dagli attacchi dell'Altica nelle giornate più soleggiate.
+* **Semine all'aperto:** Nella seconda metà di marzo, quando il terreno si scalda, puoi seminare direttamente carota, lattuga, prezzemolo, ravanello, rucola, scarola e spinacio (mentre pomodoro, zucchino, melone e basilico vanno ancora avviati in semenzaio protetto).
+* **Raccolta:** Si raccolgono cavoli e cicorie invernali.
 
-### Questo Mese Si Semina
-ANGURIA
+### La rotazione degli ortaggi per piccoli orti familiari
+Alternare ogni anno la famiglia di ortaggi coltivata sulla stessa aiuola evita l'impoverimento del terreno e riduce parassiti e malattie.
 
-*ciclo di vegetazione 5 mesi*
+**Scarica la [tabella delle rotazioni e associazioni degli ortaggi](/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf) in formato PDF.**
 
-ASPARAGO
+---
 
-*ciclo di vegetazione 25 mesi*
-
-BASILICO
-*ciclo di vegetazione 3 mesi*
-*ciclo di vegetazione 4 mesi*
-
-CAROTA
-
-*ciclo di vegetazione 5 mesi*
-
-CETRIOLO
-
-*ciclo di vegetazione 5 mesi*
-
-FINOCCHIO
-
-*ciclo di vegetazione 6 mesi*
-
-INDIVIA
-
-*ciclo di vegetazione 5 mesi*
-
-LATTUGA
-
-*ciclo di vegetazione 6 mesi*
-
-MELONE
-
-*ciclo di vegetazione 5 mesi*
-
-POMODORO
-
-*ciclo di vegetazione 6 mesi*
-
-PORRO
-
-*ciclo di vegetazione 7 mesi*
-
-PREZZEMOLO
-
-*ciclo di vegetazione 5 mesi*
-
-RAVANELLO
-
-*ciclo di vegetazione 3 mesi*
-
-SCAROLA
-
-*ciclo di vegetazione 5 mesi*
-
-ZUCCHINO
-
-*ciclo di vegetazione 4 mesi*
-
-
-### Questo Mese Si Raccoglie
-CAVOLO
-
-CICORIA
-
-
-### La Rotazione degli Ortaggi per Piccoli Orti Familiari
-La rotazione consiste nell’**alternare** nello stesso pezzo di terreno la coltivazione di **ortaggi diversi**. In questo modo **si evitavano le conseguenze negative della monocoltura**: impoverimento del suolo, proliferazione di parassiti, malerbe ecc.
-
-## Download
-
-<p><strong>Scarica la <a href="/download/la-rotazione-degli-ortaggi-per-piccoli-orti-familiari.pdf" download="rotazioneOrtaggi.pdf" title="La Rotazione degli Ortaggi per Piccoli Orti Familiari">tabella delle rotazioni e associazioni degli ortaggi</a> in formato PDF.</strong></p>
+## Non hai tempo o attrezzatura per fare tutto da solo?
+Se vuoi preparare il prato, potare le siepi o rimettere in funzione l'irrigazione senza pensieri, intervengo personalmente **entro 30 km da Palmanova** (Udine e Gorizia). [Contattami per un sopralluogo gratuito](/contatti/).

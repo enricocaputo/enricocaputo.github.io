@@ -1,6 +1,10 @@
 <head>
   <meta charset="UTF-8" />
+  {% if page.noindex or paginator.page > 1 %}
+  <meta name="robots" content="noindex, follow">
+  {% else %}
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  {% endif %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% feed_meta %}
   <link type="application/opensearchdescription+xml" rel="search" href="/PotasiepeRicercaPersonalizzata.xml" title="Potasiepe Ricerca Personalizzata">
