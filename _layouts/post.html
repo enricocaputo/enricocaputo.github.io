@@ -19,16 +19,17 @@ layout: default
 		<p>{{ page.excerpt }}</p>
 
 		<div class="share-bar">
-			<a class="share-link" aria-label="resta sempre aggiornato, iscriviti alla mailing list" href="#newsletter" title="mailing list">
+			<a class="share-link" aria-label="resta sempre aggiornato, iscriviti alla mailing list" href="#newsletter" title="Iscriviti alla newsletter">
 				{% include social-share.html icon="Watchlist" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Twitter" href="https://x.com/intent/tweet?text={% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 163 }}{% else %}{{ site.description }}{% endif %}&url={{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
-				{% include social-share.html icon="Twitter" %}
+			<a class="share-link" aria-label="condividi su WhatsApp" title="Condividi su WhatsApp" href="https://whatsapp.com{{ page.title | url_encode }}%20-%20{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
+			{% include social-share.html icon="WhatsApp" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Facebook" href="http://www.facebook.com/sharer.php?u={{ page.url | prepend: site.url }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Facebook" title="Condividi su Facebook" href="https://facebook.com{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
 		</div>
+
 	</div>
 </div>
 

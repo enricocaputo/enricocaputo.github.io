@@ -2,7 +2,7 @@
 name: Lotta alla Processionaria
 subtitle: "Endoterapia certificata: sicura per famiglia e animali per 3 anni."
 title: "Lotta alla processionaria a Udine e Gorizia • Endoterapia"
-excerpt: "Eliminazione processionaria del pino a Udine e Gorizia (entro 30 km da Palmanova) con endoterapia certificata: sicura per bambini, cani e gatti fino a 3 anni."
+excerpt: "Eliminazione processionaria del pino e difesa delle palme a Udine e Gorizia (entro 30 km da Palmanova) con endoterapia certificata: sicura per bambini, cani e gatti fino a 3 anni."
 image: /img/servizi/lotta-alla-processionaria-pino.jpg
 webp: /img/servizi/webp/lotta-alla-processionaria-pino.webp
 image_path: /img/servizi/lotta-alla-processionaria-400x300.jpg
@@ -54,3 +54,12 @@ Per eliminare la processionaria senza disperdere sostanze chimiche nell'aria del
 
 * **Prevenzione con endoterapia (estate – autunno, da luglio a ottobre):** È il momento migliore e più risolutivo. Il trattamento colpisce le giovani larve fin dalla nascita, impedendo la formazione dei nidi invernali e la pericolosa discesa primaverile lungo il tronco.
 * **Rimozione meccanica dei nidi (inverno):** Se i nidi bianchi sono già presenti sui rami, intervengo in quota con piattaforma aerea e dispositivi di protezione per asportarli e distruggerli in sicurezza prima che le larve scendano a terra.
+
+---
+
+## Endoterapia anche per le palme: difesa da Punteruolo rosso e Paysandisia
+
+La stessa tecnica endoterapica è la soluzione più efficace anche per salvare le **palme** (*Trachycarpus*, *Phoenix*, *Chamaerops*) dagli attacchi del **Punteruolo rosso** e della **Paysandisia archon**, due parassiti sempre più diffusi anche nelle province di Udine e Gorizia.
+
+* **Perché conviene prevenire:** Questi insetti scavano gallerie all'interno del fusto senza dare segnali evidenti all'inizio; quando le foglie centrali collassano, spesso la palma è già compromessa. Intervenire con un trattamento endoterapico preventivo costa una frazione rispetto alle spese di [abbattimento e smaltimento](/servizi/abbattimento-e-potatura-alberi/) di una palma morta (che diventa inoltre pericolosa per il rischio di crollo improvviso).
+* **Come riconoscere i primi segnali:** Scopri quali sintomi osservare su palme e alberi nel mio articolo dedicato a [come capire se un albero è malato](/news/come-capire-se-un-albero-e-malato/).
