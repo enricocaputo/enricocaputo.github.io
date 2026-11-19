@@ -1,32 +1,53 @@
+{% unless page.url == "/" %}
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign last_title = page.title | default: crumbs.last | replace:'-',' ' | remove:'.html' | capitalize %}
+
 <div class="myBreadcrumbTrail">
-<nav class="breadcrumbs" aria-label="Breadcrumb">
-  {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-   <ol class="breadcrumb list-unstyled" itemscope itemtype="https://schema.org">
-     <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org">
-        <a itemprop="item" href="/">
-           <span itemprop="name">Home</span>
-        </a>
-        <meta itemprop="position" content="1" />
-     </li>
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <ol class="breadcrumb list-unstyled">
+      <li class="breadcrumb-item">
+        <a href="/">Home</a>
+      </li>
       {% for crumb in crumbs offset: 1 %}
-      {% if forloop.last %}
-      {% assign last_title = page.title | default: crumb | replace:'-',' ' | remove:'.html' | capitalize %}
-      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org">
-        {{ last_title }}
-         <a class="breadcrumb-item-hidden" itemprop="item" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
-            <span itemprop="name">{{ last_title }}</span>
-         </a>
-         <meta itemprop="position" content="{{ forloop.index | plus: 1 }}" />
-      </li>
-      {% else %}
-      <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org">
-         <a itemprop="item" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
-            <span itemprop="name">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</span>
-         </a>
-         <meta itemprop="position" content="{{ forloop.index | plus: 1 }}" />
-      </li>
-      {% endif %}
-    {% endfor %}
-   </ol>
-</nav>
+        {% if forloop.last %}
+          <li class="breadcrumb-item" aria-current="page">
+            {{ last_title }}
+          </li>
+        {% else %}
+          <li class="breadcrumb-item">
+            <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for c in crumbs limit: crumb_limit %}{{ c | append: '/' }}{% endfor %}">
+              {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </nav>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ site.url }}/"
+    }{% for crumb in crumbs offset: 1 %},
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index | plus: 1 }},
+      {% if forloop.last %}
+      "name": {{ last_title | jsonify }},
+      "item": "{{ site.url }}{{ page.url | replace:'index.html','' }}"
+      {% else %}
+      "name": {{ crumb | replace:'-',' ' | remove:'.html' | capitalize | jsonify }},
+      "item": "{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for c in crumbs limit: crumb_limit %}{{ c | append: '/' }}{% endfor %}"
+      {% endif %}
+    }{% endfor %}
+  ]
+}
+</script>
+{% endunless %}

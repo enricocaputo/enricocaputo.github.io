@@ -44,4 +44,34 @@
 
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","url":"https://www.potasiepe.it","sameAs":{{ site.social.links | jsonify }},"logo":"https://www.potasiepe.it/img/potasiepe1x1.jpg","image":["https://www.potasiepe.it/img/potasiepe1x1.jpg","https://www.potasiepe.it/img/potasiepe4x3.jpg","https://www.potasiepe.it/img/potasiepe16x9.jpg"],"telephone":"+393889005888","email":"giardiniere@potasiepe.com","address":{"@type":"PostalAddress","streetAddress":"Via Ialmicco","postalCode":"33057","addressLocality":"Palmanova","addressRegion":"UD","addressCountry":"IT"},"openingHours":"Mo-Sa 08:00-20:00","priceRange":"€18-50/h","contactPoint":[{"@type":"ContactPoint","telephone":"+39-3889005888","email":"giardiniere@potasiepe.com","contactType":"customer service"}],"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","bestRating":"5","ratingCount":"35"},"name":"Il Giardiniere POTASIEPE"}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","url":"https://www.potasiepe.it/","potentialAction":{"@type":"SearchAction","target":"https://www.potasiepe.it/cerca/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+  {% if page.layout == 'post' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+    },
+    "headline": {{ page.title | jsonify }},
+    "description": {{ page.excerpt | strip_html | strip_newlines | truncate: 163 | jsonify }},
+    "image": "{{ share_image }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": "Enrico Caputo",
+      "url": "{{ site.url }}/chi-sono/"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/img/potasiepe1x1.jpg"
+      }
+    }
+  }
+  </script>
+  {% endif %}
 </head>
