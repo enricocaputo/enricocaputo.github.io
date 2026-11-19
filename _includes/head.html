@@ -9,6 +9,9 @@
   {% if page.url == "/" %}
   <link rel="preload" as="image" href="/img/potasiepe-logo-v1.svg" fetchpriority="high">
   {% endif %}
+  {% if page.layout == "post" and page.image %}
+  <link rel="preload" as="image" href="{{ page.image }}" fetchpriority="high">
+  {% endif %}
   <style>
     {% capture include_to_scssify %}
       {% include screen.scss %}

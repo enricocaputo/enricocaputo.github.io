@@ -3,9 +3,8 @@ layout: default
 ---
 <div class="desc">
 	<div class="desc-img">
-		<img class="cover" src="{{ page.image }}" alt="{{ page.title }}">
+		<img class="cover" src="{{ page.image }}" alt="{{ page.title }}" width="{{ page.image_width | default: 800 }}" height="{{ page.image_height | default: 600 }}" fetchpriority="high" decoding="async">
 	</div>
-
 	<div class="desc-text">
 		{% for category in page.categories %}
 		<span class="category">{{ category }}</span>
