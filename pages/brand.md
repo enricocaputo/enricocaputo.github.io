@@ -1,71 +1,58 @@
 ---
 layout: page
 title: "Brand"
-excerpt: "Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe, e il logo del giardiniere aitante che impugna il tosasiepi: simboli di eccezionale perizia"
+excerpt: "Linee guida ufficiali per l'utilizzo del marchio, del logo, dei colori e dello slogan Potasiepe – Custode del tuo giardino."
 image: /img/potasiepe-logo-557x500.png
 permalink: /brand/
-last_modified_at: 2026-11-18T07:19:22+01:00
+no_cta: true
 ---
 # Linee guida per l'utilizzo del brand Potasiepe
 
 <div id="logo"></div>
 
-Icona di accuratezza, affidabilità, eccellenza. Il marchio Potasiepe, e il logo del giardiniere aitante che impugna il tosasiepi: simboli di eccezionale perizia, serietà, artigianalità tutta italiana.  
+Icona di accuratezza, affidabilità ed eccellenza. Il marchio **Potasiepe** e l'emblema del giardiniere aitante, fiero e composto che impugna il tosasiepi rappresentano la mia filosofia di lavoro: competenza tecnica, serietà e cura artigianale per ogni giardino.
 
 ---
-## Panoramica
 
-L'utilizzo del nome e degli elementi di branding di Potasiepe.it può aiutarti a ottenere risultati. Tuttavia, il brand Potasiepe.it è una delle risorse aziendali più preziose, quindi abbiamo bisogno di visionare anticipatamente i materiali creativi. Con l'approvazione scritta, consentiamo ai richiedenti di utilizzare gli elementi del branding Potasiepe entro i limiti stabiliti di seguito. Tutti i materiali devono essere inviati a Potasiepe per l'approvazione di conformità alle nostre politiche pubblicitarie.
+## Panoramica e titolarità
+
+Il nome **Potasiepe**, il payoff *"Custode del tuo giardino"* e tutti gli elementi grafici collegati sono di mia esclusiva titolarità (Enrico Caputo – Il Giardiniere Potasiepe).
+
+Per tutelare l'identità e l'affidabilità del marchio, **qualsiasi utilizzo del nome o del logo Potasiepe da parte di terzi deve essere preventivamente autorizzato per iscritto** (scrivendo a **giardiniere@potasiepe.com**) e rispettare le specifiche tecniche indicate in questa pagina.
 
 ## Slogan del brand
 
-È consentito l'uso di parole, frasi, prodotti, etc. proprietari di Potasiepe direttamente collegati alle funzioni o alle funzionalità Potasiepe (ad es. "Custode del giardino"), ma previa approvazione da parte di Potasiepe. Al di fuori di questo contesto, l'uso di termini con brand Potasiepe o simili non è consentito se non espressamente approvato.
+Lo slogan ufficiale è **"Custode del tuo giardino"** (insieme alla variante *"Custode del giardino"*). L'uso di queste espressioni in associazione al marchio Potasiepe è consentito esclusivamente previa mia approvazione esplicita.
 
-## Logo Potasiepe
-L'utilizzo del logo Potasiepe deve essere approvato in tutti i casi. Nel caso in cui il logo venga utilizzato in una campagna co-branded, l'utilizzo deve essere conforme agli standard indicati di seguito.
+## Logotipo Potasiepe
 
-### Font
-Il font è Audiowide.
+Il logotipo testuale accompagna tutte le comunicazioni ufficiali e deve rispettare fedelmente font, proporzioni e palette colori.
 
-### Colori
-Monocolore rosso (Hex #d1493d - RGB 209, 73, 61), oppure verde (Hex #006400 - RGB 0, 100, 0).
+* **Font:** Audiowide
+* **Colori:** Monocolore **Rosso** (`Hex #d1493d` – `RGB 209, 73, 61`) oppure **Verde chiaro** (`Hex #006400` – `RGB 0, 100, 0`)
+* **Proporzioni e dimensioni:** Rapporto **1:10**, con dimensione minima per la stampa di **4 cm** di lunghezza
 
-### Dimensioni
-Le proporzioni sono 1:10, la dimensione minima per la stampa è 4 cm di lunghezza.
+<img src="/img/amp-logo-60x600px.png" alt="Logotipo Potasiepe" title="Logotipo Potasiepe" style="margin-left:0" width="300" height="30">
 
-<img src="/img/amp-logo-60x600px.png" alt="Logo Potasiepe" title="Logo Potasiepe" style="margin-left:0" width="300" height="30">
+## Marchio figurativo Potasiepe™
 
+Il marchio completo (emblema del giardiniere + logotipo) viene utilizzato su mezzi aziendali, abbigliamento da lavoro, documenti ufficiali e materiale promozionale.
 
-## Marchio Potasiepe
-L'utilizzo del marchio Potasiepe deve essere approvato in tutti i casi. Nel caso in cui il marchio venga utilizzato in una campagna co-branded, l'utilizzo deve essere conforme agli standard indicati di seguito.
+* **Palette colori ufficiale:**
+  * **Rosso:** `Hex #d1493d` – `RGB 209, 73, 61`
+  * **Verde scuro:** `Hex #003200` – `RGB 0, 50, 0`
+  * **Verde chiaro:** `Hex #006400` – `RGB 0, 100, 0`
+* **Sfondo consigliato:** Bianco puro o comunque molto chiaro, per garantire il massimo contrasto e la piena leggibilità dell'emblema.
+* **Proporzioni e dimensioni:** Rapporto **1:1**, con dimensione minima per la stampa di **4 cm** di lato.
 
-### Colori
-Rosso: Hex #d1493d - RGB 209, 73, 61
+<img src="/img/potasiepe-logo-200x200.png" alt="Marchio Potasiepe" title="Marchio Potasiepe" style="margin-left:0" width="200" height="200">
 
-Verde Scuro: Hex #003200 - RGB 0, 50, 0
+## I domini ufficiali di Potasiepe
 
-Verde chiaro: Hex #006400 - RGB 0, 100, 0
-
-### Sfondo
-Bianco o comunque molto chiaro, tendente al bianco.
-
-### Dimensioni
-Le proporzioni sono 1:1, la dimensione minima per la stampa è 4 cm.
-
-<img src="/img/potasiepe-logo-200x200.png" alt="Potasiepe ® Marchio Registrato, Registered Trademark" style="margin-left:0" width="200" height="200">
-
-## I siti web di Potasiepe
-
-<a href="https://www.potasiepe.it" title="Potasiepe.it" target="_blank" rel="noopener">Potasiepe.it</a>
-
-<a href="http://www.potasiepe.com" title="Potasiepe.com" target="_blank" rel="noopener">Potasiepe.com</a>
-
-<a href="https://www.potaalberi.it" title="Potaalberi.it" target="_blank" rel="noopener">Potasiepe.com</a>
-
-<a href="https://www.giardinierepotasiepe.it" title="Giardinierepotasiepe.it" target="_blank" rel="noopener">Giardinierepotasiepe.it</a>
-
-<a href="http://www.giardinierepotasiepe.com" title="Giardinierepotasiepe.com" target="_blank" rel="noopener">Giardinierepotasiepe.com</a>
-
-<a href="https://www.potasiepegiardiniere.it" title="Potasiepegiardiniere.it" target="_blank" rel="noopener">Potasiepegiardiniere.it</a>
-
-<a href="http://www.potasiepegiardiniere.com" title="Potasiepegiardiniere.com" target="_blank" rel="noopener">Potasiepegiardiniere.com</a>
+* [Potasiepe.it](https://www.potasiepe.it){:target="_blank" rel="noopener"}
+* [Potasiepe.com](http://potasiepe.com){:target="_blank" rel="noopener"}
+* [Potaalberi.it](https://www.potaalberi.it){:target="_blank" rel="noopener"}
+* [Giardinierepotasiepe.it](https://www.giardinierepotasiepe.it){:target="_blank" rel="noopener"}
+* [Giardinierepotasiepe.com](http://giardinierepotasiepe.com){:target="_blank" rel="noopener"}
+* [Potasiepegiardiniere.it](https://www.potasiepegiardiniere.it){:target="_blank" rel="noopener"}
+* [Potasiepegiardiniere.com](http://potasiepegiardiniere.com){:target="_blank" rel="noopener"}
