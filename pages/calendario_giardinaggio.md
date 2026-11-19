@@ -1,41 +1,25 @@
 ---
 layout: page
-title: Il calendario del giardiniere
-excerpt: "Calendario giardinaggio 2026: tutti i lavori in orto e giardino mese per mese, calendario lunare, consigli per semina, trapianto e potatura - Calendario in PDF."
+title: "Calendario del giardiniere: lavori in orto e giardino mese per mese"
+excerpt: "Scopri cosa fare in orto e giardino in ogni mese dell'anno: consigli pratici su potature, semina, concimazioni, cura del prato e manutenzione stagionale."
 image: /img/posts/calendario2024.jpg
 permalink: /calendario-di-giardinaggio/
-no_cta: true
 ---
-# Calendario Giardinaggio 2026
+# Calendario del giardiniere: lavori mese per mese
 
-**Calendario giardinaggio 2026**: tutti i lavori di giardinaggio in orto e giardino mese per mese, calendario lunare e i miei consigli pratici per semina, trapianto, potatura e cura di piante, alberi e prato.
+**Tutti i lavori da fare in orto e giardino durante l'anno: potature, semine, cura del prato e manutenzione stagionale**
 
-___
+Ogni stagione porta con sé interventi precisi per mantenere le piante sane, il prato fitto e l'orto produttivo. Sapere **quando** potare una siepe, concimare il tappeto erboso o preparare le piante al freddo invernale evita stress inutili e ti fa risparmiare tempo e fatica.
 
-<br>
-## Richiedi il Calendario Giardinaggio 2026
-<br>
+*Piacere, sono Enrico.* Ho raccolto qui la mia guida pratica divisa per i **12 mesi dell'anno**: clicca sul mese che ti interessa per scoprire subito quali lavori conviene fare adesso nel tuo giardino.
 
-![calendario giardinaggio 2026](/img/posts/calendario2025.jpg "calendario giardinaggio 2025")
-<cite>Lunari 2026</cite> I pais Sot al Tor di Aquileia.
-
-<br>
-
-Iscriviti alla **Newsletter** qui sotto per ricevere gratuitamente il **Calendario Giardinaggio 2026** a colori in formato PDF.
-
-<br>
-<div class="text-center">
-  <a title="Richiedi il Calendario Giardinaggio" href="#newsletter" class="button">RICHIEDILO ORA</a>
-</div>
-<br><br>
-
-___
+---
 
 <div class="list-collection">
 <ul>
 	{% for calendario in site.calendario %}
 		<li>
-		  <img src="{% include relative-src.html src=calendario.image %}" width="400" height="300" alt="{{ calendario.title }}">
+		  <img src="{% include relative-src.html src=calendario.image %}" width="400" height="300" alt="{{ calendario.title }}" loading="lazy">
 			<div>
 			<h2><span class="name">{{ calendario.title }}</span></h2>
 			<a href="{{ site.baseurl }}{{ calendario.url }}"><strong>SCOPRI I CONSIGLI DEL MESE</strong> &gt;</a>
