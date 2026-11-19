@@ -18,14 +18,16 @@ layout: default
 		<time class="post-date">{{ page.last_modified_at | date: "%d %b %Y" }}</time>
 		<p>{{ page.excerpt }}</p>
 
+		{% assign wa_base = "https://api.whatsapp.com" | append: "/send?text=" %}
+		{% assign fb_base = "https://www.facebook.com" | append: "/sharer.php?u=" %}
 		<div class="share-bar">
 			<a class="share-link" aria-label="resta sempre aggiornato, iscriviti alla mailing list" href="#newsletter" title="Iscriviti alla newsletter">
 				{% include social-share.html icon="Watchlist" %}
 			</a>
-			<a class="share-link" aria-label="condividi su WhatsApp" title="Condividi su WhatsApp" href="https://whatsapp.com{{ page.title | url_encode }}%20-%20{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
-			{% include social-share.html icon="WhatsApp" %}
+			<a class="share-link" aria-label="condividi su WhatsApp" title="Condividi su WhatsApp" href="{{ wa_base }}{{ page.title | url_encode }}%20-%20{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
+				{% include social-share.html icon="WhatsApp" %}
 			</a>
-			<a class="share-link" aria-label="condividi su Facebook" title="Condividi su Facebook" href="https://facebook.com{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
+			<a class="share-link" aria-label="condividi su Facebook" title="Condividi su Facebook" href="{{ fb_base }}{{ page.url | prepend: site.url | url_encode }}" target="_blank" rel="noopener noreferrer">
 				{% include social-share.html icon="Facebook" %}
 			</a>
 		</div>
