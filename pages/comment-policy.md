@@ -4,6 +4,7 @@ title: Moderazione dei commenti
 excerpt: Regole di comportamento e moderazione dei commenti sul blog di Potasiepe.
 image: /img/amp-logo-60x600px.png
 permalink: /comment-policy/
+sitemap: false
 no_cta: true
 ---
 # Moderazione dei commenti
