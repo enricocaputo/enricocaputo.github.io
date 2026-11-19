@@ -35,37 +35,37 @@ Se vuoi vedere con i tuoi occhi come prendono forma queste idee sul campo, guard
 Ogni giardino racconta qualcosa di chi lo abita. Prima di scegliere le piante, chiediti che atmosfera vuoi respirare quando apri la finestra di casa. Ecco gli stili più apprezzati e cosa comportano nella gestione quotidiana.
 
 ### Stile formale (ordine e geometria)
-![Giardino formale all'italiana](/img/posts/siepi/quale-siepe-scegliere.jpg "Giardino formale all'italiana")
+![Giardino formale all'italiana](/img/posts/siepi/quale-siepe-scegliere.jpg "Giardino formale all'italiana"){: width="750" height="500" loading="lazy"}
 
 Ispirato ai classici giardini all'italiana, punta tutto su **simmetria, linee pulite e siepi squadrate**. Si usano poche varietà di piante ripetute con regolarità lungo vialetti e muretti. È perfetto se ami l'ordine assoluto e le architetture moderne, ma richiede **potature puntuali** per mantenere le forme sempre impeccabili.
 
 ### Stile informale (naturale e accogliente)
-![Cottage garden](/img/posts/giardini/cottage-garden.jpg "Cottage garden")
+![Cottage garden](/img/posts/giardini/cottage-garden.jpg "Cottage garden"){: width="800" height="533" loading="lazy"}
 
 È il giardino che sembra nato spontaneamente, con **bordure morbide, aiuole fiorite e accostamenti ricchi di colore**. Dietro quell'aspetto rilassato c'è in realtà uno studio attento delle altezze e dei periodi di fioritura, così da avere sempre qualcosa di vivo da primavera all'autunno senza un aspetto trascurato.
 
 ### Giardino mediterraneo (profumi e resistenza al caldo)
-![Giardino mediterraneo](/img/posts/giardini/giardino-mediterraneo.jpg "Giardino mediterraneo")
+![Giardino mediterraneo](/img/posts/giardini/giardino-mediterraneo.jpg "Giardino mediterraneo"){: width="800" height="533" loading="lazy"}
 
 Ideale per chi ama i colori caldi, i vialetti in ghiaia e le piante che non temono il sole estivo. **Ulivi, lavanda, rosmarino, salvia, timo e santolina** regalano profumi meravigliosi e fogliami dalle sfumature argentate. Ha il grande vantaggio di richiedere **poca acqua** una volta che le piante hanno radicato bene.
 
 ### Giardino roccioso (ideale per spazi piccoli o in pendenza)
-![Giardino roccioso](/img/posts/giardini/giardino-roccioso.jpg "Giardino roccioso")
+![Giardino roccioso](/img/posts/giardini/giardino-roccioso.jpg "Giardino roccioso"){: width="800" height="600" loading="lazy"}
 
 Se hai un'aiuola molto soleggiata, un dislivello o un terreno particolarmente sassoso, pietre naturali abbinate a **piante tappezzanti, aromatiche e succulente** creano un angolo scenografico di grande carattere e a bassissima manutenzione.
 
 ### Giardino giapponese (quiete e contemplazione)
-![Giardino giapponese](/img/posts/giardini/giardino-giapponese.jpg "Giardino giapponese")
+![Giardino giapponese](/img/posts/giardini/giardino-giapponese.jpg "Giardino giapponese"){: width="800" height="600" loading="lazy"}
 
 Un piccolo rifugio di pace basato sull'equilibrio tra **pietra, acqua e poche piante selezionate con cura**, come aceri giapponesi, camelie, azalee e muschi. È lo stile perfetto per un angolo raccolto vicino al portico, dove staccare la spina a fine giornata.
 
 ### Giardino contemporaneo (design e convivialità)
-![Giardino contemporaneo](/img/posts/giardini/giardino-contemporaneo.png "Giardino contemporaneo")
+![Giardino contemporaneo](/img/posts/giardini/giardino-contemporaneo.png "Giardino contemporaneo"){: width="800" height="427" loading="lazy"}
 
 Pensato come un vero salotto all'aperto, unisce il verde a **materiali moderni come acciaio corten, legno, pietra e giochi di luce**. Le piante protagoniste sono spesso graminacee ornamentali (che si muovono eleganti al vento), bambù non invasivi e arbusti sempreverdi a foglia larga, facili da gestire anche per chi ha poco tempo.
 
 ### Angoli d'acqua e laghetti ornamentali
-![Giardino acquatico](/img/posts/giardini/giardino-acquatico.jpg "Giardino acquatico")
+![Giardino acquatico](/img/posts/giardini/giardino-acquatico.jpg "Giardino acquatico"){: width="800" height="588" loading="lazy"}
 
 Anche una piccola vasca su un terrazzo o un laghetto in giardino cambia completamente l'atmosfera, portando il suono rilassante dell'acqua e attirando farfalle e piccoli uccelli. Combinando piante ossigenanti sul fondo e ninfee in superficie, l'acqua resta pulita e limpida in modo naturale.
 
@@ -83,7 +83,7 @@ Al di là dello stile che preferisci, ci sono tre aspetti tecnici che determinan
 
 ## Giocare con i colori per cambiare la percezione dello spazio
 
-![Ruota dei colori](/img/posts/giardini/ruota-colori.jpg "Ruota dei colori")
+![Ruota dei colori](/img/posts/giardini/ruota-colori.jpg "Ruota dei colori"){: width="400" height="400" loading="lazy"}
 
 Il colore dei fiori e delle foglie non serve solo a decorare, ma guida l'occhio e influenza l'umore di chi vive il giardino:
 
